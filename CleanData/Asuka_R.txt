@@ -38,7 +38,7 @@
 36/Repulsive Rod (Shooting)/19/600/Total 30///Normal/
 37/Howling Metron/11//Total 39/5/4/Special/
 38/Delayed Howling Metron/21//Total 54/22/4/Special/
-39/Howling Metron MS Processing/16//Total 49/10/4/Special/
+39/Howling Metron MS Processing/16,//Total 49/10/4/Special/
 40/Metron Screamer 808/12//Total 34/16/4/Special/
 41/Metron Arpeggio/31//Total 59/113/4/Special/
 42/Delayed Tardus Metron/21//Total 39/57/4/Special/
@@ -52,3 +52,12 @@
 50/Chaotic Option/11//Total 29///Normal/
 51/"632146P/K"/7/Until Hit//36/5/Super/
 52/632146S/16//Total 17///Super/
+53/[H]owling Metron/11//Total 39/16/4/Normal/
+54/Delayed [H]owling Metron/21//Total 54/33/4/Normal/
+55/[H]owling Metron M[S] [P]rocessing/16//Total 49/21/4/Normal/
+56/Metron Arpeggio/31//Total 59/124/4/Special/
+57/Delayed Tardus Metron/21//Total 39/68/4/Special/
+58/Bit [S]hift Metron/14/4/Total 39/19//Normal/
+59/"632146[P]/[K]"/7/Until Hit//47/5/Super/
+60/236D/20/3/20/7/0/Special/"5P,5K,c.S,f.S,5H,2P,2K,2S,2H,j.P,j.K,j.S,j.H,j.D,6P,6K,6H,2D,5D,5[D],236X,214X (Draw),214X (Discard),22P/K/S,22H~X,Reduce Mana Cost,Recover Mana (Continuous),Recover Mana (Instant),Bookmark (Full Import),Bookmark (Random Import),Bookmark (Auto Import),High-Pass Filter Gravity,Low-Pass Filter Gravity,Shooting Time Stretch (Accelerate),Shooting Time Stretch (Decelerate),Gravity Rod (Shooting),Repulsive Rod (Shooting),Howling Metron,Delayed Howling Metron,Howling Metron MS Processing,Metron Screamer 808,Metron Arpeggio,Delayed Tardus Metron,Terra Metron,Accipiter Metron,Aquila Metron,Bit Shift Metron,RMS Boost Metron,Go to Marker,Sampler 404,Chaotic Option,632146P/K,632146S,[H]owling Metron,Delayed [H]owling Metron,[H]owling Metron M[S] [P]rocessing,Metron Arpeggio,Delayed Tardus Metron,Bit [S]hift Metron,632146[P]/[K]"
+61/236[D]/32/3/20/12/0/Special/"5P,5K,c.S,f.S,5H,2P,2K,2S,2H,j.P,j.K,j.S,j.H,j.D,6P,6K,6H,2D,5D,5[D],236X,214X (Draw),214X (Discard),22P/K/S,22H~X,Reduce Mana Cost,Recover Mana (Continuous),Recover Mana (Instant),Bookmark (Full Import),Bookmark (Random Import),Bookmark (Auto Import),High-Pass Filter Gravity,Low-Pass Filter Gravity,Shooting Time Stretch (Accelerate),Shooting Time Stretch (Decelerate),Gravity Rod (Shooting),Repulsive Rod (Shooting),Howling Metron,Delayed Howling Metron,Howling Metron MS Processing,Metron Screamer 808,Metron Arpeggio,Delayed Tardus Metron,Terra Metron,Accipiter Metron,Aquila Metron,Bit Shift Metron,RMS Boost Metron,Go to Marker,Sampler 404,Chaotic Option,632146P/K,632146S,[H]owling Metron,Delayed [H]owling Metron,[H]owling Metron M[S] [P]rocessing,Metron Arpeggio,Delayed Tardus Metron,Bit [S]hift Metron,632146[P]/[K],236D"
