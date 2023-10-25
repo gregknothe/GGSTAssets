@@ -1,1297 +1,1157 @@
 /move1/move2/gap
-0/5P/5P/-5f gap
-1/5P/5K/10f gap
-2/5P/c.S/9f gap
-3/5P/f.S/13f gap
-4/5P/5H/17f gap
-5/5P/2P/-6f gap
-6/5P/2K/9f gap
-7/5P/2S/12f gap
-8/5P/2H/24f gap
-9/5P/j.P/16f gap
-10/5P/j.K/13f gap
-11/5P/j.S/14f gap
-12/5P/j.H/20f gap
-13/5P/j.D/15f gap
-14/5P/6P/-1f gap
-15/5P/6H/5f gap
-16/5P/2D/12f gap
-17/5P/5D/22f gap
-18/5P/5[D]/30f gap
-19/5P/236P/18f gap
-20/5P/236K/"N/A"
-21/5P/236K~214P/-4f gap
-22/5P/236S/1f gap
-23/5P/236H/5f gap
+0/5P/5P/-5f
+1/5P/5K/10f
+2/5P/c.S/9f
+3/5P/f.S/13f
+4/5P/5H/17f
+5/5P/2P/-6f
+6/5P/2K/9f
+7/5P/2S/12f
+8/5P/2H/24f
+9/5P/j.P/16f
+10/5P/j.K/13f
+11/5P/j.S/14f
+12/5P/j.H/20f
+13/5P/j.D/15f
+14/5P/6P/-1f
+15/5P/6H/5f
+16/5P/2D/12f
+17/5P/5D/22f
+18/5P/5[D]/30f
+19/5P/236P/18f
+20/5P/236K/
+21/5P/236K~214P/-4f
+22/5P/236S/1f [17f]
+23/5P/236H/5f [21f]
 24/5P/236H P/236H P is a follow-up move and cannot be done after 5P
-25/5P/236H K/236H K is a follow-up move and cannot be done after 5P
+25/5P/236H K/
 26/5P/236H S/236H S is a follow-up move and cannot be done after 5P
 27/5P/236H H/236H H is a follow-up move and cannot be done after 5P
-28/5P/632146H/6f gap
-29/5P/632146S/"N/A"
-30/5P/632146S Attack Near/-8f gap
-31/5P/632146S Attack Far/-8f gap
-32/5P/236[S]/17f gap
-33/5P/236[H]/21f gap
-34/5P/236D/5f gap
-35/5P/236[D]/17f gap
-36/5K/5P/8f gap
-37/5K/5K/10f gap
-38/5K/c.S/9f gap
-39/5K/f.S/13f gap
-40/5K/5H/17f gap
-41/5K/2P/7f gap
-42/5K/2K/9f gap
-43/5K/2S/12f gap
-44/5K/2H/24f gap
-45/5K/j.P/3f gap
-46/5K/j.K/0f gap
-47/5K/j.S/1f gap
-48/5K/j.H/7f gap
-49/5K/j.D/2f gap
-50/5K/6P/-1f gap
-51/5K/6H/5f gap
-52/5K/2D/-1f gap
-53/5K/5D/9f gap
-54/5K/5[D]/30f gap
-55/5K/236P/18f gap
-56/5K/236K/"N/A"
-57/5K/236K~214P/-4f gap
-58/5K/236S/1f gap
-59/5K/236H/5f gap
-60/5K/236H P/236H P is a follow-up move and cannot be done after 5K
-61/5K/236H K/236H K is a follow-up move and cannot be done after 5K
-62/5K/236H S/236H S is a follow-up move and cannot be done after 5K
-63/5K/236H H/236H H is a follow-up move and cannot be done after 5K
-64/5K/632146H/6f gap
-65/5K/632146S/"N/A"
-66/5K/632146S Attack Near/-8f gap
-67/5K/632146S Attack Far/-8f gap
-68/5K/236[S]/17f gap
-69/5K/236[H]/21f gap
-70/5K/236D/5f gap
-71/5K/236[D]/17f gap
-72/c.S/5P/5f gap
-73/c.S/5K/7f gap
-74/c.S/c.S/6f gap
-75/c.S/f.S/-7f gap
-76/c.S/5H/-3f gap
-77/c.S/2P/4f gap
-78/c.S/2K/6f gap
-79/c.S/2S/-8f gap
-80/c.S/2H/4f gap
-81/c.S/j.P/-4f gap
-82/c.S/j.K/-7f gap
-83/c.S/j.S/-6f gap
-84/c.S/j.H/0f gap
-85/c.S/j.D/-5f gap
-86/c.S/6P/-8f gap
-87/c.S/6H/-2f gap
-88/c.S/2D/-8f gap
-89/c.S/5D/2f gap
-90/c.S/5[D]/27f gap
-91/c.S/236P/11f gap
-92/c.S/236K/"N/A"
-93/c.S/236K~214P/-11f gap
-94/c.S/236S/-6f gap
-95/c.S/236H/-2f gap
-96/c.S/236H P/236H P is a follow-up move and cannot be done after c.S
-97/c.S/236H K/236H K is a follow-up move and cannot be done after c.S
-98/c.S/236H S/236H S is a follow-up move and cannot be done after c.S
-99/c.S/236H H/236H H is a follow-up move and cannot be done after c.S
-100/c.S/632146H/-1f gap
-101/c.S/632146S/"N/A"
-102/c.S/632146S Attack Near/-15f gap
-103/c.S/632146S Attack Far/-15f gap
-104/c.S/236[S]/10f gap
-105/c.S/236[H]/14f gap
-106/c.S/236D/-2f gap
-107/c.S/236[D]/10f gap
-108/f.S/5P/15f gap
-109/f.S/5K/17f gap
-110/f.S/c.S/16f gap
-111/f.S/f.S/20f gap
-112/f.S/5H/2f gap
-113/f.S/2P/14f gap
-114/f.S/2K/16f gap
-115/f.S/2S/19f gap
-116/f.S/2H/9f gap
-117/f.S/j.P/23f gap
-118/f.S/j.K/20f gap
-119/f.S/j.S/21f gap
-120/f.S/j.H/27f gap
-121/f.S/j.D/22f gap
-122/f.S/6P/19f gap
-123/f.S/6H/25f gap
-124/f.S/2D/19f gap
-125/f.S/5D/29f gap
-126/f.S/5[D]/37f gap
-127/f.S/236P/16f gap
-128/f.S/236K/"N/A"
-129/f.S/236K~214P/-6f gap
-130/f.S/236S/-1f gap
-131/f.S/236H/3f gap
-132/f.S/236H P/236H P is a follow-up move and cannot be done after f.S
-133/f.S/236H K/236H K is a follow-up move and cannot be done after f.S
-134/f.S/236H S/236H S is a follow-up move and cannot be done after f.S
-135/f.S/236H H/236H H is a follow-up move and cannot be done after f.S
-136/f.S/632146H/4f gap
-137/f.S/632146S/"N/A"
-138/f.S/632146S Attack Near/-10f gap
-139/f.S/632146S Attack Far/-10f gap
-140/f.S/236[S]/15f gap
-141/f.S/236[H]/19f gap
-142/f.S/236D/3f gap
-143/f.S/236[D]/15f gap
-144/5H/5P/14f gap
-145/5H/5K/16f gap
-146/5H/c.S/15f gap
-147/5H/f.S/19f gap
-148/5H/5H/23f gap
-149/5H/2P/13f gap
-150/5H/2K/15f gap
-151/5H/2S/18f gap
-152/5H/2H/30f gap
-153/5H/j.P/22f gap
-154/5H/j.K/19f gap
-155/5H/j.S/20f gap
-156/5H/j.H/26f gap
-157/5H/j.D/21f gap
-158/5H/6P/18f gap
-159/5H/6H/24f gap
-160/5H/2D/18f gap
-161/5H/5D/28f gap
-162/5H/5[D]/36f gap
-163/5H/236P/11f gap
-164/5H/236K/"N/A"
-165/5H/236K~214P/-11f gap
-166/5H/236S/-6f gap
-167/5H/236H/-2f gap
-168/5H/236H P/236H P is a follow-up move and cannot be done after 5H
-169/5H/236H K/236H K is a follow-up move and cannot be done after 5H
-170/5H/236H S/236H S is a follow-up move and cannot be done after 5H
-171/5H/236H H/236H H is a follow-up move and cannot be done after 5H
-172/5H/632146H/-1f gap
-173/5H/632146S/"N/A"
-174/5H/632146S Attack Near/-15f gap
-175/5H/632146S Attack Far/-15f gap
-176/5H/236[S]/10f gap
-177/5H/236[H]/14f gap
-178/5H/236D/-2f gap
-179/5H/236[D]/10f gap
-180/2P/5P/-3f gap
-181/2P/5K/10f gap
-182/2P/c.S/9f gap
-183/2P/f.S/13f gap
-184/2P/5H/17f gap
-185/2P/2P/-4f gap
-186/2P/2K/9f gap
-187/2P/2S/12f gap
-188/2P/2H/24f gap
-189/2P/j.P/16f gap
-190/2P/j.K/13f gap
-191/2P/j.S/14f gap
-192/2P/j.H/20f gap
-193/2P/j.D/15f gap
-194/2P/6P/1f gap
-195/2P/6H/7f gap
-196/2P/2D/12f gap
-197/2P/5D/22f gap
-198/2P/5[D]/30f gap
-199/2P/236P/20f gap
-200/2P/236K/"N/A"
-201/2P/236K~214P/-2f gap
-202/2P/236S/3f gap
-203/2P/236H/7f gap
-204/2P/236H P/236H P is a follow-up move and cannot be done after 2P
-205/2P/236H K/236H K is a follow-up move and cannot be done after 2P
-206/2P/236H S/236H S is a follow-up move and cannot be done after 2P
-207/2P/236H H/236H H is a follow-up move and cannot be done after 2P
-208/2P/632146H/8f gap
-209/2P/632146S/"N/A"
-210/2P/632146S Attack Near/-6f gap
-211/2P/632146S Attack Far/-6f gap
-212/2P/236[S]/19f gap
-213/2P/236[H]/23f gap
-214/2P/236D/7f gap
-215/2P/236[D]/19f gap
-216/2K/5P/8f gap
-217/2K/5K/10f gap
-218/2K/c.S/9f gap
-219/2K/f.S/13f gap
-220/2K/5H/17f gap
-221/2K/2P/7f gap
-222/2K/2K/9f gap
-223/2K/2S/12f gap
-224/2K/2H/24f gap
-225/2K/j.P/16f gap
-226/2K/j.K/13f gap
-227/2K/j.S/14f gap
-228/2K/j.H/20f gap
-229/2K/j.D/15f gap
-230/2K/6P/-1f gap
-231/2K/6H/5f gap
-232/2K/2D/-1f gap
-233/2K/5D/9f gap
-234/2K/5[D]/30f gap
-235/2K/236P/18f gap
-236/2K/236K/"N/A"
-237/2K/236K~214P/-4f gap
-238/2K/236S/1f gap
-239/2K/236H/5f gap
-240/2K/236H P/236H P is a follow-up move and cannot be done after 2K
-241/2K/236H K/236H K is a follow-up move and cannot be done after 2K
-242/2K/236H S/236H S is a follow-up move and cannot be done after 2K
-243/2K/236H H/236H H is a follow-up move and cannot be done after 2K
-244/2K/632146H/6f gap
-245/2K/632146S/"N/A"
-246/2K/632146S Attack Near/-8f gap
-247/2K/632146S Attack Far/-8f gap
-248/2K/236[S]/17f gap
-249/2K/236[H]/21f gap
-250/2K/236D/5f gap
-251/2K/236[D]/17f gap
-252/2S/5P/12f gap
-253/2S/5K/14f gap
-254/2S/c.S/13f gap
-255/2S/f.S/17f gap
-256/2S/5H/2f gap
-257/2S/2P/11f gap
-258/2S/2K/13f gap
-259/2S/2S/16f gap
-260/2S/2H/9f gap
-261/2S/j.P/20f gap
-262/2S/j.K/17f gap
-263/2S/j.S/18f gap
-264/2S/j.H/24f gap
-265/2S/j.D/19f gap
-266/2S/6P/16f gap
-267/2S/6H/22f gap
-268/2S/2D/16f gap
-269/2S/5D/26f gap
-270/2S/5[D]/34f gap
-271/2S/236P/16f gap
-272/2S/236K/"N/A"
-273/2S/236K~214P/-6f gap
-274/2S/236S/-1f gap
-275/2S/236H/3f gap
-276/2S/236H P/236H P is a follow-up move and cannot be done after 2S
-277/2S/236H K/236H K is a follow-up move and cannot be done after 2S
-278/2S/236H S/236H S is a follow-up move and cannot be done after 2S
-279/2S/236H H/236H H is a follow-up move and cannot be done after 2S
-280/2S/632146H/4f gap
-281/2S/632146S/"N/A"
-282/2S/632146S Attack Near/-10f gap
-283/2S/632146S Attack Far/-10f gap
-284/2S/236[S]/15f gap
-285/2S/236[H]/19f gap
-286/2S/236D/3f gap
-287/2S/236[D]/15f gap
-288/2H/5P/10f gap
-289/2H/5K/12f gap
-290/2H/c.S/11f gap
-291/2H/f.S/15f gap
-292/2H/5H/19f gap
-293/2H/2P/9f gap
-294/2H/2K/11f gap
-295/2H/2S/14f gap
-296/2H/2H/26f gap
-297/2H/j.P/18f gap
-298/2H/j.K/15f gap
-299/2H/j.S/16f gap
-300/2H/j.H/22f gap
-301/2H/j.D/17f gap
-302/2H/6P/14f gap
-303/2H/6H/20f gap
-304/2H/2D/14f gap
-305/2H/5D/24f gap
-306/2H/5[D]/32f gap
-307/2H/236P/11f gap
-308/2H/236K/"N/A"
-309/2H/236K~214P/-11f gap
-310/2H/236S/-6f gap
-311/2H/236H/-2f gap
-312/2H/236H P/236H P is a follow-up move and cannot be done after 2H
-313/2H/236H K/236H K is a follow-up move and cannot be done after 2H
-314/2H/236H S/236H S is a follow-up move and cannot be done after 2H
-315/2H/236H H/236H H is a follow-up move and cannot be done after 2H
-316/2H/632146H/-1f gap
-317/2H/632146S/"N/A"
-318/2H/632146S Attack Near/-15f gap
-319/2H/632146S Attack Far/-15f gap
-320/2H/236[S]/10f gap
-321/2H/236[H]/14f gap
-322/2H/236D/-2f gap
-323/2H/236[D]/10f gap
-324/j.P/5P/j.P has 9f of blockstun, while 5P has 6.0f of startup
-325/j.P/5K/j.P has 9f of blockstun, while 5K has 8.0f of startup
-326/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
-327/j.P/f.S/j.P has 9f of blockstun, while f.S has 11.0f of startup
-328/j.P/5H/j.P has 9f of blockstun, while 5H has 15.0f of startup
-329/j.P/2P/j.P has 9f of blockstun, while 2P has 5.0f of startup
-330/j.P/2K/j.P has 9f of blockstun, while 2K has 7.0f of startup
-331/j.P/2S/j.P has 9f of blockstun, while 2S has 10.0f of startup
-332/j.P/2H/j.P has 9f of blockstun, while 2H has 22.0f of startup
-333/j.P/j.P/0f gap
-334/j.P/j.K/j.P has 9f of blockstun, while j.K has 6.0f of startup
-335/j.P/j.S/j.P has 9f of blockstun, while j.S has 7.0f of startup
-336/j.P/j.H/j.P has 9f of blockstun, while j.H has 13.0f of startup
-337/j.P/j.D/j.P has 9f of blockstun, while j.D has 8.0f of startup
-338/j.P/6P/j.P has 9f of blockstun, while 6P has 10.0f of startup
-339/j.P/6H/j.P has 9f of blockstun, while 6H has 16.0f of startup
-340/j.P/2D/j.P has 9f of blockstun, while 2D has 10.0f of startup
-341/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
-342/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
-343/j.P/236P/j.P has 9f of blockstun, while 236P has 29.0f of startup
-344/j.P/236K/j.P has 9f of blockstun, while 236K has f of startup
-345/j.P/236K~214P/j.P has 9f of blockstun, while 236K~214P has 7.0f of startup
-346/j.P/236S/j.P has 9f of blockstun, while 236S has 12.0f of startup
-347/j.P/236H/j.P has 9f of blockstun, while 236H has 16.0f of startup
-348/j.P/236H P/236H P is a follow-up move and cannot be done after j.P
-349/j.P/236H K/236H K is a follow-up move and cannot be done after j.P
-350/j.P/236H S/236H S is a follow-up move and cannot be done after j.P
-351/j.P/236H H/236H H is a follow-up move and cannot be done after j.P
-352/j.P/632146H/j.P has 9f of blockstun, while 632146H has 17.0f of startup
-353/j.P/632146S/j.P has 9f of blockstun, while 632146S has f of startup
-354/j.P/632146S Attack Near/j.P has 9f of blockstun, while 632146S Attack Near has 3.0f of startup
-355/j.P/632146S Attack Far/j.P has 9f of blockstun, while 632146S Attack Far has 3.0f of startup
-356/j.P/236[S]/j.P has 9f of blockstun, while 236[S] has 28.0f of startup
-357/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 32.0f of startup
-358/j.P/236D/j.P has 9f of blockstun, while 236D has 16.0f of startup
-359/j.P/236[D]/j.P has 9f of blockstun, while 236[D] has 28.0f of startup
-360/j.K/5P/j.K has 11f of blockstun, while 5P has 6.0f of startup
-361/j.K/5K/j.K has 11f of blockstun, while 5K has 8.0f of startup
-362/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
-363/j.K/f.S/j.K has 11f of blockstun, while f.S has 11.0f of startup
-364/j.K/5H/j.K has 11f of blockstun, while 5H has 15.0f of startup
-365/j.K/2P/j.K has 11f of blockstun, while 2P has 5.0f of startup
-366/j.K/2K/j.K has 11f of blockstun, while 2K has 7.0f of startup
-367/j.K/2S/j.K has 11f of blockstun, while 2S has 10.0f of startup
-368/j.K/2H/j.K has 11f of blockstun, while 2H has 22.0f of startup
-369/j.K/j.P/j.K has 11f of blockstun, while j.P has 9.0f of startup
-370/j.K/j.K/j.K has 11f of blockstun, while j.K has 6.0f of startup
-371/j.K/j.S/j.K has 11f of blockstun, while j.S has 7.0f of startup
-372/j.K/j.H/j.K has 11f of blockstun, while j.H has 13.0f of startup
-373/j.K/j.D/-3f gap
-374/j.K/6P/j.K has 11f of blockstun, while 6P has 10.0f of startup
-375/j.K/6H/j.K has 11f of blockstun, while 6H has 16.0f of startup
-376/j.K/2D/j.K has 11f of blockstun, while 2D has 10.0f of startup
-377/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
-378/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
-379/j.K/236P/j.K has 11f of blockstun, while 236P has 29.0f of startup
-380/j.K/236K/j.K has 11f of blockstun, while 236K has f of startup
-381/j.K/236K~214P/j.K has 11f of blockstun, while 236K~214P has 7.0f of startup
-382/j.K/236S/j.K has 11f of blockstun, while 236S has 12.0f of startup
-383/j.K/236H/j.K has 11f of blockstun, while 236H has 16.0f of startup
-384/j.K/236H P/236H P is a follow-up move and cannot be done after j.K
-385/j.K/236H K/236H K is a follow-up move and cannot be done after j.K
-386/j.K/236H S/236H S is a follow-up move and cannot be done after j.K
-387/j.K/236H H/236H H is a follow-up move and cannot be done after j.K
-388/j.K/632146H/j.K has 11f of blockstun, while 632146H has 17.0f of startup
-389/j.K/632146S/j.K has 11f of blockstun, while 632146S has f of startup
-390/j.K/632146S Attack Near/j.K has 11f of blockstun, while 632146S Attack Near has 3.0f of startup
-391/j.K/632146S Attack Far/j.K has 11f of blockstun, while 632146S Attack Far has 3.0f of startup
-392/j.K/236[S]/j.K has 11f of blockstun, while 236[S] has 28.0f of startup
-393/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 32.0f of startup
-394/j.K/236D/j.K has 11f of blockstun, while 236D has 16.0f of startup
-395/j.K/236[D]/j.K has 11f of blockstun, while 236[D] has 28.0f of startup
-396/j.S/5P/j.S has 13f of blockstun, while 5P has 6.0f of startup
-397/j.S/5K/j.S has 13f of blockstun, while 5K has 8.0f of startup
-398/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
-399/j.S/f.S/j.S has 13f of blockstun, while f.S has 11.0f of startup
-400/j.S/5H/j.S has 13f of blockstun, while 5H has 15.0f of startup
-401/j.S/2P/j.S has 13f of blockstun, while 2P has 5.0f of startup
-402/j.S/2K/j.S has 13f of blockstun, while 2K has 7.0f of startup
-403/j.S/2S/j.S has 13f of blockstun, while 2S has 10.0f of startup
-404/j.S/2H/j.S has 13f of blockstun, while 2H has 22.0f of startup
-405/j.S/j.P/j.S has 13f of blockstun, while j.P has 9.0f of startup
-406/j.S/j.K/j.S has 13f of blockstun, while j.K has 6.0f of startup
-407/j.S/j.S/j.S has 13f of blockstun, while j.S has 7.0f of startup
-408/j.S/j.H/0f gap
-409/j.S/j.D/-5f gap
-410/j.S/6P/j.S has 13f of blockstun, while 6P has 10.0f of startup
-411/j.S/6H/j.S has 13f of blockstun, while 6H has 16.0f of startup
-412/j.S/2D/j.S has 13f of blockstun, while 2D has 10.0f of startup
-413/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
-414/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
-415/j.S/236P/j.S has 13f of blockstun, while 236P has 29.0f of startup
-416/j.S/236K/j.S has 13f of blockstun, while 236K has f of startup
-417/j.S/236K~214P/j.S has 13f of blockstun, while 236K~214P has 7.0f of startup
-418/j.S/236S/j.S has 13f of blockstun, while 236S has 12.0f of startup
-419/j.S/236H/j.S has 13f of blockstun, while 236H has 16.0f of startup
-420/j.S/236H P/236H P is a follow-up move and cannot be done after j.S
-421/j.S/236H K/236H K is a follow-up move and cannot be done after j.S
-422/j.S/236H S/236H S is a follow-up move and cannot be done after j.S
-423/j.S/236H H/236H H is a follow-up move and cannot be done after j.S
-424/j.S/632146H/j.S has 13f of blockstun, while 632146H has 17.0f of startup
-425/j.S/632146S/j.S has 13f of blockstun, while 632146S has f of startup
-426/j.S/632146S Attack Near/j.S has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
-427/j.S/632146S Attack Far/j.S has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
-428/j.S/236[S]/j.S has 13f of blockstun, while 236[S] has 28.0f of startup
-429/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 32.0f of startup
-430/j.S/236D/j.S has 13f of blockstun, while 236D has 16.0f of startup
-431/j.S/236[D]/j.S has 13f of blockstun, while 236[D] has 28.0f of startup
-432/j.H/5P/j.H has 13f of blockstun, while 5P has 6.0f of startup
-433/j.H/5K/j.H has 13f of blockstun, while 5K has 8.0f of startup
-434/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
-435/j.H/f.S/j.H has 13f of blockstun, while f.S has 11.0f of startup
-436/j.H/5H/j.H has 13f of blockstun, while 5H has 15.0f of startup
-437/j.H/2P/j.H has 13f of blockstun, while 2P has 5.0f of startup
-438/j.H/2K/j.H has 13f of blockstun, while 2K has 7.0f of startup
-439/j.H/2S/j.H has 13f of blockstun, while 2S has 10.0f of startup
-440/j.H/2H/j.H has 13f of blockstun, while 2H has 22.0f of startup
-441/j.H/j.P/j.H has 13f of blockstun, while j.P has 9.0f of startup
-442/j.H/j.K/j.H has 13f of blockstun, while j.K has 6.0f of startup
-443/j.H/j.S/j.H has 13f of blockstun, while j.S has 7.0f of startup
-444/j.H/j.H/j.H has 13f of blockstun, while j.H has 13.0f of startup
-445/j.H/j.D/-5f gap
-446/j.H/6P/j.H has 13f of blockstun, while 6P has 10.0f of startup
-447/j.H/6H/j.H has 13f of blockstun, while 6H has 16.0f of startup
-448/j.H/2D/j.H has 13f of blockstun, while 2D has 10.0f of startup
-449/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
-450/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
-451/j.H/236P/j.H has 13f of blockstun, while 236P has 29.0f of startup
-452/j.H/236K/j.H has 13f of blockstun, while 236K has f of startup
-453/j.H/236K~214P/j.H has 13f of blockstun, while 236K~214P has 7.0f of startup
-454/j.H/236S/j.H has 13f of blockstun, while 236S has 12.0f of startup
-455/j.H/236H/j.H has 13f of blockstun, while 236H has 16.0f of startup
-456/j.H/236H P/236H P is a follow-up move and cannot be done after j.H
-457/j.H/236H K/236H K is a follow-up move and cannot be done after j.H
-458/j.H/236H S/236H S is a follow-up move and cannot be done after j.H
-459/j.H/236H H/236H H is a follow-up move and cannot be done after j.H
-460/j.H/632146H/j.H has 13f of blockstun, while 632146H has 17.0f of startup
-461/j.H/632146S/j.H has 13f of blockstun, while 632146S has f of startup
-462/j.H/632146S Attack Near/j.H has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
-463/j.H/632146S Attack Far/j.H has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
-464/j.H/236[S]/j.H has 13f of blockstun, while 236[S] has 28.0f of startup
-465/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 32.0f of startup
-466/j.H/236D/j.H has 13f of blockstun, while 236D has 16.0f of startup
-467/j.H/236[D]/j.H has 13f of blockstun, while 236[D] has 28.0f of startup
-468/j.D/5P/j.D has 16f of blockstun, while 5P has 6.0f of startup
-469/j.D/5K/j.D has 16f of blockstun, while 5K has 8.0f of startup
-470/j.D/c.S/j.D has 16f of blockstun, while c.S has 7.0f of startup
-471/j.D/f.S/j.D has 16f of blockstun, while f.S has 11.0f of startup
-472/j.D/5H/j.D has 16f of blockstun, while 5H has 15.0f of startup
-473/j.D/2P/j.D has 16f of blockstun, while 2P has 5.0f of startup
-474/j.D/2K/j.D has 16f of blockstun, while 2K has 7.0f of startup
-475/j.D/2S/j.D has 16f of blockstun, while 2S has 10.0f of startup
-476/j.D/2H/j.D has 16f of blockstun, while 2H has 22.0f of startup
-477/j.D/j.P/j.D has 16f of blockstun, while j.P has 9.0f of startup
-478/j.D/j.K/j.D has 16f of blockstun, while j.K has 6.0f of startup
-479/j.D/j.S/j.D has 16f of blockstun, while j.S has 7.0f of startup
-480/j.D/j.H/j.D has 16f of blockstun, while j.H has 13.0f of startup
-481/j.D/j.D/j.D has 16f of blockstun, while j.D has 8.0f of startup
-482/j.D/6P/j.D has 16f of blockstun, while 6P has 10.0f of startup
-483/j.D/6H/j.D has 16f of blockstun, while 6H has 16.0f of startup
-484/j.D/2D/j.D has 16f of blockstun, while 2D has 10.0f of startup
-485/j.D/5D/j.D has 16f of blockstun, while 5D has 20.0f of startup
-486/j.D/5[D]/j.D has 16f of blockstun, while 5[D] has 28.0f of startup
-487/j.D/236P/j.D has 16f of blockstun, while 236P has 29.0f of startup
-488/j.D/236K/j.D has 16f of blockstun, while 236K has f of startup
-489/j.D/236K~214P/j.D has 16f of blockstun, while 236K~214P has 7.0f of startup
-490/j.D/236S/j.D has 16f of blockstun, while 236S has 12.0f of startup
-491/j.D/236H/j.D has 16f of blockstun, while 236H has 16.0f of startup
-492/j.D/236H P/236H P is a follow-up move and cannot be done after j.D
-493/j.D/236H K/236H K is a follow-up move and cannot be done after j.D
-494/j.D/236H S/236H S is a follow-up move and cannot be done after j.D
-495/j.D/236H H/236H H is a follow-up move and cannot be done after j.D
-496/j.D/632146H/j.D has 16f of blockstun, while 632146H has 17.0f of startup
-497/j.D/632146S/j.D has 16f of blockstun, while 632146S has f of startup
-498/j.D/632146S Attack Near/j.D has 16f of blockstun, while 632146S Attack Near has 3.0f of startup
-499/j.D/632146S Attack Far/j.D has 16f of blockstun, while 632146S Attack Far has 3.0f of startup
-500/j.D/236[S]/j.D has 16f of blockstun, while 236[S] has 28.0f of startup
-501/j.D/236[H]/j.D has 16f of blockstun, while 236[H] has 32.0f of startup
-502/j.D/236D/j.D has 16f of blockstun, while 236D has 16.0f of startup
-503/j.D/236[D]/j.D has 16f of blockstun, while 236[D] has 28.0f of startup
-504/6P/5P/23f gap
-505/6P/5K/25f gap
-506/6P/c.S/24f gap
-507/6P/f.S/28f gap
-508/6P/5H/32f gap
-509/6P/2P/22f gap
-510/6P/2K/24f gap
-511/6P/2S/27f gap
-512/6P/2H/39f gap
-513/6P/j.P/31f gap
-514/6P/j.K/28f gap
-515/6P/j.S/29f gap
-516/6P/j.H/35f gap
-517/6P/j.D/30f gap
-518/6P/6P/27f gap
-519/6P/6H/33f gap
-520/6P/2D/27f gap
-521/6P/5D/37f gap
-522/6P/5[D]/45f gap
-523/6P/236P/16f gap
-524/6P/236K/"N/A"
-525/6P/236K~214P/-6f gap
-526/6P/236S/-1f gap
-527/6P/236H/3f gap
-528/6P/236H P/236H P is a follow-up move and cannot be done after 6P
-529/6P/236H K/236H K is a follow-up move and cannot be done after 6P
-530/6P/236H S/236H S is a follow-up move and cannot be done after 6P
-531/6P/236H H/236H H is a follow-up move and cannot be done after 6P
-532/6P/632146H/4f gap
-533/6P/632146S/"N/A"
-534/6P/632146S Attack Near/-10f gap
-535/6P/632146S Attack Far/-10f gap
-536/6P/236[S]/15f gap
-537/6P/236[H]/19f gap
-538/6P/236D/3f gap
-539/6P/236[D]/15f gap
-540/6H/5P/14f gap
-541/6H/5K/16f gap
-542/6H/c.S/15f gap
-543/6H/f.S/19f gap
-544/6H/5H/23f gap
-545/6H/2P/13f gap
-546/6H/2K/15f gap
-547/6H/2S/18f gap
-548/6H/2H/30f gap
-549/6H/j.P/22f gap
-550/6H/j.K/19f gap
-551/6H/j.S/20f gap
-552/6H/j.H/26f gap
-553/6H/j.D/21f gap
-554/6H/6P/18f gap
-555/6H/6H/24f gap
-556/6H/2D/18f gap
-557/6H/5D/28f gap
-558/6H/5[D]/36f gap
-559/6H/236P/13f gap
-560/6H/236K/"N/A"
-561/6H/236K~214P/-9f gap
-562/6H/236S/-4f gap
-563/6H/236H/0f gap
-564/6H/236H P/236H P is a follow-up move and cannot be done after 6H
-565/6H/236H K/236H K is a follow-up move and cannot be done after 6H
-566/6H/236H S/236H S is a follow-up move and cannot be done after 6H
-567/6H/236H H/236H H is a follow-up move and cannot be done after 6H
-568/6H/632146H/1f gap
-569/6H/632146S/"N/A"
-570/6H/632146S Attack Near/-13f gap
-571/6H/632146S Attack Far/-13f gap
-572/6H/236[S]/12f gap
-573/6H/236[H]/16f gap
-574/6H/236D/0f gap
-575/6H/236[D]/12f gap
-576/2D/5P/17f gap
-577/2D/5K/19f gap
-578/2D/c.S/18f gap
-579/2D/f.S/22f gap
-580/2D/5H/26f gap
-581/2D/2P/16f gap
-582/2D/2K/18f gap
-583/2D/2S/21f gap
-584/2D/2H/33f gap
-585/2D/j.P/25f gap
-586/2D/j.K/22f gap
-587/2D/j.S/23f gap
-588/2D/j.H/29f gap
-589/2D/j.D/24f gap
-590/2D/6P/21f gap
-591/2D/6H/27f gap
-592/2D/2D/21f gap
-593/2D/5D/31f gap
-594/2D/5[D]/39f gap
-595/2D/236P/16f gap
-596/2D/236K/"N/A"
-597/2D/236K~214P/-6f gap
-598/2D/236S/-1f gap
-599/2D/236H/3f gap
-600/2D/236H P/236H P is a follow-up move and cannot be done after 2D
-601/2D/236H K/236H K is a follow-up move and cannot be done after 2D
-602/2D/236H S/236H S is a follow-up move and cannot be done after 2D
-603/2D/236H H/236H H is a follow-up move and cannot be done after 2D
-604/2D/632146H/4f gap
-605/2D/632146S/"N/A"
-606/2D/632146S Attack Near/-10f gap
-607/2D/632146S Attack Far/-10f gap
-608/2D/236[S]/15f gap
-609/2D/236[H]/19f gap
-610/2D/236D/3f gap
-611/2D/236[D]/15f gap
-612/5D/5P/21f gap
-613/5D/5K/23f gap
-614/5D/c.S/22f gap
-615/5D/f.S/26f gap
-616/5D/5H/30f gap
-617/5D/2P/20f gap
-618/5D/2K/22f gap
-619/5D/2S/25f gap
-620/5D/2H/37f gap
-621/5D/j.P/29f gap
-622/5D/j.K/26f gap
-623/5D/j.S/27f gap
-624/5D/j.H/33f gap
-625/5D/j.D/28f gap
-626/5D/6P/25f gap
-627/5D/6H/31f gap
-628/5D/2D/25f gap
-629/5D/5D/35f gap
-630/5D/5[D]/43f gap
-631/5D/236P/44f gap
-632/5D/236K/"N/A"
-633/5D/236K~214P/22f gap
-634/5D/236S/27f gap
-635/5D/236H/31f gap
-636/5D/236H P/236H P is a follow-up move and cannot be done after 5D
-637/5D/236H K/236H K is a follow-up move and cannot be done after 5D
-638/5D/236H S/236H S is a follow-up move and cannot be done after 5D
-639/5D/236H H/236H H is a follow-up move and cannot be done after 5D
-640/5D/632146H/32f gap
-641/5D/632146S/"N/A"
-642/5D/632146S Attack Near/18f gap
-643/5D/632146S Attack Far/18f gap
-644/5D/236[S]/43f gap
-645/5D/236[H]/47f gap
-646/5D/236D/31f gap
-647/5D/236[D]/43f gap
-648/5[D]/5P/16f gap
-649/5[D]/5K/18f gap
-650/5[D]/c.S/17f gap
-651/5[D]/f.S/21f gap
-652/5[D]/5H/25f gap
-653/5[D]/2P/15f gap
-654/5[D]/2K/17f gap
-655/5[D]/2S/20f gap
-656/5[D]/2H/32f gap
-657/5[D]/j.P/24f gap
-658/5[D]/j.K/21f gap
-659/5[D]/j.S/22f gap
-660/5[D]/j.H/28f gap
-661/5[D]/j.D/23f gap
-662/5[D]/6P/20f gap
-663/5[D]/6H/26f gap
-664/5[D]/2D/20f gap
-665/5[D]/5D/30f gap
-666/5[D]/5[D]/38f gap
-667/5[D]/236P/39f gap
-668/5[D]/236K/"N/A"
-669/5[D]/236K~214P/17f gap
-670/5[D]/236S/22f gap
-671/5[D]/236H/26f gap
-672/5[D]/236H P/236H P is a follow-up move and cannot be done after 5[D]
-673/5[D]/236H K/236H K is a follow-up move and cannot be done after 5[D]
-674/5[D]/236H S/236H S is a follow-up move and cannot be done after 5[D]
-675/5[D]/236H H/236H H is a follow-up move and cannot be done after 5[D]
-676/5[D]/632146H/27f gap
-677/5[D]/632146S/"N/A"
-678/5[D]/632146S Attack Near/13f gap
-679/5[D]/632146S Attack Far/13f gap
-680/5[D]/236[S]/38f gap
-681/5[D]/236[H]/42f gap
-682/5[D]/236D/26f gap
-683/5[D]/236[D]/38f gap
-684/236P/5P/12f gap
-685/236P/5K/14f gap
-686/236P/c.S/13f gap
-687/236P/f.S/17f gap
-688/236P/5H/21f gap
-689/236P/2P/11f gap
-690/236P/2K/13f gap
-691/236P/2S/16f gap
-692/236P/2H/28f gap
-693/236P/j.P/20f gap
-694/236P/j.K/17f gap
-695/236P/j.S/18f gap
-696/236P/j.H/24f gap
-697/236P/j.D/19f gap
-698/236P/6P/16f gap
-699/236P/6H/22f gap
-700/236P/2D/16f gap
-701/236P/5D/26f gap
-702/236P/5[D]/34f gap
-703/236P/236P/35f gap
-704/236P/236K/"N/A"
-705/236P/236K~214P/13f gap
-706/236P/236S/18f gap
-707/236P/236H/22f gap
-708/236P/236H P/236H P is a follow-up move and cannot be done after 236P
-709/236P/236H K/236H K is a follow-up move and cannot be done after 236P
-710/236P/236H S/236H S is a follow-up move and cannot be done after 236P
-711/236P/236H H/236H H is a follow-up move and cannot be done after 236P
-712/236P/632146H/23f gap
-713/236P/632146S/"N/A"
-714/236P/632146S Attack Near/9f gap
-715/236P/632146S Attack Far/9f gap
-716/236P/236[S]/34f gap
-717/236P/236[H]/38f gap
-718/236P/236D/22f gap
-719/236P/236[D]/34f gap
-720/236K/5P/"N/A"
-721/236K/5K/"N/A"
-722/236K/c.S/"N/A"
-723/236K/f.S/"N/A"
-724/236K/5H/"N/A"
-725/236K/2P/"N/A"
-726/236K/2K/"N/A"
-727/236K/2S/"N/A"
-728/236K/2H/"N/A"
-729/236K/j.P/"N/A"
-730/236K/j.K/"N/A"
-731/236K/j.S/"N/A"
-732/236K/j.H/"N/A"
-733/236K/j.D/"N/A"
-734/236K/6P/"N/A"
-735/236K/6H/"N/A"
-736/236K/2D/"N/A"
-737/236K/5D/"N/A"
-738/236K/5[D]/"N/A"
-739/236K/236P/"N/A"
-740/236K/236K/"N/A"
-741/236K/236K~214P/"N/A"
-742/236K/236S/"N/A"
-743/236K/236H/"N/A"
-744/236K/236H P/236H P is a follow-up move and cannot be done after 236K
-745/236K/236H K/236H K is a follow-up move and cannot be done after 236K
-746/236K/236H S/236H S is a follow-up move and cannot be done after 236K
-747/236K/236H H/236H H is a follow-up move and cannot be done after 236K
-748/236K/632146H/"N/A"
-749/236K/632146S/"N/A"
-750/236K/632146S Attack Near/"N/A"
-751/236K/632146S Attack Far/"N/A"
-752/236K/236[S]/"N/A"
-753/236K/236[H]/"N/A"
-754/236K/236D/"N/A"
-755/236K/236[D]/"N/A"
-756/236K~214P/5P/-5f gap
-757/236K~214P/5K/-3f gap
-758/236K~214P/c.S/-4f gap
-759/236K~214P/f.S/0f gap
-760/236K~214P/5H/4f gap
-761/236K~214P/2P/-6f gap
-762/236K~214P/2K/-4f gap
-763/236K~214P/2S/-1f gap
-764/236K~214P/2H/11f gap
-765/236K~214P/j.P/3f gap
-766/236K~214P/j.K/0f gap
-767/236K~214P/j.S/1f gap
-768/236K~214P/j.H/7f gap
-769/236K~214P/j.D/2f gap
-770/236K~214P/6P/-1f gap
-771/236K~214P/6H/5f gap
-772/236K~214P/2D/-1f gap
-773/236K~214P/5D/9f gap
-774/236K~214P/5[D]/17f gap
-775/236K~214P/236P/18f gap
-776/236K~214P/236K/"N/A"
-777/236K~214P/236K~214P/-4f gap
-778/236K~214P/236S/1f gap
-779/236K~214P/236H/5f gap
-780/236K~214P/236H P/236H P is a follow-up move and cannot be done after 236K~214P
-781/236K~214P/236H K/236H K is a follow-up move and cannot be done after 236K~214P
-782/236K~214P/236H S/236H S is a follow-up move and cannot be done after 236K~214P
-783/236K~214P/236H H/236H H is a follow-up move and cannot be done after 236K~214P
-784/236K~214P/632146H/6f gap
-785/236K~214P/632146S/"N/A"
-786/236K~214P/632146S Attack Near/-8f gap
-787/236K~214P/632146S Attack Far/-8f gap
-788/236K~214P/236[S]/17f gap
-789/236K~214P/236[H]/21f gap
-790/236K~214P/236D/5f gap
-791/236K~214P/236[D]/17f gap
-792/236S/5P/"N/A"
-793/236S/5K/"N/A"
-794/236S/c.S/"N/A"
-795/236S/f.S/"N/A"
-796/236S/5H/"N/A"
-797/236S/2P/"N/A"
-798/236S/2K/"N/A"
-799/236S/2S/"N/A"
-800/236S/2H/"N/A"
-801/236S/j.P/"N/A"
-802/236S/j.K/"N/A"
-803/236S/j.S/"N/A"
-804/236S/j.H/"N/A"
-805/236S/j.D/"N/A"
-806/236S/6P/"N/A"
-807/236S/6H/"N/A"
-808/236S/2D/"N/A"
-809/236S/5D/"N/A"
-810/236S/5[D]/"N/A"
-811/236S/236P/"N/A"
-812/236S/236K/"N/A"
-813/236S/236K~214P/"N/A"
-814/236S/236S/"N/A"
-815/236S/236H/"N/A"
-816/236S/236H P/236H P is a follow-up move and cannot be done after 236S
-817/236S/236H K/236H K is a follow-up move and cannot be done after 236S
-818/236S/236H S/236H S is a follow-up move and cannot be done after 236S
-819/236S/236H H/236H H is a follow-up move and cannot be done after 236S
-820/236S/632146H/"N/A"
-821/236S/632146S/"N/A"
-822/236S/632146S Attack Near/"N/A"
-823/236S/632146S Attack Far/"N/A"
-824/236S/236[S]/"N/A"
-825/236S/236[H]/"N/A"
-826/236S/236D/"N/A"
-827/236S/236[D]/"N/A"
-828/236H/5P/14f gap
-829/236H/5K/16f gap
-830/236H/c.S/15f gap
-831/236H/f.S/19f gap
-832/236H/5H/23f gap
-833/236H/2P/13f gap
-834/236H/2K/15f gap
-835/236H/2S/18f gap
-836/236H/2H/30f gap
-837/236H/j.P/22f gap
-838/236H/j.K/19f gap
-839/236H/j.S/20f gap
-840/236H/j.H/26f gap
-841/236H/j.D/21f gap
-842/236H/6P/18f gap
-843/236H/6H/24f gap
-844/236H/2D/18f gap
-845/236H/5D/28f gap
-846/236H/5[D]/36f gap
-847/236H/236P/37f gap
-848/236H/236K/"N/A"
-849/236H/236K~214P/15f gap
-850/236H/236S/20f gap
-851/236H/236H/24f gap
-852/236H/236H P/14f gap
-853/236H/236H K/236H K is a follow-up move and cannot be done after 236H
-854/236H/236H S/236H S is a follow-up move and cannot be done after 236H
-855/236H/236H H/236H H is a follow-up move and cannot be done after 236H
-856/236H/632146H/25f gap
-857/236H/632146S/"N/A"
-858/236H/632146S Attack Near/11f gap
-859/236H/632146S Attack Far/11f gap
-860/236H/236[S]/36f gap
-861/236H/236[H]/40f gap
-862/236H/236D/24f gap
-863/236H/236[D]/36f gap
-864/236H P/5P/-1f gap
-865/236H P/5K/1f gap
-866/236H P/c.S/0f gap
-867/236H P/f.S/4f gap
-868/236H P/5H/8f gap
-869/236H P/2P/-2f gap
-870/236H P/2K/0f gap
-871/236H P/2S/3f gap
-872/236H P/2H/15f gap
-873/236H P/j.P/7f gap
-874/236H P/j.K/4f gap
-875/236H P/j.S/5f gap
-876/236H P/j.H/11f gap
-877/236H P/j.D/6f gap
-878/236H P/6P/3f gap
-879/236H P/6H/9f gap
-880/236H P/2D/3f gap
-881/236H P/5D/13f gap
-882/236H P/5[D]/21f gap
-883/236H P/236P/22f gap
-884/236H P/236K/"N/A"
-885/236H P/236K~214P/0f gap
-886/236H P/236S/5f gap
-887/236H P/236H/9f gap
-888/236H P/236H P/236H P is a follow-up move and cannot be done after 236H P
-889/236H P/236H K/236H K is a follow-up move and cannot be done after 236H P
-890/236H P/236H S/236H S is a follow-up move and cannot be done after 236H P
-891/236H P/236H H/236H H is a follow-up move and cannot be done after 236H P
-892/236H P/632146H/10f gap
-893/236H P/632146S/"N/A"
-894/236H P/632146S Attack Near/-4f gap
-895/236H P/632146S Attack Far/-4f gap
-896/236H P/236[S]/21f gap
-897/236H P/236[H]/25f gap
-898/236H P/236D/9f gap
-899/236H P/236[D]/21f gap
-900/236H K/5P/"N/A"
-901/236H K/5K/"N/A"
-902/236H K/c.S/"N/A"
-903/236H K/f.S/"N/A"
-904/236H K/5H/"N/A"
-905/236H K/2P/"N/A"
-906/236H K/2K/"N/A"
-907/236H K/2S/"N/A"
-908/236H K/2H/"N/A"
-909/236H K/j.P/"N/A"
-910/236H K/j.K/"N/A"
-911/236H K/j.S/"N/A"
-912/236H K/j.H/"N/A"
-913/236H K/j.D/"N/A"
-914/236H K/6P/"N/A"
-915/236H K/6H/"N/A"
-916/236H K/2D/"N/A"
-917/236H K/5D/"N/A"
-918/236H K/5[D]/"N/A"
-919/236H K/236P/"N/A"
-920/236H K/236K/"N/A"
-921/236H K/236K~214P/"N/A"
-922/236H K/236S/"N/A"
-923/236H K/236H/"N/A"
-924/236H K/236H P/236H P is a follow-up move and cannot be done after 236H K
-925/236H K/236H K/236H K is a follow-up move and cannot be done after 236H K
-926/236H K/236H S/236H S is a follow-up move and cannot be done after 236H K
-927/236H K/236H H/236H H is a follow-up move and cannot be done after 236H K
-928/236H K/632146H/"N/A"
-929/236H K/632146S/"N/A"
-930/236H K/632146S Attack Near/"N/A"
-931/236H K/632146S Attack Far/"N/A"
-932/236H K/236[S]/"N/A"
-933/236H K/236[H]/"N/A"
-934/236H K/236D/"N/A"
-935/236H K/236[D]/"N/A"
-936/236H S/5P/13f gap
-937/236H S/5K/15f gap
-938/236H S/c.S/14f gap
-939/236H S/f.S/18f gap
-940/236H S/5H/22f gap
-941/236H S/2P/12f gap
-942/236H S/2K/14f gap
-943/236H S/2S/17f gap
-944/236H S/2H/29f gap
-945/236H S/j.P/21f gap
-946/236H S/j.K/18f gap
-947/236H S/j.S/19f gap
-948/236H S/j.H/25f gap
-949/236H S/j.D/20f gap
-950/236H S/6P/17f gap
-951/236H S/6H/23f gap
-952/236H S/2D/17f gap
-953/236H S/5D/27f gap
-954/236H S/5[D]/35f gap
-955/236H S/236P/36f gap
-956/236H S/236K/"N/A"
-957/236H S/236K~214P/14f gap
-958/236H S/236S/19f gap
-959/236H S/236H/23f gap
-960/236H S/236H P/236H P is a follow-up move and cannot be done after 236H S
-961/236H S/236H K/236H K is a follow-up move and cannot be done after 236H S
-962/236H S/236H S/236H S is a follow-up move and cannot be done after 236H S
-963/236H S/236H H/236H H is a follow-up move and cannot be done after 236H S
-964/236H S/632146H/24f gap
-965/236H S/632146S/"N/A"
-966/236H S/632146S Attack Near/10f gap
-967/236H S/632146S Attack Far/10f gap
-968/236H S/236[S]/35f gap
-969/236H S/236[H]/39f gap
-970/236H S/236D/23f gap
-971/236H S/236[D]/35f gap
-972/236H H/5P/15f gap
-973/236H H/5K/17f gap
-974/236H H/c.S/16f gap
-975/236H H/f.S/20f gap
-976/236H H/5H/24f gap
-977/236H H/2P/14f gap
-978/236H H/2K/16f gap
-979/236H H/2S/19f gap
-980/236H H/2H/31f gap
-981/236H H/j.P/23f gap
-982/236H H/j.K/20f gap
-983/236H H/j.S/21f gap
-984/236H H/j.H/27f gap
-985/236H H/j.D/22f gap
-986/236H H/6P/19f gap
-987/236H H/6H/25f gap
-988/236H H/2D/19f gap
-989/236H H/5D/29f gap
-990/236H H/5[D]/37f gap
-991/236H H/236P/38f gap
-992/236H H/236K/"N/A"
-993/236H H/236K~214P/16f gap
-994/236H H/236S/21f gap
-995/236H H/236H/25f gap
-996/236H H/236H P/236H P is a follow-up move and cannot be done after 236H H
-997/236H H/236H K/236H K is a follow-up move and cannot be done after 236H H
-998/236H H/236H S/236H S is a follow-up move and cannot be done after 236H H
-999/236H H/236H H/236H H is a follow-up move and cannot be done after 236H H
-1000/236H H/632146H/26f gap
-1001/236H H/632146S/"N/A"
-1002/236H H/632146S Attack Near/12f gap
-1003/236H H/632146S Attack Far/12f gap
-1004/236H H/236[S]/37f gap
-1005/236H H/236[H]/41f gap
-1006/236H H/236D/25f gap
-1007/236H H/236[D]/37f gap
-1008/632146H/5P/36f gap
-1009/632146H/5K/38f gap
-1010/632146H/c.S/37f gap
-1011/632146H/f.S/41f gap
-1012/632146H/5H/45f gap
-1013/632146H/2P/35f gap
-1014/632146H/2K/37f gap
-1015/632146H/2S/40f gap
-1016/632146H/2H/52f gap
-1017/632146H/j.P/44f gap
-1018/632146H/j.K/41f gap
-1019/632146H/j.S/42f gap
-1020/632146H/j.H/48f gap
-1021/632146H/j.D/43f gap
-1022/632146H/6P/40f gap
-1023/632146H/6H/46f gap
-1024/632146H/2D/40f gap
-1025/632146H/5D/50f gap
-1026/632146H/5[D]/58f gap
-1027/632146H/236P/59f gap
-1028/632146H/236K/"N/A"
-1029/632146H/236K~214P/37f gap
-1030/632146H/236S/42f gap
-1031/632146H/236H/46f gap
-1032/632146H/236H P/236H P is a follow-up move and cannot be done after 632146H
-1033/632146H/236H K/236H K is a follow-up move and cannot be done after 632146H
-1034/632146H/236H S/236H S is a follow-up move and cannot be done after 632146H
-1035/632146H/236H H/236H H is a follow-up move and cannot be done after 632146H
-1036/632146H/632146H/47f gap
-1037/632146H/632146S/"N/A"
-1038/632146H/632146S Attack Near/33f gap
-1039/632146H/632146S Attack Far/33f gap
-1040/632146H/236[S]/58f gap
-1041/632146H/236[H]/62f gap
-1042/632146H/236D/46f gap
-1043/632146H/236[D]/58f gap
-1044/632146S/5P/"N/A"
-1045/632146S/5K/"N/A"
-1046/632146S/c.S/"N/A"
-1047/632146S/f.S/"N/A"
-1048/632146S/5H/"N/A"
-1049/632146S/2P/"N/A"
-1050/632146S/2K/"N/A"
-1051/632146S/2S/"N/A"
-1052/632146S/2H/"N/A"
-1053/632146S/j.P/"N/A"
-1054/632146S/j.K/"N/A"
-1055/632146S/j.S/"N/A"
-1056/632146S/j.H/"N/A"
-1057/632146S/j.D/"N/A"
-1058/632146S/6P/"N/A"
-1059/632146S/6H/"N/A"
-1060/632146S/2D/"N/A"
-1061/632146S/5D/"N/A"
-1062/632146S/5[D]/"N/A"
-1063/632146S/236P/"N/A"
-1064/632146S/236K/"N/A"
-1065/632146S/236K~214P/"N/A"
-1066/632146S/236S/"N/A"
-1067/632146S/236H/"N/A"
-1068/632146S/236H P/236H P is a follow-up move and cannot be done after 632146S
-1069/632146S/236H K/236H K is a follow-up move and cannot be done after 632146S
-1070/632146S/236H S/236H S is a follow-up move and cannot be done after 632146S
-1071/632146S/236H H/236H H is a follow-up move and cannot be done after 632146S
-1072/632146S/632146H/"N/A"
-1073/632146S/632146S/"N/A"
-1074/632146S/632146S Attack Near/"N/A"
-1075/632146S/632146S Attack Far/"N/A"
-1076/632146S/236[S]/"N/A"
-1077/632146S/236[H]/"N/A"
-1078/632146S/236D/"N/A"
-1079/632146S/236[D]/"N/A"
-1080/632146S Attack Near/5P/"N/A"
-1081/632146S Attack Near/5K/"N/A"
-1082/632146S Attack Near/c.S/"N/A"
-1083/632146S Attack Near/f.S/"N/A"
-1084/632146S Attack Near/5H/"N/A"
-1085/632146S Attack Near/2P/"N/A"
-1086/632146S Attack Near/2K/"N/A"
-1087/632146S Attack Near/2S/"N/A"
-1088/632146S Attack Near/2H/"N/A"
-1089/632146S Attack Near/j.P/"N/A"
-1090/632146S Attack Near/j.K/"N/A"
-1091/632146S Attack Near/j.S/"N/A"
-1092/632146S Attack Near/j.H/"N/A"
-1093/632146S Attack Near/j.D/"N/A"
-1094/632146S Attack Near/6P/"N/A"
-1095/632146S Attack Near/6H/"N/A"
-1096/632146S Attack Near/2D/"N/A"
-1097/632146S Attack Near/5D/"N/A"
-1098/632146S Attack Near/5[D]/"N/A"
-1099/632146S Attack Near/236P/"N/A"
-1100/632146S Attack Near/236K/"N/A"
-1101/632146S Attack Near/236K~214P/"N/A"
-1102/632146S Attack Near/236S/"N/A"
-1103/632146S Attack Near/236H/"N/A"
-1104/632146S Attack Near/236H P/236H P is a follow-up move and cannot be done after 632146S Attack Near
-1105/632146S Attack Near/236H K/236H K is a follow-up move and cannot be done after 632146S Attack Near
-1106/632146S Attack Near/236H S/236H S is a follow-up move and cannot be done after 632146S Attack Near
-1107/632146S Attack Near/236H H/236H H is a follow-up move and cannot be done after 632146S Attack Near
-1108/632146S Attack Near/632146H/"N/A"
-1109/632146S Attack Near/632146S/"N/A"
-1110/632146S Attack Near/632146S Attack Near/"N/A"
-1111/632146S Attack Near/632146S Attack Far/"N/A"
-1112/632146S Attack Near/236[S]/"N/A"
-1113/632146S Attack Near/236[H]/"N/A"
-1114/632146S Attack Near/236D/"N/A"
-1115/632146S Attack Near/236[D]/"N/A"
-1116/632146S Attack Far/5P/7f gap
-1117/632146S Attack Far/5K/9f gap
-1118/632146S Attack Far/c.S/8f gap
-1119/632146S Attack Far/f.S/12f gap
-1120/632146S Attack Far/5H/16f gap
-1121/632146S Attack Far/2P/6f gap
-1122/632146S Attack Far/2K/8f gap
-1123/632146S Attack Far/2S/11f gap
-1124/632146S Attack Far/2H/23f gap
-1125/632146S Attack Far/j.P/15f gap
-1126/632146S Attack Far/j.K/12f gap
-1127/632146S Attack Far/j.S/13f gap
-1128/632146S Attack Far/j.H/19f gap
-1129/632146S Attack Far/j.D/14f gap
-1130/632146S Attack Far/6P/11f gap
-1131/632146S Attack Far/6H/17f gap
-1132/632146S Attack Far/2D/11f gap
-1133/632146S Attack Far/5D/21f gap
-1134/632146S Attack Far/5[D]/29f gap
-1135/632146S Attack Far/236P/30f gap
-1136/632146S Attack Far/236K/"N/A"
-1137/632146S Attack Far/236K~214P/8f gap
-1138/632146S Attack Far/236S/13f gap
-1139/632146S Attack Far/236H/17f gap
-1140/632146S Attack Far/236H P/236H P is a follow-up move and cannot be done after 632146S Attack Far
-1141/632146S Attack Far/236H K/236H K is a follow-up move and cannot be done after 632146S Attack Far
-1142/632146S Attack Far/236H S/236H S is a follow-up move and cannot be done after 632146S Attack Far
-1143/632146S Attack Far/236H H/236H H is a follow-up move and cannot be done after 632146S Attack Far
-1144/632146S Attack Far/632146H/18f gap
-1145/632146S Attack Far/632146S/"N/A"
-1146/632146S Attack Far/632146S Attack Near/4f gap
-1147/632146S Attack Far/632146S Attack Far/4f gap
-1148/632146S Attack Far/236[S]/29f gap
-1149/632146S Attack Far/236[H]/33f gap
-1150/632146S Attack Far/236D/17f gap
-1151/632146S Attack Far/236[D]/29f gap
-1152/236[S]/5P/"N/A"
-1153/236[S]/5K/"N/A"
-1154/236[S]/c.S/"N/A"
-1155/236[S]/f.S/"N/A"
-1156/236[S]/5H/"N/A"
-1157/236[S]/2P/"N/A"
-1158/236[S]/2K/"N/A"
-1159/236[S]/2S/"N/A"
-1160/236[S]/2H/"N/A"
-1161/236[S]/j.P/"N/A"
-1162/236[S]/j.K/"N/A"
-1163/236[S]/j.S/"N/A"
-1164/236[S]/j.H/"N/A"
-1165/236[S]/j.D/"N/A"
-1166/236[S]/6P/"N/A"
-1167/236[S]/6H/"N/A"
-1168/236[S]/2D/"N/A"
-1169/236[S]/5D/"N/A"
-1170/236[S]/5[D]/"N/A"
-1171/236[S]/236P/"N/A"
-1172/236[S]/236K/"N/A"
-1173/236[S]/236K~214P/"N/A"
-1174/236[S]/236S/"N/A"
-1175/236[S]/236H/"N/A"
-1176/236[S]/236H P/236H P is a follow-up move and cannot be done after 236[S]
-1177/236[S]/236H K/236H K is a follow-up move and cannot be done after 236[S]
-1178/236[S]/236H S/236H S is a follow-up move and cannot be done after 236[S]
-1179/236[S]/236H H/236H H is a follow-up move and cannot be done after 236[S]
-1180/236[S]/632146H/"N/A"
-1181/236[S]/632146S/"N/A"
-1182/236[S]/632146S Attack Near/"N/A"
-1183/236[S]/632146S Attack Far/"N/A"
-1184/236[S]/236[S]/"N/A"
-1185/236[S]/236[H]/"N/A"
-1186/236[S]/236D/"N/A"
-1187/236[S]/236[D]/"N/A"
-1188/236[H]/5P/12f gap
-1189/236[H]/5K/14f gap
-1190/236[H]/c.S/13f gap
-1191/236[H]/f.S/17f gap
-1192/236[H]/5H/21f gap
-1193/236[H]/2P/11f gap
-1194/236[H]/2K/13f gap
-1195/236[H]/2S/16f gap
-1196/236[H]/2H/28f gap
-1197/236[H]/j.P/20f gap
-1198/236[H]/j.K/17f gap
-1199/236[H]/j.S/18f gap
-1200/236[H]/j.H/24f gap
-1201/236[H]/j.D/19f gap
-1202/236[H]/6P/16f gap
-1203/236[H]/6H/22f gap
-1204/236[H]/2D/16f gap
-1205/236[H]/5D/26f gap
-1206/236[H]/5[D]/34f gap
-1207/236[H]/236P/35f gap
-1208/236[H]/236K/"N/A"
-1209/236[H]/236K~214P/13f gap
-1210/236[H]/236S/18f gap
-1211/236[H]/236H/22f gap
-1212/236[H]/236H P/12f gap
-1213/236[H]/236H K/236H K is a follow-up move and cannot be done after 236[H]
-1214/236[H]/236H S/236H S is a follow-up move and cannot be done after 236[H]
-1215/236[H]/236H H/236H H is a follow-up move and cannot be done after 236[H]
-1216/236[H]/632146H/23f gap
-1217/236[H]/632146S/"N/A"
-1218/236[H]/632146S Attack Near/9f gap
-1219/236[H]/632146S Attack Far/9f gap
-1220/236[H]/236[S]/34f gap
-1221/236[H]/236[H]/38f gap
-1222/236[H]/236D/22f gap
-1223/236[H]/236[D]/34f gap
-1224/236D/5P/-3f gap
-1225/236D/5K/-1f gap
-1226/236D/c.S/-2f gap
-1227/236D/f.S/2f gap
-1228/236D/5H/6f gap
-1229/236D/2P/-4f gap
-1230/236D/2K/-2f gap
-1231/236D/2S/1f gap
-1232/236D/2H/13f gap
-1233/236D/j.P/18f gap
-1234/236D/j.K/15f gap
-1235/236D/j.S/16f gap
-1236/236D/j.H/22f gap
-1237/236D/j.D/17f gap
-1238/236D/6P/1f gap
-1239/236D/6H/7f gap
-1240/236D/2D/1f gap
-1241/236D/5D/11f gap
-1242/236D/5[D]/19f gap
-1243/236D/236P/20f gap
-1244/236D/236K/"N/A"
-1245/236D/236K~214P/-2f gap
-1246/236D/236S/3f gap
-1247/236D/236H/7f gap
-1248/236D/236H P/21f gap
-1249/236D/236H K/"N/A"
-1250/236D/236H S/6f gap
-1251/236D/236H H/12f gap
-1252/236D/632146H/8f gap
-1253/236D/632146S/"N/A"
-1254/236D/632146S Attack Near/-6f gap
-1255/236D/632146S Attack Far/-6f gap
-1256/236D/236[S]/19f gap
-1257/236D/236[H]/23f gap
-1258/236D/236D/20f gap
-1259/236D/236[D]/32f gap
-1260/236[D]/5P/-3f gap
-1261/236[D]/5K/-1f gap
-1262/236[D]/c.S/-2f gap
-1263/236[D]/f.S/2f gap
-1264/236[D]/5H/6f gap
-1265/236[D]/2P/-4f gap
-1266/236[D]/2K/-2f gap
-1267/236[D]/2S/1f gap
-1268/236[D]/2H/13f gap
-1269/236[D]/j.P/18f gap
-1270/236[D]/j.K/15f gap
-1271/236[D]/j.S/16f gap
-1272/236[D]/j.H/22f gap
-1273/236[D]/j.D/17f gap
-1274/236[D]/6P/1f gap
-1275/236[D]/6H/7f gap
-1276/236[D]/2D/1f gap
-1277/236[D]/5D/11f gap
-1278/236[D]/5[D]/19f gap
-1279/236[D]/236P/20f gap
-1280/236[D]/236K/"N/A"
-1281/236[D]/236K~214P/-2f gap
-1282/236[D]/236S/3f gap
-1283/236[D]/236H/7f gap
-1284/236[D]/236H P/21f gap
-1285/236[D]/236H K/"N/A"
-1286/236[D]/236H S/6f gap
-1287/236[D]/236H H/12f gap
-1288/236[D]/632146H/8f gap
-1289/236[D]/632146S/"N/A"
-1290/236[D]/632146S Attack Near/-6f gap
-1291/236[D]/632146S Attack Far/-6f gap
-1292/236[D]/236[S]/19f gap
-1293/236[D]/236[H]/23f gap
-1294/236[D]/236D/7f gap
-1295/236[D]/236[D]/32f gap
+28/5P/632146H/6f
+29/5P/632146S/
+30/5P/632146S Attack Near/-8f
+31/5P/632146S Attack Far/-8f
+32/5P/236D/5f
+33/5P/236[D]/17f
+34/5K/5P/8f
+35/5K/5K/10f
+36/5K/c.S/9f
+37/5K/f.S/13f
+38/5K/5H/17f
+39/5K/2P/7f
+40/5K/2K/9f
+41/5K/2S/12f
+42/5K/2H/24f
+43/5K/j.P/3f
+44/5K/j.K/0f
+45/5K/j.S/1f
+46/5K/j.H/7f
+47/5K/j.D/2f
+48/5K/6P/-1f
+49/5K/6H/5f
+50/5K/2D/-1f
+51/5K/5D/9f
+52/5K/5[D]/30f
+53/5K/236P/18f
+54/5K/236K/
+55/5K/236K~214P/-4f
+56/5K/236S/1f [17f]
+57/5K/236H/5f [21f]
+58/5K/236H P/236H P is a follow-up move and cannot be done after 5K
+59/5K/236H K/
+60/5K/236H S/236H S is a follow-up move and cannot be done after 5K
+61/5K/236H H/236H H is a follow-up move and cannot be done after 5K
+62/5K/632146H/6f
+63/5K/632146S/
+64/5K/632146S Attack Near/-8f
+65/5K/632146S Attack Far/-8f
+66/5K/236D/5f
+67/5K/236[D]/17f
+68/c.S/5P/5f
+69/c.S/5K/7f
+70/c.S/c.S/6f
+71/c.S/f.S/-7f
+72/c.S/5H/-3f
+73/c.S/2P/4f
+74/c.S/2K/6f
+75/c.S/2S/-8f
+76/c.S/2H/4f
+77/c.S/j.P/-4f
+78/c.S/j.K/-7f
+79/c.S/j.S/-6f
+80/c.S/j.H/0f
+81/c.S/j.D/-5f
+82/c.S/6P/-8f
+83/c.S/6H/-2f
+84/c.S/2D/-8f
+85/c.S/5D/2f
+86/c.S/5[D]/27f
+87/c.S/236P/11f
+88/c.S/236K/
+89/c.S/236K~214P/-11f
+90/c.S/236S/-6f [10f]
+91/c.S/236H/-2f [14f]
+92/c.S/236H P/236H P is a follow-up move and cannot be done after c.S
+93/c.S/236H K/
+94/c.S/236H S/236H S is a follow-up move and cannot be done after c.S
+95/c.S/236H H/236H H is a follow-up move and cannot be done after c.S
+96/c.S/632146H/-1f
+97/c.S/632146S/
+98/c.S/632146S Attack Near/-15f
+99/c.S/632146S Attack Far/-15f
+100/c.S/236D/-2f
+101/c.S/236[D]/10f
+102/f.S/5P/15f
+103/f.S/5K/17f
+104/f.S/c.S/16f
+105/f.S/f.S/20f
+106/f.S/5H/2f
+107/f.S/2P/14f
+108/f.S/2K/16f
+109/f.S/2S/19f
+110/f.S/2H/9f
+111/f.S/j.P/23f
+112/f.S/j.K/20f
+113/f.S/j.S/21f
+114/f.S/j.H/27f
+115/f.S/j.D/22f
+116/f.S/6P/19f
+117/f.S/6H/25f
+118/f.S/2D/19f
+119/f.S/5D/29f
+120/f.S/5[D]/37f
+121/f.S/236P/16f
+122/f.S/236K/
+123/f.S/236K~214P/-6f
+124/f.S/236S/-1f [15f]
+125/f.S/236H/3f [19f]
+126/f.S/236H P/236H P is a follow-up move and cannot be done after f.S
+127/f.S/236H K/
+128/f.S/236H S/236H S is a follow-up move and cannot be done after f.S
+129/f.S/236H H/236H H is a follow-up move and cannot be done after f.S
+130/f.S/632146H/4f
+131/f.S/632146S/
+132/f.S/632146S Attack Near/-10f
+133/f.S/632146S Attack Far/-10f
+134/f.S/236D/3f
+135/f.S/236[D]/15f
+136/5H/5P/14f
+137/5H/5K/16f
+138/5H/c.S/15f
+139/5H/f.S/19f
+140/5H/5H/23f
+141/5H/2P/13f
+142/5H/2K/15f
+143/5H/2S/18f
+144/5H/2H/30f
+145/5H/j.P/22f
+146/5H/j.K/19f
+147/5H/j.S/20f
+148/5H/j.H/26f
+149/5H/j.D/21f
+150/5H/6P/18f
+151/5H/6H/24f
+152/5H/2D/18f
+153/5H/5D/28f
+154/5H/5[D]/36f
+155/5H/236P/11f
+156/5H/236K/
+157/5H/236K~214P/-11f
+158/5H/236S/-6f [10f]
+159/5H/236H/-2f [14f]
+160/5H/236H P/236H P is a follow-up move and cannot be done after 5H
+161/5H/236H K/
+162/5H/236H S/236H S is a follow-up move and cannot be done after 5H
+163/5H/236H H/236H H is a follow-up move and cannot be done after 5H
+164/5H/632146H/-1f
+165/5H/632146S/
+166/5H/632146S Attack Near/-15f
+167/5H/632146S Attack Far/-15f
+168/5H/236D/-2f
+169/5H/236[D]/10f
+170/2P/5P/-3f
+171/2P/5K/10f
+172/2P/c.S/9f
+173/2P/f.S/13f
+174/2P/5H/17f
+175/2P/2P/-4f
+176/2P/2K/9f
+177/2P/2S/12f
+178/2P/2H/24f
+179/2P/j.P/16f
+180/2P/j.K/13f
+181/2P/j.S/14f
+182/2P/j.H/20f
+183/2P/j.D/15f
+184/2P/6P/1f
+185/2P/6H/7f
+186/2P/2D/12f
+187/2P/5D/22f
+188/2P/5[D]/30f
+189/2P/236P/20f
+190/2P/236K/
+191/2P/236K~214P/-2f
+192/2P/236S/3f [19f]
+193/2P/236H/7f [23f]
+194/2P/236H P/236H P is a follow-up move and cannot be done after 2P
+195/2P/236H K/
+196/2P/236H S/236H S is a follow-up move and cannot be done after 2P
+197/2P/236H H/236H H is a follow-up move and cannot be done after 2P
+198/2P/632146H/8f
+199/2P/632146S/
+200/2P/632146S Attack Near/-6f
+201/2P/632146S Attack Far/-6f
+202/2P/236D/7f
+203/2P/236[D]/19f
+204/2K/5P/8f
+205/2K/5K/10f
+206/2K/c.S/9f
+207/2K/f.S/13f
+208/2K/5H/17f
+209/2K/2P/7f
+210/2K/2K/9f
+211/2K/2S/12f
+212/2K/2H/24f
+213/2K/j.P/16f
+214/2K/j.K/13f
+215/2K/j.S/14f
+216/2K/j.H/20f
+217/2K/j.D/15f
+218/2K/6P/-1f
+219/2K/6H/5f
+220/2K/2D/-1f
+221/2K/5D/9f
+222/2K/5[D]/30f
+223/2K/236P/18f
+224/2K/236K/
+225/2K/236K~214P/-4f
+226/2K/236S/1f [17f]
+227/2K/236H/5f [21f]
+228/2K/236H P/236H P is a follow-up move and cannot be done after 2K
+229/2K/236H K/
+230/2K/236H S/236H S is a follow-up move and cannot be done after 2K
+231/2K/236H H/236H H is a follow-up move and cannot be done after 2K
+232/2K/632146H/6f
+233/2K/632146S/
+234/2K/632146S Attack Near/-8f
+235/2K/632146S Attack Far/-8f
+236/2K/236D/5f
+237/2K/236[D]/17f
+238/2S/5P/12f
+239/2S/5K/14f
+240/2S/c.S/13f
+241/2S/f.S/17f
+242/2S/5H/2f
+243/2S/2P/11f
+244/2S/2K/13f
+245/2S/2S/16f
+246/2S/2H/9f
+247/2S/j.P/20f
+248/2S/j.K/17f
+249/2S/j.S/18f
+250/2S/j.H/24f
+251/2S/j.D/19f
+252/2S/6P/16f
+253/2S/6H/22f
+254/2S/2D/16f
+255/2S/5D/26f
+256/2S/5[D]/34f
+257/2S/236P/16f
+258/2S/236K/
+259/2S/236K~214P/-6f
+260/2S/236S/-1f [15f]
+261/2S/236H/3f [19f]
+262/2S/236H P/236H P is a follow-up move and cannot be done after 2S
+263/2S/236H K/
+264/2S/236H S/236H S is a follow-up move and cannot be done after 2S
+265/2S/236H H/236H H is a follow-up move and cannot be done after 2S
+266/2S/632146H/4f
+267/2S/632146S/
+268/2S/632146S Attack Near/-10f
+269/2S/632146S Attack Far/-10f
+270/2S/236D/3f
+271/2S/236[D]/15f
+272/2H/5P/10f
+273/2H/5K/12f
+274/2H/c.S/11f
+275/2H/f.S/15f
+276/2H/5H/19f
+277/2H/2P/9f
+278/2H/2K/11f
+279/2H/2S/14f
+280/2H/2H/26f
+281/2H/j.P/18f
+282/2H/j.K/15f
+283/2H/j.S/16f
+284/2H/j.H/22f
+285/2H/j.D/17f
+286/2H/6P/14f
+287/2H/6H/20f
+288/2H/2D/14f
+289/2H/5D/24f
+290/2H/5[D]/32f
+291/2H/236P/11f
+292/2H/236K/
+293/2H/236K~214P/-11f
+294/2H/236S/-6f [10f]
+295/2H/236H/-2f [14f]
+296/2H/236H P/236H P is a follow-up move and cannot be done after 2H
+297/2H/236H K/
+298/2H/236H S/236H S is a follow-up move and cannot be done after 2H
+299/2H/236H H/236H H is a follow-up move and cannot be done after 2H
+300/2H/632146H/-1f
+301/2H/632146S/
+302/2H/632146S Attack Near/-15f
+303/2H/632146S Attack Far/-15f
+304/2H/236D/-2f
+305/2H/236[D]/10f
+306/j.P/5P/
+307/j.P/5K/
+308/j.P/c.S/
+309/j.P/f.S/
+310/j.P/5H/
+311/j.P/2P/
+312/j.P/2K/
+313/j.P/2S/
+314/j.P/2H/
+315/j.P/j.P/0f
+316/j.P/j.K/
+317/j.P/j.S/
+318/j.P/j.H/
+319/j.P/j.D/
+320/j.P/6P/
+321/j.P/6H/
+322/j.P/2D/
+323/j.P/5D/
+324/j.P/5[D]/
+325/j.P/236P/
+326/j.P/236K/
+327/j.P/236K~214P/
+328/j.P/236S/
+329/j.P/236H/
+330/j.P/236H P/
+331/j.P/236H K/
+332/j.P/236H S/
+333/j.P/236H H/
+334/j.P/632146H/
+335/j.P/632146S/
+336/j.P/632146S Attack Near/
+337/j.P/632146S Attack Far/
+338/j.P/236D/
+339/j.P/236[D]/
+340/j.K/5P/
+341/j.K/5K/
+342/j.K/c.S/
+343/j.K/f.S/
+344/j.K/5H/
+345/j.K/2P/
+346/j.K/2K/
+347/j.K/2S/
+348/j.K/2H/
+349/j.K/j.P/
+350/j.K/j.K/
+351/j.K/j.S/
+352/j.K/j.H/
+353/j.K/j.D/-3f
+354/j.K/6P/
+355/j.K/6H/
+356/j.K/2D/
+357/j.K/5D/
+358/j.K/5[D]/
+359/j.K/236P/
+360/j.K/236K/
+361/j.K/236K~214P/
+362/j.K/236S/
+363/j.K/236H/
+364/j.K/236H P/
+365/j.K/236H K/
+366/j.K/236H S/
+367/j.K/236H H/
+368/j.K/632146H/
+369/j.K/632146S/
+370/j.K/632146S Attack Near/
+371/j.K/632146S Attack Far/
+372/j.K/236D/
+373/j.K/236[D]/
+374/j.S/5P/
+375/j.S/5K/
+376/j.S/c.S/
+377/j.S/f.S/
+378/j.S/5H/
+379/j.S/2P/
+380/j.S/2K/
+381/j.S/2S/
+382/j.S/2H/
+383/j.S/j.P/
+384/j.S/j.K/
+385/j.S/j.S/
+386/j.S/j.H/0f
+387/j.S/j.D/-5f
+388/j.S/6P/
+389/j.S/6H/
+390/j.S/2D/
+391/j.S/5D/
+392/j.S/5[D]/
+393/j.S/236P/
+394/j.S/236K/
+395/j.S/236K~214P/
+396/j.S/236S/
+397/j.S/236H/
+398/j.S/236H P/
+399/j.S/236H K/
+400/j.S/236H S/
+401/j.S/236H H/
+402/j.S/632146H/
+403/j.S/632146S/
+404/j.S/632146S Attack Near/
+405/j.S/632146S Attack Far/
+406/j.S/236D/
+407/j.S/236[D]/
+408/j.H/5P/"N/A"
+409/j.H/5K/"N/A"
+410/j.H/c.S/"N/A"
+411/j.H/f.S/"N/A"
+412/j.H/5H/"N/A"
+413/j.H/2P/"N/A"
+414/j.H/2K/"N/A"
+415/j.H/2S/"N/A"
+416/j.H/2H/"N/A"
+417/j.H/j.P/"N/A"
+418/j.H/j.K/"N/A"
+419/j.H/j.S/"N/A"
+420/j.H/j.H/"N/A"
+421/j.H/j.D/-5f
+422/j.H/6P/"N/A"
+423/j.H/6H/"N/A"
+424/j.H/2D/"N/A"
+425/j.H/5D/"N/A"
+426/j.H/5[D]/"N/A"
+427/j.H/236P/"N/A"
+428/j.H/236K/ 
+429/j.H/236K~214P/"N/A"
+430/j.H/236S/"N/A"
+431/j.H/236H/"N/A"
+432/j.H/236H P/236H P is a follow-up move and cannot be done after j.H
+433/j.H/236H K/ 
+434/j.H/236H S/236H S is a follow-up move and cannot be done after j.H
+435/j.H/236H H/236H H is a follow-up move and cannot be done after j.H
+436/j.H/632146H/"N/A"
+437/j.H/632146S/ 
+438/j.H/632146S Attack Near/"N/A"
+439/j.H/632146S Attack Far/"N/A"
+440/j.H/236D/"N/A"
+441/j.H/236[D]/"N/A"
+442/j.D/5P/
+443/j.D/5K/
+444/j.D/c.S/
+445/j.D/f.S/
+446/j.D/5H/
+447/j.D/2P/
+448/j.D/2K/
+449/j.D/2S/
+450/j.D/2H/
+451/j.D/j.P/
+452/j.D/j.K/
+453/j.D/j.S/
+454/j.D/j.H/
+455/j.D/j.D/
+456/j.D/6P/
+457/j.D/6H/
+458/j.D/2D/
+459/j.D/5D/
+460/j.D/5[D]/
+461/j.D/236P/
+462/j.D/236K/
+463/j.D/236K~214P/
+464/j.D/236S/
+465/j.D/236H/
+466/j.D/236H P/
+467/j.D/236H K/
+468/j.D/236H S/
+469/j.D/236H H/
+470/j.D/632146H/
+471/j.D/632146S/
+472/j.D/632146S Attack Near/
+473/j.D/632146S Attack Far/
+474/j.D/236D/
+475/j.D/236[D]/
+476/6P/5P/23f
+477/6P/5K/25f
+478/6P/c.S/24f
+479/6P/f.S/28f
+480/6P/5H/32f
+481/6P/2P/22f
+482/6P/2K/24f
+483/6P/2S/27f
+484/6P/2H/39f
+485/6P/j.P/31f
+486/6P/j.K/28f
+487/6P/j.S/29f
+488/6P/j.H/35f
+489/6P/j.D/30f
+490/6P/6P/27f
+491/6P/6H/33f
+492/6P/2D/27f
+493/6P/5D/37f
+494/6P/5[D]/45f
+495/6P/236P/16f
+496/6P/236K/
+497/6P/236K~214P/-6f
+498/6P/236S/-1f [15f]
+499/6P/236H/3f [19f]
+500/6P/236H P/236H P is a follow-up move and cannot be done after 6P
+501/6P/236H K/
+502/6P/236H S/236H S is a follow-up move and cannot be done after 6P
+503/6P/236H H/236H H is a follow-up move and cannot be done after 6P
+504/6P/632146H/4f
+505/6P/632146S/
+506/6P/632146S Attack Near/-10f
+507/6P/632146S Attack Far/-10f
+508/6P/236D/3f
+509/6P/236[D]/15f
+510/6H/5P/14f
+511/6H/5K/16f
+512/6H/c.S/15f
+513/6H/f.S/19f
+514/6H/5H/23f
+515/6H/2P/13f
+516/6H/2K/15f
+517/6H/2S/18f
+518/6H/2H/30f
+519/6H/j.P/22f
+520/6H/j.K/19f
+521/6H/j.S/20f
+522/6H/j.H/26f
+523/6H/j.D/21f
+524/6H/6P/18f
+525/6H/6H/24f
+526/6H/2D/18f
+527/6H/5D/28f
+528/6H/5[D]/36f
+529/6H/236P/16f, 16f, 13f
+530/6H/236K/,,
+531/6H/236K~214P/-6f, -6f, -9f
+532/6H/236S/-1f [15f], -1f [15f], -4f [12f]
+533/6H/236H/3f [19f], 3f [19f], 0f [16f]
+534/6H/236H P/236H P is a follow-up move and cannot be done after 6H
+535/6H/236H K/
+536/6H/236H S/236H S is a follow-up move and cannot be done after 6H
+537/6H/236H H/236H H is a follow-up move and cannot be done after 6H
+538/6H/632146H/4f, 4f, 1f
+539/6H/632146S/,,
+540/6H/632146S Attack Near/-10f, -10f, -13f
+541/6H/632146S Attack Far/-10f, -10f, -13f
+542/6H/236D/3f, 3f, 0f
+543/6H/236[D]/15f, 15f, 12f
+544/2D/5P/17f
+545/2D/5K/19f
+546/2D/c.S/18f
+547/2D/f.S/22f
+548/2D/5H/26f
+549/2D/2P/16f
+550/2D/2K/18f
+551/2D/2S/21f
+552/2D/2H/33f
+553/2D/j.P/25f
+554/2D/j.K/22f
+555/2D/j.S/23f
+556/2D/j.H/29f
+557/2D/j.D/24f
+558/2D/6P/21f
+559/2D/6H/27f
+560/2D/2D/21f
+561/2D/5D/31f
+562/2D/5[D]/39f
+563/2D/236P/16f
+564/2D/236K/
+565/2D/236K~214P/-6f
+566/2D/236S/-1f [15f]
+567/2D/236H/3f [19f]
+568/2D/236H P/236H P is a follow-up move and cannot be done after 2D
+569/2D/236H K/
+570/2D/236H S/236H S is a follow-up move and cannot be done after 2D
+571/2D/236H H/236H H is a follow-up move and cannot be done after 2D
+572/2D/632146H/4f
+573/2D/632146S/
+574/2D/632146S Attack Near/-10f
+575/2D/632146S Attack Far/-10f
+576/2D/236D/3f
+577/2D/236[D]/15f
+578/5D/5P/21f
+579/5D/5K/23f
+580/5D/c.S/22f
+581/5D/f.S/26f
+582/5D/5H/30f
+583/5D/2P/20f
+584/5D/2K/22f
+585/5D/2S/25f
+586/5D/2H/37f
+587/5D/j.P/29f
+588/5D/j.K/26f
+589/5D/j.S/27f
+590/5D/j.H/33f
+591/5D/j.D/28f
+592/5D/6P/25f
+593/5D/6H/31f
+594/5D/2D/25f
+595/5D/5D/35f
+596/5D/5[D]/43f
+597/5D/236P/44f
+598/5D/236K/
+599/5D/236K~214P/22f
+600/5D/236S/27f [43f]
+601/5D/236H/31f [47f]
+602/5D/236H P/236H P is a follow-up move and cannot be done after 5D
+603/5D/236H K/
+604/5D/236H S/236H S is a follow-up move and cannot be done after 5D
+605/5D/236H H/236H H is a follow-up move and cannot be done after 5D
+606/5D/632146H/32f
+607/5D/632146S/
+608/5D/632146S Attack Near/18f
+609/5D/632146S Attack Far/18f
+610/5D/236D/31f
+611/5D/236[D]/43f
+612/5[D]/5P/16f
+613/5[D]/5K/18f
+614/5[D]/c.S/17f
+615/5[D]/f.S/21f
+616/5[D]/5H/25f
+617/5[D]/2P/15f
+618/5[D]/2K/17f
+619/5[D]/2S/20f
+620/5[D]/2H/32f
+621/5[D]/j.P/24f
+622/5[D]/j.K/21f
+623/5[D]/j.S/22f
+624/5[D]/j.H/28f
+625/5[D]/j.D/23f
+626/5[D]/6P/20f
+627/5[D]/6H/26f
+628/5[D]/2D/20f
+629/5[D]/5D/30f
+630/5[D]/5[D]/38f
+631/5[D]/236P/39f
+632/5[D]/236K/
+633/5[D]/236K~214P/17f
+634/5[D]/236S/22f [38f]
+635/5[D]/236H/26f [42f]
+636/5[D]/236H P/236H P is a follow-up move and cannot be done after 5[D]
+637/5[D]/236H K/
+638/5[D]/236H S/236H S is a follow-up move and cannot be done after 5[D]
+639/5[D]/236H H/236H H is a follow-up move and cannot be done after 5[D]
+640/5[D]/632146H/27f
+641/5[D]/632146S/
+642/5[D]/632146S Attack Near/13f
+643/5[D]/632146S Attack Far/13f
+644/5[D]/236D/26f
+645/5[D]/236[D]/38f
+646/236P/5P/12f
+647/236P/5K/14f
+648/236P/c.S/13f
+649/236P/f.S/17f
+650/236P/5H/21f
+651/236P/2P/11f
+652/236P/2K/13f
+653/236P/2S/16f
+654/236P/2H/28f
+655/236P/j.P/20f
+656/236P/j.K/17f
+657/236P/j.S/18f
+658/236P/j.H/24f
+659/236P/j.D/19f
+660/236P/6P/16f
+661/236P/6H/22f
+662/236P/2D/16f
+663/236P/5D/26f
+664/236P/5[D]/34f
+665/236P/236P/35f
+666/236P/236K/
+667/236P/236K~214P/13f
+668/236P/236S/18f [34f]
+669/236P/236H/22f [38f]
+670/236P/236H P/236H P is a follow-up move and cannot be done after 236P
+671/236P/236H K/
+672/236P/236H S/236H S is a follow-up move and cannot be done after 236P
+673/236P/236H H/236H H is a follow-up move and cannot be done after 236P
+674/236P/632146H/23f
+675/236P/632146S/
+676/236P/632146S Attack Near/9f
+677/236P/632146S Attack Far/9f
+678/236P/236D/22f
+679/236P/236[D]/34f
+680/236K/5P/
+681/236K/5K/
+682/236K/c.S/
+683/236K/f.S/
+684/236K/5H/
+685/236K/2P/
+686/236K/2K/
+687/236K/2S/
+688/236K/2H/
+689/236K/j.P/
+690/236K/j.K/
+691/236K/j.S/
+692/236K/j.H/
+693/236K/j.D/
+694/236K/6P/
+695/236K/6H/
+696/236K/2D/
+697/236K/5D/
+698/236K/5[D]/
+699/236K/236P/
+700/236K/236K/
+701/236K/236K~214P/
+702/236K/236S/
+703/236K/236H/
+704/236K/236H P/
+705/236K/236H K/
+706/236K/236H S/
+707/236K/236H H/
+708/236K/632146H/
+709/236K/632146S/
+710/236K/632146S Attack Near/
+711/236K/632146S Attack Far/
+712/236K/236D/
+713/236K/236[D]/
+714/236K~214P/5P/-5f
+715/236K~214P/5K/-3f
+716/236K~214P/c.S/-4f
+717/236K~214P/f.S/0f
+718/236K~214P/5H/4f
+719/236K~214P/2P/-6f
+720/236K~214P/2K/-4f
+721/236K~214P/2S/-1f
+722/236K~214P/2H/11f
+723/236K~214P/j.P/3f
+724/236K~214P/j.K/0f
+725/236K~214P/j.S/1f
+726/236K~214P/j.H/7f
+727/236K~214P/j.D/2f
+728/236K~214P/6P/-1f
+729/236K~214P/6H/5f
+730/236K~214P/2D/-1f
+731/236K~214P/5D/9f
+732/236K~214P/5[D]/17f
+733/236K~214P/236P/18f
+734/236K~214P/236K/
+735/236K~214P/236K~214P/-4f
+736/236K~214P/236S/1f [17f]
+737/236K~214P/236H/5f [21f]
+738/236K~214P/236H P/236H P is a follow-up move and cannot be done after 236K~214P
+739/236K~214P/236H K/
+740/236K~214P/236H S/236H S is a follow-up move and cannot be done after 236K~214P
+741/236K~214P/236H H/236H H is a follow-up move and cannot be done after 236K~214P
+742/236K~214P/632146H/6f
+743/236K~214P/632146S/
+744/236K~214P/632146S Attack Near/-8f
+745/236K~214P/632146S Attack Far/-8f
+746/236K~214P/236D/5f
+747/236K~214P/236[D]/17f
+748/236S/5P/
+749/236S/5K/
+750/236S/c.S/
+751/236S/f.S/
+752/236S/5H/
+753/236S/2P/
+754/236S/2K/
+755/236S/2S/
+756/236S/2H/
+757/236S/j.P/
+758/236S/j.K/
+759/236S/j.S/
+760/236S/j.H/
+761/236S/j.D/
+762/236S/6P/
+763/236S/6H/
+764/236S/2D/
+765/236S/5D/
+766/236S/5[D]/
+767/236S/236P/
+768/236S/236K/
+769/236S/236K~214P/
+770/236S/236S/
+771/236S/236H/
+772/236S/236H P/
+773/236S/236H K/
+774/236S/236H S/
+775/236S/236H H/
+776/236S/632146H/
+777/236S/632146S/
+778/236S/632146S Attack Near/
+779/236S/632146S Attack Far/
+780/236S/236D/
+781/236S/236[D]/
+782/236H/5P/14f [12f]
+783/236H/5K/16f [14f]
+784/236H/c.S/15f [13f]
+785/236H/f.S/19f [17f]
+786/236H/5H/23f [21f]
+787/236H/2P/13f [11f]
+788/236H/2K/15f [13f]
+789/236H/2S/18f [16f]
+790/236H/2H/30f [28f]
+791/236H/j.P/22f [20f]
+792/236H/j.K/19f [17f]
+793/236H/j.S/20f [18f]
+794/236H/j.H/26f [24f]
+795/236H/j.D/21f [19f]
+796/236H/6P/18f [16f]
+797/236H/6H/24f [22f]
+798/236H/2D/18f [16f]
+799/236H/5D/28f [26f]
+800/236H/5[D]/36f [34f]
+801/236H/236P/37f [35f]
+802/236H/236K/ []
+803/236H/236K~214P/15f [13f]
+804/236H/236S/20f [36f] [18f [34f]]
+805/236H/236H/24f [40f] [22f [38f]]
+806/236H/236H P/14f [12f]
+807/236H/236H K/ []
+808/236H/236H S/236H S is a follow-up move and cannot be done after 236H
+809/236H/236H H/236H H is a follow-up move and cannot be done after 236H
+810/236H/632146H/25f [23f]
+811/236H/632146S/ []
+812/236H/632146S Attack Near/11f [9f]
+813/236H/632146S Attack Far/11f [9f]
+814/236H/236D/24f [22f]
+815/236H/236[D]/36f [34f]
+816/236H P/5P/-1f
+817/236H P/5K/1f
+818/236H P/c.S/0f
+819/236H P/f.S/4f
+820/236H P/5H/8f
+821/236H P/2P/-2f
+822/236H P/2K/0f
+823/236H P/2S/3f
+824/236H P/2H/15f
+825/236H P/j.P/7f
+826/236H P/j.K/4f
+827/236H P/j.S/5f
+828/236H P/j.H/11f
+829/236H P/j.D/6f
+830/236H P/6P/3f
+831/236H P/6H/9f
+832/236H P/2D/3f
+833/236H P/5D/13f
+834/236H P/5[D]/21f
+835/236H P/236P/22f
+836/236H P/236K/
+837/236H P/236K~214P/0f
+838/236H P/236S/5f [21f]
+839/236H P/236H/9f [25f]
+840/236H P/236H P/236H P is a follow-up move and cannot be done after 236H P
+841/236H P/236H K/
+842/236H P/236H S/236H S is a follow-up move and cannot be done after 236H P
+843/236H P/236H H/236H H is a follow-up move and cannot be done after 236H P
+844/236H P/632146H/10f
+845/236H P/632146S/
+846/236H P/632146S Attack Near/-4f
+847/236H P/632146S Attack Far/-4f
+848/236H P/236D/9f
+849/236H P/236[D]/21f
+850/236H K/5P/
+851/236H K/5K/
+852/236H K/c.S/
+853/236H K/f.S/
+854/236H K/5H/
+855/236H K/2P/
+856/236H K/2K/
+857/236H K/2S/
+858/236H K/2H/
+859/236H K/j.P/
+860/236H K/j.K/
+861/236H K/j.S/
+862/236H K/j.H/
+863/236H K/j.D/
+864/236H K/6P/
+865/236H K/6H/
+866/236H K/2D/
+867/236H K/5D/
+868/236H K/5[D]/
+869/236H K/236P/
+870/236H K/236K/
+871/236H K/236K~214P/
+872/236H K/236S/
+873/236H K/236H/
+874/236H K/236H P/
+875/236H K/236H K/
+876/236H K/236H S/
+877/236H K/236H H/
+878/236H K/632146H/
+879/236H K/632146S/
+880/236H K/632146S Attack Near/
+881/236H K/632146S Attack Far/
+882/236H K/236D/
+883/236H K/236[D]/
+884/236H S/5P/13f
+885/236H S/5K/15f
+886/236H S/c.S/14f
+887/236H S/f.S/18f
+888/236H S/5H/22f
+889/236H S/2P/12f
+890/236H S/2K/14f
+891/236H S/2S/17f
+892/236H S/2H/29f
+893/236H S/j.P/21f
+894/236H S/j.K/18f
+895/236H S/j.S/19f
+896/236H S/j.H/25f
+897/236H S/j.D/20f
+898/236H S/6P/17f
+899/236H S/6H/23f
+900/236H S/2D/17f
+901/236H S/5D/27f
+902/236H S/5[D]/35f
+903/236H S/236P/36f
+904/236H S/236K/
+905/236H S/236K~214P/14f
+906/236H S/236S/19f [35f]
+907/236H S/236H/23f [39f]
+908/236H S/236H P/236H P is a follow-up move and cannot be done after 236H S
+909/236H S/236H K/
+910/236H S/236H S/236H S is a follow-up move and cannot be done after 236H S
+911/236H S/236H H/236H H is a follow-up move and cannot be done after 236H S
+912/236H S/632146H/24f
+913/236H S/632146S/
+914/236H S/632146S Attack Near/10f
+915/236H S/632146S Attack Far/10f
+916/236H S/236D/23f
+917/236H S/236[D]/35f
+918/236H H/5P/15f
+919/236H H/5K/17f
+920/236H H/c.S/16f
+921/236H H/f.S/20f
+922/236H H/5H/24f
+923/236H H/2P/14f
+924/236H H/2K/16f
+925/236H H/2S/19f
+926/236H H/2H/31f
+927/236H H/j.P/23f
+928/236H H/j.K/20f
+929/236H H/j.S/21f
+930/236H H/j.H/27f
+931/236H H/j.D/22f
+932/236H H/6P/19f
+933/236H H/6H/25f
+934/236H H/2D/19f
+935/236H H/5D/29f
+936/236H H/5[D]/37f
+937/236H H/236P/38f
+938/236H H/236K/
+939/236H H/236K~214P/16f
+940/236H H/236S/21f [37f]
+941/236H H/236H/25f [41f]
+942/236H H/236H P/236H P is a follow-up move and cannot be done after 236H H
+943/236H H/236H K/
+944/236H H/236H S/236H S is a follow-up move and cannot be done after 236H H
+945/236H H/236H H/236H H is a follow-up move and cannot be done after 236H H
+946/236H H/632146H/26f
+947/236H H/632146S/
+948/236H H/632146S Attack Near/12f
+949/236H H/632146S Attack Far/12f
+950/236H H/236D/25f
+951/236H H/236[D]/37f
+952/632146H/5P/36f
+953/632146H/5K/38f
+954/632146H/c.S/37f
+955/632146H/f.S/41f
+956/632146H/5H/45f
+957/632146H/2P/35f
+958/632146H/2K/37f
+959/632146H/2S/40f
+960/632146H/2H/52f
+961/632146H/j.P/44f
+962/632146H/j.K/41f
+963/632146H/j.S/42f
+964/632146H/j.H/48f
+965/632146H/j.D/43f
+966/632146H/6P/40f
+967/632146H/6H/46f
+968/632146H/2D/40f
+969/632146H/5D/50f
+970/632146H/5[D]/58f
+971/632146H/236P/59f
+972/632146H/236K/
+973/632146H/236K~214P/37f
+974/632146H/236S/42f [58f]
+975/632146H/236H/46f [62f]
+976/632146H/236H P/236H P is a follow-up move and cannot be done after 632146H
+977/632146H/236H K/
+978/632146H/236H S/236H S is a follow-up move and cannot be done after 632146H
+979/632146H/236H H/236H H is a follow-up move and cannot be done after 632146H
+980/632146H/632146H/47f
+981/632146H/632146S/
+982/632146H/632146S Attack Near/33f
+983/632146H/632146S Attack Far/33f
+984/632146H/236D/46f
+985/632146H/236[D]/58f
+986/632146S/5P/
+987/632146S/5K/
+988/632146S/c.S/
+989/632146S/f.S/
+990/632146S/5H/
+991/632146S/2P/
+992/632146S/2K/
+993/632146S/2S/
+994/632146S/2H/
+995/632146S/j.P/
+996/632146S/j.K/
+997/632146S/j.S/
+998/632146S/j.H/
+999/632146S/j.D/
+1000/632146S/6P/
+1001/632146S/6H/
+1002/632146S/2D/
+1003/632146S/5D/
+1004/632146S/5[D]/
+1005/632146S/236P/
+1006/632146S/236K/
+1007/632146S/236K~214P/
+1008/632146S/236S/
+1009/632146S/236H/
+1010/632146S/236H P/
+1011/632146S/236H K/
+1012/632146S/236H S/
+1013/632146S/236H H/
+1014/632146S/632146H/
+1015/632146S/632146S/
+1016/632146S/632146S Attack Near/
+1017/632146S/632146S Attack Far/
+1018/632146S/236D/
+1019/632146S/236[D]/
+1020/632146S Attack Near/5P/
+1021/632146S Attack Near/5K/
+1022/632146S Attack Near/c.S/
+1023/632146S Attack Near/f.S/
+1024/632146S Attack Near/5H/
+1025/632146S Attack Near/2P/
+1026/632146S Attack Near/2K/
+1027/632146S Attack Near/2S/
+1028/632146S Attack Near/2H/
+1029/632146S Attack Near/j.P/
+1030/632146S Attack Near/j.K/
+1031/632146S Attack Near/j.S/
+1032/632146S Attack Near/j.H/
+1033/632146S Attack Near/j.D/
+1034/632146S Attack Near/6P/
+1035/632146S Attack Near/6H/
+1036/632146S Attack Near/2D/
+1037/632146S Attack Near/5D/
+1038/632146S Attack Near/5[D]/
+1039/632146S Attack Near/236P/
+1040/632146S Attack Near/236K/
+1041/632146S Attack Near/236K~214P/
+1042/632146S Attack Near/236S/
+1043/632146S Attack Near/236H/
+1044/632146S Attack Near/236H P/
+1045/632146S Attack Near/236H K/
+1046/632146S Attack Near/236H S/
+1047/632146S Attack Near/236H H/
+1048/632146S Attack Near/632146H/
+1049/632146S Attack Near/632146S/
+1050/632146S Attack Near/632146S Attack Near/
+1051/632146S Attack Near/632146S Attack Far/
+1052/632146S Attack Near/236D/
+1053/632146S Attack Near/236[D]/
+1054/632146S Attack Far/5P/7f
+1055/632146S Attack Far/5K/9f
+1056/632146S Attack Far/c.S/8f
+1057/632146S Attack Far/f.S/12f
+1058/632146S Attack Far/5H/16f
+1059/632146S Attack Far/2P/6f
+1060/632146S Attack Far/2K/8f
+1061/632146S Attack Far/2S/11f
+1062/632146S Attack Far/2H/23f
+1063/632146S Attack Far/j.P/15f
+1064/632146S Attack Far/j.K/12f
+1065/632146S Attack Far/j.S/13f
+1066/632146S Attack Far/j.H/19f
+1067/632146S Attack Far/j.D/14f
+1068/632146S Attack Far/6P/11f
+1069/632146S Attack Far/6H/17f
+1070/632146S Attack Far/2D/11f
+1071/632146S Attack Far/5D/21f
+1072/632146S Attack Far/5[D]/29f
+1073/632146S Attack Far/236P/30f
+1074/632146S Attack Far/236K/
+1075/632146S Attack Far/236K~214P/8f
+1076/632146S Attack Far/236S/13f [29f]
+1077/632146S Attack Far/236H/17f [33f]
+1078/632146S Attack Far/236H P/236H P is a follow-up move and cannot be done after 632146S Attack Far
+1079/632146S Attack Far/236H K/
+1080/632146S Attack Far/236H S/236H S is a follow-up move and cannot be done after 632146S Attack Far
+1081/632146S Attack Far/236H H/236H H is a follow-up move and cannot be done after 632146S Attack Far
+1082/632146S Attack Far/632146H/18f
+1083/632146S Attack Far/632146S/
+1084/632146S Attack Far/632146S Attack Near/4f
+1085/632146S Attack Far/632146S Attack Far/4f
+1086/632146S Attack Far/236D/17f
+1087/632146S Attack Far/236[D]/29f
+1088/236D/5P/-12f
+1089/236D/5K/-10f
+1090/236D/c.S/-11f
+1091/236D/f.S/-7f
+1092/236D/5H/-3f
+1093/236D/2P/-13f
+1094/236D/2K/-11f
+1095/236D/2S/-8f
+1096/236D/2H/4f
+1097/236D/j.P/-5f
+1098/236D/j.K/-8f
+1099/236D/j.S/-7f
+1100/236D/j.H/-1f
+1101/236D/j.D/-6f
+1102/236D/6P/-8f
+1103/236D/6H/-2f
+1104/236D/2D/-8f
+1105/236D/5D/2f
+1106/236D/5[D]/10f
+1107/236D/236P/11f
+1108/236D/236K/
+1109/236D/236K~214P/-11f
+1110/236D/236S/-6f [10f]
+1111/236D/236H/-2f [14f]
+1112/236D/236H P/12f
+1113/236D/236H K/
+1114/236D/236H S/-3f
+1115/236D/236H H/3f
+1116/236D/632146H/-1f
+1117/236D/632146S/
+1118/236D/632146S Attack Near/-15f
+1119/236D/632146S Attack Far/-15f
+1120/236D/236D/-2f
+1121/236D/236[D]/10f
+1122/236[D]/5P/-12f
+1123/236[D]/5K/-10f
+1124/236[D]/c.S/-11f
+1125/236[D]/f.S/-7f
+1126/236[D]/5H/-3f
+1127/236[D]/2P/-13f
+1128/236[D]/2K/-11f
+1129/236[D]/2S/-8f
+1130/236[D]/2H/4f
+1131/236[D]/j.P/-5f
+1132/236[D]/j.K/-8f
+1133/236[D]/j.S/-7f
+1134/236[D]/j.H/-1f
+1135/236[D]/j.D/-6f
+1136/236[D]/6P/-8f
+1137/236[D]/6H/-2f
+1138/236[D]/2D/-8f
+1139/236[D]/5D/2f
+1140/236[D]/5[D]/10f
+1141/236[D]/236P/11f
+1142/236[D]/236K/
+1143/236[D]/236K~214P/-11f
+1144/236[D]/236S/-6f [10f]
+1145/236[D]/236H/-2f [14f]
+1146/236[D]/236H P/12f
+1147/236[D]/236H K/
+1148/236[D]/236H S/-3f
+1149/236[D]/236H H/3f
+1150/236[D]/632146H/-1f
+1151/236[D]/632146S/
+1152/236[D]/632146S Attack Near/-15f
+1153/236[D]/632146S Attack Far/-15f
+1154/236[D]/236D/-2f
+1155/236[D]/236[D]/10f

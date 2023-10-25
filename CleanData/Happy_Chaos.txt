@@ -14,14 +14,14 @@
 12/6S/12/7/24/-14/3/Normal/Special,Super
 13/j.P/5/2/18//0/jump Normal/j.P,j.2K,
 14/j.K/7/3/18//1/jump Normal/j.2K,j.D,Jump,ForwardAirDash
-15/j.S/10/4/23/2/2/jump Normal/j.D,Jump,ForwardAirDash
-16/j.D/11/4/21/3/2/jump Normal/Jump,ForwardAirDash
-17/j.2K/10/5/16 [11]/2/2/jump Normal/
+15/j.S/10/4/23/2 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
+16/j.D/11/4/21/3 (IAD)/2/jump Normal/Jump,ForwardAirDash
+17/j.2K/10/5/16 [11]/2 (IAD airborne)/2/jump Normal/
 18/H//-/Total 12///Normal/
 19/236S/9/3/13/3/4/Special/
 20/236S H/1/2//23/1/Special/
 21/214S//-/Total 18///Special/
-22/214S H/1/2/43//3/Special/
+22/214S H/1/2/43/More info/3/Special/
 23/236S 2H//-/0 [9]///Special/
 24/214S 214S//-/Total 16///Super/
 25/22P/23/-/Total 23~77///Special/
@@ -29,7 +29,7 @@
 27/214K//-/35 total///Special/
 28/236K/10/180 [45]/43 total///Special/
 29/236P//-/29 total///Special/
-30/632146S/20///-25/4/Super/
+30/632146S/20///-25/2×18,4/Super/
 31/214214P/5/(52 Flash)/Total 11///Super/
-32/236D/20/3/20/7/0/Special/5P,5K,c.S,f.S,5D,5[D],2P,2K,2S,2D,6P,6K,6S,j.P,j.K,j.S,j.D,j.2K,H,236S,236S H,214S,214S H,236S 2H,214S 214S,22P,214P,214K,236K,236P,632146S,214214P
-33/236[D]/32/3/20/12/0/Special/5P,5K,c.S,f.S,5D,5[D],2P,2K,2S,2D,6P,6K,6S,j.P,j.K,j.S,j.D,j.2K,H,236S,236S H,214S,214S H,236S 2H,214S 214S,22P,214P,214K,236K,236P,632146S,214214P,236D
+32/236D/20/3/20/7/4/Special/All
+33/236[D]/32/3/20/12/4/Special/All
