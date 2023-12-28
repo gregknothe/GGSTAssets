@@ -1,26 +1,26 @@
 /move1/move2/gap
 0/5P/5P/-3f
-1/5P/5K/9f
-2/5P/c.S/9f
-3/5P/f.S/11f
-4/5P/5H/15f
-5/5P/5D/22f
-6/5P/5[D]/30f
+1/5P/5K/7f
+2/5P/c.S/7f
+3/5P/f.S/9f
+4/5P/5H/13f
+5/5P/5D/20f
+6/5P/5[D]/28f
 7/5P/2P/-4f
-8/5P/2K/8f
-9/5P/2S/13f
-10/5P/2H/20f
-11/5P/2D/12f
-12/5P/j.P/14f
-13/5P/j.K/15f
-14/5P/j.S/17f
-15/5P/j.H/22f
-16/5P/j.D/15f
+8/5P/2K/6f
+9/5P/2S/11f
+10/5P/2H/18f
+11/5P/2D/10f
+12/5P/j.P/12f
+13/5P/j.K/13f
+14/5P/j.S/15f
+15/5P/j.H/20f
+16/5P/j.D/13f
 17/5P/6P/2f
 18/5P/6K/6f
 19/5P/6H/9f
 20/5P/"214[P/K/S]"/-2f
-21/5P/"j.214[P/K/S]"/14f
+21/5P/"j.214[P/K/S]"/12f
 22/5P/214]P[/"N/A"
 23/5P/214]K[/"N/A"
 24/5P/214]S[/"N/A"
@@ -30,27 +30,27 @@
 28/5P/H or D/
 29/5P/Mist Finer 66/
 30/5P/Mist Finer 44/
-31/5P/Card hit by Mist Finer/18f
+31/5P/Card hit by Mist Finer/16f
 32/5P/"236P/K/S"/
-33/5P/j.236H/22f
+33/5P/j.236H/20f
 34/5P/236H/
 35/5P/236HH/-6f
 36/5P/214H/9f
 37/5P/632146H/2f
 38/5P/236236S/-2f
 39/5P/236D/7f
-40/5P/236[D]/19f
-41/5K/5P/8f
-42/5K/5K/9f
-43/5K/c.S/9f
-44/5K/f.S/11f
-45/5K/5H/15f
+40/5P/236[D]/20f
+41/5K/5P/5f
+42/5K/5K/6f
+43/5K/c.S/6f
+44/5K/f.S/8f
+45/5K/5H/12f
 46/5K/5D/9f
-47/5K/5[D]/30f
-48/5K/2P/7f
-49/5K/2K/8f
-50/5K/2S/13f
-51/5K/2H/20f
+47/5K/5[D]/27f
+48/5K/2P/4f
+49/5K/2K/5f
+50/5K/2S/10f
+51/5K/2H/17f
 52/5K/2D/-1f
 53/5K/j.P/1f
 54/5K/j.K/2f
@@ -71,7 +71,7 @@
 69/5K/H or D/
 70/5K/Mist Finer 66/
 71/5K/Mist Finer 44/
-72/5K/Card hit by Mist Finer/18f
+72/5K/Card hit by Mist Finer/15f
 73/5K/"236P/K/S"/
 74/5K/j.236H/9f
 75/5K/236H/
@@ -80,16 +80,16 @@
 78/5K/632146H/0f
 79/5K/236236S/-4f
 80/5K/236D/5f
-81/5K/236[D]/17f
-82/c.S/5P/5f
-83/c.S/5K/6f
-84/c.S/c.S/6f
+81/5K/236[D]/18f
+82/c.S/5P/3f
+83/c.S/5K/4f
+84/c.S/c.S/4f
 85/c.S/f.S/-7f
 86/c.S/5H/-3f
 87/c.S/5D/4f
-88/c.S/5[D]/27f
-89/c.S/2P/4f
-90/c.S/2K/5f
+88/c.S/5[D]/25f
+89/c.S/2P/2f
+90/c.S/2K/3f
 91/c.S/2S/-5f
 92/c.S/2H/2f
 93/c.S/2D/-6f
@@ -112,7 +112,7 @@
 110/c.S/H or D/
 111/c.S/Mist Finer 66/
 112/c.S/Mist Finer 44/
-113/c.S/Card hit by Mist Finer/15f
+113/c.S/Card hit by Mist Finer/13f
 114/c.S/"236P/K/S"/
 115/c.S/j.236H/4f
 116/c.S/236H/
@@ -121,29 +121,29 @@
 119/c.S/632146H/-5f
 120/c.S/236236S/-9f
 121/c.S/236D/0f
-122/c.S/236[D]/12f
-123/f.S/5P/17f
-124/f.S/5K/18f
-125/f.S/c.S/18f
-126/f.S/f.S/20f
+122/c.S/236[D]/13f
+123/f.S/5P/4f
+124/f.S/5K/5f
+125/f.S/c.S/5f
+126/f.S/f.S/7f
 127/f.S/5H/0f
-128/f.S/5D/31f
-129/f.S/5[D]/39f
-130/f.S/2P/16f
-131/f.S/2K/17f
-132/f.S/2S/22f
+128/f.S/5D/18f
+129/f.S/5[D]/26f
+130/f.S/2P/3f
+131/f.S/2K/4f
+132/f.S/2S/9f
 133/f.S/2H/5f
-134/f.S/2D/21f
-135/f.S/j.P/23f
-136/f.S/j.K/24f
-137/f.S/j.S/26f
-138/f.S/j.H/31f
-139/f.S/j.D/24f
-140/f.S/6P/22f
-141/f.S/6K/26f
-142/f.S/6H/29f
+134/f.S/2D/8f
+135/f.S/j.P/10f
+136/f.S/j.K/11f
+137/f.S/j.S/13f
+138/f.S/j.H/18f
+139/f.S/j.D/11f
+140/f.S/6P/9f
+141/f.S/6K/13f
+142/f.S/6H/16f
 143/f.S/"214[P/K/S]"/-6f
-144/f.S/"j.214[P/K/S]"/23f
+144/f.S/"j.214[P/K/S]"/10f
 145/f.S/214]P[/"N/A"
 146/f.S/214]K[/"N/A"
 147/f.S/214]S[/"N/A"
@@ -153,38 +153,38 @@
 151/f.S/H or D/
 152/f.S/Mist Finer 66/
 153/f.S/Mist Finer 44/
-154/f.S/Card hit by Mist Finer/27f
+154/f.S/Card hit by Mist Finer/14f
 155/f.S/"236P/K/S"/
-156/f.S/j.236H/31f
+156/f.S/j.236H/18f
 157/f.S/236H/
 158/f.S/236HH/-10f
 159/f.S/214H/5f
 160/f.S/632146H/-2f
 161/f.S/236236S/-6f
 162/f.S/236D/3f
-163/f.S/236[D]/15f
-164/5H/5P/21f
-165/5H/5K/22f
-166/5H/c.S/22f
-167/5H/f.S/24f
-168/5H/5H/28f
-169/5H/5D/35f
-170/5H/5[D]/43f
-171/5H/2P/20f
-172/5H/2K/21f
-173/5H/2S/26f
-174/5H/2H/33f
-175/5H/2D/25f
-176/5H/j.P/27f
-177/5H/j.K/28f
-178/5H/j.S/30f
-179/5H/j.H/35f
-180/5H/j.D/28f
-181/5H/6P/26f
-182/5H/6K/30f
-183/5H/6H/33f
+163/f.S/236[D]/16f
+164/5H/5P/2f
+165/5H/5K/3f
+166/5H/c.S/3f
+167/5H/f.S/5f
+168/5H/5H/9f
+169/5H/5D/16f
+170/5H/5[D]/24f
+171/5H/2P/1f
+172/5H/2K/2f
+173/5H/2S/7f
+174/5H/2H/14f
+175/5H/2D/6f
+176/5H/j.P/8f
+177/5H/j.K/9f
+178/5H/j.S/11f
+179/5H/j.H/16f
+180/5H/j.D/9f
+181/5H/6P/7f
+182/5H/6K/11f
+183/5H/6H/14f
 184/5H/"214[P/K/S]"/-11f
-185/5H/"j.214[P/K/S]"/27f
+185/5H/"j.214[P/K/S]"/8f
 186/5H/214]P[/"N/A"
 187/5H/214]K[/"N/A"
 188/5H/214]S[/"N/A"
@@ -194,38 +194,38 @@
 192/5H/H or D/
 193/5H/Mist Finer 66/
 194/5H/Mist Finer 44/
-195/5H/Card hit by Mist Finer/31f
+195/5H/Card hit by Mist Finer/12f
 196/5H/"236P/K/S"/
-197/5H/j.236H/35f
+197/5H/j.236H/16f
 198/5H/236H/
 199/5H/236HH/-15f
 200/5H/214H/0f
 201/5H/632146H/-7f
 202/5H/236236S/-11f
 203/5H/236D/-2f
-204/5H/236[D]/10f
-205/5D/5P/21f
-206/5D/5K/22f
-207/5D/c.S/22f
-208/5D/f.S/24f
-209/5D/5H/28f
-210/5D/5D/35f
-211/5D/5[D]/43f
-212/5D/2P/20f
-213/5D/2K/21f
-214/5D/2S/26f
-215/5D/2H/33f
-216/5D/2D/25f
-217/5D/j.P/27f
-218/5D/j.K/28f
-219/5D/j.S/30f
-220/5D/j.H/35f
-221/5D/j.D/28f
-222/5D/6P/26f
-223/5D/6K/30f
-224/5D/6H/33f
-225/5D/"214[P/K/S]"/22f
-226/5D/"j.214[P/K/S]"/27f
+204/5H/236[D]/11f
+205/5D/5P/4f
+206/5D/5K/5f
+207/5D/c.S/5f
+208/5D/f.S/7f
+209/5D/5H/11f
+210/5D/5D/18f
+211/5D/5[D]/26f
+212/5D/2P/3f
+213/5D/2K/4f
+214/5D/2S/9f
+215/5D/2H/16f
+216/5D/2D/8f
+217/5D/j.P/10f
+218/5D/j.K/11f
+219/5D/j.S/13f
+220/5D/j.H/18f
+221/5D/j.D/11f
+222/5D/6P/9f
+223/5D/6K/13f
+224/5D/6H/16f
+225/5D/"214[P/K/S]"/5f
+226/5D/"j.214[P/K/S]"/10f
 227/5D/214]P[/"N/A"
 228/5D/214]K[/"N/A"
 229/5D/214]S[/"N/A"
@@ -235,38 +235,38 @@
 233/5D/H or D/
 234/5D/Mist Finer 66/
 235/5D/Mist Finer 44/
-236/5D/Card hit by Mist Finer/31f
+236/5D/Card hit by Mist Finer/14f
 237/5D/"236P/K/S"/
-238/5D/j.236H/35f
+238/5D/j.236H/18f
 239/5D/236H/
-240/5D/236HH/18f
-241/5D/214H/33f
-242/5D/632146H/26f
-243/5D/236236S/22f
-244/5D/236D/31f
-245/5D/236[D]/43f
-246/5[D]/5P/16f
-247/5[D]/5K/17f
-248/5[D]/c.S/17f
-249/5[D]/f.S/19f
-250/5[D]/5H/23f
-251/5[D]/5D/30f
-252/5[D]/5[D]/38f
-253/5[D]/2P/15f
-254/5[D]/2K/16f
-255/5[D]/2S/21f
-256/5[D]/2H/28f
-257/5[D]/2D/20f
-258/5[D]/j.P/22f
-259/5[D]/j.K/23f
-260/5[D]/j.S/25f
-261/5[D]/j.H/30f
-262/5[D]/j.D/23f
-263/5[D]/6P/21f
-264/5[D]/6K/25f
-265/5[D]/6H/28f
-266/5[D]/"214[P/K/S]"/17f
-267/5[D]/"j.214[P/K/S]"/22f
+240/5D/236HH/1f
+241/5D/214H/16f
+242/5D/632146H/9f
+243/5D/236236S/5f
+244/5D/236D/14f
+245/5D/236[D]/27f
+246/5[D]/5P/2f
+247/5[D]/5K/3f
+248/5[D]/c.S/3f
+249/5[D]/f.S/5f
+250/5[D]/5H/9f
+251/5[D]/5D/16f
+252/5[D]/5[D]/24f
+253/5[D]/2P/1f
+254/5[D]/2K/2f
+255/5[D]/2S/7f
+256/5[D]/2H/14f
+257/5[D]/2D/6f
+258/5[D]/j.P/8f
+259/5[D]/j.K/9f
+260/5[D]/j.S/11f
+261/5[D]/j.H/16f
+262/5[D]/j.D/9f
+263/5[D]/6P/7f
+264/5[D]/6K/11f
+265/5[D]/6H/14f
+266/5[D]/"214[P/K/S]"/3f
+267/5[D]/"j.214[P/K/S]"/8f
 268/5[D]/214]P[/"N/A"
 269/5[D]/214]K[/"N/A"
 270/5[D]/214]S[/"N/A"
@@ -276,38 +276,38 @@
 274/5[D]/H or D/
 275/5[D]/Mist Finer 66/
 276/5[D]/Mist Finer 44/
-277/5[D]/Card hit by Mist Finer/26f
+277/5[D]/Card hit by Mist Finer/12f
 278/5[D]/"236P/K/S"/
-279/5[D]/j.236H/30f
+279/5[D]/j.236H/16f
 280/5[D]/236H/
-281/5[D]/236HH/13f
-282/5[D]/214H/28f
-283/5[D]/632146H/21f
-284/5[D]/236236S/17f
-285/5[D]/236D/26f
-286/5[D]/236[D]/38f
+281/5[D]/236HH/-1f
+282/5[D]/214H/14f
+283/5[D]/632146H/7f
+284/5[D]/236236S/3f
+285/5[D]/236D/12f
+286/5[D]/236[D]/25f
 287/2P/5P/-3f
-288/2P/5K/9f
-289/2P/c.S/9f
-290/2P/f.S/11f
-291/2P/5H/15f
-292/2P/5D/22f
-293/2P/5[D]/30f
+288/2P/5K/7f
+289/2P/c.S/7f
+290/2P/f.S/9f
+291/2P/5H/13f
+292/2P/5D/20f
+293/2P/5[D]/28f
 294/2P/2P/-4f
-295/2P/2K/8f
-296/2P/2S/13f
-297/2P/2H/20f
-298/2P/2D/12f
-299/2P/j.P/14f
-300/2P/j.K/15f
-301/2P/j.S/17f
-302/2P/j.H/22f
-303/2P/j.D/15f
+295/2P/2K/6f
+296/2P/2S/11f
+297/2P/2H/18f
+298/2P/2D/10f
+299/2P/j.P/12f
+300/2P/j.K/13f
+301/2P/j.S/15f
+302/2P/j.H/20f
+303/2P/j.D/13f
 304/2P/6P/2f
 305/2P/6K/6f
 306/2P/6H/9f
 307/2P/"214[P/K/S]"/-2f
-308/2P/"j.214[P/K/S]"/14f
+308/2P/"j.214[P/K/S]"/12f
 309/2P/214]P[/"N/A"
 310/2P/214]K[/"N/A"
 311/2P/214]S[/"N/A"
@@ -317,38 +317,38 @@
 315/2P/H or D/
 316/2P/Mist Finer 66/
 317/2P/Mist Finer 44/
-318/2P/Card hit by Mist Finer/18f
+318/2P/Card hit by Mist Finer/16f
 319/2P/"236P/K/S"/
-320/2P/j.236H/22f
+320/2P/j.236H/20f
 321/2P/236H/
 322/2P/236HH/-6f
 323/2P/214H/9f
 324/2P/632146H/2f
 325/2P/236236S/-2f
 326/2P/236D/7f
-327/2P/236[D]/19f
-328/2K/5P/8f
-329/2K/5K/9f
-330/2K/c.S/9f
-331/2K/f.S/11f
-332/2K/5H/15f
+327/2P/236[D]/20f
+328/2K/5P/5f
+329/2K/5K/6f
+330/2K/c.S/6f
+331/2K/f.S/8f
+332/2K/5H/12f
 333/2K/5D/9f
-334/2K/5[D]/30f
-335/2K/2P/7f
-336/2K/2K/8f
-337/2K/2S/13f
-338/2K/2H/20f
+334/2K/5[D]/27f
+335/2K/2P/4f
+336/2K/2K/5f
+337/2K/2S/10f
+338/2K/2H/17f
 339/2K/2D/-1f
-340/2K/j.P/14f
-341/2K/j.K/15f
-342/2K/j.S/17f
-343/2K/j.H/22f
-344/2K/j.D/15f
+340/2K/j.P/11f
+341/2K/j.K/12f
+342/2K/j.S/14f
+343/2K/j.H/19f
+344/2K/j.D/12f
 345/2K/6P/0f
 346/2K/6K/4f
 347/2K/6H/7f
 348/2K/"214[P/K/S]"/-4f
-349/2K/"j.214[P/K/S]"/14f
+349/2K/"j.214[P/K/S]"/11f
 350/2K/214]P[/"N/A"
 351/2K/214]K[/"N/A"
 352/2K/214]S[/"N/A"
@@ -358,38 +358,38 @@
 356/2K/H or D/
 357/2K/Mist Finer 66/
 358/2K/Mist Finer 44/
-359/2K/Card hit by Mist Finer/18f
+359/2K/Card hit by Mist Finer/15f
 360/2K/"236P/K/S"/
-361/2K/j.236H/22f
+361/2K/j.236H/19f
 362/2K/236H/
 363/2K/236HH/-8f
 364/2K/214H/7f
 365/2K/632146H/0f
 366/2K/236236S/-4f
 367/2K/236D/5f
-368/2K/236[D]/17f
-369/2S/5P/16f
-370/2S/5K/17f
-371/2S/c.S/17f
-372/2S/f.S/19f
+368/2K/236[D]/18f
+369/2S/5P/4f
+370/2S/5K/5f
+371/2S/c.S/5f
+372/2S/f.S/7f
 373/2S/5H/0f
-374/2S/5D/30f
-375/2S/5[D]/38f
-376/2S/2P/15f
-377/2S/2K/16f
-378/2S/2S/21f
+374/2S/5D/18f
+375/2S/5[D]/26f
+376/2S/2P/3f
+377/2S/2K/4f
+378/2S/2S/9f
 379/2S/2H/5f
-380/2S/2D/20f
-381/2S/j.P/22f
-382/2S/j.K/23f
-383/2S/j.S/25f
-384/2S/j.H/30f
-385/2S/j.D/23f
-386/2S/6P/21f
-387/2S/6K/25f
-388/2S/6H/28f
+380/2S/2D/8f
+381/2S/j.P/10f
+382/2S/j.K/11f
+383/2S/j.S/13f
+384/2S/j.H/18f
+385/2S/j.D/11f
+386/2S/6P/9f
+387/2S/6K/13f
+388/2S/6H/16f
 389/2S/"214[P/K/S]"/-6f
-390/2S/"j.214[P/K/S]"/22f
+390/2S/"j.214[P/K/S]"/10f
 391/2S/214]P[/"N/A"
 392/2S/214]K[/"N/A"
 393/2S/214]S[/"N/A"
@@ -399,38 +399,38 @@
 397/2S/H or D/
 398/2S/Mist Finer 66/
 399/2S/Mist Finer 44/
-400/2S/Card hit by Mist Finer/26f
+400/2S/Card hit by Mist Finer/14f
 401/2S/"236P/K/S"/
-402/2S/j.236H/30f
+402/2S/j.236H/18f
 403/2S/236H/
 404/2S/236HH/-10f
 405/2S/214H/5f
 406/2S/632146H/-2f
 407/2S/236236S/-6f
 408/2S/236D/3f
-409/2S/236[D]/15f
-410/2H/5P/20f
-411/2H/5K/21f
-412/2H/c.S/21f
-413/2H/f.S/23f
-414/2H/5H/27f
-415/2H/5D/34f
-416/2H/5[D]/42f
-417/2H/2P/19f
-418/2H/2K/20f
-419/2H/2S/25f
-420/2H/2H/32f
-421/2H/2D/24f
-422/2H/j.P/26f
-423/2H/j.K/27f
-424/2H/j.S/29f
-425/2H/j.H/34f
-426/2H/j.D/27f
-427/2H/6P/25f
-428/2H/6K/29f
-429/2H/6H/32f
+409/2S/236[D]/16f
+410/2H/5P/2f
+411/2H/5K/3f
+412/2H/c.S/3f
+413/2H/f.S/5f
+414/2H/5H/9f
+415/2H/5D/16f
+416/2H/5[D]/24f
+417/2H/2P/1f
+418/2H/2K/2f
+419/2H/2S/7f
+420/2H/2H/14f
+421/2H/2D/6f
+422/2H/j.P/8f
+423/2H/j.K/9f
+424/2H/j.S/11f
+425/2H/j.H/16f
+426/2H/j.D/9f
+427/2H/6P/7f
+428/2H/6K/11f
+429/2H/6H/14f
 430/2H/"214[P/K/S]"/-11f
-431/2H/"j.214[P/K/S]"/26f
+431/2H/"j.214[P/K/S]"/8f
 432/2H/214]P[/"N/A"
 433/2H/214]K[/"N/A"
 434/2H/214]S[/"N/A"
@@ -440,38 +440,38 @@
 438/2H/H or D/
 439/2H/Mist Finer 66/
 440/2H/Mist Finer 44/
-441/2H/Card hit by Mist Finer/30f
+441/2H/Card hit by Mist Finer/12f
 442/2H/"236P/K/S"/
-443/2H/j.236H/34f
+443/2H/j.236H/16f
 444/2H/236H/
 445/2H/236HH/-15f
 446/2H/214H/0f
 447/2H/632146H/-7f
 448/2H/236236S/-11f
 449/2H/236D/-2f
-450/2H/236[D]/10f
-451/2D/5P/21f
-452/2D/5K/22f
-453/2D/c.S/22f
-454/2D/f.S/24f
-455/2D/5H/28f
-456/2D/5D/35f
-457/2D/5[D]/43f
-458/2D/2P/20f
-459/2D/2K/21f
-460/2D/2S/26f
-461/2D/2H/33f
-462/2D/2D/25f
-463/2D/j.P/27f
-464/2D/j.K/28f
-465/2D/j.S/30f
-466/2D/j.H/35f
-467/2D/j.D/28f
-468/2D/6P/26f
-469/2D/6K/30f
-470/2D/6H/33f
+450/2H/236[D]/11f
+451/2D/5P/4f
+452/2D/5K/5f
+453/2D/c.S/5f
+454/2D/f.S/7f
+455/2D/5H/11f
+456/2D/5D/18f
+457/2D/5[D]/26f
+458/2D/2P/3f
+459/2D/2K/4f
+460/2D/2S/9f
+461/2D/2H/16f
+462/2D/2D/8f
+463/2D/j.P/10f
+464/2D/j.K/11f
+465/2D/j.S/13f
+466/2D/j.H/18f
+467/2D/j.D/11f
+468/2D/6P/9f
+469/2D/6K/13f
+470/2D/6H/16f
 471/2D/"214[P/K/S]"/-6f
-472/2D/"j.214[P/K/S]"/27f
+472/2D/"j.214[P/K/S]"/10f
 473/2D/214]P[/"N/A"
 474/2D/214]K[/"N/A"
 475/2D/214]S[/"N/A"
@@ -481,38 +481,38 @@
 479/2D/H or D/
 480/2D/Mist Finer 66/
 481/2D/Mist Finer 44/
-482/2D/Card hit by Mist Finer/31f
+482/2D/Card hit by Mist Finer/14f
 483/2D/"236P/K/S"/
-484/2D/j.236H/35f
+484/2D/j.236H/18f
 485/2D/236H/
 486/2D/236HH/-10f
 487/2D/214H/5f
 488/2D/632146H/-2f
 489/2D/236236S/-6f
 490/2D/236D/3f
-491/2D/236[D]/15f
-492/j.P/5P/
-493/j.P/5K/
-494/j.P/c.S/
-495/j.P/f.S/
-496/j.P/5H/
-497/j.P/5D/
-498/j.P/5[D]/
-499/j.P/2P/
-500/j.P/2K/
-501/j.P/2S/
-502/j.P/2H/
-503/j.P/2D/
+491/2D/236[D]/16f
+492/j.P/5P/j.Phas9fofblockstun, while5Phas6fofstartupf
+493/j.P/5K/j.Phas9fofblockstun, while5Khas7fofstartupf
+494/j.P/c.S/j.Phas9fofblockstun, whilec.Shas7fofstartupf
+495/j.P/f.S/j.Phas9fofblockstun, whilef.Shas9fofstartupf
+496/j.P/5H/j.Phas9fofblockstun, while5Hhas13fofstartupf
+497/j.P/5D/j.Phas9fofblockstun, while5Dhas20fofstartupf
+498/j.P/5[D]/j.Phas9fofblockstun, while5 [D]has28fofstartupf
+499/j.P/2P/j.Phas9fofblockstun, while2Phas5fofstartupf
+500/j.P/2K/j.Phas9fofblockstun, while2Khas6fofstartupf
+501/j.P/2S/j.Phas9fofblockstun, while2Shas11fofstartupf
+502/j.P/2H/j.Phas9fofblockstun, while2Hhas18fofstartupf
+503/j.P/2D/j.Phas9fofblockstun, while2Dhas10fofstartupf
 504/j.P/j.P/-2f
-505/j.P/j.K/
-506/j.P/j.S/
-507/j.P/j.H/
-508/j.P/j.D/
-509/j.P/6P/
-510/j.P/6K/
-511/j.P/6H/
-512/j.P/"214[P/K/S]"/
-513/j.P/"j.214[P/K/S]"/
+505/j.P/j.K/j.Phas9fofblockstun, whilej.Khas8fofstartupf
+506/j.P/j.S/j.Phas9fofblockstun, whilej.Shas10fofstartupf
+507/j.P/j.H/j.Phas9fofblockstun, whilej.Hhas15fofstartupf
+508/j.P/j.D/j.Phas9fofblockstun, whilej.Dhas8fofstartupf
+509/j.P/6P/j.Phas9fofblockstun, while6Phas11fofstartupf
+510/j.P/6K/j.Phas9fofblockstun, while6Khas15fofstartupf
+511/j.P/6H/j.Phas9fofblockstun, while6Hhas18fofstartupf
+512/j.P/"214[P/K/S]"/"j.Phas9fofblockstun, while214 [P/K/S]has7fofstartupf"
+513/j.P/"j.214[P/K/S]"/"j.Phas9fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 514/j.P/214]P[/"N/A"
 515/j.P/214]K[/"N/A"
 516/j.P/214]S[/"N/A"
@@ -522,38 +522,38 @@
 520/j.P/H or D/
 521/j.P/Mist Finer 66/
 522/j.P/Mist Finer 44/
-523/j.P/Card hit by Mist Finer/
+523/j.P/Card hit by Mist Finer/j.Phas9fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 524/j.P/"236P/K/S"/
-525/j.P/j.236H/
+525/j.P/j.236H/j.Phas9fofblockstun, whilej.236Hhas15fofstartupf
 526/j.P/236H/
-527/j.P/236HH/
-528/j.P/214H/
-529/j.P/632146H/
-530/j.P/236236S/
-531/j.P/236D/
-532/j.P/236[D]/
-533/j.K/5P/
-534/j.K/5K/
-535/j.K/c.S/
-536/j.K/f.S/
-537/j.K/5H/
-538/j.K/5D/
-539/j.K/5[D]/
-540/j.K/2P/
-541/j.K/2K/
-542/j.K/2S/
-543/j.K/2H/
-544/j.K/2D/
-545/j.K/j.P/
-546/j.K/j.K/
-547/j.K/j.S/
-548/j.K/j.H/
+527/j.P/236HH/j.Phas9fofblockstun, while236HHhas3fofstartupf
+528/j.P/214H/j.Phas9fofblockstun, while214Hhas18fofstartupf
+529/j.P/632146H/j.Phas9fofblockstun, while632146Hhas11fofstartupf
+530/j.P/236236S/j.Phas9fofblockstun, while236236Shas7fofstartupf
+531/j.P/236D/j.Phas9fofblockstun, while236Dhas16fofstartupf
+532/j.P/236[D]/j.Phas9fofblockstun, while236 [D]has29fofstartupf
+533/j.K/5P/j.Khas11fofblockstun, while5Phas6fofstartupf
+534/j.K/5K/j.Khas11fofblockstun, while5Khas7fofstartupf
+535/j.K/c.S/j.Khas11fofblockstun, whilec.Shas7fofstartupf
+536/j.K/f.S/j.Khas11fofblockstun, whilef.Shas9fofstartupf
+537/j.K/5H/j.Khas11fofblockstun, while5Hhas13fofstartupf
+538/j.K/5D/j.Khas11fofblockstun, while5Dhas20fofstartupf
+539/j.K/5[D]/j.Khas11fofblockstun, while5 [D]has28fofstartupf
+540/j.K/2P/j.Khas11fofblockstun, while2Phas5fofstartupf
+541/j.K/2K/j.Khas11fofblockstun, while2Khas6fofstartupf
+542/j.K/2S/j.Khas11fofblockstun, while2Shas11fofstartupf
+543/j.K/2H/j.Khas11fofblockstun, while2Hhas18fofstartupf
+544/j.K/2D/j.Khas11fofblockstun, while2Dhas10fofstartupf
+545/j.K/j.P/j.Khas11fofblockstun, whilej.Phas7fofstartupf
+546/j.K/j.K/j.Khas11fofblockstun, whilej.Khas8fofstartupf
+547/j.K/j.S/j.Khas11fofblockstun, whilej.Shas10fofstartupf
+548/j.K/j.H/j.Khas11fofblockstun, whilej.Hhas15fofstartupf
 549/j.K/j.D/-3f
-550/j.K/6P/
-551/j.K/6K/
-552/j.K/6H/
-553/j.K/"214[P/K/S]"/
-554/j.K/"j.214[P/K/S]"/
+550/j.K/6P/j.Khas11fofblockstun, while6Phas11fofstartupf
+551/j.K/6K/j.Khas11fofblockstun, while6Khas15fofstartupf
+552/j.K/6H/j.Khas11fofblockstun, while6Hhas18fofstartupf
+553/j.K/"214[P/K/S]"/"j.Khas11fofblockstun, while214 [P/K/S]has7fofstartupf"
+554/j.K/"j.214[P/K/S]"/"j.Khas11fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 555/j.K/214]P[/"N/A"
 556/j.K/214]K[/"N/A"
 557/j.K/214]S[/"N/A"
@@ -563,38 +563,38 @@
 561/j.K/H or D/
 562/j.K/Mist Finer 66/
 563/j.K/Mist Finer 44/
-564/j.K/Card hit by Mist Finer/
+564/j.K/Card hit by Mist Finer/j.Khas11fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 565/j.K/"236P/K/S"/
-566/j.K/j.236H/
+566/j.K/j.236H/j.Khas11fofblockstun, whilej.236Hhas15fofstartupf
 567/j.K/236H/
-568/j.K/236HH/
-569/j.K/214H/
-570/j.K/632146H/
-571/j.K/236236S/
-572/j.K/236D/
-573/j.K/236[D]/
-574/j.S/5P/
-575/j.S/5K/
-576/j.S/c.S/
-577/j.S/f.S/
-578/j.S/5H/
-579/j.S/5D/
-580/j.S/5[D]/
-581/j.S/2P/
-582/j.S/2K/
-583/j.S/2S/
-584/j.S/2H/
-585/j.S/2D/
-586/j.S/j.P/
-587/j.S/j.K/
-588/j.S/j.S/
+568/j.K/236HH/j.Khas11fofblockstun, while236HHhas3fofstartupf
+569/j.K/214H/j.Khas11fofblockstun, while214Hhas18fofstartupf
+570/j.K/632146H/j.Khas11fofblockstun, while632146Hhas11fofstartupf
+571/j.K/236236S/j.Khas11fofblockstun, while236236Shas7fofstartupf
+572/j.K/236D/j.Khas11fofblockstun, while236Dhas16fofstartupf
+573/j.K/236[D]/j.Khas11fofblockstun, while236 [D]has29fofstartupf
+574/j.S/5P/j.Shas13fofblockstun, while5Phas6fofstartupf
+575/j.S/5K/j.Shas13fofblockstun, while5Khas7fofstartupf
+576/j.S/c.S/j.Shas13fofblockstun, whilec.Shas7fofstartupf
+577/j.S/f.S/j.Shas13fofblockstun, whilef.Shas9fofstartupf
+578/j.S/5H/j.Shas13fofblockstun, while5Hhas13fofstartupf
+579/j.S/5D/j.Shas13fofblockstun, while5Dhas20fofstartupf
+580/j.S/5[D]/j.Shas13fofblockstun, while5 [D]has28fofstartupf
+581/j.S/2P/j.Shas13fofblockstun, while2Phas5fofstartupf
+582/j.S/2K/j.Shas13fofblockstun, while2Khas6fofstartupf
+583/j.S/2S/j.Shas13fofblockstun, while2Shas11fofstartupf
+584/j.S/2H/j.Shas13fofblockstun, while2Hhas18fofstartupf
+585/j.S/2D/j.Shas13fofblockstun, while2Dhas10fofstartupf
+586/j.S/j.P/j.Shas13fofblockstun, whilej.Phas7fofstartupf
+587/j.S/j.K/j.Shas13fofblockstun, whilej.Khas8fofstartupf
+588/j.S/j.S/j.Shas13fofblockstun, whilej.Shas10fofstartupf
 589/j.S/j.H/2f
 590/j.S/j.D/-5f
-591/j.S/6P/
-592/j.S/6K/
-593/j.S/6H/
-594/j.S/"214[P/K/S]"/
-595/j.S/"j.214[P/K/S]"/
+591/j.S/6P/j.Shas13fofblockstun, while6Phas11fofstartupf
+592/j.S/6K/j.Shas13fofblockstun, while6Khas15fofstartupf
+593/j.S/6H/j.Shas13fofblockstun, while6Hhas18fofstartupf
+594/j.S/"214[P/K/S]"/"j.Shas13fofblockstun, while214 [P/K/S]has7fofstartupf"
+595/j.S/"j.214[P/K/S]"/"j.Shas13fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 596/j.S/214]P[/"N/A"
 597/j.S/214]K[/"N/A"
 598/j.S/214]S[/"N/A"
@@ -604,38 +604,38 @@
 602/j.S/H or D/
 603/j.S/Mist Finer 66/
 604/j.S/Mist Finer 44/
-605/j.S/Card hit by Mist Finer/
+605/j.S/Card hit by Mist Finer/j.Shas13fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 606/j.S/"236P/K/S"/
-607/j.S/j.236H/
+607/j.S/j.236H/j.Shas13fofblockstun, whilej.236Hhas15fofstartupf
 608/j.S/236H/
-609/j.S/236HH/
-610/j.S/214H/
-611/j.S/632146H/
-612/j.S/236236S/
-613/j.S/236D/
-614/j.S/236[D]/
-615/j.H/5P/
-616/j.H/5K/
-617/j.H/c.S/
-618/j.H/f.S/
-619/j.H/5H/
-620/j.H/5D/
-621/j.H/5[D]/
-622/j.H/2P/
-623/j.H/2K/
-624/j.H/2S/
-625/j.H/2H/
-626/j.H/2D/
-627/j.H/j.P/
-628/j.H/j.K/
-629/j.H/j.S/
-630/j.H/j.H/
+609/j.S/236HH/j.Shas13fofblockstun, while236HHhas3fofstartupf
+610/j.S/214H/j.Shas13fofblockstun, while214Hhas18fofstartupf
+611/j.S/632146H/j.Shas13fofblockstun, while632146Hhas11fofstartupf
+612/j.S/236236S/j.Shas13fofblockstun, while236236Shas7fofstartupf
+613/j.S/236D/j.Shas13fofblockstun, while236Dhas16fofstartupf
+614/j.S/236[D]/j.Shas13fofblockstun, while236 [D]has29fofstartupf
+615/j.H/5P/j.Hhas13fofblockstun, while5Phas6fofstartupf
+616/j.H/5K/j.Hhas13fofblockstun, while5Khas7fofstartupf
+617/j.H/c.S/j.Hhas13fofblockstun, whilec.Shas7fofstartupf
+618/j.H/f.S/j.Hhas13fofblockstun, whilef.Shas9fofstartupf
+619/j.H/5H/j.Hhas13fofblockstun, while5Hhas13fofstartupf
+620/j.H/5D/j.Hhas13fofblockstun, while5Dhas20fofstartupf
+621/j.H/5[D]/j.Hhas13fofblockstun, while5 [D]has28fofstartupf
+622/j.H/2P/j.Hhas13fofblockstun, while2Phas5fofstartupf
+623/j.H/2K/j.Hhas13fofblockstun, while2Khas6fofstartupf
+624/j.H/2S/j.Hhas13fofblockstun, while2Shas11fofstartupf
+625/j.H/2H/j.Hhas13fofblockstun, while2Hhas18fofstartupf
+626/j.H/2D/j.Hhas13fofblockstun, while2Dhas10fofstartupf
+627/j.H/j.P/j.Hhas13fofblockstun, whilej.Phas7fofstartupf
+628/j.H/j.K/j.Hhas13fofblockstun, whilej.Khas8fofstartupf
+629/j.H/j.S/j.Hhas13fofblockstun, whilej.Shas10fofstartupf
+630/j.H/j.H/j.Hhas13fofblockstun, whilej.Hhas15fofstartupf
 631/j.H/j.D/-5f
-632/j.H/6P/
-633/j.H/6K/
-634/j.H/6H/
-635/j.H/"214[P/K/S]"/
-636/j.H/"j.214[P/K/S]"/
+632/j.H/6P/j.Hhas13fofblockstun, while6Phas11fofstartupf
+633/j.H/6K/j.Hhas13fofblockstun, while6Khas15fofstartupf
+634/j.H/6H/j.Hhas13fofblockstun, while6Hhas18fofstartupf
+635/j.H/"214[P/K/S]"/"j.Hhas13fofblockstun, while214 [P/K/S]has7fofstartupf"
+636/j.H/"j.214[P/K/S]"/"j.Hhas13fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 637/j.H/214]P[/"N/A"
 638/j.H/214]K[/"N/A"
 639/j.H/214]S[/"N/A"
@@ -645,38 +645,38 @@
 643/j.H/H or D/
 644/j.H/Mist Finer 66/
 645/j.H/Mist Finer 44/
-646/j.H/Card hit by Mist Finer/
+646/j.H/Card hit by Mist Finer/j.Hhas13fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 647/j.H/"236P/K/S"/
-648/j.H/j.236H/
+648/j.H/j.236H/j.Hhas13fofblockstun, whilej.236Hhas15fofstartupf
 649/j.H/236H/
-650/j.H/236HH/
-651/j.H/214H/
-652/j.H/632146H/
-653/j.H/236236S/
-654/j.H/236D/
-655/j.H/236[D]/
-656/j.D/5P/
-657/j.D/5K/
-658/j.D/c.S/
-659/j.D/f.S/
-660/j.D/5H/
-661/j.D/5D/
-662/j.D/5[D]/
-663/j.D/2P/
-664/j.D/2K/
-665/j.D/2S/
-666/j.D/2H/
-667/j.D/2D/
-668/j.D/j.P/
-669/j.D/j.K/
-670/j.D/j.S/
-671/j.D/j.H/
-672/j.D/j.D/
-673/j.D/6P/
-674/j.D/6K/
-675/j.D/6H/
-676/j.D/"214[P/K/S]"/
-677/j.D/"j.214[P/K/S]"/
+650/j.H/236HH/j.Hhas13fofblockstun, while236HHhas3fofstartupf
+651/j.H/214H/j.Hhas13fofblockstun, while214Hhas18fofstartupf
+652/j.H/632146H/j.Hhas13fofblockstun, while632146Hhas11fofstartupf
+653/j.H/236236S/j.Hhas13fofblockstun, while236236Shas7fofstartupf
+654/j.H/236D/j.Hhas13fofblockstun, while236Dhas16fofstartupf
+655/j.H/236[D]/j.Hhas13fofblockstun, while236 [D]has29fofstartupf
+656/j.D/5P/j.Dhas13fofblockstun, while5Phas6fofstartupf
+657/j.D/5K/j.Dhas13fofblockstun, while5Khas7fofstartupf
+658/j.D/c.S/j.Dhas13fofblockstun, whilec.Shas7fofstartupf
+659/j.D/f.S/j.Dhas13fofblockstun, whilef.Shas9fofstartupf
+660/j.D/5H/j.Dhas13fofblockstun, while5Hhas13fofstartupf
+661/j.D/5D/j.Dhas13fofblockstun, while5Dhas20fofstartupf
+662/j.D/5[D]/j.Dhas13fofblockstun, while5 [D]has28fofstartupf
+663/j.D/2P/j.Dhas13fofblockstun, while2Phas5fofstartupf
+664/j.D/2K/j.Dhas13fofblockstun, while2Khas6fofstartupf
+665/j.D/2S/j.Dhas13fofblockstun, while2Shas11fofstartupf
+666/j.D/2H/j.Dhas13fofblockstun, while2Hhas18fofstartupf
+667/j.D/2D/j.Dhas13fofblockstun, while2Dhas10fofstartupf
+668/j.D/j.P/j.Dhas13fofblockstun, whilej.Phas7fofstartupf
+669/j.D/j.K/j.Dhas13fofblockstun, whilej.Khas8fofstartupf
+670/j.D/j.S/j.Dhas13fofblockstun, whilej.Shas10fofstartupf
+671/j.D/j.H/j.Dhas13fofblockstun, whilej.Hhas15fofstartupf
+672/j.D/j.D/j.Dhas13fofblockstun, whilej.Dhas8fofstartupf
+673/j.D/6P/j.Dhas13fofblockstun, while6Phas11fofstartupf
+674/j.D/6K/j.Dhas13fofblockstun, while6Khas15fofstartupf
+675/j.D/6H/j.Dhas13fofblockstun, while6Hhas18fofstartupf
+676/j.D/"214[P/K/S]"/"j.Dhas13fofblockstun, while214 [P/K/S]has7fofstartupf"
+677/j.D/"j.214[P/K/S]"/"j.Dhas13fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 678/j.D/214]P[/"N/A"
 679/j.D/214]K[/"N/A"
 680/j.D/214]S[/"N/A"
@@ -686,38 +686,38 @@
 684/j.D/H or D/
 685/j.D/Mist Finer 66/
 686/j.D/Mist Finer 44/
-687/j.D/Card hit by Mist Finer/
+687/j.D/Card hit by Mist Finer/j.Dhas13fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 688/j.D/"236P/K/S"/
-689/j.D/j.236H/
+689/j.D/j.236H/j.Dhas13fofblockstun, whilej.236Hhas15fofstartupf
 690/j.D/236H/
-691/j.D/236HH/
-692/j.D/214H/
-693/j.D/632146H/
-694/j.D/236236S/
-695/j.D/236D/
-696/j.D/236[D]/
-697/6P/5P/15f
-698/6P/5K/16f
-699/6P/c.S/16f
-700/6P/f.S/18f
-701/6P/5H/22f
-702/6P/5D/29f
-703/6P/5[D]/37f
-704/6P/2P/14f
-705/6P/2K/15f
-706/6P/2S/20f
-707/6P/2H/27f
-708/6P/2D/19f
-709/6P/j.P/21f
-710/6P/j.K/22f
-711/6P/j.S/24f
-712/6P/j.H/29f
-713/6P/j.D/22f
-714/6P/6P/20f
-715/6P/6K/24f
-716/6P/6H/27f
+691/j.D/236HH/j.Dhas13fofblockstun, while236HHhas3fofstartupf
+692/j.D/214H/j.Dhas13fofblockstun, while214Hhas18fofstartupf
+693/j.D/632146H/j.Dhas13fofblockstun, while632146Hhas11fofstartupf
+694/j.D/236236S/j.Dhas13fofblockstun, while236236Shas7fofstartupf
+695/j.D/236D/j.Dhas13fofblockstun, while236Dhas16fofstartupf
+696/j.D/236[D]/j.Dhas13fofblockstun, while236 [D]has29fofstartupf
+697/6P/5P/4f
+698/6P/5K/5f
+699/6P/c.S/5f
+700/6P/f.S/7f
+701/6P/5H/11f
+702/6P/5D/18f
+703/6P/5[D]/26f
+704/6P/2P/3f
+705/6P/2K/4f
+706/6P/2S/9f
+707/6P/2H/16f
+708/6P/2D/8f
+709/6P/j.P/10f
+710/6P/j.K/11f
+711/6P/j.S/13f
+712/6P/j.H/18f
+713/6P/j.D/11f
+714/6P/6P/9f
+715/6P/6K/13f
+716/6P/6H/16f
 717/6P/"214[P/K/S]"/-6f
-718/6P/"j.214[P/K/S]"/21f
+718/6P/"j.214[P/K/S]"/10f
 719/6P/214]P[/"N/A"
 720/6P/214]K[/"N/A"
 721/6P/214]S[/"N/A"
@@ -727,38 +727,38 @@
 725/6P/H or D/
 726/6P/Mist Finer 66/
 727/6P/Mist Finer 44/
-728/6P/Card hit by Mist Finer/25f
+728/6P/Card hit by Mist Finer/14f
 729/6P/"236P/K/S"/
-730/6P/j.236H/29f
+730/6P/j.236H/18f
 731/6P/236H/
 732/6P/236HH/-10f
 733/6P/214H/5f
 734/6P/632146H/-2f
 735/6P/236236S/-6f
 736/6P/236D/3f
-737/6P/236[D]/15f
-738/6K/5P/11f
-739/6K/5K/12f
-740/6K/c.S/12f
-741/6K/f.S/14f
-742/6K/5H/18f
-743/6K/5D/25f
-744/6K/5[D]/33f
-745/6K/2P/10f
-746/6K/2K/11f
-747/6K/2S/16f
-748/6K/2H/23f
-749/6K/2D/15f
-750/6K/j.P/17f
-751/6K/j.K/18f
-752/6K/j.S/20f
-753/6K/j.H/25f
-754/6K/j.D/18f
-755/6K/6P/16f
-756/6K/6K/20f
-757/6K/6H/23f
+737/6P/236[D]/16f
+738/6K/5P/3f
+739/6K/5K/4f
+740/6K/c.S/4f
+741/6K/f.S/6f
+742/6K/5H/10f
+743/6K/5D/17f
+744/6K/5[D]/25f
+745/6K/2P/2f
+746/6K/2K/3f
+747/6K/2S/8f
+748/6K/2H/15f
+749/6K/2D/7f
+750/6K/j.P/9f
+751/6K/j.K/10f
+752/6K/j.S/12f
+753/6K/j.H/17f
+754/6K/j.D/10f
+755/6K/6P/8f
+756/6K/6K/12f
+757/6K/6H/15f
 758/6K/"214[P/K/S]"/-9f
-759/6K/"j.214[P/K/S]"/17f
+759/6K/"j.214[P/K/S]"/9f
 760/6K/214]P[/"N/A"
 761/6K/214]K[/"N/A"
 762/6K/214]S[/"N/A"
@@ -768,38 +768,38 @@
 766/6K/H or D/
 767/6K/Mist Finer 66/
 768/6K/Mist Finer 44/
-769/6K/Card hit by Mist Finer/21f
+769/6K/Card hit by Mist Finer/13f
 770/6K/"236P/K/S"/
-771/6K/j.236H/25f
+771/6K/j.236H/17f
 772/6K/236H/
 773/6K/236HH/-13f
 774/6K/214H/2f
 775/6K/632146H/-5f
 776/6K/236236S/-9f
 777/6K/236D/0f
-778/6K/236[D]/12f
-779/6H/5P/25f
-780/6H/5K/26f
-781/6H/c.S/26f
-782/6H/f.S/28f
-783/6H/5H/32f
-784/6H/5D/39f
-785/6H/5[D]/47f
-786/6H/2P/24f
-787/6H/2K/25f
-788/6H/2S/30f
-789/6H/2H/37f
-790/6H/2D/29f
-791/6H/j.P/31f
-792/6H/j.K/32f
-793/6H/j.S/34f
-794/6H/j.H/39f
-795/6H/j.D/32f
-796/6H/6P/30f
-797/6H/6K/34f
-798/6H/6H/37f
+778/6K/236[D]/13f
+779/6H/5P/2f
+780/6H/5K/3f
+781/6H/c.S/3f
+782/6H/f.S/5f
+783/6H/5H/9f
+784/6H/5D/16f
+785/6H/5[D]/24f
+786/6H/2P/1f
+787/6H/2K/2f
+788/6H/2S/7f
+789/6H/2H/14f
+790/6H/2D/6f
+791/6H/j.P/8f
+792/6H/j.K/9f
+793/6H/j.S/11f
+794/6H/j.H/16f
+795/6H/j.D/9f
+796/6H/6P/7f
+797/6H/6K/11f
+798/6H/6H/14f
 799/6H/"214[P/K/S]"/-11f
-800/6H/"j.214[P/K/S]"/31f
+800/6H/"j.214[P/K/S]"/8f
 801/6H/214]P[/"N/A"
 802/6H/214]K[/"N/A"
 803/6H/214]S[/"N/A"
@@ -809,16 +809,16 @@
 807/6H/H or D/
 808/6H/Mist Finer 66/
 809/6H/Mist Finer 44/
-810/6H/Card hit by Mist Finer/35f
+810/6H/Card hit by Mist Finer/12f
 811/6H/"236P/K/S"/
-812/6H/j.236H/39f
+812/6H/j.236H/16f
 813/6H/236H/
 814/6H/236HH/-15f
 815/6H/214H/0f
 816/6H/632146H/-7f
 817/6H/236236S/-11f
 818/6H/236D/-2f
-819/6H/236[D]/10f
+819/6H/236[D]/11f
 820/"214[P/K/S]"/5P/
 821/"214[P/K/S]"/5K/
 822/"214[P/K/S]"/c.S/
@@ -1270,28 +1270,28 @@
 1268/Mist Finer 44/236236S/
 1269/Mist Finer 44/236D/
 1270/Mist Finer 44/236[D]/
-1271/Card hit by Mist Finer/5P/-18f
-1272/Card hit by Mist Finer/5K/-17f
-1273/Card hit by Mist Finer/c.S/-17f
-1274/Card hit by Mist Finer/f.S/-15f
-1275/Card hit by Mist Finer/5H/-11f
-1276/Card hit by Mist Finer/5D/-4f
-1277/Card hit by Mist Finer/5[D]/4f
-1278/Card hit by Mist Finer/2P/-19f
-1279/Card hit by Mist Finer/2K/-18f
-1280/Card hit by Mist Finer/2S/-13f
-1281/Card hit by Mist Finer/2H/-6f
-1282/Card hit by Mist Finer/2D/-14f
-1283/Card hit by Mist Finer/j.P/-12f
-1284/Card hit by Mist Finer/j.K/-11f
-1285/Card hit by Mist Finer/j.S/-9f
-1286/Card hit by Mist Finer/j.H/-4f
-1287/Card hit by Mist Finer/j.D/-11f
-1288/Card hit by Mist Finer/6P/-13f
-1289/Card hit by Mist Finer/6K/-9f
-1290/Card hit by Mist Finer/6H/-6f
-1291/Card hit by Mist Finer/"214[P/K/S]"/-17f
-1292/Card hit by Mist Finer/"j.214[P/K/S]"/-12f
+1271/Card hit by Mist Finer/5P/
+1272/Card hit by Mist Finer/5K/
+1273/Card hit by Mist Finer/c.S/
+1274/Card hit by Mist Finer/f.S/
+1275/Card hit by Mist Finer/5H/
+1276/Card hit by Mist Finer/5D/
+1277/Card hit by Mist Finer/5[D]/
+1278/Card hit by Mist Finer/2P/
+1279/Card hit by Mist Finer/2K/
+1280/Card hit by Mist Finer/2S/
+1281/Card hit by Mist Finer/2H/
+1282/Card hit by Mist Finer/2D/
+1283/Card hit by Mist Finer/j.P/
+1284/Card hit by Mist Finer/j.K/
+1285/Card hit by Mist Finer/j.S/
+1286/Card hit by Mist Finer/j.H/
+1287/Card hit by Mist Finer/j.D/
+1288/Card hit by Mist Finer/6P/
+1289/Card hit by Mist Finer/6K/
+1290/Card hit by Mist Finer/6H/
+1291/Card hit by Mist Finer/"214[P/K/S]"/
+1292/Card hit by Mist Finer/"j.214[P/K/S]"/
 1293/Card hit by Mist Finer/214]P[/"N/A"
 1294/Card hit by Mist Finer/214]K[/"N/A"
 1295/Card hit by Mist Finer/214]S[/"N/A"
@@ -1301,16 +1301,16 @@
 1299/Card hit by Mist Finer/H or D/
 1300/Card hit by Mist Finer/Mist Finer 66/
 1301/Card hit by Mist Finer/Mist Finer 44/
-1302/Card hit by Mist Finer/Card hit by Mist Finer/-8f
+1302/Card hit by Mist Finer/Card hit by Mist Finer/
 1303/Card hit by Mist Finer/"236P/K/S"/
-1304/Card hit by Mist Finer/j.236H/-4f
+1304/Card hit by Mist Finer/j.236H/
 1305/Card hit by Mist Finer/236H/
-1306/Card hit by Mist Finer/236HH/-21f
-1307/Card hit by Mist Finer/214H/-6f
-1308/Card hit by Mist Finer/632146H/-13f
-1309/Card hit by Mist Finer/236236S/-17f
-1310/Card hit by Mist Finer/236D/-8f
-1311/Card hit by Mist Finer/236[D]/4f
+1306/Card hit by Mist Finer/236HH/
+1307/Card hit by Mist Finer/214H/
+1308/Card hit by Mist Finer/632146H/
+1309/Card hit by Mist Finer/236236S/
+1310/Card hit by Mist Finer/236D/
+1311/Card hit by Mist Finer/236[D]/
 1312/"236P/K/S"/5P/
 1313/"236P/K/S"/5K/
 1314/"236P/K/S"/c.S/
@@ -1352,28 +1352,28 @@
 1350/"236P/K/S"/236236S/
 1351/"236P/K/S"/236D/
 1352/"236P/K/S"/236[D]/
-1353/j.236H/5P/
-1354/j.236H/5K/
-1355/j.236H/c.S/
-1356/j.236H/f.S/
-1357/j.236H/5H/
-1358/j.236H/5D/
-1359/j.236H/5[D]/
-1360/j.236H/2P/
-1361/j.236H/2K/
-1362/j.236H/2S/
-1363/j.236H/2H/
-1364/j.236H/2D/
-1365/j.236H/j.P/
-1366/j.236H/j.K/
-1367/j.236H/j.S/
-1368/j.236H/j.H/
-1369/j.236H/j.D/
-1370/j.236H/6P/
-1371/j.236H/6K/
-1372/j.236H/6H/
-1373/j.236H/"214[P/K/S]"/
-1374/j.236H/"j.214[P/K/S]"/
+1353/j.236H/5P/j.236Hhas13fofblockstun, while5Phas6fofstartupf
+1354/j.236H/5K/j.236Hhas13fofblockstun, while5Khas7fofstartupf
+1355/j.236H/c.S/j.236Hhas13fofblockstun, whilec.Shas7fofstartupf
+1356/j.236H/f.S/j.236Hhas13fofblockstun, whilef.Shas9fofstartupf
+1357/j.236H/5H/j.236Hhas13fofblockstun, while5Hhas13fofstartupf
+1358/j.236H/5D/j.236Hhas13fofblockstun, while5Dhas20fofstartupf
+1359/j.236H/5[D]/j.236Hhas13fofblockstun, while5 [D]has28fofstartupf
+1360/j.236H/2P/j.236Hhas13fofblockstun, while2Phas5fofstartupf
+1361/j.236H/2K/j.236Hhas13fofblockstun, while2Khas6fofstartupf
+1362/j.236H/2S/j.236Hhas13fofblockstun, while2Shas11fofstartupf
+1363/j.236H/2H/j.236Hhas13fofblockstun, while2Hhas18fofstartupf
+1364/j.236H/2D/j.236Hhas13fofblockstun, while2Dhas10fofstartupf
+1365/j.236H/j.P/j.236Hhas13fofblockstun, whilej.Phas7fofstartupf
+1366/j.236H/j.K/j.236Hhas13fofblockstun, whilej.Khas8fofstartupf
+1367/j.236H/j.S/j.236Hhas13fofblockstun, whilej.Shas10fofstartupf
+1368/j.236H/j.H/j.236Hhas13fofblockstun, whilej.Hhas15fofstartupf
+1369/j.236H/j.D/j.236Hhas13fofblockstun, whilej.Dhas8fofstartupf
+1370/j.236H/6P/j.236Hhas13fofblockstun, while6Phas11fofstartupf
+1371/j.236H/6K/j.236Hhas13fofblockstun, while6Khas15fofstartupf
+1372/j.236H/6H/j.236Hhas13fofblockstun, while6Hhas18fofstartupf
+1373/j.236H/"214[P/K/S]"/"j.236Hhas13fofblockstun, while214 [P/K/S]has7fofstartupf"
+1374/j.236H/"j.214[P/K/S]"/"j.236Hhas13fofblockstun, whilej.214 [P/K/S]has7fofstartupf"
 1375/j.236H/214]P[/"N/A"
 1376/j.236H/214]K[/"N/A"
 1377/j.236H/214]S[/"N/A"
@@ -1383,16 +1383,16 @@
 1381/j.236H/H or D/
 1382/j.236H/Mist Finer 66/
 1383/j.236H/Mist Finer 44/
-1384/j.236H/Card hit by Mist Finer/
+1384/j.236H/Card hit by Mist Finer/j.236Hhas13fofblockstun, whileCardhitbyMistFinerhas16fofstartupf
 1385/j.236H/"236P/K/S"/
-1386/j.236H/j.236H/
+1386/j.236H/j.236H/j.236Hhas13fofblockstun, whilej.236Hhas15fofstartupf
 1387/j.236H/236H/
-1388/j.236H/236HH/
-1389/j.236H/214H/
-1390/j.236H/632146H/
-1391/j.236H/236236S/
-1392/j.236H/236D/
-1393/j.236H/236[D]/
+1388/j.236H/236HH/j.236Hhas13fofblockstun, while236HHhas3fofstartupf
+1389/j.236H/214H/j.236Hhas13fofblockstun, while214Hhas18fofstartupf
+1390/j.236H/632146H/j.236Hhas13fofblockstun, while632146Hhas11fofstartupf
+1391/j.236H/236236S/j.236Hhas13fofblockstun, while236236Shas7fofstartupf
+1392/j.236H/236D/j.236Hhas13fofblockstun, while236Dhas16fofstartupf
+1393/j.236H/236[D]/j.236Hhas13fofblockstun, while236 [D]has29fofstartupf
 1394/236H/5P/
 1395/236H/5K/
 1396/236H/c.S/
@@ -1434,28 +1434,28 @@
 1432/236H/236236S/
 1433/236H/236D/
 1434/236H/236[D]/
-1435/236HH/5P/
-1436/236HH/5K/
-1437/236HH/c.S/
-1438/236HH/f.S/
-1439/236HH/5H/
-1440/236HH/5D/
-1441/236HH/5[D]/
-1442/236HH/2P/
-1443/236HH/2K/
-1444/236HH/2S/
-1445/236HH/2H/
-1446/236HH/2D/
-1447/236HH/j.P/
-1448/236HH/j.K/
-1449/236HH/j.S/
-1450/236HH/j.H/
-1451/236HH/j.D/
-1452/236HH/6P/
-1453/236HH/6K/
-1454/236HH/6H/
-1455/236HH/"214[P/K/S]"/
-1456/236HH/"j.214[P/K/S]"/
+1435/236HH/5P/4f
+1436/236HH/5K/5f
+1437/236HH/c.S/5f
+1438/236HH/f.S/7f
+1439/236HH/5H/11f
+1440/236HH/5D/18f
+1441/236HH/5[D]/26f
+1442/236HH/2P/3f
+1443/236HH/2K/4f
+1444/236HH/2S/9f
+1445/236HH/2H/16f
+1446/236HH/2D/8f
+1447/236HH/j.P/10f
+1448/236HH/j.K/11f
+1449/236HH/j.S/13f
+1450/236HH/j.H/18f
+1451/236HH/j.D/11f
+1452/236HH/6P/9f
+1453/236HH/6K/13f
+1454/236HH/6H/16f
+1455/236HH/"214[P/K/S]"/5f
+1456/236HH/"j.214[P/K/S]"/10f
 1457/236HH/214]P[/"N/A"
 1458/236HH/214]K[/"N/A"
 1459/236HH/214]S[/"N/A"
@@ -1465,38 +1465,38 @@
 1463/236HH/H or D/
 1464/236HH/Mist Finer 66/
 1465/236HH/Mist Finer 44/
-1466/236HH/Card hit by Mist Finer/
+1466/236HH/Card hit by Mist Finer/14f
 1467/236HH/"236P/K/S"/
-1468/236HH/j.236H/
+1468/236HH/j.236H/18f
 1469/236HH/236H/
-1470/236HH/236HH/
-1471/236HH/214H/
-1472/236HH/632146H/
-1473/236HH/236236S/
-1474/236HH/236D/
-1475/236HH/236[D]/
-1476/214H/5P/10f
-1477/214H/5K/11f
-1478/214H/c.S/11f
-1479/214H/f.S/13f
-1480/214H/5H/17f
-1481/214H/5D/24f
-1482/214H/5[D]/32f
-1483/214H/2P/9f
-1484/214H/2K/10f
-1485/214H/2S/15f
-1486/214H/2H/22f
-1487/214H/2D/14f
-1488/214H/j.P/16f
-1489/214H/j.K/17f
-1490/214H/j.S/19f
-1491/214H/j.H/24f
-1492/214H/j.D/17f
-1493/214H/6P/15f
-1494/214H/6K/19f
-1495/214H/6H/22f
-1496/214H/"214[P/K/S]"/11f
-1497/214H/"j.214[P/K/S]"/16f
+1470/236HH/236HH/1f
+1471/236HH/214H/16f
+1472/236HH/632146H/9f
+1473/236HH/236236S/5f
+1474/236HH/236D/14f
+1475/236HH/236[D]/27f
+1476/214H/5P/2f
+1477/214H/5K/3f
+1478/214H/c.S/3f
+1479/214H/f.S/5f
+1480/214H/5H/9f
+1481/214H/5D/16f
+1482/214H/5[D]/24f
+1483/214H/2P/1f
+1484/214H/2K/2f
+1485/214H/2S/7f
+1486/214H/2H/14f
+1487/214H/2D/6f
+1488/214H/j.P/8f
+1489/214H/j.K/9f
+1490/214H/j.S/11f
+1491/214H/j.H/16f
+1492/214H/j.D/9f
+1493/214H/6P/7f
+1494/214H/6K/11f
+1495/214H/6H/14f
+1496/214H/"214[P/K/S]"/3f
+1497/214H/"j.214[P/K/S]"/8f
 1498/214H/214]P[/"N/A"
 1499/214H/214]K[/"N/A"
 1500/214H/214]S[/"N/A"
@@ -1506,38 +1506,38 @@
 1504/214H/H or D/
 1505/214H/Mist Finer 66/
 1506/214H/Mist Finer 44/
-1507/214H/Card hit by Mist Finer/20f
+1507/214H/Card hit by Mist Finer/12f
 1508/214H/"236P/K/S"/
-1509/214H/j.236H/24f
+1509/214H/j.236H/16f
 1510/214H/236H/
-1511/214H/236HH/7f
-1512/214H/214H/22f
-1513/214H/632146H/15f
-1514/214H/236236S/11f
-1515/214H/236D/20f
-1516/214H/236[D]/32f
-1517/632146H/5P/50f
-1518/632146H/5K/51f
-1519/632146H/c.S/51f
-1520/632146H/f.S/53f
-1521/632146H/5H/57f
-1522/632146H/5D/64f
-1523/632146H/5[D]/72f
-1524/632146H/2P/49f
-1525/632146H/2K/50f
-1526/632146H/2S/55f
-1527/632146H/2H/62f
-1528/632146H/2D/54f
-1529/632146H/j.P/56f
-1530/632146H/j.K/57f
-1531/632146H/j.S/59f
-1532/632146H/j.H/64f
-1533/632146H/j.D/57f
-1534/632146H/6P/55f
-1535/632146H/6K/59f
-1536/632146H/6H/62f
-1537/632146H/"214[P/K/S]"/51f
-1538/632146H/"j.214[P/K/S]"/56f
+1511/214H/236HH/-1f
+1512/214H/214H/14f
+1513/214H/632146H/7f
+1514/214H/236236S/3f
+1515/214H/236D/12f
+1516/214H/236[D]/25f
+1517/632146H/5P/2f
+1518/632146H/5K/3f
+1519/632146H/c.S/3f
+1520/632146H/f.S/5f
+1521/632146H/5H/9f
+1522/632146H/5D/16f
+1523/632146H/5[D]/24f
+1524/632146H/2P/1f
+1525/632146H/2K/2f
+1526/632146H/2S/7f
+1527/632146H/2H/14f
+1528/632146H/2D/6f
+1529/632146H/j.P/8f
+1530/632146H/j.K/9f
+1531/632146H/j.S/11f
+1532/632146H/j.H/16f
+1533/632146H/j.D/9f
+1534/632146H/6P/7f
+1535/632146H/6K/11f
+1536/632146H/6H/14f
+1537/632146H/"214[P/K/S]"/3f
+1538/632146H/"j.214[P/K/S]"/8f
 1539/632146H/214]P[/"N/A"
 1540/632146H/214]K[/"N/A"
 1541/632146H/214]S[/"N/A"
@@ -1547,38 +1547,38 @@
 1545/632146H/H or D/
 1546/632146H/Mist Finer 66/
 1547/632146H/Mist Finer 44/
-1548/632146H/Card hit by Mist Finer/60f
+1548/632146H/Card hit by Mist Finer/12f
 1549/632146H/"236P/K/S"/
-1550/632146H/j.236H/64f
+1550/632146H/j.236H/16f
 1551/632146H/236H/
-1552/632146H/236HH/47f
-1553/632146H/214H/62f
-1554/632146H/632146H/55f
-1555/632146H/236236S/51f
-1556/632146H/236D/60f
-1557/632146H/236[D]/72f
-1558/236236S/5P/22f
-1559/236236S/5K/23f
-1560/236236S/c.S/23f
-1561/236236S/f.S/25f
-1562/236236S/5H/29f
-1563/236236S/5D/36f
-1564/236236S/5[D]/44f
-1565/236236S/2P/21f
-1566/236236S/2K/22f
-1567/236236S/2S/27f
-1568/236236S/2H/34f
-1569/236236S/2D/26f
-1570/236236S/j.P/28f
-1571/236236S/j.K/29f
-1572/236236S/j.S/31f
-1573/236236S/j.H/36f
-1574/236236S/j.D/29f
-1575/236236S/6P/27f
-1576/236236S/6K/31f
-1577/236236S/6H/34f
-1578/236236S/"214[P/K/S]"/23f
-1579/236236S/"j.214[P/K/S]"/28f
+1552/632146H/236HH/-1f
+1553/632146H/214H/14f
+1554/632146H/632146H/7f
+1555/632146H/236236S/3f
+1556/632146H/236D/12f
+1557/632146H/236[D]/25f
+1558/236236S/5P/2f
+1559/236236S/5K/3f
+1560/236236S/c.S/3f
+1561/236236S/f.S/5f
+1562/236236S/5H/9f
+1563/236236S/5D/16f
+1564/236236S/5[D]/24f
+1565/236236S/2P/1f
+1566/236236S/2K/2f
+1567/236236S/2S/7f
+1568/236236S/2H/14f
+1569/236236S/2D/6f
+1570/236236S/j.P/8f
+1571/236236S/j.K/9f
+1572/236236S/j.S/11f
+1573/236236S/j.H/16f
+1574/236236S/j.D/9f
+1575/236236S/6P/7f
+1576/236236S/6K/11f
+1577/236236S/6H/14f
+1578/236236S/"214[P/K/S]"/3f
+1579/236236S/"j.214[P/K/S]"/8f
 1580/236236S/214]P[/"N/A"
 1581/236236S/214]K[/"N/A"
 1582/236236S/214]S[/"N/A"
@@ -1588,16 +1588,16 @@
 1586/236236S/H or D/
 1587/236236S/Mist Finer 66/
 1588/236236S/Mist Finer 44/
-1589/236236S/Card hit by Mist Finer/32f
+1589/236236S/Card hit by Mist Finer/12f
 1590/236236S/"236P/K/S"/
-1591/236236S/j.236H/36f
+1591/236236S/j.236H/16f
 1592/236236S/236H/
-1593/236236S/236HH/19f
-1594/236236S/214H/34f
-1595/236236S/632146H/27f
-1596/236236S/236236S/23f
-1597/236236S/236D/32f
-1598/236236S/236[D]/44f
+1593/236236S/236HH/-1f
+1594/236236S/214H/14f
+1595/236236S/632146H/7f
+1596/236236S/236236S/3f
+1597/236236S/236D/12f
+1598/236236S/236[D]/25f
 1599/236D/5P/-12f
 1600/236D/5K/-11f
 1601/236D/c.S/-11f
@@ -1638,7 +1638,7 @@
 1636/236D/632146H/-7f
 1637/236D/236236S/-11f
 1638/236D/236D/-2f
-1639/236D/236[D]/10f
+1639/236D/236[D]/11f
 1640/236[D]/5P/-12f
 1641/236[D]/5K/-11f
 1642/236[D]/c.S/-11f
@@ -1679,4 +1679,4 @@
 1677/236[D]/632146H/-7f
 1678/236[D]/236236S/-11f
 1679/236[D]/236D/-2f
-1680/236[D]/236[D]/10f
+1680/236[D]/236[D]/11f

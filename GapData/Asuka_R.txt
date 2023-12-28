@@ -1,41 +1,41 @@
 /move1/move2/gap
 0/5P/5P/-3f
-1/5P/5K/9f
-2/5P/c.S/9f
-3/5P/f.S/13f
-4/5P/5H/17f
+1/5P/5K/7f
+2/5P/c.S/7f
+3/5P/f.S/11f
+4/5P/5H/15f
 5/5P/2P/-4f
-6/5P/2K/8f
-7/5P/2S/14f
-8/5P/2H/16f
-9/5P/j.P/13f
-10/5P/j.K/14f
-11/5P/j.S/16f
-12/5P/j.H/18f
-13/5P/j.D/21f
+6/5P/2K/6f
+7/5P/2S/12f
+8/5P/2H/14f
+9/5P/j.P/11f
+10/5P/j.K/12f
+11/5P/j.S/14f
+12/5P/j.H/16f
+13/5P/j.D/19f
 14/5P/6P/2f
 15/5P/6K/5f
 16/5P/6H/16f
-17/5P/2D/14f
-18/5P/5D/22f
-19/5P/5[D]/30f
+17/5P/2D/12f
+18/5P/5D/20f
+19/5P/5[D]/28f
 20/5P/236X/
 21/5P/214X (Draw)/-2f
 22/5P/214X (Discard)/-2f
 23/5P/"22P/K/S"/4f
 24/5P/22H~X/-7f
-25/5P/Reduce Mana Cost/13f
-26/5P/Recover Mana (Continuous)/18f
-27/5P/Recover Mana (Instant)/13f
-28/5P/Bookmark (Full Import)/13f
-29/5P/Bookmark (Random Import)/13f
-30/5P/Bookmark (Auto Import)/18f
-31/5P/High-Pass Filter Gravity/21f
-32/5P/Low-Pass Filter Gravity/21f
-33/5P/Shooting Time Stretch (Accelerate)/21f
-34/5P/Shooting Time Stretch (Decelerate)/21f
-35/5P/Gravity Rod (Shooting)/21f
-36/5P/Repulsive Rod (Shooting)/21f
+25/5P/Reduce Mana Cost/11f
+26/5P/Recover Mana (Continuous)/16f
+27/5P/Recover Mana (Instant)/11f
+28/5P/Bookmark (Full Import)/11f
+29/5P/Bookmark (Random Import)/11f
+30/5P/Bookmark (Auto Import)/16f
+31/5P/High-Pass Filter Gravity/19f
+32/5P/Low-Pass Filter Gravity/19f
+33/5P/Shooting Time Stretch (Accelerate)/19f
+34/5P/Shooting Time Stretch (Decelerate)/19f
+35/5P/Gravity Rod (Shooting)/19f
+36/5P/Repulsive Rod (Shooting)/19f
 37/5P/Howling Metron/2f
 38/5P/Delayed Howling Metron/12f
 39/5P/Howling Metron MS Processing/7f
@@ -47,22 +47,22 @@
 45/5P/Aquila Metron/5f
 46/5P/Bit Shift Metron/5f
 47/5P/RMS Boost Metron/5f
-48/5P/Go to Marker/18f
+48/5P/Go to Marker/16f
 49/5P/Sampler 404/2f
-50/5P/Chaotic Option/13f
+50/5P/Chaotic Option/11f
 51/5P/"632146P/K"/-2f
 52/5P/632146S/7f
 53/5P/236D/11f
 54/5P/236[D]/23f
-55/5K/5P/9f
-56/5K/5K/10f
-57/5K/c.S/10f
-58/5K/f.S/14f
-59/5K/5H/18f
-60/5K/2P/8f
-61/5K/2K/9f
-62/5K/2S/15f
-63/5K/2H/17f
+55/5K/5P/5f
+56/5K/5K/6f
+57/5K/c.S/6f
+58/5K/f.S/10f
+59/5K/5H/14f
+60/5K/2P/4f
+61/5K/2K/5f
+62/5K/2S/11f
+63/5K/2H/13f
 64/5K/j.P/0f
 65/5K/j.K/1f
 66/5K/j.S/3f
@@ -73,24 +73,24 @@
 71/5K/6H/14f
 72/5K/2D/1f
 73/5K/5D/9f
-74/5K/5[D]/31f
+74/5K/5[D]/27f
 75/5K/236X/
 76/5K/214X (Draw)/-4f
 77/5K/214X (Discard)/-4f
 78/5K/"22P/K/S"/2f
 79/5K/22H~X/-9f
-80/5K/Reduce Mana Cost/14f
-81/5K/Recover Mana (Continuous)/19f
-82/5K/Recover Mana (Instant)/14f
-83/5K/Bookmark (Full Import)/14f
-84/5K/Bookmark (Random Import)/14f
-85/5K/Bookmark (Auto Import)/19f
-86/5K/High-Pass Filter Gravity/22f
-87/5K/Low-Pass Filter Gravity/22f
-88/5K/Shooting Time Stretch (Accelerate)/22f
-89/5K/Shooting Time Stretch (Decelerate)/22f
-90/5K/Gravity Rod (Shooting)/22f
-91/5K/Repulsive Rod (Shooting)/22f
+80/5K/Reduce Mana Cost/10f
+81/5K/Recover Mana (Continuous)/15f
+82/5K/Recover Mana (Instant)/10f
+83/5K/Bookmark (Full Import)/10f
+84/5K/Bookmark (Random Import)/10f
+85/5K/Bookmark (Auto Import)/15f
+86/5K/High-Pass Filter Gravity/18f
+87/5K/Low-Pass Filter Gravity/18f
+88/5K/Shooting Time Stretch (Accelerate)/18f
+89/5K/Shooting Time Stretch (Decelerate)/18f
+90/5K/Gravity Rod (Shooting)/18f
+91/5K/Repulsive Rod (Shooting)/18f
 92/5K/Howling Metron/0f
 93/5K/Delayed Howling Metron/10f
 94/5K/Howling Metron MS Processing/5f
@@ -102,20 +102,20 @@
 100/5K/Aquila Metron/3f
 101/5K/Bit Shift Metron/3f
 102/5K/RMS Boost Metron/3f
-103/5K/Go to Marker/19f
+103/5K/Go to Marker/15f
 104/5K/Sampler 404/0f
-105/5K/Chaotic Option/14f
+105/5K/Chaotic Option/10f
 106/5K/"632146P/K"/-4f
 107/5K/632146S/5f
 108/5K/236D/9f
 109/5K/236[D]/21f
-110/c.S/5P/5f
-111/c.S/5K/6f
-112/c.S/c.S/6f
+110/c.S/5P/3f
+111/c.S/5K/4f
+112/c.S/c.S/4f
 113/c.S/f.S/-5f
 114/c.S/5H/-1f
-115/c.S/2P/4f
-116/c.S/2K/5f
+115/c.S/2P/2f
+116/c.S/2K/3f
 117/c.S/2S/-4f
 118/c.S/2H/-2f
 119/c.S/j.P/-5f
@@ -128,24 +128,24 @@
 126/c.S/6H/9f
 127/c.S/2D/-4f
 128/c.S/5D/4f
-129/c.S/5[D]/27f
+129/c.S/5[D]/25f
 130/c.S/236X/
 131/c.S/214X (Draw)/-9f
 132/c.S/214X (Discard)/-9f
 133/c.S/"22P/K/S"/-3f
 134/c.S/22H~X/-14f
-135/c.S/Reduce Mana Cost/10f
-136/c.S/Recover Mana (Continuous)/15f
-137/c.S/Recover Mana (Instant)/10f
-138/c.S/Bookmark (Full Import)/10f
-139/c.S/Bookmark (Random Import)/10f
-140/c.S/Bookmark (Auto Import)/15f
-141/c.S/High-Pass Filter Gravity/18f
-142/c.S/Low-Pass Filter Gravity/18f
-143/c.S/Shooting Time Stretch (Accelerate)/18f
-144/c.S/Shooting Time Stretch (Decelerate)/18f
-145/c.S/Gravity Rod (Shooting)/18f
-146/c.S/Repulsive Rod (Shooting)/18f
+135/c.S/Reduce Mana Cost/8f
+136/c.S/Recover Mana (Continuous)/13f
+137/c.S/Recover Mana (Instant)/8f
+138/c.S/Bookmark (Full Import)/8f
+139/c.S/Bookmark (Random Import)/8f
+140/c.S/Bookmark (Auto Import)/13f
+141/c.S/High-Pass Filter Gravity/16f
+142/c.S/Low-Pass Filter Gravity/16f
+143/c.S/Shooting Time Stretch (Accelerate)/16f
+144/c.S/Shooting Time Stretch (Decelerate)/16f
+145/c.S/Gravity Rod (Shooting)/16f
+146/c.S/Repulsive Rod (Shooting)/16f
 147/c.S/Howling Metron/-5f
 148/c.S/Delayed Howling Metron/5f
 149/c.S/Howling Metron MS Processing/0f
@@ -157,50 +157,50 @@
 155/c.S/Aquila Metron/-2f
 156/c.S/Bit Shift Metron/-2f
 157/c.S/RMS Boost Metron/-2f
-158/c.S/Go to Marker/15f
+158/c.S/Go to Marker/13f
 159/c.S/Sampler 404/-5f
-160/c.S/Chaotic Option/10f
+160/c.S/Chaotic Option/8f
 161/c.S/"632146P/K"/-9f
 162/c.S/632146S/0f
 163/c.S/236D/4f
 164/c.S/236[D]/16f
-165/f.S/5P/12f
-166/f.S/5K/13f
-167/f.S/c.S/13f
-168/f.S/f.S/17f
+165/f.S/5P/4f
+166/f.S/5K/5f
+167/f.S/c.S/5f
+168/f.S/f.S/9f
 169/f.S/5H/2f
-170/f.S/2P/11f
-171/f.S/2K/12f
-172/f.S/2S/18f
+170/f.S/2P/3f
+171/f.S/2K/4f
+172/f.S/2S/10f
 173/f.S/2H/1f
-174/f.S/j.P/17f
-175/f.S/j.K/18f
-176/f.S/j.S/20f
-177/f.S/j.H/22f
-178/f.S/j.D/25f
-179/f.S/6P/17f
-180/f.S/6K/20f
-181/f.S/6H/31f
-182/f.S/2D/18f
-183/f.S/5D/26f
-184/f.S/5[D]/34f
+174/f.S/j.P/9f
+175/f.S/j.K/10f
+176/f.S/j.S/12f
+177/f.S/j.H/14f
+178/f.S/j.D/17f
+179/f.S/6P/9f
+180/f.S/6K/12f
+181/f.S/6H/23f
+182/f.S/2D/10f
+183/f.S/5D/18f
+184/f.S/5[D]/26f
 185/f.S/236X/
 186/f.S/214X (Draw)/-6f
 187/f.S/214X (Discard)/-6f
 188/f.S/"22P/K/S"/0f
 189/f.S/22H~X/-11f
-190/f.S/Reduce Mana Cost/17f
-191/f.S/Recover Mana (Continuous)/22f
-192/f.S/Recover Mana (Instant)/17f
-193/f.S/Bookmark (Full Import)/17f
-194/f.S/Bookmark (Random Import)/17f
-195/f.S/Bookmark (Auto Import)/22f
-196/f.S/High-Pass Filter Gravity/25f
-197/f.S/Low-Pass Filter Gravity/25f
-198/f.S/Shooting Time Stretch (Accelerate)/25f
-199/f.S/Shooting Time Stretch (Decelerate)/25f
-200/f.S/Gravity Rod (Shooting)/25f
-201/f.S/Repulsive Rod (Shooting)/25f
+190/f.S/Reduce Mana Cost/9f
+191/f.S/Recover Mana (Continuous)/14f
+192/f.S/Recover Mana (Instant)/9f
+193/f.S/Bookmark (Full Import)/9f
+194/f.S/Bookmark (Random Import)/9f
+195/f.S/Bookmark (Auto Import)/14f
+196/f.S/High-Pass Filter Gravity/17f
+197/f.S/Low-Pass Filter Gravity/17f
+198/f.S/Shooting Time Stretch (Accelerate)/17f
+199/f.S/Shooting Time Stretch (Decelerate)/17f
+200/f.S/Gravity Rod (Shooting)/17f
+201/f.S/Repulsive Rod (Shooting)/17f
 202/f.S/Howling Metron/-2f
 203/f.S/Delayed Howling Metron/8f
 204/f.S/Howling Metron MS Processing/3f
@@ -212,50 +212,50 @@
 210/f.S/Aquila Metron/1f
 211/f.S/Bit Shift Metron/1f
 212/f.S/RMS Boost Metron/1f
-213/f.S/Go to Marker/22f
+213/f.S/Go to Marker/14f
 214/f.S/Sampler 404/-2f
-215/f.S/Chaotic Option/17f
+215/f.S/Chaotic Option/9f
 216/f.S/"632146P/K"/-6f
 217/f.S/632146S/3f
 218/f.S/236D/7f
 219/f.S/236[D]/19f
-220/5H/5P/19f
-221/5H/5K/20f
-222/5H/c.S/20f
-223/5H/f.S/24f
-224/5H/5H/28f
-225/5H/2P/18f
-226/5H/2K/19f
-227/5H/2S/25f
-228/5H/2H/27f
-229/5H/j.P/24f
-230/5H/j.K/25f
-231/5H/j.S/27f
-232/5H/j.H/29f
-233/5H/j.D/32f
-234/5H/6P/24f
-235/5H/6K/27f
-236/5H/6H/38f
-237/5H/2D/25f
-238/5H/5D/33f
-239/5H/5[D]/41f
+220/5H/5P/2f
+221/5H/5K/3f
+222/5H/c.S/3f
+223/5H/f.S/7f
+224/5H/5H/11f
+225/5H/2P/1f
+226/5H/2K/2f
+227/5H/2S/8f
+228/5H/2H/10f
+229/5H/j.P/7f
+230/5H/j.K/8f
+231/5H/j.S/10f
+232/5H/j.H/12f
+233/5H/j.D/15f
+234/5H/6P/7f
+235/5H/6K/10f
+236/5H/6H/21f
+237/5H/2D/8f
+238/5H/5D/16f
+239/5H/5[D]/24f
 240/5H/236X/
 241/5H/214X (Draw)/-11f
 242/5H/214X (Discard)/-11f
 243/5H/"22P/K/S"/-5f
 244/5H/22H~X/-16f
-245/5H/Reduce Mana Cost/24f
-246/5H/Recover Mana (Continuous)/29f
-247/5H/Recover Mana (Instant)/24f
-248/5H/Bookmark (Full Import)/24f
-249/5H/Bookmark (Random Import)/24f
-250/5H/Bookmark (Auto Import)/29f
-251/5H/High-Pass Filter Gravity/32f
-252/5H/Low-Pass Filter Gravity/32f
-253/5H/Shooting Time Stretch (Accelerate)/32f
-254/5H/Shooting Time Stretch (Decelerate)/32f
-255/5H/Gravity Rod (Shooting)/32f
-256/5H/Repulsive Rod (Shooting)/32f
+245/5H/Reduce Mana Cost/7f
+246/5H/Recover Mana (Continuous)/12f
+247/5H/Recover Mana (Instant)/7f
+248/5H/Bookmark (Full Import)/7f
+249/5H/Bookmark (Random Import)/7f
+250/5H/Bookmark (Auto Import)/12f
+251/5H/High-Pass Filter Gravity/15f
+252/5H/Low-Pass Filter Gravity/15f
+253/5H/Shooting Time Stretch (Accelerate)/15f
+254/5H/Shooting Time Stretch (Decelerate)/15f
+255/5H/Gravity Rod (Shooting)/15f
+256/5H/Repulsive Rod (Shooting)/15f
 257/5H/Howling Metron/-7f
 258/5H/Delayed Howling Metron/3f
 259/5H/Howling Metron MS Processing/-2f
@@ -267,50 +267,50 @@
 265/5H/Aquila Metron/-4f
 266/5H/Bit Shift Metron/-4f
 267/5H/RMS Boost Metron/-4f
-268/5H/Go to Marker/29f
+268/5H/Go to Marker/12f
 269/5H/Sampler 404/-7f
-270/5H/Chaotic Option/24f
+270/5H/Chaotic Option/7f
 271/5H/"632146P/K"/-11f
 272/5H/632146S/-2f
 273/5H/236D/2f
 274/5H/236[D]/14f
 275/2P/5P/-3f
-276/2P/5K/9f
-277/2P/c.S/9f
-278/2P/f.S/13f
-279/2P/5H/17f
+276/2P/5K/7f
+277/2P/c.S/7f
+278/2P/f.S/11f
+279/2P/5H/15f
 280/2P/2P/-4f
-281/2P/2K/8f
-282/2P/2S/14f
-283/2P/2H/16f
-284/2P/j.P/13f
-285/2P/j.K/14f
-286/2P/j.S/16f
-287/2P/j.H/18f
-288/2P/j.D/21f
+281/2P/2K/6f
+282/2P/2S/12f
+283/2P/2H/14f
+284/2P/j.P/11f
+285/2P/j.K/12f
+286/2P/j.S/14f
+287/2P/j.H/16f
+288/2P/j.D/19f
 289/2P/6P/2f
 290/2P/6K/5f
 291/2P/6H/16f
-292/2P/2D/14f
-293/2P/5D/22f
-294/2P/5[D]/30f
+292/2P/2D/12f
+293/2P/5D/20f
+294/2P/5[D]/28f
 295/2P/236X/
 296/2P/214X (Draw)/-2f
 297/2P/214X (Discard)/-2f
 298/2P/"22P/K/S"/4f
 299/2P/22H~X/-7f
-300/2P/Reduce Mana Cost/13f
-301/2P/Recover Mana (Continuous)/18f
-302/2P/Recover Mana (Instant)/13f
-303/2P/Bookmark (Full Import)/13f
-304/2P/Bookmark (Random Import)/13f
-305/2P/Bookmark (Auto Import)/18f
-306/2P/High-Pass Filter Gravity/21f
-307/2P/Low-Pass Filter Gravity/21f
-308/2P/Shooting Time Stretch (Accelerate)/21f
-309/2P/Shooting Time Stretch (Decelerate)/21f
-310/2P/Gravity Rod (Shooting)/21f
-311/2P/Repulsive Rod (Shooting)/21f
+300/2P/Reduce Mana Cost/11f
+301/2P/Recover Mana (Continuous)/16f
+302/2P/Recover Mana (Instant)/11f
+303/2P/Bookmark (Full Import)/11f
+304/2P/Bookmark (Random Import)/11f
+305/2P/Bookmark (Auto Import)/16f
+306/2P/High-Pass Filter Gravity/19f
+307/2P/Low-Pass Filter Gravity/19f
+308/2P/Shooting Time Stretch (Accelerate)/19f
+309/2P/Shooting Time Stretch (Decelerate)/19f
+310/2P/Gravity Rod (Shooting)/19f
+311/2P/Repulsive Rod (Shooting)/19f
 312/2P/Howling Metron/2f
 313/2P/Delayed Howling Metron/12f
 314/2P/Howling Metron MS Processing/7f
@@ -322,50 +322,50 @@
 320/2P/Aquila Metron/5f
 321/2P/Bit Shift Metron/5f
 322/2P/RMS Boost Metron/5f
-323/2P/Go to Marker/18f
+323/2P/Go to Marker/16f
 324/2P/Sampler 404/2f
-325/2P/Chaotic Option/13f
+325/2P/Chaotic Option/11f
 326/2P/"632146P/K"/-2f
 327/2P/632146S/7f
 328/2P/236D/11f
 329/2P/236[D]/23f
-330/2K/5P/9f
-331/2K/5K/10f
-332/2K/c.S/10f
-333/2K/f.S/14f
-334/2K/5H/18f
-335/2K/2P/8f
-336/2K/2K/9f
-337/2K/2S/15f
-338/2K/2H/17f
-339/2K/j.P/14f
-340/2K/j.K/15f
-341/2K/j.S/17f
-342/2K/j.H/19f
-343/2K/j.D/22f
+330/2K/5P/5f
+331/2K/5K/6f
+332/2K/c.S/6f
+333/2K/f.S/10f
+334/2K/5H/14f
+335/2K/2P/4f
+336/2K/2K/5f
+337/2K/2S/11f
+338/2K/2H/13f
+339/2K/j.P/10f
+340/2K/j.K/11f
+341/2K/j.S/13f
+342/2K/j.H/15f
+343/2K/j.D/18f
 344/2K/6P/0f
 345/2K/6K/3f
 346/2K/6H/14f
 347/2K/2D/1f
 348/2K/5D/9f
-349/2K/5[D]/31f
+349/2K/5[D]/27f
 350/2K/236X/
 351/2K/214X (Draw)/-4f
 352/2K/214X (Discard)/-4f
 353/2K/"22P/K/S"/2f
 354/2K/22H~X/-9f
-355/2K/Reduce Mana Cost/14f
-356/2K/Recover Mana (Continuous)/19f
-357/2K/Recover Mana (Instant)/14f
-358/2K/Bookmark (Full Import)/14f
-359/2K/Bookmark (Random Import)/14f
-360/2K/Bookmark (Auto Import)/19f
-361/2K/High-Pass Filter Gravity/22f
-362/2K/Low-Pass Filter Gravity/22f
-363/2K/Shooting Time Stretch (Accelerate)/22f
-364/2K/Shooting Time Stretch (Decelerate)/22f
-365/2K/Gravity Rod (Shooting)/22f
-366/2K/Repulsive Rod (Shooting)/22f
+355/2K/Reduce Mana Cost/10f
+356/2K/Recover Mana (Continuous)/15f
+357/2K/Recover Mana (Instant)/10f
+358/2K/Bookmark (Full Import)/10f
+359/2K/Bookmark (Random Import)/10f
+360/2K/Bookmark (Auto Import)/15f
+361/2K/High-Pass Filter Gravity/18f
+362/2K/Low-Pass Filter Gravity/18f
+363/2K/Shooting Time Stretch (Accelerate)/18f
+364/2K/Shooting Time Stretch (Decelerate)/18f
+365/2K/Gravity Rod (Shooting)/18f
+366/2K/Repulsive Rod (Shooting)/18f
 367/2K/Howling Metron/0f
 368/2K/Delayed Howling Metron/10f
 369/2K/Howling Metron MS Processing/5f
@@ -377,50 +377,50 @@
 375/2K/Aquila Metron/3f
 376/2K/Bit Shift Metron/3f
 377/2K/RMS Boost Metron/3f
-378/2K/Go to Marker/19f
+378/2K/Go to Marker/15f
 379/2K/Sampler 404/0f
-380/2K/Chaotic Option/14f
+380/2K/Chaotic Option/10f
 381/2K/"632146P/K"/-4f
 382/2K/632146S/5f
 383/2K/236D/9f
 384/2K/236[D]/21f
-385/2S/5P/13f
-386/2S/5K/14f
-387/2S/c.S/14f
-388/2S/f.S/18f
+385/2S/5P/4f
+386/2S/5K/5f
+387/2S/c.S/5f
+388/2S/f.S/9f
 389/2S/5H/2f
-390/2S/2P/12f
-391/2S/2K/13f
-392/2S/2S/19f
+390/2S/2P/3f
+391/2S/2K/4f
+392/2S/2S/10f
 393/2S/2H/1f
-394/2S/j.P/18f
-395/2S/j.K/19f
-396/2S/j.S/21f
-397/2S/j.H/23f
-398/2S/j.D/26f
-399/2S/6P/18f
-400/2S/6K/21f
-401/2S/6H/32f
-402/2S/2D/19f
-403/2S/5D/27f
-404/2S/5[D]/35f
+394/2S/j.P/9f
+395/2S/j.K/10f
+396/2S/j.S/12f
+397/2S/j.H/14f
+398/2S/j.D/17f
+399/2S/6P/9f
+400/2S/6K/12f
+401/2S/6H/23f
+402/2S/2D/10f
+403/2S/5D/18f
+404/2S/5[D]/26f
 405/2S/236X/
 406/2S/214X (Draw)/-6f
 407/2S/214X (Discard)/-6f
 408/2S/"22P/K/S"/0f
 409/2S/22H~X/-11f
-410/2S/Reduce Mana Cost/18f
-411/2S/Recover Mana (Continuous)/23f
-412/2S/Recover Mana (Instant)/18f
-413/2S/Bookmark (Full Import)/18f
-414/2S/Bookmark (Random Import)/18f
-415/2S/Bookmark (Auto Import)/23f
-416/2S/High-Pass Filter Gravity/26f
-417/2S/Low-Pass Filter Gravity/26f
-418/2S/Shooting Time Stretch (Accelerate)/26f
-419/2S/Shooting Time Stretch (Decelerate)/26f
-420/2S/Gravity Rod (Shooting)/26f
-421/2S/Repulsive Rod (Shooting)/26f
+410/2S/Reduce Mana Cost/9f
+411/2S/Recover Mana (Continuous)/14f
+412/2S/Recover Mana (Instant)/9f
+413/2S/Bookmark (Full Import)/9f
+414/2S/Bookmark (Random Import)/9f
+415/2S/Bookmark (Auto Import)/14f
+416/2S/High-Pass Filter Gravity/17f
+417/2S/Low-Pass Filter Gravity/17f
+418/2S/Shooting Time Stretch (Accelerate)/17f
+419/2S/Shooting Time Stretch (Decelerate)/17f
+420/2S/Gravity Rod (Shooting)/17f
+421/2S/Repulsive Rod (Shooting)/17f
 422/2S/Howling Metron/-2f
 423/2S/Delayed Howling Metron/8f
 424/2S/Howling Metron MS Processing/3f
@@ -432,50 +432,50 @@
 430/2S/Aquila Metron/1f
 431/2S/Bit Shift Metron/1f
 432/2S/RMS Boost Metron/1f
-433/2S/Go to Marker/23f
+433/2S/Go to Marker/14f
 434/2S/Sampler 404/-2f
-435/2S/Chaotic Option/18f
+435/2S/Chaotic Option/9f
 436/2S/"632146P/K"/-6f
 437/2S/632146S/3f
 438/2S/236D/7f
 439/2S/236[D]/19f
-440/2H/5P/9f
-441/2H/5K/10f
-442/2H/c.S/10f
-443/2H/f.S/14f
-444/2H/5H/18f
-445/2H/2P/8f
-446/2H/2K/9f
-447/2H/2S/15f
-448/2H/2H/17f
-449/2H/j.P/14f
-450/2H/j.K/15f
-451/2H/j.S/17f
-452/2H/j.H/19f
-453/2H/j.D/22f
-454/2H/6P/14f
-455/2H/6K/17f
-456/2H/6H/28f
-457/2H/2D/15f
-458/2H/5D/23f
-459/2H/5[D]/31f
+440/2H/5P/3f
+441/2H/5K/4f
+442/2H/c.S/4f
+443/2H/f.S/8f
+444/2H/5H/12f
+445/2H/2P/2f
+446/2H/2K/3f
+447/2H/2S/9f
+448/2H/2H/11f
+449/2H/j.P/8f
+450/2H/j.K/9f
+451/2H/j.S/11f
+452/2H/j.H/13f
+453/2H/j.D/16f
+454/2H/6P/8f
+455/2H/6K/11f
+456/2H/6H/22f
+457/2H/2D/9f
+458/2H/5D/17f
+459/2H/5[D]/25f
 460/2H/236X/
 461/2H/214X (Draw)/-9f
 462/2H/214X (Discard)/-9f
 463/2H/"22P/K/S"/-3f
 464/2H/22H~X/-14f
-465/2H/Reduce Mana Cost/14f
-466/2H/Recover Mana (Continuous)/19f
-467/2H/Recover Mana (Instant)/14f
-468/2H/Bookmark (Full Import)/14f
-469/2H/Bookmark (Random Import)/14f
-470/2H/Bookmark (Auto Import)/19f
-471/2H/High-Pass Filter Gravity/22f
-472/2H/Low-Pass Filter Gravity/22f
-473/2H/Shooting Time Stretch (Accelerate)/22f
-474/2H/Shooting Time Stretch (Decelerate)/22f
-475/2H/Gravity Rod (Shooting)/22f
-476/2H/Repulsive Rod (Shooting)/22f
+465/2H/Reduce Mana Cost/8f
+466/2H/Recover Mana (Continuous)/13f
+467/2H/Recover Mana (Instant)/8f
+468/2H/Bookmark (Full Import)/8f
+469/2H/Bookmark (Random Import)/8f
+470/2H/Bookmark (Auto Import)/13f
+471/2H/High-Pass Filter Gravity/16f
+472/2H/Low-Pass Filter Gravity/16f
+473/2H/Shooting Time Stretch (Accelerate)/16f
+474/2H/Shooting Time Stretch (Decelerate)/16f
+475/2H/Gravity Rod (Shooting)/16f
+476/2H/Repulsive Rod (Shooting)/16f
 477/2H/Howling Metron/-5f
 478/2H/Delayed Howling Metron/5f
 479/2H/Howling Metron MS Processing/0f
@@ -487,325 +487,325 @@
 485/2H/Aquila Metron/-2f
 486/2H/Bit Shift Metron/-2f
 487/2H/RMS Boost Metron/-2f
-488/2H/Go to Marker/19f
+488/2H/Go to Marker/13f
 489/2H/Sampler 404/-5f
-490/2H/Chaotic Option/14f
+490/2H/Chaotic Option/8f
 491/2H/"632146P/K"/-9f
 492/2H/632146S/0f
 493/2H/236D/4f
 494/2H/236[D]/16f
-495/j.P/5P/
-496/j.P/5K/
-497/j.P/c.S/
-498/j.P/f.S/
-499/j.P/5H/
-500/j.P/2P/
-501/j.P/2K/
-502/j.P/2S/
-503/j.P/2H/
+495/j.P/5P/j.Phas9fofblockstun, while5Phas6fofstartupf
+496/j.P/5K/j.Phas9fofblockstun, while5Khas7fofstartupf
+497/j.P/c.S/j.Phas9fofblockstun, whilec.Shas7fofstartupf
+498/j.P/f.S/j.Phas9fofblockstun, whilef.Shas11fofstartupf
+499/j.P/5H/j.Phas9fofblockstun, while5Hhas15fofstartupf
+500/j.P/2P/j.Phas9fofblockstun, while2Phas5fofstartupf
+501/j.P/2K/j.Phas9fofblockstun, while2Khas6fofstartupf
+502/j.P/2S/j.Phas9fofblockstun, while2Shas12fofstartupf
+503/j.P/2H/j.Phas9fofblockstun, while2Hhas14fofstartupf
 504/j.P/j.P/-3f
-505/j.P/j.K/
-506/j.P/j.S/
-507/j.P/j.H/
-508/j.P/j.D/
-509/j.P/6P/
-510/j.P/6K/
-511/j.P/6H/
-512/j.P/2D/
-513/j.P/5D/
-514/j.P/5[D]/
+505/j.P/j.K/j.Phas9fofblockstun, whilej.Khas7fofstartupf
+506/j.P/j.S/j.Phas9fofblockstun, whilej.Shas9fofstartupf
+507/j.P/j.H/j.Phas9fofblockstun, whilej.Hhas11fofstartupf
+508/j.P/j.D/j.Phas9fofblockstun, whilej.Dhas14fofstartupf
+509/j.P/6P/j.Phas9fofblockstun, while6Phas11fofstartupf
+510/j.P/6K/j.Phas9fofblockstun, while6Khas14fofstartupf
+511/j.P/6H/j.Phas9fofblockstun, while6Hhas25fofstartupf
+512/j.P/2D/j.Phas9fofblockstun, while2Dhas12fofstartupf
+513/j.P/5D/j.Phas9fofblockstun, while5Dhas20fofstartupf
+514/j.P/5[D]/j.Phas9fofblockstun, while5 [D]has28fofstartupf
 515/j.P/236X/
-516/j.P/214X (Draw)/
-517/j.P/214X (Discard)/
-518/j.P/"22P/K/S"/
-519/j.P/22H~X/
-520/j.P/Reduce Mana Cost/
-521/j.P/Recover Mana (Continuous)/
-522/j.P/Recover Mana (Instant)/
-523/j.P/Bookmark (Full Import)/
-524/j.P/Bookmark (Random Import)/
-525/j.P/Bookmark (Auto Import)/
-526/j.P/High-Pass Filter Gravity/
-527/j.P/Low-Pass Filter Gravity/
-528/j.P/Shooting Time Stretch (Accelerate)/
-529/j.P/Shooting Time Stretch (Decelerate)/
-530/j.P/Gravity Rod (Shooting)/
-531/j.P/Repulsive Rod (Shooting)/
-532/j.P/Howling Metron/
-533/j.P/Delayed Howling Metron/
-534/j.P/Howling Metron MS Processing/
-535/j.P/Metron Screamer 808/
-536/j.P/Metron Arpeggio/
-537/j.P/Delayed Tardus Metron/
-538/j.P/Terra Metron/
-539/j.P/Accipiter Metron/
-540/j.P/Aquila Metron/
-541/j.P/Bit Shift Metron/
-542/j.P/RMS Boost Metron/
-543/j.P/Go to Marker/
-544/j.P/Sampler 404/
-545/j.P/Chaotic Option/
-546/j.P/"632146P/K"/
-547/j.P/632146S/
-548/j.P/236D/
-549/j.P/236[D]/
-550/j.K/5P/"N/A"
-551/j.K/5K/"N/A"
-552/j.K/c.S/"N/A"
-553/j.K/f.S/"N/A"
-554/j.K/5H/"N/A"
-555/j.K/2P/"N/A"
-556/j.K/2K/"N/A"
-557/j.K/2S/"N/A"
-558/j.K/2H/"N/A"
-559/j.K/j.P/"N/A"
-560/j.K/j.K/"N/A"
-561/j.K/j.S/"N/A"
-562/j.K/j.H/"N/A"
+516/j.P/214X (Draw)/j.Phas9fofblockstun, while214X(Draw)has7fofstartupf
+517/j.P/214X (Discard)/j.Phas9fofblockstun, while214X(Discard)has7fofstartupf
+518/j.P/"22P/K/S"/"j.Phas9fofblockstun, while22P/K/Shas13fofstartupf"
+519/j.P/22H~X/j.Phas9fofblockstun, while22H~Xhas2fofstartupf
+520/j.P/Reduce Mana Cost/j.Phas9fofblockstun, whileReduceManaCosthas11fofstartupf
+521/j.P/Recover Mana (Continuous)/j.Phas9fofblockstun, whileRecoverMana(Continuous)has16fofstartupf
+522/j.P/Recover Mana (Instant)/j.Phas9fofblockstun, whileRecoverMana(Instant)has11fofstartupf
+523/j.P/Bookmark (Full Import)/j.Phas9fofblockstun, whileBookmark(FullImport)has11fofstartupf
+524/j.P/Bookmark (Random Import)/j.Phas9fofblockstun, whileBookmark(RandomImport)has11fofstartupf
+525/j.P/Bookmark (Auto Import)/j.Phas9fofblockstun, whileBookmark(AutoImport)has16fofstartupf
+526/j.P/High-Pass Filter Gravity/j.Phas9fofblockstun, whileHigh-PassFilterGravityhas19fofstartupf
+527/j.P/Low-Pass Filter Gravity/j.Phas9fofblockstun, whileLow-PassFilterGravityhas19fofstartupf
+528/j.P/Shooting Time Stretch (Accelerate)/j.Phas9fofblockstun, whileShootingTimeStretch(Accelerate)has19fofstartupf
+529/j.P/Shooting Time Stretch (Decelerate)/j.Phas9fofblockstun, whileShootingTimeStretch(Decelerate)has19fofstartupf
+530/j.P/Gravity Rod (Shooting)/j.Phas9fofblockstun, whileGravityRod(Shooting)has19fofstartupf
+531/j.P/Repulsive Rod (Shooting)/j.Phas9fofblockstun, whileRepulsiveRod(Shooting)has19fofstartupf
+532/j.P/Howling Metron/j.Phas9fofblockstun, whileHowlingMetronhas11fofstartupf
+533/j.P/Delayed Howling Metron/j.Phas9fofblockstun, whileDelayedHowlingMetronhas21fofstartupf
+534/j.P/Howling Metron MS Processing/j.Phas9fofblockstun, whileHowlingMetronMSProcessinghas16fofstartupf
+535/j.P/Metron Screamer 808/j.Phas9fofblockstun, whileMetronScreamer808has12fofstartupf
+536/j.P/Metron Arpeggio/j.Phas9fofblockstun, whileMetronArpeggiohas31fofstartupf
+537/j.P/Delayed Tardus Metron/j.Phas9fofblockstun, whileDelayedTardusMetronhas21fofstartupf
+538/j.P/Terra Metron/j.Phas9fofblockstun, whileTerraMetronhas16fofstartupf
+539/j.P/Accipiter Metron/j.Phas9fofblockstun, whileAccipiterMetronhas19fofstartupf
+540/j.P/Aquila Metron/j.Phas9fofblockstun, whileAquilaMetronhas14fofstartupf
+541/j.P/Bit Shift Metron/j.Phas9fofblockstun, whileBitShiftMetronhas14fofstartupf
+542/j.P/RMS Boost Metron/j.Phas9fofblockstun, whileRMSBoostMetronhas14fofstartupf
+543/j.P/Go to Marker/j.Phas9fofblockstun, whileGotoMarkerhas16fofstartupf
+544/j.P/Sampler 404/j.Phas9fofblockstun, whileSampler404has11fofstartupf
+545/j.P/Chaotic Option/j.Phas9fofblockstun, whileChaoticOptionhas11fofstartupf
+546/j.P/"632146P/K"/"j.Phas9fofblockstun, while632146P/Khas7fofstartupf"
+547/j.P/632146S/j.Phas9fofblockstun, while632146Shas16fofstartupf
+548/j.P/236D/j.Phas9fofblockstun, while236Dhas20fofstartupf
+549/j.P/236[D]/j.Phas9fofblockstun, while236 [D]has32fofstartupf
+550/j.K/5P/j.Khas11fofblockstun, while5Phas6fofstartupf
+551/j.K/5K/j.Khas11fofblockstun, while5Khas7fofstartupf
+552/j.K/c.S/j.Khas11fofblockstun, whilec.Shas7fofstartupf
+553/j.K/f.S/j.Khas11fofblockstun, whilef.Shas11fofstartupf
+554/j.K/5H/j.Khas11fofblockstun, while5Hhas15fofstartupf
+555/j.K/2P/j.Khas11fofblockstun, while2Phas5fofstartupf
+556/j.K/2K/j.Khas11fofblockstun, while2Khas6fofstartupf
+557/j.K/2S/j.Khas11fofblockstun, while2Shas12fofstartupf
+558/j.K/2H/j.Khas11fofblockstun, while2Hhas14fofstartupf
+559/j.K/j.P/j.Khas11fofblockstun, whilej.Phas6fofstartupf
+560/j.K/j.K/j.Khas11fofblockstun, whilej.Khas7fofstartupf
+561/j.K/j.S/j.Khas11fofblockstun, whilej.Shas9fofstartupf
+562/j.K/j.H/j.Khas11fofblockstun, whilej.Hhas11fofstartupf
 563/j.K/j.D/3f
-564/j.K/6P/"N/A"
-565/j.K/6K/"N/A"
-566/j.K/6H/"N/A"
-567/j.K/2D/"N/A"
-568/j.K/5D/"N/A"
-569/j.K/5[D]/"N/A"
-570/j.K/236X/ 
-571/j.K/214X (Draw)/"N/A"
-572/j.K/214X (Discard)/"N/A"
-573/j.K/"22P/K/S"/"N/A"
-574/j.K/22H~X/"N/A"
-575/j.K/Reduce Mana Cost/"N/A"
-576/j.K/Recover Mana (Continuous)/"N/A"
-577/j.K/Recover Mana (Instant)/"N/A"
-578/j.K/Bookmark (Full Import)/"N/A"
-579/j.K/Bookmark (Random Import)/"N/A"
-580/j.K/Bookmark (Auto Import)/"N/A"
-581/j.K/High-Pass Filter Gravity/"N/A"
-582/j.K/Low-Pass Filter Gravity/"N/A"
-583/j.K/Shooting Time Stretch (Accelerate)/"N/A"
-584/j.K/Shooting Time Stretch (Decelerate)/"N/A"
-585/j.K/Gravity Rod (Shooting)/"N/A"
-586/j.K/Repulsive Rod (Shooting)/"N/A"
-587/j.K/Howling Metron/"N/A"
-588/j.K/Delayed Howling Metron/"N/A"
-589/j.K/Howling Metron MS Processing/"N/A"
-590/j.K/Metron Screamer 808/"N/A"
-591/j.K/Metron Arpeggio/"N/A"
-592/j.K/Delayed Tardus Metron/"N/A"
-593/j.K/Terra Metron/"N/A"
-594/j.K/Accipiter Metron/"N/A"
-595/j.K/Aquila Metron/"N/A"
-596/j.K/Bit Shift Metron/"N/A"
-597/j.K/RMS Boost Metron/"N/A"
-598/j.K/Go to Marker/"N/A"
-599/j.K/Sampler 404/"N/A"
-600/j.K/Chaotic Option/"N/A"
-601/j.K/"632146P/K"/"N/A"
-602/j.K/632146S/"N/A"
-603/j.K/236D/"N/A"
-604/j.K/236[D]/"N/A"
-605/j.S/5P/"N/A"
-606/j.S/5K/"N/A"
-607/j.S/c.S/"N/A"
-608/j.S/f.S/"N/A"
-609/j.S/5H/"N/A"
-610/j.S/2P/"N/A"
-611/j.S/2K/"N/A"
-612/j.S/2S/"N/A"
-613/j.S/2H/"N/A"
-614/j.S/j.P/"N/A"
-615/j.S/j.K/"N/A"
-616/j.S/j.S/"N/A"
+564/j.K/6P/j.Khas11fofblockstun, while6Phas11fofstartupf
+565/j.K/6K/j.Khas11fofblockstun, while6Khas14fofstartupf
+566/j.K/6H/j.Khas11fofblockstun, while6Hhas25fofstartupf
+567/j.K/2D/j.Khas11fofblockstun, while2Dhas12fofstartupf
+568/j.K/5D/j.Khas11fofblockstun, while5Dhas20fofstartupf
+569/j.K/5[D]/j.Khas11fofblockstun, while5 [D]has28fofstartupf
+570/j.K/236X/
+571/j.K/214X (Draw)/j.Khas11fofblockstun, while214X(Draw)has7fofstartupf
+572/j.K/214X (Discard)/j.Khas11fofblockstun, while214X(Discard)has7fofstartupf
+573/j.K/"22P/K/S"/"j.Khas11fofblockstun, while22P/K/Shas13fofstartupf"
+574/j.K/22H~X/j.Khas11fofblockstun, while22H~Xhas2fofstartupf
+575/j.K/Reduce Mana Cost/j.Khas11fofblockstun, whileReduceManaCosthas11fofstartupf
+576/j.K/Recover Mana (Continuous)/j.Khas11fofblockstun, whileRecoverMana(Continuous)has16fofstartupf
+577/j.K/Recover Mana (Instant)/j.Khas11fofblockstun, whileRecoverMana(Instant)has11fofstartupf
+578/j.K/Bookmark (Full Import)/j.Khas11fofblockstun, whileBookmark(FullImport)has11fofstartupf
+579/j.K/Bookmark (Random Import)/j.Khas11fofblockstun, whileBookmark(RandomImport)has11fofstartupf
+580/j.K/Bookmark (Auto Import)/j.Khas11fofblockstun, whileBookmark(AutoImport)has16fofstartupf
+581/j.K/High-Pass Filter Gravity/j.Khas11fofblockstun, whileHigh-PassFilterGravityhas19fofstartupf
+582/j.K/Low-Pass Filter Gravity/j.Khas11fofblockstun, whileLow-PassFilterGravityhas19fofstartupf
+583/j.K/Shooting Time Stretch (Accelerate)/j.Khas11fofblockstun, whileShootingTimeStretch(Accelerate)has19fofstartupf
+584/j.K/Shooting Time Stretch (Decelerate)/j.Khas11fofblockstun, whileShootingTimeStretch(Decelerate)has19fofstartupf
+585/j.K/Gravity Rod (Shooting)/j.Khas11fofblockstun, whileGravityRod(Shooting)has19fofstartupf
+586/j.K/Repulsive Rod (Shooting)/j.Khas11fofblockstun, whileRepulsiveRod(Shooting)has19fofstartupf
+587/j.K/Howling Metron/j.Khas11fofblockstun, whileHowlingMetronhas11fofstartupf
+588/j.K/Delayed Howling Metron/j.Khas11fofblockstun, whileDelayedHowlingMetronhas21fofstartupf
+589/j.K/Howling Metron MS Processing/j.Khas11fofblockstun, whileHowlingMetronMSProcessinghas16fofstartupf
+590/j.K/Metron Screamer 808/j.Khas11fofblockstun, whileMetronScreamer808has12fofstartupf
+591/j.K/Metron Arpeggio/j.Khas11fofblockstun, whileMetronArpeggiohas31fofstartupf
+592/j.K/Delayed Tardus Metron/j.Khas11fofblockstun, whileDelayedTardusMetronhas21fofstartupf
+593/j.K/Terra Metron/j.Khas11fofblockstun, whileTerraMetronhas16fofstartupf
+594/j.K/Accipiter Metron/j.Khas11fofblockstun, whileAccipiterMetronhas19fofstartupf
+595/j.K/Aquila Metron/j.Khas11fofblockstun, whileAquilaMetronhas14fofstartupf
+596/j.K/Bit Shift Metron/j.Khas11fofblockstun, whileBitShiftMetronhas14fofstartupf
+597/j.K/RMS Boost Metron/j.Khas11fofblockstun, whileRMSBoostMetronhas14fofstartupf
+598/j.K/Go to Marker/j.Khas11fofblockstun, whileGotoMarkerhas16fofstartupf
+599/j.K/Sampler 404/j.Khas11fofblockstun, whileSampler404has11fofstartupf
+600/j.K/Chaotic Option/j.Khas11fofblockstun, whileChaoticOptionhas11fofstartupf
+601/j.K/"632146P/K"/"j.Khas11fofblockstun, while632146P/Khas7fofstartupf"
+602/j.K/632146S/j.Khas11fofblockstun, while632146Shas16fofstartupf
+603/j.K/236D/j.Khas11fofblockstun, while236Dhas20fofstartupf
+604/j.K/236[D]/j.Khas11fofblockstun, while236 [D]has32fofstartupf
+605/j.S/5P/j.Shas13fofblockstun, while5Phas6fofstartupf
+606/j.S/5K/j.Shas13fofblockstun, while5Khas7fofstartupf
+607/j.S/c.S/j.Shas13fofblockstun, whilec.Shas7fofstartupf
+608/j.S/f.S/j.Shas13fofblockstun, whilef.Shas11fofstartupf
+609/j.S/5H/j.Shas13fofblockstun, while5Hhas15fofstartupf
+610/j.S/2P/j.Shas13fofblockstun, while2Phas5fofstartupf
+611/j.S/2K/j.Shas13fofblockstun, while2Khas6fofstartupf
+612/j.S/2S/j.Shas13fofblockstun, while2Shas12fofstartupf
+613/j.S/2H/j.Shas13fofblockstun, while2Hhas14fofstartupf
+614/j.S/j.P/j.Shas13fofblockstun, whilej.Phas6fofstartupf
+615/j.S/j.K/j.Shas13fofblockstun, whilej.Khas7fofstartupf
+616/j.S/j.S/j.Shas13fofblockstun, whilej.Shas9fofstartupf
 617/j.S/j.H/-2f
 618/j.S/j.D/1f
-619/j.S/6P/"N/A"
-620/j.S/6K/"N/A"
-621/j.S/6H/"N/A"
-622/j.S/2D/"N/A"
-623/j.S/5D/"N/A"
-624/j.S/5[D]/"N/A"
-625/j.S/236X/ 
-626/j.S/214X (Draw)/"N/A"
-627/j.S/214X (Discard)/"N/A"
-628/j.S/"22P/K/S"/"N/A"
-629/j.S/22H~X/"N/A"
-630/j.S/Reduce Mana Cost/"N/A"
-631/j.S/Recover Mana (Continuous)/"N/A"
-632/j.S/Recover Mana (Instant)/"N/A"
-633/j.S/Bookmark (Full Import)/"N/A"
-634/j.S/Bookmark (Random Import)/"N/A"
-635/j.S/Bookmark (Auto Import)/"N/A"
-636/j.S/High-Pass Filter Gravity/"N/A"
-637/j.S/Low-Pass Filter Gravity/"N/A"
-638/j.S/Shooting Time Stretch (Accelerate)/"N/A"
-639/j.S/Shooting Time Stretch (Decelerate)/"N/A"
-640/j.S/Gravity Rod (Shooting)/"N/A"
-641/j.S/Repulsive Rod (Shooting)/"N/A"
-642/j.S/Howling Metron/"N/A"
-643/j.S/Delayed Howling Metron/"N/A"
-644/j.S/Howling Metron MS Processing/"N/A"
-645/j.S/Metron Screamer 808/"N/A"
-646/j.S/Metron Arpeggio/"N/A"
-647/j.S/Delayed Tardus Metron/"N/A"
-648/j.S/Terra Metron/"N/A"
-649/j.S/Accipiter Metron/"N/A"
-650/j.S/Aquila Metron/"N/A"
-651/j.S/Bit Shift Metron/"N/A"
-652/j.S/RMS Boost Metron/"N/A"
-653/j.S/Go to Marker/"N/A"
-654/j.S/Sampler 404/"N/A"
-655/j.S/Chaotic Option/"N/A"
-656/j.S/"632146P/K"/"N/A"
-657/j.S/632146S/"N/A"
-658/j.S/236D/"N/A"
-659/j.S/236[D]/"N/A"
-660/j.H/5P/"N/A"
-661/j.H/5K/"N/A"
-662/j.H/c.S/"N/A"
-663/j.H/f.S/"N/A"
-664/j.H/5H/"N/A"
-665/j.H/2P/"N/A"
-666/j.H/2K/"N/A"
-667/j.H/2S/"N/A"
-668/j.H/2H/"N/A"
-669/j.H/j.P/"N/A"
-670/j.H/j.K/"N/A"
-671/j.H/j.S/"N/A"
-672/j.H/j.H/"N/A"
+619/j.S/6P/j.Shas13fofblockstun, while6Phas11fofstartupf
+620/j.S/6K/j.Shas13fofblockstun, while6Khas14fofstartupf
+621/j.S/6H/j.Shas13fofblockstun, while6Hhas25fofstartupf
+622/j.S/2D/j.Shas13fofblockstun, while2Dhas12fofstartupf
+623/j.S/5D/j.Shas13fofblockstun, while5Dhas20fofstartupf
+624/j.S/5[D]/j.Shas13fofblockstun, while5 [D]has28fofstartupf
+625/j.S/236X/
+626/j.S/214X (Draw)/j.Shas13fofblockstun, while214X(Draw)has7fofstartupf
+627/j.S/214X (Discard)/j.Shas13fofblockstun, while214X(Discard)has7fofstartupf
+628/j.S/"22P/K/S"/"j.Shas13fofblockstun, while22P/K/Shas13fofstartupf"
+629/j.S/22H~X/j.Shas13fofblockstun, while22H~Xhas2fofstartupf
+630/j.S/Reduce Mana Cost/j.Shas13fofblockstun, whileReduceManaCosthas11fofstartupf
+631/j.S/Recover Mana (Continuous)/j.Shas13fofblockstun, whileRecoverMana(Continuous)has16fofstartupf
+632/j.S/Recover Mana (Instant)/j.Shas13fofblockstun, whileRecoverMana(Instant)has11fofstartupf
+633/j.S/Bookmark (Full Import)/j.Shas13fofblockstun, whileBookmark(FullImport)has11fofstartupf
+634/j.S/Bookmark (Random Import)/j.Shas13fofblockstun, whileBookmark(RandomImport)has11fofstartupf
+635/j.S/Bookmark (Auto Import)/j.Shas13fofblockstun, whileBookmark(AutoImport)has16fofstartupf
+636/j.S/High-Pass Filter Gravity/j.Shas13fofblockstun, whileHigh-PassFilterGravityhas19fofstartupf
+637/j.S/Low-Pass Filter Gravity/j.Shas13fofblockstun, whileLow-PassFilterGravityhas19fofstartupf
+638/j.S/Shooting Time Stretch (Accelerate)/j.Shas13fofblockstun, whileShootingTimeStretch(Accelerate)has19fofstartupf
+639/j.S/Shooting Time Stretch (Decelerate)/j.Shas13fofblockstun, whileShootingTimeStretch(Decelerate)has19fofstartupf
+640/j.S/Gravity Rod (Shooting)/j.Shas13fofblockstun, whileGravityRod(Shooting)has19fofstartupf
+641/j.S/Repulsive Rod (Shooting)/j.Shas13fofblockstun, whileRepulsiveRod(Shooting)has19fofstartupf
+642/j.S/Howling Metron/j.Shas13fofblockstun, whileHowlingMetronhas11fofstartupf
+643/j.S/Delayed Howling Metron/j.Shas13fofblockstun, whileDelayedHowlingMetronhas21fofstartupf
+644/j.S/Howling Metron MS Processing/j.Shas13fofblockstun, whileHowlingMetronMSProcessinghas16fofstartupf
+645/j.S/Metron Screamer 808/j.Shas13fofblockstun, whileMetronScreamer808has12fofstartupf
+646/j.S/Metron Arpeggio/j.Shas13fofblockstun, whileMetronArpeggiohas31fofstartupf
+647/j.S/Delayed Tardus Metron/j.Shas13fofblockstun, whileDelayedTardusMetronhas21fofstartupf
+648/j.S/Terra Metron/j.Shas13fofblockstun, whileTerraMetronhas16fofstartupf
+649/j.S/Accipiter Metron/j.Shas13fofblockstun, whileAccipiterMetronhas19fofstartupf
+650/j.S/Aquila Metron/j.Shas13fofblockstun, whileAquilaMetronhas14fofstartupf
+651/j.S/Bit Shift Metron/j.Shas13fofblockstun, whileBitShiftMetronhas14fofstartupf
+652/j.S/RMS Boost Metron/j.Shas13fofblockstun, whileRMSBoostMetronhas14fofstartupf
+653/j.S/Go to Marker/j.Shas13fofblockstun, whileGotoMarkerhas16fofstartupf
+654/j.S/Sampler 404/j.Shas13fofblockstun, whileSampler404has11fofstartupf
+655/j.S/Chaotic Option/j.Shas13fofblockstun, whileChaoticOptionhas11fofstartupf
+656/j.S/"632146P/K"/"j.Shas13fofblockstun, while632146P/Khas7fofstartupf"
+657/j.S/632146S/j.Shas13fofblockstun, while632146Shas16fofstartupf
+658/j.S/236D/j.Shas13fofblockstun, while236Dhas20fofstartupf
+659/j.S/236[D]/j.Shas13fofblockstun, while236 [D]has32fofstartupf
+660/j.H/5P/j.Hhas13fofblockstun, while5Phas6fofstartupf
+661/j.H/5K/j.Hhas13fofblockstun, while5Khas7fofstartupf
+662/j.H/c.S/j.Hhas13fofblockstun, whilec.Shas7fofstartupf
+663/j.H/f.S/j.Hhas13fofblockstun, whilef.Shas11fofstartupf
+664/j.H/5H/j.Hhas13fofblockstun, while5Hhas15fofstartupf
+665/j.H/2P/j.Hhas13fofblockstun, while2Phas5fofstartupf
+666/j.H/2K/j.Hhas13fofblockstun, while2Khas6fofstartupf
+667/j.H/2S/j.Hhas13fofblockstun, while2Shas12fofstartupf
+668/j.H/2H/j.Hhas13fofblockstun, while2Hhas14fofstartupf
+669/j.H/j.P/j.Hhas13fofblockstun, whilej.Phas6fofstartupf
+670/j.H/j.K/j.Hhas13fofblockstun, whilej.Khas7fofstartupf
+671/j.H/j.S/j.Hhas13fofblockstun, whilej.Shas9fofstartupf
+672/j.H/j.H/j.Hhas13fofblockstun, whilej.Hhas11fofstartupf
 673/j.H/j.D/1f
-674/j.H/6P/"N/A"
-675/j.H/6K/"N/A"
-676/j.H/6H/"N/A"
-677/j.H/2D/"N/A"
-678/j.H/5D/"N/A"
-679/j.H/5[D]/"N/A"
-680/j.H/236X/ 
-681/j.H/214X (Draw)/"N/A"
-682/j.H/214X (Discard)/"N/A"
-683/j.H/"22P/K/S"/"N/A"
-684/j.H/22H~X/"N/A"
-685/j.H/Reduce Mana Cost/"N/A"
-686/j.H/Recover Mana (Continuous)/"N/A"
-687/j.H/Recover Mana (Instant)/"N/A"
-688/j.H/Bookmark (Full Import)/"N/A"
-689/j.H/Bookmark (Random Import)/"N/A"
-690/j.H/Bookmark (Auto Import)/"N/A"
-691/j.H/High-Pass Filter Gravity/"N/A"
-692/j.H/Low-Pass Filter Gravity/"N/A"
-693/j.H/Shooting Time Stretch (Accelerate)/"N/A"
-694/j.H/Shooting Time Stretch (Decelerate)/"N/A"
-695/j.H/Gravity Rod (Shooting)/"N/A"
-696/j.H/Repulsive Rod (Shooting)/"N/A"
-697/j.H/Howling Metron/"N/A"
-698/j.H/Delayed Howling Metron/"N/A"
-699/j.H/Howling Metron MS Processing/"N/A"
-700/j.H/Metron Screamer 808/"N/A"
-701/j.H/Metron Arpeggio/"N/A"
-702/j.H/Delayed Tardus Metron/"N/A"
-703/j.H/Terra Metron/"N/A"
-704/j.H/Accipiter Metron/"N/A"
-705/j.H/Aquila Metron/"N/A"
-706/j.H/Bit Shift Metron/"N/A"
-707/j.H/RMS Boost Metron/"N/A"
-708/j.H/Go to Marker/"N/A"
-709/j.H/Sampler 404/"N/A"
-710/j.H/Chaotic Option/"N/A"
-711/j.H/"632146P/K"/"N/A"
-712/j.H/632146S/"N/A"
-713/j.H/236D/"N/A"
-714/j.H/236[D]/"N/A"
-715/j.D/5P/"N/A"
-716/j.D/5K/"N/A"
-717/j.D/c.S/"N/A"
-718/j.D/f.S/"N/A"
-719/j.D/5H/"N/A"
-720/j.D/2P/"N/A"
-721/j.D/2K/"N/A"
-722/j.D/2S/"N/A"
-723/j.D/2H/"N/A"
-724/j.D/j.P/"N/A"
-725/j.D/j.K/"N/A"
-726/j.D/j.S/"N/A"
-727/j.D/j.H/"N/A"
-728/j.D/j.D/"N/A"
-729/j.D/6P/"N/A"
-730/j.D/6K/"N/A"
-731/j.D/6H/"N/A"
-732/j.D/2D/"N/A"
-733/j.D/5D/"N/A"
-734/j.D/5[D]/"N/A"
-735/j.D/236X/ 
-736/j.D/214X (Draw)/"N/A"
-737/j.D/214X (Discard)/"N/A"
-738/j.D/"22P/K/S"/"N/A"
-739/j.D/22H~X/"N/A"
-740/j.D/Reduce Mana Cost/"N/A"
-741/j.D/Recover Mana (Continuous)/"N/A"
-742/j.D/Recover Mana (Instant)/"N/A"
-743/j.D/Bookmark (Full Import)/"N/A"
-744/j.D/Bookmark (Random Import)/"N/A"
-745/j.D/Bookmark (Auto Import)/"N/A"
-746/j.D/High-Pass Filter Gravity/"N/A"
-747/j.D/Low-Pass Filter Gravity/"N/A"
-748/j.D/Shooting Time Stretch (Accelerate)/"N/A"
-749/j.D/Shooting Time Stretch (Decelerate)/"N/A"
-750/j.D/Gravity Rod (Shooting)/"N/A"
-751/j.D/Repulsive Rod (Shooting)/"N/A"
-752/j.D/Howling Metron/"N/A"
-753/j.D/Delayed Howling Metron/"N/A"
-754/j.D/Howling Metron MS Processing/"N/A"
-755/j.D/Metron Screamer 808/"N/A"
-756/j.D/Metron Arpeggio/"N/A"
-757/j.D/Delayed Tardus Metron/"N/A"
-758/j.D/Terra Metron/"N/A"
-759/j.D/Accipiter Metron/"N/A"
-760/j.D/Aquila Metron/"N/A"
-761/j.D/Bit Shift Metron/"N/A"
-762/j.D/RMS Boost Metron/"N/A"
-763/j.D/Go to Marker/"N/A"
-764/j.D/Sampler 404/"N/A"
-765/j.D/Chaotic Option/"N/A"
-766/j.D/"632146P/K"/"N/A"
-767/j.D/632146S/"N/A"
-768/j.D/236D/"N/A"
-769/j.D/236[D]/"N/A"
-770/6P/5P/15f
-771/6P/5K/16f
-772/6P/c.S/16f
-773/6P/f.S/20f
-774/6P/5H/24f
-775/6P/2P/14f
-776/6P/2K/15f
-777/6P/2S/21f
-778/6P/2H/23f
-779/6P/j.P/20f
-780/6P/j.K/21f
-781/6P/j.S/23f
-782/6P/j.H/25f
-783/6P/j.D/28f
-784/6P/6P/20f
-785/6P/6K/23f
-786/6P/6H/34f
-787/6P/2D/21f
-788/6P/5D/29f
-789/6P/5[D]/37f
+674/j.H/6P/j.Hhas13fofblockstun, while6Phas11fofstartupf
+675/j.H/6K/j.Hhas13fofblockstun, while6Khas14fofstartupf
+676/j.H/6H/j.Hhas13fofblockstun, while6Hhas25fofstartupf
+677/j.H/2D/j.Hhas13fofblockstun, while2Dhas12fofstartupf
+678/j.H/5D/j.Hhas13fofblockstun, while5Dhas20fofstartupf
+679/j.H/5[D]/j.Hhas13fofblockstun, while5 [D]has28fofstartupf
+680/j.H/236X/
+681/j.H/214X (Draw)/j.Hhas13fofblockstun, while214X(Draw)has7fofstartupf
+682/j.H/214X (Discard)/j.Hhas13fofblockstun, while214X(Discard)has7fofstartupf
+683/j.H/"22P/K/S"/"j.Hhas13fofblockstun, while22P/K/Shas13fofstartupf"
+684/j.H/22H~X/j.Hhas13fofblockstun, while22H~Xhas2fofstartupf
+685/j.H/Reduce Mana Cost/j.Hhas13fofblockstun, whileReduceManaCosthas11fofstartupf
+686/j.H/Recover Mana (Continuous)/j.Hhas13fofblockstun, whileRecoverMana(Continuous)has16fofstartupf
+687/j.H/Recover Mana (Instant)/j.Hhas13fofblockstun, whileRecoverMana(Instant)has11fofstartupf
+688/j.H/Bookmark (Full Import)/j.Hhas13fofblockstun, whileBookmark(FullImport)has11fofstartupf
+689/j.H/Bookmark (Random Import)/j.Hhas13fofblockstun, whileBookmark(RandomImport)has11fofstartupf
+690/j.H/Bookmark (Auto Import)/j.Hhas13fofblockstun, whileBookmark(AutoImport)has16fofstartupf
+691/j.H/High-Pass Filter Gravity/j.Hhas13fofblockstun, whileHigh-PassFilterGravityhas19fofstartupf
+692/j.H/Low-Pass Filter Gravity/j.Hhas13fofblockstun, whileLow-PassFilterGravityhas19fofstartupf
+693/j.H/Shooting Time Stretch (Accelerate)/j.Hhas13fofblockstun, whileShootingTimeStretch(Accelerate)has19fofstartupf
+694/j.H/Shooting Time Stretch (Decelerate)/j.Hhas13fofblockstun, whileShootingTimeStretch(Decelerate)has19fofstartupf
+695/j.H/Gravity Rod (Shooting)/j.Hhas13fofblockstun, whileGravityRod(Shooting)has19fofstartupf
+696/j.H/Repulsive Rod (Shooting)/j.Hhas13fofblockstun, whileRepulsiveRod(Shooting)has19fofstartupf
+697/j.H/Howling Metron/j.Hhas13fofblockstun, whileHowlingMetronhas11fofstartupf
+698/j.H/Delayed Howling Metron/j.Hhas13fofblockstun, whileDelayedHowlingMetronhas21fofstartupf
+699/j.H/Howling Metron MS Processing/j.Hhas13fofblockstun, whileHowlingMetronMSProcessinghas16fofstartupf
+700/j.H/Metron Screamer 808/j.Hhas13fofblockstun, whileMetronScreamer808has12fofstartupf
+701/j.H/Metron Arpeggio/j.Hhas13fofblockstun, whileMetronArpeggiohas31fofstartupf
+702/j.H/Delayed Tardus Metron/j.Hhas13fofblockstun, whileDelayedTardusMetronhas21fofstartupf
+703/j.H/Terra Metron/j.Hhas13fofblockstun, whileTerraMetronhas16fofstartupf
+704/j.H/Accipiter Metron/j.Hhas13fofblockstun, whileAccipiterMetronhas19fofstartupf
+705/j.H/Aquila Metron/j.Hhas13fofblockstun, whileAquilaMetronhas14fofstartupf
+706/j.H/Bit Shift Metron/j.Hhas13fofblockstun, whileBitShiftMetronhas14fofstartupf
+707/j.H/RMS Boost Metron/j.Hhas13fofblockstun, whileRMSBoostMetronhas14fofstartupf
+708/j.H/Go to Marker/j.Hhas13fofblockstun, whileGotoMarkerhas16fofstartupf
+709/j.H/Sampler 404/j.Hhas13fofblockstun, whileSampler404has11fofstartupf
+710/j.H/Chaotic Option/j.Hhas13fofblockstun, whileChaoticOptionhas11fofstartupf
+711/j.H/"632146P/K"/"j.Hhas13fofblockstun, while632146P/Khas7fofstartupf"
+712/j.H/632146S/j.Hhas13fofblockstun, while632146Shas16fofstartupf
+713/j.H/236D/j.Hhas13fofblockstun, while236Dhas20fofstartupf
+714/j.H/236[D]/j.Hhas13fofblockstun, while236 [D]has32fofstartupf
+715/j.D/5P/j.Dhas13fofblockstun, while5Phas6fofstartupf
+716/j.D/5K/j.Dhas13fofblockstun, while5Khas7fofstartupf
+717/j.D/c.S/j.Dhas13fofblockstun, whilec.Shas7fofstartupf
+718/j.D/f.S/j.Dhas13fofblockstun, whilef.Shas11fofstartupf
+719/j.D/5H/j.Dhas13fofblockstun, while5Hhas15fofstartupf
+720/j.D/2P/j.Dhas13fofblockstun, while2Phas5fofstartupf
+721/j.D/2K/j.Dhas13fofblockstun, while2Khas6fofstartupf
+722/j.D/2S/j.Dhas13fofblockstun, while2Shas12fofstartupf
+723/j.D/2H/j.Dhas13fofblockstun, while2Hhas14fofstartupf
+724/j.D/j.P/j.Dhas13fofblockstun, whilej.Phas6fofstartupf
+725/j.D/j.K/j.Dhas13fofblockstun, whilej.Khas7fofstartupf
+726/j.D/j.S/j.Dhas13fofblockstun, whilej.Shas9fofstartupf
+727/j.D/j.H/j.Dhas13fofblockstun, whilej.Hhas11fofstartupf
+728/j.D/j.D/j.Dhas13fofblockstun, whilej.Dhas14fofstartupf
+729/j.D/6P/j.Dhas13fofblockstun, while6Phas11fofstartupf
+730/j.D/6K/j.Dhas13fofblockstun, while6Khas14fofstartupf
+731/j.D/6H/j.Dhas13fofblockstun, while6Hhas25fofstartupf
+732/j.D/2D/j.Dhas13fofblockstun, while2Dhas12fofstartupf
+733/j.D/5D/j.Dhas13fofblockstun, while5Dhas20fofstartupf
+734/j.D/5[D]/j.Dhas13fofblockstun, while5 [D]has28fofstartupf
+735/j.D/236X/
+736/j.D/214X (Draw)/j.Dhas13fofblockstun, while214X(Draw)has7fofstartupf
+737/j.D/214X (Discard)/j.Dhas13fofblockstun, while214X(Discard)has7fofstartupf
+738/j.D/"22P/K/S"/"j.Dhas13fofblockstun, while22P/K/Shas13fofstartupf"
+739/j.D/22H~X/j.Dhas13fofblockstun, while22H~Xhas2fofstartupf
+740/j.D/Reduce Mana Cost/j.Dhas13fofblockstun, whileReduceManaCosthas11fofstartupf
+741/j.D/Recover Mana (Continuous)/j.Dhas13fofblockstun, whileRecoverMana(Continuous)has16fofstartupf
+742/j.D/Recover Mana (Instant)/j.Dhas13fofblockstun, whileRecoverMana(Instant)has11fofstartupf
+743/j.D/Bookmark (Full Import)/j.Dhas13fofblockstun, whileBookmark(FullImport)has11fofstartupf
+744/j.D/Bookmark (Random Import)/j.Dhas13fofblockstun, whileBookmark(RandomImport)has11fofstartupf
+745/j.D/Bookmark (Auto Import)/j.Dhas13fofblockstun, whileBookmark(AutoImport)has16fofstartupf
+746/j.D/High-Pass Filter Gravity/j.Dhas13fofblockstun, whileHigh-PassFilterGravityhas19fofstartupf
+747/j.D/Low-Pass Filter Gravity/j.Dhas13fofblockstun, whileLow-PassFilterGravityhas19fofstartupf
+748/j.D/Shooting Time Stretch (Accelerate)/j.Dhas13fofblockstun, whileShootingTimeStretch(Accelerate)has19fofstartupf
+749/j.D/Shooting Time Stretch (Decelerate)/j.Dhas13fofblockstun, whileShootingTimeStretch(Decelerate)has19fofstartupf
+750/j.D/Gravity Rod (Shooting)/j.Dhas13fofblockstun, whileGravityRod(Shooting)has19fofstartupf
+751/j.D/Repulsive Rod (Shooting)/j.Dhas13fofblockstun, whileRepulsiveRod(Shooting)has19fofstartupf
+752/j.D/Howling Metron/j.Dhas13fofblockstun, whileHowlingMetronhas11fofstartupf
+753/j.D/Delayed Howling Metron/j.Dhas13fofblockstun, whileDelayedHowlingMetronhas21fofstartupf
+754/j.D/Howling Metron MS Processing/j.Dhas13fofblockstun, whileHowlingMetronMSProcessinghas16fofstartupf
+755/j.D/Metron Screamer 808/j.Dhas13fofblockstun, whileMetronScreamer808has12fofstartupf
+756/j.D/Metron Arpeggio/j.Dhas13fofblockstun, whileMetronArpeggiohas31fofstartupf
+757/j.D/Delayed Tardus Metron/j.Dhas13fofblockstun, whileDelayedTardusMetronhas21fofstartupf
+758/j.D/Terra Metron/j.Dhas13fofblockstun, whileTerraMetronhas16fofstartupf
+759/j.D/Accipiter Metron/j.Dhas13fofblockstun, whileAccipiterMetronhas19fofstartupf
+760/j.D/Aquila Metron/j.Dhas13fofblockstun, whileAquilaMetronhas14fofstartupf
+761/j.D/Bit Shift Metron/j.Dhas13fofblockstun, whileBitShiftMetronhas14fofstartupf
+762/j.D/RMS Boost Metron/j.Dhas13fofblockstun, whileRMSBoostMetronhas14fofstartupf
+763/j.D/Go to Marker/j.Dhas13fofblockstun, whileGotoMarkerhas16fofstartupf
+764/j.D/Sampler 404/j.Dhas13fofblockstun, whileSampler404has11fofstartupf
+765/j.D/Chaotic Option/j.Dhas13fofblockstun, whileChaoticOptionhas11fofstartupf
+766/j.D/"632146P/K"/"j.Dhas13fofblockstun, while632146P/Khas7fofstartupf"
+767/j.D/632146S/j.Dhas13fofblockstun, while632146Shas16fofstartupf
+768/j.D/236D/j.Dhas13fofblockstun, while236Dhas20fofstartupf
+769/j.D/236[D]/j.Dhas13fofblockstun, while236 [D]has32fofstartupf
+770/6P/5P/4f
+771/6P/5K/5f
+772/6P/c.S/5f
+773/6P/f.S/9f
+774/6P/5H/13f
+775/6P/2P/3f
+776/6P/2K/4f
+777/6P/2S/10f
+778/6P/2H/12f
+779/6P/j.P/9f
+780/6P/j.K/10f
+781/6P/j.S/12f
+782/6P/j.H/14f
+783/6P/j.D/17f
+784/6P/6P/9f
+785/6P/6K/12f
+786/6P/6H/23f
+787/6P/2D/10f
+788/6P/5D/18f
+789/6P/5[D]/26f
 790/6P/236X/
 791/6P/214X (Draw)/-6f
 792/6P/214X (Discard)/-6f
 793/6P/"22P/K/S"/0f
 794/6P/22H~X/-11f
-795/6P/Reduce Mana Cost/20f
-796/6P/Recover Mana (Continuous)/25f
-797/6P/Recover Mana (Instant)/20f
-798/6P/Bookmark (Full Import)/20f
-799/6P/Bookmark (Random Import)/20f
-800/6P/Bookmark (Auto Import)/25f
-801/6P/High-Pass Filter Gravity/28f
-802/6P/Low-Pass Filter Gravity/28f
-803/6P/Shooting Time Stretch (Accelerate)/28f
-804/6P/Shooting Time Stretch (Decelerate)/28f
-805/6P/Gravity Rod (Shooting)/28f
-806/6P/Repulsive Rod (Shooting)/28f
+795/6P/Reduce Mana Cost/9f
+796/6P/Recover Mana (Continuous)/14f
+797/6P/Recover Mana (Instant)/9f
+798/6P/Bookmark (Full Import)/9f
+799/6P/Bookmark (Random Import)/9f
+800/6P/Bookmark (Auto Import)/14f
+801/6P/High-Pass Filter Gravity/17f
+802/6P/Low-Pass Filter Gravity/17f
+803/6P/Shooting Time Stretch (Accelerate)/17f
+804/6P/Shooting Time Stretch (Decelerate)/17f
+805/6P/Gravity Rod (Shooting)/17f
+806/6P/Repulsive Rod (Shooting)/17f
 807/6P/Howling Metron/-2f
 808/6P/Delayed Howling Metron/8f
 809/6P/Howling Metron MS Processing/3f
@@ -817,50 +817,50 @@
 815/6P/Aquila Metron/1f
 816/6P/Bit Shift Metron/1f
 817/6P/RMS Boost Metron/1f
-818/6P/Go to Marker/25f
+818/6P/Go to Marker/14f
 819/6P/Sampler 404/-2f
-820/6P/Chaotic Option/20f
+820/6P/Chaotic Option/9f
 821/6P/"632146P/K"/-6f
 822/6P/632146S/3f
 823/6P/236D/7f
 824/6P/236[D]/19f
-825/6K/5P/10f
-826/6K/5K/11f
-827/6K/c.S/11f
-828/6K/f.S/15f
-829/6K/5H/19f
-830/6K/2P/9f
-831/6K/2K/10f
-832/6K/2S/16f
-833/6K/2H/18f
-834/6K/j.P/15f
-835/6K/j.K/16f
-836/6K/j.S/18f
-837/6K/j.H/20f
-838/6K/j.D/23f
-839/6K/6P/15f
-840/6K/6K/18f
-841/6K/6H/29f
-842/6K/2D/16f
-843/6K/5D/24f
-844/6K/5[D]/32f
+825/6K/5P/4f
+826/6K/5K/5f
+827/6K/c.S/5f
+828/6K/f.S/9f
+829/6K/5H/13f
+830/6K/2P/3f
+831/6K/2K/4f
+832/6K/2S/10f
+833/6K/2H/12f
+834/6K/j.P/9f
+835/6K/j.K/10f
+836/6K/j.S/12f
+837/6K/j.H/14f
+838/6K/j.D/17f
+839/6K/6P/9f
+840/6K/6K/12f
+841/6K/6H/23f
+842/6K/2D/10f
+843/6K/5D/18f
+844/6K/5[D]/26f
 845/6K/236X/
 846/6K/214X (Draw)/-6f
 847/6K/214X (Discard)/-6f
 848/6K/"22P/K/S"/0f
 849/6K/22H~X/-11f
-850/6K/Reduce Mana Cost/15f
-851/6K/Recover Mana (Continuous)/20f
-852/6K/Recover Mana (Instant)/15f
-853/6K/Bookmark (Full Import)/15f
-854/6K/Bookmark (Random Import)/15f
-855/6K/Bookmark (Auto Import)/20f
-856/6K/High-Pass Filter Gravity/23f
-857/6K/Low-Pass Filter Gravity/23f
-858/6K/Shooting Time Stretch (Accelerate)/23f
-859/6K/Shooting Time Stretch (Decelerate)/23f
-860/6K/Gravity Rod (Shooting)/23f
-861/6K/Repulsive Rod (Shooting)/23f
+850/6K/Reduce Mana Cost/9f
+851/6K/Recover Mana (Continuous)/14f
+852/6K/Recover Mana (Instant)/9f
+853/6K/Bookmark (Full Import)/9f
+854/6K/Bookmark (Random Import)/9f
+855/6K/Bookmark (Auto Import)/14f
+856/6K/High-Pass Filter Gravity/17f
+857/6K/Low-Pass Filter Gravity/17f
+858/6K/Shooting Time Stretch (Accelerate)/17f
+859/6K/Shooting Time Stretch (Decelerate)/17f
+860/6K/Gravity Rod (Shooting)/17f
+861/6K/Repulsive Rod (Shooting)/17f
 862/6K/Howling Metron/-2f
 863/6K/Delayed Howling Metron/8f
 864/6K/Howling Metron MS Processing/3f
@@ -872,50 +872,50 @@
 870/6K/Aquila Metron/1f
 871/6K/Bit Shift Metron/1f
 872/6K/RMS Boost Metron/1f
-873/6K/Go to Marker/20f
+873/6K/Go to Marker/14f
 874/6K/Sampler 404/-2f
-875/6K/Chaotic Option/15f
+875/6K/Chaotic Option/9f
 876/6K/"632146P/K"/-6f
 877/6K/632146S/3f
 878/6K/236D/7f
 879/6K/236[D]/19f
-880/6H/5P/19f
-881/6H/5K/20f
-882/6H/c.S/20f
-883/6H/f.S/24f
-884/6H/5H/28f
-885/6H/2P/18f
-886/6H/2K/19f
-887/6H/2S/25f
-888/6H/2H/27f
-889/6H/j.P/24f
-890/6H/j.K/25f
-891/6H/j.S/27f
-892/6H/j.H/29f
-893/6H/j.D/32f
-894/6H/6P/24f
-895/6H/6K/27f
-896/6H/6H/38f
-897/6H/2D/25f
-898/6H/5D/33f
-899/6H/5[D]/41f
+880/6H/5P/2f
+881/6H/5K/3f
+882/6H/c.S/3f
+883/6H/f.S/7f
+884/6H/5H/11f
+885/6H/2P/1f
+886/6H/2K/2f
+887/6H/2S/8f
+888/6H/2H/10f
+889/6H/j.P/7f
+890/6H/j.K/8f
+891/6H/j.S/10f
+892/6H/j.H/12f
+893/6H/j.D/15f
+894/6H/6P/7f
+895/6H/6K/10f
+896/6H/6H/21f
+897/6H/2D/8f
+898/6H/5D/16f
+899/6H/5[D]/24f
 900/6H/236X/
 901/6H/214X (Draw)/-11f
 902/6H/214X (Discard)/-11f
 903/6H/"22P/K/S"/-5f
 904/6H/22H~X/-16f
-905/6H/Reduce Mana Cost/24f
-906/6H/Recover Mana (Continuous)/29f
-907/6H/Recover Mana (Instant)/24f
-908/6H/Bookmark (Full Import)/24f
-909/6H/Bookmark (Random Import)/24f
-910/6H/Bookmark (Auto Import)/29f
-911/6H/High-Pass Filter Gravity/32f
-912/6H/Low-Pass Filter Gravity/32f
-913/6H/Shooting Time Stretch (Accelerate)/32f
-914/6H/Shooting Time Stretch (Decelerate)/32f
-915/6H/Gravity Rod (Shooting)/32f
-916/6H/Repulsive Rod (Shooting)/32f
+905/6H/Reduce Mana Cost/7f
+906/6H/Recover Mana (Continuous)/12f
+907/6H/Recover Mana (Instant)/7f
+908/6H/Bookmark (Full Import)/7f
+909/6H/Bookmark (Random Import)/7f
+910/6H/Bookmark (Auto Import)/12f
+911/6H/High-Pass Filter Gravity/15f
+912/6H/Low-Pass Filter Gravity/15f
+913/6H/Shooting Time Stretch (Accelerate)/15f
+914/6H/Shooting Time Stretch (Decelerate)/15f
+915/6H/Gravity Rod (Shooting)/15f
+916/6H/Repulsive Rod (Shooting)/15f
 917/6H/Howling Metron/-7f
 918/6H/Delayed Howling Metron/3f
 919/6H/Howling Metron MS Processing/-2f
@@ -927,50 +927,50 @@
 925/6H/Aquila Metron/-4f
 926/6H/Bit Shift Metron/-4f
 927/6H/RMS Boost Metron/-4f
-928/6H/Go to Marker/29f
+928/6H/Go to Marker/12f
 929/6H/Sampler 404/-7f
-930/6H/Chaotic Option/24f
+930/6H/Chaotic Option/7f
 931/6H/"632146P/K"/-11f
 932/6H/632146S/-2f
 933/6H/236D/2f
 934/6H/236[D]/14f
-935/2D/5P/15f
-936/2D/5K/16f
-937/2D/c.S/16f
-938/2D/f.S/20f
-939/2D/5H/24f
-940/2D/2P/14f
-941/2D/2K/15f
-942/2D/2S/21f
-943/2D/2H/23f
-944/2D/j.P/20f
-945/2D/j.K/21f
-946/2D/j.S/23f
-947/2D/j.H/25f
-948/2D/j.D/28f
-949/2D/6P/20f
-950/2D/6K/23f
-951/2D/6H/34f
-952/2D/2D/21f
-953/2D/5D/29f
-954/2D/5[D]/37f
+935/2D/5P/4f
+936/2D/5K/5f
+937/2D/c.S/5f
+938/2D/f.S/9f
+939/2D/5H/13f
+940/2D/2P/3f
+941/2D/2K/4f
+942/2D/2S/10f
+943/2D/2H/12f
+944/2D/j.P/9f
+945/2D/j.K/10f
+946/2D/j.S/12f
+947/2D/j.H/14f
+948/2D/j.D/17f
+949/2D/6P/9f
+950/2D/6K/12f
+951/2D/6H/23f
+952/2D/2D/10f
+953/2D/5D/18f
+954/2D/5[D]/26f
 955/2D/236X/
 956/2D/214X (Draw)/-6f
 957/2D/214X (Discard)/-6f
 958/2D/"22P/K/S"/0f
 959/2D/22H~X/-11f
-960/2D/Reduce Mana Cost/20f
-961/2D/Recover Mana (Continuous)/25f
-962/2D/Recover Mana (Instant)/20f
-963/2D/Bookmark (Full Import)/20f
-964/2D/Bookmark (Random Import)/20f
-965/2D/Bookmark (Auto Import)/25f
-966/2D/High-Pass Filter Gravity/28f
-967/2D/Low-Pass Filter Gravity/28f
-968/2D/Shooting Time Stretch (Accelerate)/28f
-969/2D/Shooting Time Stretch (Decelerate)/28f
-970/2D/Gravity Rod (Shooting)/28f
-971/2D/Repulsive Rod (Shooting)/28f
+960/2D/Reduce Mana Cost/9f
+961/2D/Recover Mana (Continuous)/14f
+962/2D/Recover Mana (Instant)/9f
+963/2D/Bookmark (Full Import)/9f
+964/2D/Bookmark (Random Import)/9f
+965/2D/Bookmark (Auto Import)/14f
+966/2D/High-Pass Filter Gravity/17f
+967/2D/Low-Pass Filter Gravity/17f
+968/2D/Shooting Time Stretch (Accelerate)/17f
+969/2D/Shooting Time Stretch (Decelerate)/17f
+970/2D/Gravity Rod (Shooting)/17f
+971/2D/Repulsive Rod (Shooting)/17f
 972/2D/Howling Metron/-2f
 973/2D/Delayed Howling Metron/8f
 974/2D/Howling Metron MS Processing/3f
@@ -982,123 +982,123 @@
 980/2D/Aquila Metron/1f
 981/2D/Bit Shift Metron/1f
 982/2D/RMS Boost Metron/1f
-983/2D/Go to Marker/25f
+983/2D/Go to Marker/14f
 984/2D/Sampler 404/-2f
-985/2D/Chaotic Option/20f
+985/2D/Chaotic Option/9f
 986/2D/"632146P/K"/-6f
 987/2D/632146S/3f
 988/2D/236D/7f
 989/2D/236[D]/19f
-990/5D/5P/21f
-991/5D/5K/22f
-992/5D/c.S/22f
-993/5D/f.S/26f
-994/5D/5H/30f
-995/5D/2P/20f
-996/5D/2K/21f
-997/5D/2S/27f
-998/5D/2H/29f
-999/5D/j.P/26f
-1000/5D/j.K/27f
-1001/5D/j.S/29f
-1002/5D/j.H/31f
-1003/5D/j.D/34f
-1004/5D/6P/26f
-1005/5D/6K/29f
-1006/5D/6H/40f
-1007/5D/2D/27f
-1008/5D/5D/35f
-1009/5D/5[D]/43f
+990/5D/5P/4f
+991/5D/5K/5f
+992/5D/c.S/5f
+993/5D/f.S/9f
+994/5D/5H/13f
+995/5D/2P/3f
+996/5D/2K/4f
+997/5D/2S/10f
+998/5D/2H/12f
+999/5D/j.P/9f
+1000/5D/j.K/10f
+1001/5D/j.S/12f
+1002/5D/j.H/14f
+1003/5D/j.D/17f
+1004/5D/6P/9f
+1005/5D/6K/12f
+1006/5D/6H/23f
+1007/5D/2D/10f
+1008/5D/5D/18f
+1009/5D/5[D]/26f
 1010/5D/236X/
-1011/5D/214X (Draw)/22f
-1012/5D/214X (Discard)/22f
-1013/5D/"22P/K/S"/28f
-1014/5D/22H~X/17f
-1015/5D/Reduce Mana Cost/26f
-1016/5D/Recover Mana (Continuous)/31f
-1017/5D/Recover Mana (Instant)/26f
-1018/5D/Bookmark (Full Import)/26f
-1019/5D/Bookmark (Random Import)/26f
-1020/5D/Bookmark (Auto Import)/31f
-1021/5D/High-Pass Filter Gravity/34f
-1022/5D/Low-Pass Filter Gravity/34f
-1023/5D/Shooting Time Stretch (Accelerate)/34f
-1024/5D/Shooting Time Stretch (Decelerate)/34f
-1025/5D/Gravity Rod (Shooting)/34f
-1026/5D/Repulsive Rod (Shooting)/34f
-1027/5D/Howling Metron/26f
-1028/5D/Delayed Howling Metron/36f
-1029/5D/Howling Metron MS Processing/31f
-1030/5D/Metron Screamer 808/27f
-1031/5D/Metron Arpeggio/46f
-1032/5D/Delayed Tardus Metron/36f
-1033/5D/Terra Metron/31f
-1034/5D/Accipiter Metron/34f
-1035/5D/Aquila Metron/29f
-1036/5D/Bit Shift Metron/29f
-1037/5D/RMS Boost Metron/29f
-1038/5D/Go to Marker/31f
-1039/5D/Sampler 404/26f
-1040/5D/Chaotic Option/26f
-1041/5D/"632146P/K"/22f
-1042/5D/632146S/31f
-1043/5D/236D/35f
-1044/5D/236[D]/47f
-1045/5[D]/5P/16f
-1046/5[D]/5K/17f
-1047/5[D]/c.S/17f
-1048/5[D]/f.S/21f
-1049/5[D]/5H/25f
-1050/5[D]/2P/15f
-1051/5[D]/2K/16f
-1052/5[D]/2S/22f
-1053/5[D]/2H/24f
-1054/5[D]/j.P/21f
-1055/5[D]/j.K/22f
-1056/5[D]/j.S/24f
-1057/5[D]/j.H/26f
-1058/5[D]/j.D/29f
-1059/5[D]/6P/21f
-1060/5[D]/6K/24f
-1061/5[D]/6H/35f
-1062/5[D]/2D/22f
-1063/5[D]/5D/30f
-1064/5[D]/5[D]/38f
+1011/5D/214X (Draw)/5f
+1012/5D/214X (Discard)/5f
+1013/5D/"22P/K/S"/11f
+1014/5D/22H~X/0f
+1015/5D/Reduce Mana Cost/9f
+1016/5D/Recover Mana (Continuous)/14f
+1017/5D/Recover Mana (Instant)/9f
+1018/5D/Bookmark (Full Import)/9f
+1019/5D/Bookmark (Random Import)/9f
+1020/5D/Bookmark (Auto Import)/14f
+1021/5D/High-Pass Filter Gravity/17f
+1022/5D/Low-Pass Filter Gravity/17f
+1023/5D/Shooting Time Stretch (Accelerate)/17f
+1024/5D/Shooting Time Stretch (Decelerate)/17f
+1025/5D/Gravity Rod (Shooting)/17f
+1026/5D/Repulsive Rod (Shooting)/17f
+1027/5D/Howling Metron/9f
+1028/5D/Delayed Howling Metron/19f
+1029/5D/Howling Metron MS Processing/14f
+1030/5D/Metron Screamer 808/10f
+1031/5D/Metron Arpeggio/29f
+1032/5D/Delayed Tardus Metron/19f
+1033/5D/Terra Metron/14f
+1034/5D/Accipiter Metron/17f
+1035/5D/Aquila Metron/12f
+1036/5D/Bit Shift Metron/12f
+1037/5D/RMS Boost Metron/12f
+1038/5D/Go to Marker/14f
+1039/5D/Sampler 404/9f
+1040/5D/Chaotic Option/9f
+1041/5D/"632146P/K"/5f
+1042/5D/632146S/14f
+1043/5D/236D/18f
+1044/5D/236[D]/30f
+1045/5[D]/5P/2f
+1046/5[D]/5K/3f
+1047/5[D]/c.S/3f
+1048/5[D]/f.S/7f
+1049/5[D]/5H/11f
+1050/5[D]/2P/1f
+1051/5[D]/2K/2f
+1052/5[D]/2S/8f
+1053/5[D]/2H/10f
+1054/5[D]/j.P/7f
+1055/5[D]/j.K/8f
+1056/5[D]/j.S/10f
+1057/5[D]/j.H/12f
+1058/5[D]/j.D/15f
+1059/5[D]/6P/7f
+1060/5[D]/6K/10f
+1061/5[D]/6H/21f
+1062/5[D]/2D/8f
+1063/5[D]/5D/16f
+1064/5[D]/5[D]/24f
 1065/5[D]/236X/
-1066/5[D]/214X (Draw)/17f
-1067/5[D]/214X (Discard)/17f
-1068/5[D]/"22P/K/S"/23f
-1069/5[D]/22H~X/12f
-1070/5[D]/Reduce Mana Cost/21f
-1071/5[D]/Recover Mana (Continuous)/26f
-1072/5[D]/Recover Mana (Instant)/21f
-1073/5[D]/Bookmark (Full Import)/21f
-1074/5[D]/Bookmark (Random Import)/21f
-1075/5[D]/Bookmark (Auto Import)/26f
-1076/5[D]/High-Pass Filter Gravity/29f
-1077/5[D]/Low-Pass Filter Gravity/29f
-1078/5[D]/Shooting Time Stretch (Accelerate)/29f
-1079/5[D]/Shooting Time Stretch (Decelerate)/29f
-1080/5[D]/Gravity Rod (Shooting)/29f
-1081/5[D]/Repulsive Rod (Shooting)/29f
-1082/5[D]/Howling Metron/21f
-1083/5[D]/Delayed Howling Metron/31f
-1084/5[D]/Howling Metron MS Processing/26f
-1085/5[D]/Metron Screamer 808/22f
-1086/5[D]/Metron Arpeggio/41f
-1087/5[D]/Delayed Tardus Metron/31f
-1088/5[D]/Terra Metron/26f
-1089/5[D]/Accipiter Metron/29f
-1090/5[D]/Aquila Metron/24f
-1091/5[D]/Bit Shift Metron/24f
-1092/5[D]/RMS Boost Metron/24f
-1093/5[D]/Go to Marker/26f
-1094/5[D]/Sampler 404/21f
-1095/5[D]/Chaotic Option/21f
-1096/5[D]/"632146P/K"/17f
-1097/5[D]/632146S/26f
-1098/5[D]/236D/30f
-1099/5[D]/236[D]/42f
+1066/5[D]/214X (Draw)/3f
+1067/5[D]/214X (Discard)/3f
+1068/5[D]/"22P/K/S"/9f
+1069/5[D]/22H~X/-2f
+1070/5[D]/Reduce Mana Cost/7f
+1071/5[D]/Recover Mana (Continuous)/12f
+1072/5[D]/Recover Mana (Instant)/7f
+1073/5[D]/Bookmark (Full Import)/7f
+1074/5[D]/Bookmark (Random Import)/7f
+1075/5[D]/Bookmark (Auto Import)/12f
+1076/5[D]/High-Pass Filter Gravity/15f
+1077/5[D]/Low-Pass Filter Gravity/15f
+1078/5[D]/Shooting Time Stretch (Accelerate)/15f
+1079/5[D]/Shooting Time Stretch (Decelerate)/15f
+1080/5[D]/Gravity Rod (Shooting)/15f
+1081/5[D]/Repulsive Rod (Shooting)/15f
+1082/5[D]/Howling Metron/7f
+1083/5[D]/Delayed Howling Metron/17f
+1084/5[D]/Howling Metron MS Processing/12f
+1085/5[D]/Metron Screamer 808/8f
+1086/5[D]/Metron Arpeggio/27f
+1087/5[D]/Delayed Tardus Metron/17f
+1088/5[D]/Terra Metron/12f
+1089/5[D]/Accipiter Metron/15f
+1090/5[D]/Aquila Metron/10f
+1091/5[D]/Bit Shift Metron/10f
+1092/5[D]/RMS Boost Metron/10f
+1093/5[D]/Go to Marker/12f
+1094/5[D]/Sampler 404/7f
+1095/5[D]/Chaotic Option/7f
+1096/5[D]/"632146P/K"/3f
+1097/5[D]/632146S/12f
+1098/5[D]/236D/16f
+1099/5[D]/236[D]/28f
 1100/236X/5P/
 1101/236X/5K/
 1102/236X/c.S/
@@ -2034,336 +2034,336 @@
 2032/Repulsive Rod (Shooting)/632146S/
 2033/Repulsive Rod (Shooting)/236D/
 2034/Repulsive Rod (Shooting)/236[D]/
-2035/Howling Metron/5P/1f [-10f]
-2036/Howling Metron/5K/2f [-9f]
-2037/Howling Metron/c.S/2f [-9f]
-2038/Howling Metron/f.S/6f [-5f]
-2039/Howling Metron/5H/10f [-1f]
-2040/Howling Metron/2P/0f [-11f]
-2041/Howling Metron/2K/1f [-10f]
-2042/Howling Metron/2S/7f [-4f]
-2043/Howling Metron/2H/9f [-2f]
-2044/Howling Metron/j.P/6f [-5f]
-2045/Howling Metron/j.K/7f [-4f]
-2046/Howling Metron/j.S/9f [-2f]
-2047/Howling Metron/j.H/11f [0f]
-2048/Howling Metron/j.D/14f [3f]
-2049/Howling Metron/6P/6f [-5f]
-2050/Howling Metron/6K/9f [-2f]
-2051/Howling Metron/6H/20f [9f]
-2052/Howling Metron/2D/7f [-4f]
-2053/Howling Metron/5D/15f [4f]
-2054/Howling Metron/5[D]/23f [12f]
-2055/Howling Metron/236X/ []
-2056/Howling Metron/214X (Draw)/2f [-9f]
-2057/Howling Metron/214X (Discard)/2f [-9f]
-2058/Howling Metron/"22P/K/S"/8f [-3f]
-2059/Howling Metron/22H~X/-3f [-14f]
-2060/Howling Metron/Reduce Mana Cost/6f [-5f]
-2061/Howling Metron/Recover Mana (Continuous)/11f [0f]
-2062/Howling Metron/Recover Mana (Instant)/6f [-5f]
-2063/Howling Metron/Bookmark (Full Import)/6f [-5f]
-2064/Howling Metron/Bookmark (Random Import)/6f [-5f]
-2065/Howling Metron/Bookmark (Auto Import)/11f [0f]
-2066/Howling Metron/High-Pass Filter Gravity/14f [3f]
-2067/Howling Metron/Low-Pass Filter Gravity/14f [3f]
-2068/Howling Metron/Shooting Time Stretch (Accelerate)/14f [3f]
-2069/Howling Metron/Shooting Time Stretch (Decelerate)/14f [3f]
-2070/Howling Metron/Gravity Rod (Shooting)/14f [3f]
-2071/Howling Metron/Repulsive Rod (Shooting)/14f [3f]
-2072/Howling Metron/Howling Metron/6f [-5f]
-2073/Howling Metron/Delayed Howling Metron/16f [5f]
-2074/Howling Metron/Howling Metron MS Processing/11f [0f]
-2075/Howling Metron/Metron Screamer 808/7f [-4f]
-2076/Howling Metron/Metron Arpeggio/26f [15f]
-2077/Howling Metron/Delayed Tardus Metron/16f [5f]
-2078/Howling Metron/Terra Metron/11f [0f]
-2079/Howling Metron/Accipiter Metron/14f [3f]
-2080/Howling Metron/Aquila Metron/9f [-2f]
-2081/Howling Metron/Bit Shift Metron/9f [-2f]
-2082/Howling Metron/RMS Boost Metron/9f [-2f]
-2083/Howling Metron/Go to Marker/11f [0f]
-2084/Howling Metron/Sampler 404/6f [-5f]
-2085/Howling Metron/Chaotic Option/6f [-5f]
-2086/Howling Metron/"632146P/K"/2f [-9f]
-2087/Howling Metron/632146S/11f [0f]
-2088/Howling Metron/236D/15f [4f]
-2089/Howling Metron/236[D]/27f [16f]
-2090/Delayed Howling Metron/5P/-16f [-27f]
-2091/Delayed Howling Metron/5K/-15f [-26f]
-2092/Delayed Howling Metron/c.S/-15f [-26f]
-2093/Delayed Howling Metron/f.S/-11f [-22f]
-2094/Delayed Howling Metron/5H/-7f [-18f]
-2095/Delayed Howling Metron/2P/-17f [-28f]
-2096/Delayed Howling Metron/2K/-16f [-27f]
-2097/Delayed Howling Metron/2S/-10f [-21f]
-2098/Delayed Howling Metron/2H/-8f [-19f]
-2099/Delayed Howling Metron/j.P/-11f [-22f]
-2100/Delayed Howling Metron/j.K/-10f [-21f]
-2101/Delayed Howling Metron/j.S/-8f [-19f]
-2102/Delayed Howling Metron/j.H/-6f [-17f]
-2103/Delayed Howling Metron/j.D/-3f [-14f]
-2104/Delayed Howling Metron/6P/-11f [-22f]
-2105/Delayed Howling Metron/6K/-8f [-19f]
-2106/Delayed Howling Metron/6H/3f [-8f]
-2107/Delayed Howling Metron/2D/-10f [-21f]
-2108/Delayed Howling Metron/5D/-2f [-13f]
-2109/Delayed Howling Metron/5[D]/6f [-5f]
-2110/Delayed Howling Metron/236X/ []
-2111/Delayed Howling Metron/214X (Draw)/-15f [-26f]
-2112/Delayed Howling Metron/214X (Discard)/-15f [-26f]
-2113/Delayed Howling Metron/"22P/K/S"/-9f [-20f]
-2114/Delayed Howling Metron/22H~X/-20f [-31f]
-2115/Delayed Howling Metron/Reduce Mana Cost/-11f [-22f]
-2116/Delayed Howling Metron/Recover Mana (Continuous)/-6f [-17f]
-2117/Delayed Howling Metron/Recover Mana (Instant)/-11f [-22f]
-2118/Delayed Howling Metron/Bookmark (Full Import)/-11f [-22f]
-2119/Delayed Howling Metron/Bookmark (Random Import)/-11f [-22f]
-2120/Delayed Howling Metron/Bookmark (Auto Import)/-6f [-17f]
-2121/Delayed Howling Metron/High-Pass Filter Gravity/-3f [-14f]
-2122/Delayed Howling Metron/Low-Pass Filter Gravity/-3f [-14f]
-2123/Delayed Howling Metron/Shooting Time Stretch (Accelerate)/-3f [-14f]
-2124/Delayed Howling Metron/Shooting Time Stretch (Decelerate)/-3f [-14f]
-2125/Delayed Howling Metron/Gravity Rod (Shooting)/-3f [-14f]
-2126/Delayed Howling Metron/Repulsive Rod (Shooting)/-3f [-14f]
-2127/Delayed Howling Metron/Howling Metron/-11f [-22f]
-2128/Delayed Howling Metron/Delayed Howling Metron/-1f [-12f]
-2129/Delayed Howling Metron/Howling Metron MS Processing/-6f [-17f]
-2130/Delayed Howling Metron/Metron Screamer 808/-10f [-21f]
-2131/Delayed Howling Metron/Metron Arpeggio/9f [-2f]
-2132/Delayed Howling Metron/Delayed Tardus Metron/-1f [-12f]
-2133/Delayed Howling Metron/Terra Metron/-6f [-17f]
-2134/Delayed Howling Metron/Accipiter Metron/-3f [-14f]
-2135/Delayed Howling Metron/Aquila Metron/-8f [-19f]
-2136/Delayed Howling Metron/Bit Shift Metron/-8f [-19f]
-2137/Delayed Howling Metron/RMS Boost Metron/-8f [-19f]
-2138/Delayed Howling Metron/Go to Marker/-6f [-17f]
-2139/Delayed Howling Metron/Sampler 404/-11f [-22f]
-2140/Delayed Howling Metron/Chaotic Option/-11f [-22f]
-2141/Delayed Howling Metron/"632146P/K"/-15f [-26f]
-2142/Delayed Howling Metron/632146S/-6f [-17f]
-2143/Delayed Howling Metron/236D/-2f [-13f]
-2144/Delayed Howling Metron/236[D]/10f [-1f]
-2145/Howling Metron MS Processing/5P/-4f [-15f]
-2146/Howling Metron MS Processing/5K/-3f [-14f]
-2147/Howling Metron MS Processing/c.S/-3f [-14f]
-2148/Howling Metron MS Processing/f.S/1f [-10f]
-2149/Howling Metron MS Processing/5H/5f [-6f]
-2150/Howling Metron MS Processing/2P/-5f [-16f]
-2151/Howling Metron MS Processing/2K/-4f [-15f]
-2152/Howling Metron MS Processing/2S/2f [-9f]
-2153/Howling Metron MS Processing/2H/4f [-7f]
-2154/Howling Metron MS Processing/j.P/1f [-10f]
-2155/Howling Metron MS Processing/j.K/2f [-9f]
-2156/Howling Metron MS Processing/j.S/4f [-7f]
-2157/Howling Metron MS Processing/j.H/6f [-5f]
-2158/Howling Metron MS Processing/j.D/9f [-2f]
-2159/Howling Metron MS Processing/6P/1f [-10f]
-2160/Howling Metron MS Processing/6K/4f [-7f]
-2161/Howling Metron MS Processing/6H/15f [4f]
-2162/Howling Metron MS Processing/2D/2f [-9f]
-2163/Howling Metron MS Processing/5D/10f [-1f]
-2164/Howling Metron MS Processing/5[D]/18f [7f]
-2165/Howling Metron MS Processing/236X/ []
-2166/Howling Metron MS Processing/214X (Draw)/-3f [-14f]
-2167/Howling Metron MS Processing/214X (Discard)/-3f [-14f]
-2168/Howling Metron MS Processing/"22P/K/S"/3f [-8f]
-2169/Howling Metron MS Processing/22H~X/-8f [-19f]
-2170/Howling Metron MS Processing/Reduce Mana Cost/1f [-10f]
-2171/Howling Metron MS Processing/Recover Mana (Continuous)/6f [-5f]
-2172/Howling Metron MS Processing/Recover Mana (Instant)/1f [-10f]
-2173/Howling Metron MS Processing/Bookmark (Full Import)/1f [-10f]
-2174/Howling Metron MS Processing/Bookmark (Random Import)/1f [-10f]
-2175/Howling Metron MS Processing/Bookmark (Auto Import)/6f [-5f]
-2176/Howling Metron MS Processing/High-Pass Filter Gravity/9f [-2f]
-2177/Howling Metron MS Processing/Low-Pass Filter Gravity/9f [-2f]
-2178/Howling Metron MS Processing/Shooting Time Stretch (Accelerate)/9f [-2f]
-2179/Howling Metron MS Processing/Shooting Time Stretch (Decelerate)/9f [-2f]
-2180/Howling Metron MS Processing/Gravity Rod (Shooting)/9f [-2f]
-2181/Howling Metron MS Processing/Repulsive Rod (Shooting)/9f [-2f]
-2182/Howling Metron MS Processing/Howling Metron/1f [-10f]
-2183/Howling Metron MS Processing/Delayed Howling Metron/11f [0f]
-2184/Howling Metron MS Processing/Howling Metron MS Processing/6f [-5f]
-2185/Howling Metron MS Processing/Metron Screamer 808/2f [-9f]
-2186/Howling Metron MS Processing/Metron Arpeggio/21f [10f]
-2187/Howling Metron MS Processing/Delayed Tardus Metron/11f [0f]
-2188/Howling Metron MS Processing/Terra Metron/6f [-5f]
-2189/Howling Metron MS Processing/Accipiter Metron/9f [-2f]
-2190/Howling Metron MS Processing/Aquila Metron/4f [-7f]
-2191/Howling Metron MS Processing/Bit Shift Metron/4f [-7f]
-2192/Howling Metron MS Processing/RMS Boost Metron/4f [-7f]
-2193/Howling Metron MS Processing/Go to Marker/6f [-5f]
-2194/Howling Metron MS Processing/Sampler 404/1f [-10f]
-2195/Howling Metron MS Processing/Chaotic Option/1f [-10f]
-2196/Howling Metron MS Processing/"632146P/K"/-3f [-14f]
-2197/Howling Metron MS Processing/632146S/6f [-5f]
-2198/Howling Metron MS Processing/236D/10f [-1f]
-2199/Howling Metron MS Processing/236[D]/22f [11f]
-2200/Metron Screamer 808/5P/-10f
-2201/Metron Screamer 808/5K/-9f
-2202/Metron Screamer 808/c.S/-9f
-2203/Metron Screamer 808/f.S/-5f
-2204/Metron Screamer 808/5H/-1f
-2205/Metron Screamer 808/2P/-11f
-2206/Metron Screamer 808/2K/-10f
-2207/Metron Screamer 808/2S/-4f
-2208/Metron Screamer 808/2H/-2f
-2209/Metron Screamer 808/j.P/-5f
-2210/Metron Screamer 808/j.K/-4f
-2211/Metron Screamer 808/j.S/-2f
-2212/Metron Screamer 808/j.H/0f
-2213/Metron Screamer 808/j.D/3f
-2214/Metron Screamer 808/6P/-5f
-2215/Metron Screamer 808/6K/-2f
-2216/Metron Screamer 808/6H/9f
-2217/Metron Screamer 808/2D/-4f
-2218/Metron Screamer 808/5D/4f
-2219/Metron Screamer 808/5[D]/12f
+2035/Howling Metron/5P/2f
+2036/Howling Metron/5K/3f
+2037/Howling Metron/c.S/3f
+2038/Howling Metron/f.S/7f
+2039/Howling Metron/5H/11f
+2040/Howling Metron/2P/1f
+2041/Howling Metron/2K/2f
+2042/Howling Metron/2S/8f
+2043/Howling Metron/2H/10f
+2044/Howling Metron/j.P/7f
+2045/Howling Metron/j.K/8f
+2046/Howling Metron/j.S/10f
+2047/Howling Metron/j.H/12f
+2048/Howling Metron/j.D/15f
+2049/Howling Metron/6P/7f
+2050/Howling Metron/6K/10f
+2051/Howling Metron/6H/21f
+2052/Howling Metron/2D/8f
+2053/Howling Metron/5D/16f
+2054/Howling Metron/5[D]/24f
+2055/Howling Metron/236X/
+2056/Howling Metron/214X (Draw)/3f
+2057/Howling Metron/214X (Discard)/3f
+2058/Howling Metron/"22P/K/S"/9f
+2059/Howling Metron/22H~X/-2f
+2060/Howling Metron/Reduce Mana Cost/7f
+2061/Howling Metron/Recover Mana (Continuous)/12f
+2062/Howling Metron/Recover Mana (Instant)/7f
+2063/Howling Metron/Bookmark (Full Import)/7f
+2064/Howling Metron/Bookmark (Random Import)/7f
+2065/Howling Metron/Bookmark (Auto Import)/12f
+2066/Howling Metron/High-Pass Filter Gravity/15f
+2067/Howling Metron/Low-Pass Filter Gravity/15f
+2068/Howling Metron/Shooting Time Stretch (Accelerate)/15f
+2069/Howling Metron/Shooting Time Stretch (Decelerate)/15f
+2070/Howling Metron/Gravity Rod (Shooting)/15f
+2071/Howling Metron/Repulsive Rod (Shooting)/15f
+2072/Howling Metron/Howling Metron/7f
+2073/Howling Metron/Delayed Howling Metron/17f
+2074/Howling Metron/Howling Metron MS Processing/12f
+2075/Howling Metron/Metron Screamer 808/8f
+2076/Howling Metron/Metron Arpeggio/27f
+2077/Howling Metron/Delayed Tardus Metron/17f
+2078/Howling Metron/Terra Metron/12f
+2079/Howling Metron/Accipiter Metron/15f
+2080/Howling Metron/Aquila Metron/10f
+2081/Howling Metron/Bit Shift Metron/10f
+2082/Howling Metron/RMS Boost Metron/10f
+2083/Howling Metron/Go to Marker/12f
+2084/Howling Metron/Sampler 404/7f
+2085/Howling Metron/Chaotic Option/7f
+2086/Howling Metron/"632146P/K"/3f
+2087/Howling Metron/632146S/12f
+2088/Howling Metron/236D/16f
+2089/Howling Metron/236[D]/28f
+2090/Delayed Howling Metron/5P/2f
+2091/Delayed Howling Metron/5K/3f
+2092/Delayed Howling Metron/c.S/3f
+2093/Delayed Howling Metron/f.S/7f
+2094/Delayed Howling Metron/5H/11f
+2095/Delayed Howling Metron/2P/1f
+2096/Delayed Howling Metron/2K/2f
+2097/Delayed Howling Metron/2S/8f
+2098/Delayed Howling Metron/2H/10f
+2099/Delayed Howling Metron/j.P/7f
+2100/Delayed Howling Metron/j.K/8f
+2101/Delayed Howling Metron/j.S/10f
+2102/Delayed Howling Metron/j.H/12f
+2103/Delayed Howling Metron/j.D/15f
+2104/Delayed Howling Metron/6P/7f
+2105/Delayed Howling Metron/6K/10f
+2106/Delayed Howling Metron/6H/21f
+2107/Delayed Howling Metron/2D/8f
+2108/Delayed Howling Metron/5D/16f
+2109/Delayed Howling Metron/5[D]/24f
+2110/Delayed Howling Metron/236X/
+2111/Delayed Howling Metron/214X (Draw)/3f
+2112/Delayed Howling Metron/214X (Discard)/3f
+2113/Delayed Howling Metron/"22P/K/S"/9f
+2114/Delayed Howling Metron/22H~X/-2f
+2115/Delayed Howling Metron/Reduce Mana Cost/7f
+2116/Delayed Howling Metron/Recover Mana (Continuous)/12f
+2117/Delayed Howling Metron/Recover Mana (Instant)/7f
+2118/Delayed Howling Metron/Bookmark (Full Import)/7f
+2119/Delayed Howling Metron/Bookmark (Random Import)/7f
+2120/Delayed Howling Metron/Bookmark (Auto Import)/12f
+2121/Delayed Howling Metron/High-Pass Filter Gravity/15f
+2122/Delayed Howling Metron/Low-Pass Filter Gravity/15f
+2123/Delayed Howling Metron/Shooting Time Stretch (Accelerate)/15f
+2124/Delayed Howling Metron/Shooting Time Stretch (Decelerate)/15f
+2125/Delayed Howling Metron/Gravity Rod (Shooting)/15f
+2126/Delayed Howling Metron/Repulsive Rod (Shooting)/15f
+2127/Delayed Howling Metron/Howling Metron/7f
+2128/Delayed Howling Metron/Delayed Howling Metron/17f
+2129/Delayed Howling Metron/Howling Metron MS Processing/12f
+2130/Delayed Howling Metron/Metron Screamer 808/8f
+2131/Delayed Howling Metron/Metron Arpeggio/27f
+2132/Delayed Howling Metron/Delayed Tardus Metron/17f
+2133/Delayed Howling Metron/Terra Metron/12f
+2134/Delayed Howling Metron/Accipiter Metron/15f
+2135/Delayed Howling Metron/Aquila Metron/10f
+2136/Delayed Howling Metron/Bit Shift Metron/10f
+2137/Delayed Howling Metron/RMS Boost Metron/10f
+2138/Delayed Howling Metron/Go to Marker/12f
+2139/Delayed Howling Metron/Sampler 404/7f
+2140/Delayed Howling Metron/Chaotic Option/7f
+2141/Delayed Howling Metron/"632146P/K"/3f
+2142/Delayed Howling Metron/632146S/12f
+2143/Delayed Howling Metron/236D/16f
+2144/Delayed Howling Metron/236[D]/28f
+2145/Howling Metron MS Processing/5P/2f
+2146/Howling Metron MS Processing/5K/3f
+2147/Howling Metron MS Processing/c.S/3f
+2148/Howling Metron MS Processing/f.S/7f
+2149/Howling Metron MS Processing/5H/11f
+2150/Howling Metron MS Processing/2P/1f
+2151/Howling Metron MS Processing/2K/2f
+2152/Howling Metron MS Processing/2S/8f
+2153/Howling Metron MS Processing/2H/10f
+2154/Howling Metron MS Processing/j.P/7f
+2155/Howling Metron MS Processing/j.K/8f
+2156/Howling Metron MS Processing/j.S/10f
+2157/Howling Metron MS Processing/j.H/12f
+2158/Howling Metron MS Processing/j.D/15f
+2159/Howling Metron MS Processing/6P/7f
+2160/Howling Metron MS Processing/6K/10f
+2161/Howling Metron MS Processing/6H/21f
+2162/Howling Metron MS Processing/2D/8f
+2163/Howling Metron MS Processing/5D/16f
+2164/Howling Metron MS Processing/5[D]/24f
+2165/Howling Metron MS Processing/236X/
+2166/Howling Metron MS Processing/214X (Draw)/3f
+2167/Howling Metron MS Processing/214X (Discard)/3f
+2168/Howling Metron MS Processing/"22P/K/S"/9f
+2169/Howling Metron MS Processing/22H~X/-2f
+2170/Howling Metron MS Processing/Reduce Mana Cost/7f
+2171/Howling Metron MS Processing/Recover Mana (Continuous)/12f
+2172/Howling Metron MS Processing/Recover Mana (Instant)/7f
+2173/Howling Metron MS Processing/Bookmark (Full Import)/7f
+2174/Howling Metron MS Processing/Bookmark (Random Import)/7f
+2175/Howling Metron MS Processing/Bookmark (Auto Import)/12f
+2176/Howling Metron MS Processing/High-Pass Filter Gravity/15f
+2177/Howling Metron MS Processing/Low-Pass Filter Gravity/15f
+2178/Howling Metron MS Processing/Shooting Time Stretch (Accelerate)/15f
+2179/Howling Metron MS Processing/Shooting Time Stretch (Decelerate)/15f
+2180/Howling Metron MS Processing/Gravity Rod (Shooting)/15f
+2181/Howling Metron MS Processing/Repulsive Rod (Shooting)/15f
+2182/Howling Metron MS Processing/Howling Metron/7f
+2183/Howling Metron MS Processing/Delayed Howling Metron/17f
+2184/Howling Metron MS Processing/Howling Metron MS Processing/12f
+2185/Howling Metron MS Processing/Metron Screamer 808/8f
+2186/Howling Metron MS Processing/Metron Arpeggio/27f
+2187/Howling Metron MS Processing/Delayed Tardus Metron/17f
+2188/Howling Metron MS Processing/Terra Metron/12f
+2189/Howling Metron MS Processing/Accipiter Metron/15f
+2190/Howling Metron MS Processing/Aquila Metron/10f
+2191/Howling Metron MS Processing/Bit Shift Metron/10f
+2192/Howling Metron MS Processing/RMS Boost Metron/10f
+2193/Howling Metron MS Processing/Go to Marker/12f
+2194/Howling Metron MS Processing/Sampler 404/7f
+2195/Howling Metron MS Processing/Chaotic Option/7f
+2196/Howling Metron MS Processing/"632146P/K"/3f
+2197/Howling Metron MS Processing/632146S/12f
+2198/Howling Metron MS Processing/236D/16f
+2199/Howling Metron MS Processing/236[D]/28f
+2200/Metron Screamer 808/5P/2f
+2201/Metron Screamer 808/5K/3f
+2202/Metron Screamer 808/c.S/3f
+2203/Metron Screamer 808/f.S/7f
+2204/Metron Screamer 808/5H/11f
+2205/Metron Screamer 808/2P/1f
+2206/Metron Screamer 808/2K/2f
+2207/Metron Screamer 808/2S/8f
+2208/Metron Screamer 808/2H/10f
+2209/Metron Screamer 808/j.P/7f
+2210/Metron Screamer 808/j.K/8f
+2211/Metron Screamer 808/j.S/10f
+2212/Metron Screamer 808/j.H/12f
+2213/Metron Screamer 808/j.D/15f
+2214/Metron Screamer 808/6P/7f
+2215/Metron Screamer 808/6K/10f
+2216/Metron Screamer 808/6H/21f
+2217/Metron Screamer 808/2D/8f
+2218/Metron Screamer 808/5D/16f
+2219/Metron Screamer 808/5[D]/24f
 2220/Metron Screamer 808/236X/
-2221/Metron Screamer 808/214X (Draw)/-9f
-2222/Metron Screamer 808/214X (Discard)/-9f
-2223/Metron Screamer 808/"22P/K/S"/-3f
-2224/Metron Screamer 808/22H~X/-14f
-2225/Metron Screamer 808/Reduce Mana Cost/-5f
-2226/Metron Screamer 808/Recover Mana (Continuous)/0f
-2227/Metron Screamer 808/Recover Mana (Instant)/-5f
-2228/Metron Screamer 808/Bookmark (Full Import)/-5f
-2229/Metron Screamer 808/Bookmark (Random Import)/-5f
-2230/Metron Screamer 808/Bookmark (Auto Import)/0f
-2231/Metron Screamer 808/High-Pass Filter Gravity/3f
-2232/Metron Screamer 808/Low-Pass Filter Gravity/3f
-2233/Metron Screamer 808/Shooting Time Stretch (Accelerate)/3f
-2234/Metron Screamer 808/Shooting Time Stretch (Decelerate)/3f
-2235/Metron Screamer 808/Gravity Rod (Shooting)/3f
-2236/Metron Screamer 808/Repulsive Rod (Shooting)/3f
-2237/Metron Screamer 808/Howling Metron/-5f
-2238/Metron Screamer 808/Delayed Howling Metron/5f
-2239/Metron Screamer 808/Howling Metron MS Processing/0f
-2240/Metron Screamer 808/Metron Screamer 808/-4f
-2241/Metron Screamer 808/Metron Arpeggio/15f
-2242/Metron Screamer 808/Delayed Tardus Metron/5f
-2243/Metron Screamer 808/Terra Metron/0f
-2244/Metron Screamer 808/Accipiter Metron/3f
-2245/Metron Screamer 808/Aquila Metron/-2f
-2246/Metron Screamer 808/Bit Shift Metron/-2f
-2247/Metron Screamer 808/RMS Boost Metron/-2f
-2248/Metron Screamer 808/Go to Marker/0f
-2249/Metron Screamer 808/Sampler 404/-5f
-2250/Metron Screamer 808/Chaotic Option/-5f
-2251/Metron Screamer 808/"632146P/K"/-9f
-2252/Metron Screamer 808/632146S/0f
-2253/Metron Screamer 808/236D/4f
-2254/Metron Screamer 808/236[D]/16f
-2255/Metron Arpeggio/5P/-107f [-118f]
-2256/Metron Arpeggio/5K/-106f [-117f]
-2257/Metron Arpeggio/c.S/-106f [-117f]
-2258/Metron Arpeggio/f.S/-102f [-113f]
-2259/Metron Arpeggio/5H/-98f [-109f]
-2260/Metron Arpeggio/2P/-108f [-119f]
-2261/Metron Arpeggio/2K/-107f [-118f]
-2262/Metron Arpeggio/2S/-101f [-112f]
-2263/Metron Arpeggio/2H/-99f [-110f]
-2264/Metron Arpeggio/j.P/-102f [-113f]
-2265/Metron Arpeggio/j.K/-101f [-112f]
-2266/Metron Arpeggio/j.S/-99f [-110f]
-2267/Metron Arpeggio/j.H/-97f [-108f]
-2268/Metron Arpeggio/j.D/-94f [-105f]
-2269/Metron Arpeggio/6P/-102f [-113f]
-2270/Metron Arpeggio/6K/-99f [-110f]
-2271/Metron Arpeggio/6H/-88f [-99f]
-2272/Metron Arpeggio/2D/-101f [-112f]
-2273/Metron Arpeggio/5D/-93f [-104f]
-2274/Metron Arpeggio/5[D]/-85f [-96f]
-2275/Metron Arpeggio/236X/ []
-2276/Metron Arpeggio/214X (Draw)/-106f [-117f]
-2277/Metron Arpeggio/214X (Discard)/-106f [-117f]
-2278/Metron Arpeggio/"22P/K/S"/-100f [-111f]
-2279/Metron Arpeggio/22H~X/-111f [-122f]
-2280/Metron Arpeggio/Reduce Mana Cost/-102f [-113f]
-2281/Metron Arpeggio/Recover Mana (Continuous)/-97f [-108f]
-2282/Metron Arpeggio/Recover Mana (Instant)/-102f [-113f]
-2283/Metron Arpeggio/Bookmark (Full Import)/-102f [-113f]
-2284/Metron Arpeggio/Bookmark (Random Import)/-102f [-113f]
-2285/Metron Arpeggio/Bookmark (Auto Import)/-97f [-108f]
-2286/Metron Arpeggio/High-Pass Filter Gravity/-94f [-105f]
-2287/Metron Arpeggio/Low-Pass Filter Gravity/-94f [-105f]
-2288/Metron Arpeggio/Shooting Time Stretch (Accelerate)/-94f [-105f]
-2289/Metron Arpeggio/Shooting Time Stretch (Decelerate)/-94f [-105f]
-2290/Metron Arpeggio/Gravity Rod (Shooting)/-94f [-105f]
-2291/Metron Arpeggio/Repulsive Rod (Shooting)/-94f [-105f]
-2292/Metron Arpeggio/Howling Metron/-102f [-113f]
-2293/Metron Arpeggio/Delayed Howling Metron/-92f [-103f]
-2294/Metron Arpeggio/Howling Metron MS Processing/-97f [-108f]
-2295/Metron Arpeggio/Metron Screamer 808/-101f [-112f]
-2296/Metron Arpeggio/Metron Arpeggio/-82f [-93f]
-2297/Metron Arpeggio/Delayed Tardus Metron/-92f [-103f]
-2298/Metron Arpeggio/Terra Metron/-97f [-108f]
-2299/Metron Arpeggio/Accipiter Metron/-94f [-105f]
-2300/Metron Arpeggio/Aquila Metron/-99f [-110f]
-2301/Metron Arpeggio/Bit Shift Metron/-99f [-110f]
-2302/Metron Arpeggio/RMS Boost Metron/-99f [-110f]
-2303/Metron Arpeggio/Go to Marker/-97f [-108f]
-2304/Metron Arpeggio/Sampler 404/-102f [-113f]
-2305/Metron Arpeggio/Chaotic Option/-102f [-113f]
-2306/Metron Arpeggio/"632146P/K"/-106f [-117f]
-2307/Metron Arpeggio/632146S/-97f [-108f]
-2308/Metron Arpeggio/236D/-93f [-104f]
-2309/Metron Arpeggio/236[D]/-81f [-92f]
-2310/Delayed Tardus Metron/5P/-51f [-62f]
-2311/Delayed Tardus Metron/5K/-50f [-61f]
-2312/Delayed Tardus Metron/c.S/-50f [-61f]
-2313/Delayed Tardus Metron/f.S/-46f [-57f]
-2314/Delayed Tardus Metron/5H/-42f [-53f]
-2315/Delayed Tardus Metron/2P/-52f [-63f]
-2316/Delayed Tardus Metron/2K/-51f [-62f]
-2317/Delayed Tardus Metron/2S/-45f [-56f]
-2318/Delayed Tardus Metron/2H/-43f [-54f]
-2319/Delayed Tardus Metron/j.P/-46f [-57f]
-2320/Delayed Tardus Metron/j.K/-45f [-56f]
-2321/Delayed Tardus Metron/j.S/-43f [-54f]
-2322/Delayed Tardus Metron/j.H/-41f [-52f]
-2323/Delayed Tardus Metron/j.D/-38f [-49f]
-2324/Delayed Tardus Metron/6P/-46f [-57f]
-2325/Delayed Tardus Metron/6K/-43f [-54f]
-2326/Delayed Tardus Metron/6H/-32f [-43f]
-2327/Delayed Tardus Metron/2D/-45f [-56f]
-2328/Delayed Tardus Metron/5D/-37f [-48f]
-2329/Delayed Tardus Metron/5[D]/-29f [-40f]
-2330/Delayed Tardus Metron/236X/ []
-2331/Delayed Tardus Metron/214X (Draw)/-50f [-61f]
-2332/Delayed Tardus Metron/214X (Discard)/-50f [-61f]
-2333/Delayed Tardus Metron/"22P/K/S"/-44f [-55f]
-2334/Delayed Tardus Metron/22H~X/-55f [-66f]
-2335/Delayed Tardus Metron/Reduce Mana Cost/-46f [-57f]
-2336/Delayed Tardus Metron/Recover Mana (Continuous)/-41f [-52f]
-2337/Delayed Tardus Metron/Recover Mana (Instant)/-46f [-57f]
-2338/Delayed Tardus Metron/Bookmark (Full Import)/-46f [-57f]
-2339/Delayed Tardus Metron/Bookmark (Random Import)/-46f [-57f]
-2340/Delayed Tardus Metron/Bookmark (Auto Import)/-41f [-52f]
-2341/Delayed Tardus Metron/High-Pass Filter Gravity/-38f [-49f]
-2342/Delayed Tardus Metron/Low-Pass Filter Gravity/-38f [-49f]
-2343/Delayed Tardus Metron/Shooting Time Stretch (Accelerate)/-38f [-49f]
-2344/Delayed Tardus Metron/Shooting Time Stretch (Decelerate)/-38f [-49f]
-2345/Delayed Tardus Metron/Gravity Rod (Shooting)/-38f [-49f]
-2346/Delayed Tardus Metron/Repulsive Rod (Shooting)/-38f [-49f]
-2347/Delayed Tardus Metron/Howling Metron/-46f [-57f]
-2348/Delayed Tardus Metron/Delayed Howling Metron/-36f [-47f]
-2349/Delayed Tardus Metron/Howling Metron MS Processing/-41f [-52f]
-2350/Delayed Tardus Metron/Metron Screamer 808/-45f [-56f]
-2351/Delayed Tardus Metron/Metron Arpeggio/-26f [-37f]
-2352/Delayed Tardus Metron/Delayed Tardus Metron/-36f [-47f]
-2353/Delayed Tardus Metron/Terra Metron/-41f [-52f]
-2354/Delayed Tardus Metron/Accipiter Metron/-38f [-49f]
-2355/Delayed Tardus Metron/Aquila Metron/-43f [-54f]
-2356/Delayed Tardus Metron/Bit Shift Metron/-43f [-54f]
-2357/Delayed Tardus Metron/RMS Boost Metron/-43f [-54f]
-2358/Delayed Tardus Metron/Go to Marker/-41f [-52f]
-2359/Delayed Tardus Metron/Sampler 404/-46f [-57f]
-2360/Delayed Tardus Metron/Chaotic Option/-46f [-57f]
-2361/Delayed Tardus Metron/"632146P/K"/-50f [-61f]
-2362/Delayed Tardus Metron/632146S/-41f [-52f]
-2363/Delayed Tardus Metron/236D/-37f [-48f]
-2364/Delayed Tardus Metron/236[D]/-25f [-36f]
+2221/Metron Screamer 808/214X (Draw)/3f
+2222/Metron Screamer 808/214X (Discard)/3f
+2223/Metron Screamer 808/"22P/K/S"/9f
+2224/Metron Screamer 808/22H~X/-2f
+2225/Metron Screamer 808/Reduce Mana Cost/7f
+2226/Metron Screamer 808/Recover Mana (Continuous)/12f
+2227/Metron Screamer 808/Recover Mana (Instant)/7f
+2228/Metron Screamer 808/Bookmark (Full Import)/7f
+2229/Metron Screamer 808/Bookmark (Random Import)/7f
+2230/Metron Screamer 808/Bookmark (Auto Import)/12f
+2231/Metron Screamer 808/High-Pass Filter Gravity/15f
+2232/Metron Screamer 808/Low-Pass Filter Gravity/15f
+2233/Metron Screamer 808/Shooting Time Stretch (Accelerate)/15f
+2234/Metron Screamer 808/Shooting Time Stretch (Decelerate)/15f
+2235/Metron Screamer 808/Gravity Rod (Shooting)/15f
+2236/Metron Screamer 808/Repulsive Rod (Shooting)/15f
+2237/Metron Screamer 808/Howling Metron/7f
+2238/Metron Screamer 808/Delayed Howling Metron/17f
+2239/Metron Screamer 808/Howling Metron MS Processing/12f
+2240/Metron Screamer 808/Metron Screamer 808/8f
+2241/Metron Screamer 808/Metron Arpeggio/27f
+2242/Metron Screamer 808/Delayed Tardus Metron/17f
+2243/Metron Screamer 808/Terra Metron/12f
+2244/Metron Screamer 808/Accipiter Metron/15f
+2245/Metron Screamer 808/Aquila Metron/10f
+2246/Metron Screamer 808/Bit Shift Metron/10f
+2247/Metron Screamer 808/RMS Boost Metron/10f
+2248/Metron Screamer 808/Go to Marker/12f
+2249/Metron Screamer 808/Sampler 404/7f
+2250/Metron Screamer 808/Chaotic Option/7f
+2251/Metron Screamer 808/"632146P/K"/3f
+2252/Metron Screamer 808/632146S/12f
+2253/Metron Screamer 808/236D/16f
+2254/Metron Screamer 808/236[D]/28f
+2255/Metron Arpeggio/5P/2f
+2256/Metron Arpeggio/5K/3f
+2257/Metron Arpeggio/c.S/3f
+2258/Metron Arpeggio/f.S/7f
+2259/Metron Arpeggio/5H/11f
+2260/Metron Arpeggio/2P/1f
+2261/Metron Arpeggio/2K/2f
+2262/Metron Arpeggio/2S/8f
+2263/Metron Arpeggio/2H/10f
+2264/Metron Arpeggio/j.P/7f
+2265/Metron Arpeggio/j.K/8f
+2266/Metron Arpeggio/j.S/10f
+2267/Metron Arpeggio/j.H/12f
+2268/Metron Arpeggio/j.D/15f
+2269/Metron Arpeggio/6P/7f
+2270/Metron Arpeggio/6K/10f
+2271/Metron Arpeggio/6H/21f
+2272/Metron Arpeggio/2D/8f
+2273/Metron Arpeggio/5D/16f
+2274/Metron Arpeggio/5[D]/24f
+2275/Metron Arpeggio/236X/
+2276/Metron Arpeggio/214X (Draw)/3f
+2277/Metron Arpeggio/214X (Discard)/3f
+2278/Metron Arpeggio/"22P/K/S"/9f
+2279/Metron Arpeggio/22H~X/-2f
+2280/Metron Arpeggio/Reduce Mana Cost/7f
+2281/Metron Arpeggio/Recover Mana (Continuous)/12f
+2282/Metron Arpeggio/Recover Mana (Instant)/7f
+2283/Metron Arpeggio/Bookmark (Full Import)/7f
+2284/Metron Arpeggio/Bookmark (Random Import)/7f
+2285/Metron Arpeggio/Bookmark (Auto Import)/12f
+2286/Metron Arpeggio/High-Pass Filter Gravity/15f
+2287/Metron Arpeggio/Low-Pass Filter Gravity/15f
+2288/Metron Arpeggio/Shooting Time Stretch (Accelerate)/15f
+2289/Metron Arpeggio/Shooting Time Stretch (Decelerate)/15f
+2290/Metron Arpeggio/Gravity Rod (Shooting)/15f
+2291/Metron Arpeggio/Repulsive Rod (Shooting)/15f
+2292/Metron Arpeggio/Howling Metron/7f
+2293/Metron Arpeggio/Delayed Howling Metron/17f
+2294/Metron Arpeggio/Howling Metron MS Processing/12f
+2295/Metron Arpeggio/Metron Screamer 808/8f
+2296/Metron Arpeggio/Metron Arpeggio/27f
+2297/Metron Arpeggio/Delayed Tardus Metron/17f
+2298/Metron Arpeggio/Terra Metron/12f
+2299/Metron Arpeggio/Accipiter Metron/15f
+2300/Metron Arpeggio/Aquila Metron/10f
+2301/Metron Arpeggio/Bit Shift Metron/10f
+2302/Metron Arpeggio/RMS Boost Metron/10f
+2303/Metron Arpeggio/Go to Marker/12f
+2304/Metron Arpeggio/Sampler 404/7f
+2305/Metron Arpeggio/Chaotic Option/7f
+2306/Metron Arpeggio/"632146P/K"/3f
+2307/Metron Arpeggio/632146S/12f
+2308/Metron Arpeggio/236D/16f
+2309/Metron Arpeggio/236[D]/28f
+2310/Delayed Tardus Metron/5P/2f
+2311/Delayed Tardus Metron/5K/3f
+2312/Delayed Tardus Metron/c.S/3f
+2313/Delayed Tardus Metron/f.S/7f
+2314/Delayed Tardus Metron/5H/11f
+2315/Delayed Tardus Metron/2P/1f
+2316/Delayed Tardus Metron/2K/2f
+2317/Delayed Tardus Metron/2S/8f
+2318/Delayed Tardus Metron/2H/10f
+2319/Delayed Tardus Metron/j.P/7f
+2320/Delayed Tardus Metron/j.K/8f
+2321/Delayed Tardus Metron/j.S/10f
+2322/Delayed Tardus Metron/j.H/12f
+2323/Delayed Tardus Metron/j.D/15f
+2324/Delayed Tardus Metron/6P/7f
+2325/Delayed Tardus Metron/6K/10f
+2326/Delayed Tardus Metron/6H/21f
+2327/Delayed Tardus Metron/2D/8f
+2328/Delayed Tardus Metron/5D/16f
+2329/Delayed Tardus Metron/5[D]/24f
+2330/Delayed Tardus Metron/236X/
+2331/Delayed Tardus Metron/214X (Draw)/3f
+2332/Delayed Tardus Metron/214X (Discard)/3f
+2333/Delayed Tardus Metron/"22P/K/S"/9f
+2334/Delayed Tardus Metron/22H~X/-2f
+2335/Delayed Tardus Metron/Reduce Mana Cost/7f
+2336/Delayed Tardus Metron/Recover Mana (Continuous)/12f
+2337/Delayed Tardus Metron/Recover Mana (Instant)/7f
+2338/Delayed Tardus Metron/Bookmark (Full Import)/7f
+2339/Delayed Tardus Metron/Bookmark (Random Import)/7f
+2340/Delayed Tardus Metron/Bookmark (Auto Import)/12f
+2341/Delayed Tardus Metron/High-Pass Filter Gravity/15f
+2342/Delayed Tardus Metron/Low-Pass Filter Gravity/15f
+2343/Delayed Tardus Metron/Shooting Time Stretch (Accelerate)/15f
+2344/Delayed Tardus Metron/Shooting Time Stretch (Decelerate)/15f
+2345/Delayed Tardus Metron/Gravity Rod (Shooting)/15f
+2346/Delayed Tardus Metron/Repulsive Rod (Shooting)/15f
+2347/Delayed Tardus Metron/Howling Metron/7f
+2348/Delayed Tardus Metron/Delayed Howling Metron/17f
+2349/Delayed Tardus Metron/Howling Metron MS Processing/12f
+2350/Delayed Tardus Metron/Metron Screamer 808/8f
+2351/Delayed Tardus Metron/Metron Arpeggio/27f
+2352/Delayed Tardus Metron/Delayed Tardus Metron/17f
+2353/Delayed Tardus Metron/Terra Metron/12f
+2354/Delayed Tardus Metron/Accipiter Metron/15f
+2355/Delayed Tardus Metron/Aquila Metron/10f
+2356/Delayed Tardus Metron/Bit Shift Metron/10f
+2357/Delayed Tardus Metron/RMS Boost Metron/10f
+2358/Delayed Tardus Metron/Go to Marker/12f
+2359/Delayed Tardus Metron/Sampler 404/7f
+2360/Delayed Tardus Metron/Chaotic Option/7f
+2361/Delayed Tardus Metron/"632146P/K"/3f
+2362/Delayed Tardus Metron/632146S/12f
+2363/Delayed Tardus Metron/236D/16f
+2364/Delayed Tardus Metron/236[D]/28f
 2365/Terra Metron/5P/2f
 2366/Terra Metron/5K/3f
 2367/Terra Metron/c.S/3f
@@ -2474,171 +2474,171 @@
 2472/Accipiter Metron/632146S/12f
 2473/Accipiter Metron/236D/16f
 2474/Accipiter Metron/236[D]/28f
-2475/Aquila Metron/5P/31f
-2476/Aquila Metron/5K/32f
-2477/Aquila Metron/c.S/32f
-2478/Aquila Metron/f.S/36f
-2479/Aquila Metron/5H/40f
-2480/Aquila Metron/2P/30f
-2481/Aquila Metron/2K/31f
-2482/Aquila Metron/2S/37f
-2483/Aquila Metron/2H/39f
-2484/Aquila Metron/j.P/36f
-2485/Aquila Metron/j.K/37f
-2486/Aquila Metron/j.S/39f
-2487/Aquila Metron/j.H/41f
-2488/Aquila Metron/j.D/44f
-2489/Aquila Metron/6P/36f
-2490/Aquila Metron/6K/39f
-2491/Aquila Metron/6H/50f
-2492/Aquila Metron/2D/37f
-2493/Aquila Metron/5D/45f
-2494/Aquila Metron/5[D]/53f
+2475/Aquila Metron/5P/4f
+2476/Aquila Metron/5K/5f
+2477/Aquila Metron/c.S/5f
+2478/Aquila Metron/f.S/9f
+2479/Aquila Metron/5H/13f
+2480/Aquila Metron/2P/3f
+2481/Aquila Metron/2K/4f
+2482/Aquila Metron/2S/10f
+2483/Aquila Metron/2H/12f
+2484/Aquila Metron/j.P/9f
+2485/Aquila Metron/j.K/10f
+2486/Aquila Metron/j.S/12f
+2487/Aquila Metron/j.H/14f
+2488/Aquila Metron/j.D/17f
+2489/Aquila Metron/6P/9f
+2490/Aquila Metron/6K/12f
+2491/Aquila Metron/6H/23f
+2492/Aquila Metron/2D/10f
+2493/Aquila Metron/5D/18f
+2494/Aquila Metron/5[D]/26f
 2495/Aquila Metron/236X/
-2496/Aquila Metron/214X (Draw)/32f
-2497/Aquila Metron/214X (Discard)/32f
-2498/Aquila Metron/"22P/K/S"/38f
-2499/Aquila Metron/22H~X/27f
-2500/Aquila Metron/Reduce Mana Cost/36f
-2501/Aquila Metron/Recover Mana (Continuous)/41f
-2502/Aquila Metron/Recover Mana (Instant)/36f
-2503/Aquila Metron/Bookmark (Full Import)/36f
-2504/Aquila Metron/Bookmark (Random Import)/36f
-2505/Aquila Metron/Bookmark (Auto Import)/41f
-2506/Aquila Metron/High-Pass Filter Gravity/44f
-2507/Aquila Metron/Low-Pass Filter Gravity/44f
-2508/Aquila Metron/Shooting Time Stretch (Accelerate)/44f
-2509/Aquila Metron/Shooting Time Stretch (Decelerate)/44f
-2510/Aquila Metron/Gravity Rod (Shooting)/44f
-2511/Aquila Metron/Repulsive Rod (Shooting)/44f
-2512/Aquila Metron/Howling Metron/36f
-2513/Aquila Metron/Delayed Howling Metron/46f
-2514/Aquila Metron/Howling Metron MS Processing/41f
-2515/Aquila Metron/Metron Screamer 808/37f
-2516/Aquila Metron/Metron Arpeggio/56f
-2517/Aquila Metron/Delayed Tardus Metron/46f
-2518/Aquila Metron/Terra Metron/41f
-2519/Aquila Metron/Accipiter Metron/44f
-2520/Aquila Metron/Aquila Metron/39f
-2521/Aquila Metron/Bit Shift Metron/39f
-2522/Aquila Metron/RMS Boost Metron/39f
-2523/Aquila Metron/Go to Marker/41f
-2524/Aquila Metron/Sampler 404/36f
-2525/Aquila Metron/Chaotic Option/36f
-2526/Aquila Metron/"632146P/K"/32f
-2527/Aquila Metron/632146S/41f
-2528/Aquila Metron/236D/45f
-2529/Aquila Metron/236[D]/57f
-2530/Bit Shift Metron/5P/-2f
-2531/Bit Shift Metron/5K/-1f
-2532/Bit Shift Metron/c.S/-1f
-2533/Bit Shift Metron/f.S/3f
-2534/Bit Shift Metron/5H/7f
-2535/Bit Shift Metron/2P/-3f
-2536/Bit Shift Metron/2K/-2f
-2537/Bit Shift Metron/2S/4f
-2538/Bit Shift Metron/2H/6f
-2539/Bit Shift Metron/j.P/3f
-2540/Bit Shift Metron/j.K/4f
-2541/Bit Shift Metron/j.S/6f
-2542/Bit Shift Metron/j.H/8f
-2543/Bit Shift Metron/j.D/11f
-2544/Bit Shift Metron/6P/3f
-2545/Bit Shift Metron/6K/6f
-2546/Bit Shift Metron/6H/17f
-2547/Bit Shift Metron/2D/4f
-2548/Bit Shift Metron/5D/12f
-2549/Bit Shift Metron/5[D]/20f
+2496/Aquila Metron/214X (Draw)/5f
+2497/Aquila Metron/214X (Discard)/5f
+2498/Aquila Metron/"22P/K/S"/11f
+2499/Aquila Metron/22H~X/0f
+2500/Aquila Metron/Reduce Mana Cost/9f
+2501/Aquila Metron/Recover Mana (Continuous)/14f
+2502/Aquila Metron/Recover Mana (Instant)/9f
+2503/Aquila Metron/Bookmark (Full Import)/9f
+2504/Aquila Metron/Bookmark (Random Import)/9f
+2505/Aquila Metron/Bookmark (Auto Import)/14f
+2506/Aquila Metron/High-Pass Filter Gravity/17f
+2507/Aquila Metron/Low-Pass Filter Gravity/17f
+2508/Aquila Metron/Shooting Time Stretch (Accelerate)/17f
+2509/Aquila Metron/Shooting Time Stretch (Decelerate)/17f
+2510/Aquila Metron/Gravity Rod (Shooting)/17f
+2511/Aquila Metron/Repulsive Rod (Shooting)/17f
+2512/Aquila Metron/Howling Metron/9f
+2513/Aquila Metron/Delayed Howling Metron/19f
+2514/Aquila Metron/Howling Metron MS Processing/14f
+2515/Aquila Metron/Metron Screamer 808/10f
+2516/Aquila Metron/Metron Arpeggio/29f
+2517/Aquila Metron/Delayed Tardus Metron/19f
+2518/Aquila Metron/Terra Metron/14f
+2519/Aquila Metron/Accipiter Metron/17f
+2520/Aquila Metron/Aquila Metron/12f
+2521/Aquila Metron/Bit Shift Metron/12f
+2522/Aquila Metron/RMS Boost Metron/12f
+2523/Aquila Metron/Go to Marker/14f
+2524/Aquila Metron/Sampler 404/9f
+2525/Aquila Metron/Chaotic Option/9f
+2526/Aquila Metron/"632146P/K"/5f
+2527/Aquila Metron/632146S/14f
+2528/Aquila Metron/236D/18f
+2529/Aquila Metron/236[D]/30f
+2530/Bit Shift Metron/5P/
+2531/Bit Shift Metron/5K/
+2532/Bit Shift Metron/c.S/
+2533/Bit Shift Metron/f.S/
+2534/Bit Shift Metron/5H/
+2535/Bit Shift Metron/2P/
+2536/Bit Shift Metron/2K/
+2537/Bit Shift Metron/2S/
+2538/Bit Shift Metron/2H/
+2539/Bit Shift Metron/j.P/
+2540/Bit Shift Metron/j.K/
+2541/Bit Shift Metron/j.S/
+2542/Bit Shift Metron/j.H/
+2543/Bit Shift Metron/j.D/
+2544/Bit Shift Metron/6P/
+2545/Bit Shift Metron/6K/
+2546/Bit Shift Metron/6H/
+2547/Bit Shift Metron/2D/
+2548/Bit Shift Metron/5D/
+2549/Bit Shift Metron/5[D]/
 2550/Bit Shift Metron/236X/
-2551/Bit Shift Metron/214X (Draw)/-1f
-2552/Bit Shift Metron/214X (Discard)/-1f
-2553/Bit Shift Metron/"22P/K/S"/5f
-2554/Bit Shift Metron/22H~X/-6f
-2555/Bit Shift Metron/Reduce Mana Cost/3f
-2556/Bit Shift Metron/Recover Mana (Continuous)/8f
-2557/Bit Shift Metron/Recover Mana (Instant)/3f
-2558/Bit Shift Metron/Bookmark (Full Import)/3f
-2559/Bit Shift Metron/Bookmark (Random Import)/3f
-2560/Bit Shift Metron/Bookmark (Auto Import)/8f
-2561/Bit Shift Metron/High-Pass Filter Gravity/11f
-2562/Bit Shift Metron/Low-Pass Filter Gravity/11f
-2563/Bit Shift Metron/Shooting Time Stretch (Accelerate)/11f
-2564/Bit Shift Metron/Shooting Time Stretch (Decelerate)/11f
-2565/Bit Shift Metron/Gravity Rod (Shooting)/11f
-2566/Bit Shift Metron/Repulsive Rod (Shooting)/11f
-2567/Bit Shift Metron/Howling Metron/3f
-2568/Bit Shift Metron/Delayed Howling Metron/13f
-2569/Bit Shift Metron/Howling Metron MS Processing/8f
-2570/Bit Shift Metron/Metron Screamer 808/4f
-2571/Bit Shift Metron/Metron Arpeggio/23f
-2572/Bit Shift Metron/Delayed Tardus Metron/13f
-2573/Bit Shift Metron/Terra Metron/8f
-2574/Bit Shift Metron/Accipiter Metron/11f
-2575/Bit Shift Metron/Aquila Metron/6f
-2576/Bit Shift Metron/Bit Shift Metron/6f
-2577/Bit Shift Metron/RMS Boost Metron/6f
-2578/Bit Shift Metron/Go to Marker/8f
-2579/Bit Shift Metron/Sampler 404/3f
-2580/Bit Shift Metron/Chaotic Option/3f
-2581/Bit Shift Metron/"632146P/K"/-1f
-2582/Bit Shift Metron/632146S/8f
-2583/Bit Shift Metron/236D/12f
-2584/Bit Shift Metron/236[D]/24f
-2585/RMS Boost Metron/5P/-19f
-2586/RMS Boost Metron/5K/-18f
-2587/RMS Boost Metron/c.S/-18f
-2588/RMS Boost Metron/f.S/-14f
-2589/RMS Boost Metron/5H/-10f
-2590/RMS Boost Metron/2P/-20f
-2591/RMS Boost Metron/2K/-19f
-2592/RMS Boost Metron/2S/-13f
-2593/RMS Boost Metron/2H/-11f
-2594/RMS Boost Metron/j.P/-14f
-2595/RMS Boost Metron/j.K/-13f
-2596/RMS Boost Metron/j.S/-11f
-2597/RMS Boost Metron/j.H/-9f
-2598/RMS Boost Metron/j.D/-6f
-2599/RMS Boost Metron/6P/-14f
-2600/RMS Boost Metron/6K/-11f
-2601/RMS Boost Metron/6H/0f
-2602/RMS Boost Metron/2D/-13f
-2603/RMS Boost Metron/5D/-5f
-2604/RMS Boost Metron/5[D]/3f
+2551/Bit Shift Metron/214X (Draw)/
+2552/Bit Shift Metron/214X (Discard)/
+2553/Bit Shift Metron/"22P/K/S"/
+2554/Bit Shift Metron/22H~X/
+2555/Bit Shift Metron/Reduce Mana Cost/
+2556/Bit Shift Metron/Recover Mana (Continuous)/
+2557/Bit Shift Metron/Recover Mana (Instant)/
+2558/Bit Shift Metron/Bookmark (Full Import)/
+2559/Bit Shift Metron/Bookmark (Random Import)/
+2560/Bit Shift Metron/Bookmark (Auto Import)/
+2561/Bit Shift Metron/High-Pass Filter Gravity/
+2562/Bit Shift Metron/Low-Pass Filter Gravity/
+2563/Bit Shift Metron/Shooting Time Stretch (Accelerate)/
+2564/Bit Shift Metron/Shooting Time Stretch (Decelerate)/
+2565/Bit Shift Metron/Gravity Rod (Shooting)/
+2566/Bit Shift Metron/Repulsive Rod (Shooting)/
+2567/Bit Shift Metron/Howling Metron/
+2568/Bit Shift Metron/Delayed Howling Metron/
+2569/Bit Shift Metron/Howling Metron MS Processing/
+2570/Bit Shift Metron/Metron Screamer 808/
+2571/Bit Shift Metron/Metron Arpeggio/
+2572/Bit Shift Metron/Delayed Tardus Metron/
+2573/Bit Shift Metron/Terra Metron/
+2574/Bit Shift Metron/Accipiter Metron/
+2575/Bit Shift Metron/Aquila Metron/
+2576/Bit Shift Metron/Bit Shift Metron/
+2577/Bit Shift Metron/RMS Boost Metron/
+2578/Bit Shift Metron/Go to Marker/
+2579/Bit Shift Metron/Sampler 404/
+2580/Bit Shift Metron/Chaotic Option/
+2581/Bit Shift Metron/"632146P/K"/
+2582/Bit Shift Metron/632146S/
+2583/Bit Shift Metron/236D/
+2584/Bit Shift Metron/236[D]/
+2585/RMS Boost Metron/5P/2f
+2586/RMS Boost Metron/5K/3f
+2587/RMS Boost Metron/c.S/3f
+2588/RMS Boost Metron/f.S/7f
+2589/RMS Boost Metron/5H/11f
+2590/RMS Boost Metron/2P/1f
+2591/RMS Boost Metron/2K/2f
+2592/RMS Boost Metron/2S/8f
+2593/RMS Boost Metron/2H/10f
+2594/RMS Boost Metron/j.P/7f
+2595/RMS Boost Metron/j.K/8f
+2596/RMS Boost Metron/j.S/10f
+2597/RMS Boost Metron/j.H/12f
+2598/RMS Boost Metron/j.D/15f
+2599/RMS Boost Metron/6P/7f
+2600/RMS Boost Metron/6K/10f
+2601/RMS Boost Metron/6H/21f
+2602/RMS Boost Metron/2D/8f
+2603/RMS Boost Metron/5D/16f
+2604/RMS Boost Metron/5[D]/24f
 2605/RMS Boost Metron/236X/
-2606/RMS Boost Metron/214X (Draw)/-18f
-2607/RMS Boost Metron/214X (Discard)/-18f
-2608/RMS Boost Metron/"22P/K/S"/-12f
-2609/RMS Boost Metron/22H~X/-23f
-2610/RMS Boost Metron/Reduce Mana Cost/-14f
-2611/RMS Boost Metron/Recover Mana (Continuous)/-9f
-2612/RMS Boost Metron/Recover Mana (Instant)/-14f
-2613/RMS Boost Metron/Bookmark (Full Import)/-14f
-2614/RMS Boost Metron/Bookmark (Random Import)/-14f
-2615/RMS Boost Metron/Bookmark (Auto Import)/-9f
-2616/RMS Boost Metron/High-Pass Filter Gravity/-6f
-2617/RMS Boost Metron/Low-Pass Filter Gravity/-6f
-2618/RMS Boost Metron/Shooting Time Stretch (Accelerate)/-6f
-2619/RMS Boost Metron/Shooting Time Stretch (Decelerate)/-6f
-2620/RMS Boost Metron/Gravity Rod (Shooting)/-6f
-2621/RMS Boost Metron/Repulsive Rod (Shooting)/-6f
-2622/RMS Boost Metron/Howling Metron/-14f
-2623/RMS Boost Metron/Delayed Howling Metron/-4f
-2624/RMS Boost Metron/Howling Metron MS Processing/-9f
-2625/RMS Boost Metron/Metron Screamer 808/-13f
-2626/RMS Boost Metron/Metron Arpeggio/6f
-2627/RMS Boost Metron/Delayed Tardus Metron/-4f
-2628/RMS Boost Metron/Terra Metron/-9f
-2629/RMS Boost Metron/Accipiter Metron/-6f
-2630/RMS Boost Metron/Aquila Metron/-11f
-2631/RMS Boost Metron/Bit Shift Metron/-11f
-2632/RMS Boost Metron/RMS Boost Metron/-11f
-2633/RMS Boost Metron/Go to Marker/-9f
-2634/RMS Boost Metron/Sampler 404/-14f
-2635/RMS Boost Metron/Chaotic Option/-14f
-2636/RMS Boost Metron/"632146P/K"/-18f
-2637/RMS Boost Metron/632146S/-9f
-2638/RMS Boost Metron/236D/-5f
-2639/RMS Boost Metron/236[D]/7f
+2606/RMS Boost Metron/214X (Draw)/3f
+2607/RMS Boost Metron/214X (Discard)/3f
+2608/RMS Boost Metron/"22P/K/S"/9f
+2609/RMS Boost Metron/22H~X/-2f
+2610/RMS Boost Metron/Reduce Mana Cost/7f
+2611/RMS Boost Metron/Recover Mana (Continuous)/12f
+2612/RMS Boost Metron/Recover Mana (Instant)/7f
+2613/RMS Boost Metron/Bookmark (Full Import)/7f
+2614/RMS Boost Metron/Bookmark (Random Import)/7f
+2615/RMS Boost Metron/Bookmark (Auto Import)/12f
+2616/RMS Boost Metron/High-Pass Filter Gravity/15f
+2617/RMS Boost Metron/Low-Pass Filter Gravity/15f
+2618/RMS Boost Metron/Shooting Time Stretch (Accelerate)/15f
+2619/RMS Boost Metron/Shooting Time Stretch (Decelerate)/15f
+2620/RMS Boost Metron/Gravity Rod (Shooting)/15f
+2621/RMS Boost Metron/Repulsive Rod (Shooting)/15f
+2622/RMS Boost Metron/Howling Metron/7f
+2623/RMS Boost Metron/Delayed Howling Metron/17f
+2624/RMS Boost Metron/Howling Metron MS Processing/12f
+2625/RMS Boost Metron/Metron Screamer 808/8f
+2626/RMS Boost Metron/Metron Arpeggio/27f
+2627/RMS Boost Metron/Delayed Tardus Metron/17f
+2628/RMS Boost Metron/Terra Metron/12f
+2629/RMS Boost Metron/Accipiter Metron/15f
+2630/RMS Boost Metron/Aquila Metron/10f
+2631/RMS Boost Metron/Bit Shift Metron/10f
+2632/RMS Boost Metron/RMS Boost Metron/10f
+2633/RMS Boost Metron/Go to Marker/12f
+2634/RMS Boost Metron/Sampler 404/7f
+2635/RMS Boost Metron/Chaotic Option/7f
+2636/RMS Boost Metron/"632146P/K"/3f
+2637/RMS Boost Metron/632146S/12f
+2638/RMS Boost Metron/236D/16f
+2639/RMS Boost Metron/236[D]/28f
 2640/Go to Marker/5P/
 2641/Go to Marker/5K/
 2642/Go to Marker/c.S/
@@ -2804,61 +2804,61 @@
 2802/Chaotic Option/632146S/
 2803/Chaotic Option/236D/
 2804/Chaotic Option/236[D]/
-2805/"632146P/K"/5P/-30f [-41f]
-2806/"632146P/K"/5K/-29f [-40f]
-2807/"632146P/K"/c.S/-29f [-40f]
-2808/"632146P/K"/f.S/-25f [-36f]
-2809/"632146P/K"/5H/-21f [-32f]
-2810/"632146P/K"/2P/-31f [-42f]
-2811/"632146P/K"/2K/-30f [-41f]
-2812/"632146P/K"/2S/-24f [-35f]
-2813/"632146P/K"/2H/-22f [-33f]
-2814/"632146P/K"/j.P/-25f [-36f]
-2815/"632146P/K"/j.K/-24f [-35f]
-2816/"632146P/K"/j.S/-22f [-33f]
-2817/"632146P/K"/j.H/-20f [-31f]
-2818/"632146P/K"/j.D/-17f [-28f]
-2819/"632146P/K"/6P/-25f [-36f]
-2820/"632146P/K"/6K/-22f [-33f]
-2821/"632146P/K"/6H/-11f [-22f]
-2822/"632146P/K"/2D/-24f [-35f]
-2823/"632146P/K"/5D/-16f [-27f]
-2824/"632146P/K"/5[D]/-8f [-19f]
-2825/"632146P/K"/236X/ []
-2826/"632146P/K"/214X (Draw)/-29f [-40f]
-2827/"632146P/K"/214X (Discard)/-29f [-40f]
-2828/"632146P/K"/"22P/K/S"/-23f [-34f]
-2829/"632146P/K"/22H~X/-34f [-45f]
-2830/"632146P/K"/Reduce Mana Cost/-25f [-36f]
-2831/"632146P/K"/Recover Mana (Continuous)/-20f [-31f]
-2832/"632146P/K"/Recover Mana (Instant)/-25f [-36f]
-2833/"632146P/K"/Bookmark (Full Import)/-25f [-36f]
-2834/"632146P/K"/Bookmark (Random Import)/-25f [-36f]
-2835/"632146P/K"/Bookmark (Auto Import)/-20f [-31f]
-2836/"632146P/K"/High-Pass Filter Gravity/-17f [-28f]
-2837/"632146P/K"/Low-Pass Filter Gravity/-17f [-28f]
-2838/"632146P/K"/Shooting Time Stretch (Accelerate)/-17f [-28f]
-2839/"632146P/K"/Shooting Time Stretch (Decelerate)/-17f [-28f]
-2840/"632146P/K"/Gravity Rod (Shooting)/-17f [-28f]
-2841/"632146P/K"/Repulsive Rod (Shooting)/-17f [-28f]
-2842/"632146P/K"/Howling Metron/-25f [-36f]
-2843/"632146P/K"/Delayed Howling Metron/-15f [-26f]
-2844/"632146P/K"/Howling Metron MS Processing/-20f [-31f]
-2845/"632146P/K"/Metron Screamer 808/-24f [-35f]
-2846/"632146P/K"/Metron Arpeggio/-5f [-16f]
-2847/"632146P/K"/Delayed Tardus Metron/-15f [-26f]
-2848/"632146P/K"/Terra Metron/-20f [-31f]
-2849/"632146P/K"/Accipiter Metron/-17f [-28f]
-2850/"632146P/K"/Aquila Metron/-22f [-33f]
-2851/"632146P/K"/Bit Shift Metron/-22f [-33f]
-2852/"632146P/K"/RMS Boost Metron/-22f [-33f]
-2853/"632146P/K"/Go to Marker/-20f [-31f]
-2854/"632146P/K"/Sampler 404/-25f [-36f]
-2855/"632146P/K"/Chaotic Option/-25f [-36f]
-2856/"632146P/K"/"632146P/K"/-29f [-40f]
-2857/"632146P/K"/632146S/-20f [-31f]
-2858/"632146P/K"/236D/-16f [-27f]
-2859/"632146P/K"/236[D]/-4f [-15f]
+2805/"632146P/K"/5P/2f, 2f, 2f, 2f, 2f
+2806/"632146P/K"/5K/3f, 3f, 3f, 3f, 3f
+2807/"632146P/K"/c.S/3f, 3f, 3f, 3f, 3f
+2808/"632146P/K"/f.S/7f, 7f, 7f, 7f, 7f
+2809/"632146P/K"/5H/11f, 11f, 11f, 11f, 11f
+2810/"632146P/K"/2P/1f, 1f, 1f, 1f, 1f
+2811/"632146P/K"/2K/2f, 2f, 2f, 2f, 2f
+2812/"632146P/K"/2S/8f, 8f, 8f, 8f, 8f
+2813/"632146P/K"/2H/10f, 10f, 10f, 10f, 10f
+2814/"632146P/K"/j.P/7f, 7f, 7f, 7f, 7f
+2815/"632146P/K"/j.K/8f, 8f, 8f, 8f, 8f
+2816/"632146P/K"/j.S/10f, 10f, 10f, 10f, 10f
+2817/"632146P/K"/j.H/12f, 12f, 12f, 12f, 12f
+2818/"632146P/K"/j.D/15f, 15f, 15f, 15f, 15f
+2819/"632146P/K"/6P/7f, 7f, 7f, 7f, 7f
+2820/"632146P/K"/6K/10f, 10f, 10f, 10f, 10f
+2821/"632146P/K"/6H/21f, 21f, 21f, 21f, 21f
+2822/"632146P/K"/2D/8f, 8f, 8f, 8f, 8f
+2823/"632146P/K"/5D/16f, 16f, 16f, 16f, 16f
+2824/"632146P/K"/5[D]/24f, 24f, 24f, 24f, 24f
+2825/"632146P/K"/236X/,,,,
+2826/"632146P/K"/214X (Draw)/3f, 3f, 3f, 3f, 3f
+2827/"632146P/K"/214X (Discard)/3f, 3f, 3f, 3f, 3f
+2828/"632146P/K"/"22P/K/S"/9f, 9f, 9f, 9f, 9f
+2829/"632146P/K"/22H~X/-2f, -2f, -2f, -2f, -2f
+2830/"632146P/K"/Reduce Mana Cost/7f, 7f, 7f, 7f, 7f
+2831/"632146P/K"/Recover Mana (Continuous)/12f, 12f, 12f, 12f, 12f
+2832/"632146P/K"/Recover Mana (Instant)/7f, 7f, 7f, 7f, 7f
+2833/"632146P/K"/Bookmark (Full Import)/7f, 7f, 7f, 7f, 7f
+2834/"632146P/K"/Bookmark (Random Import)/7f, 7f, 7f, 7f, 7f
+2835/"632146P/K"/Bookmark (Auto Import)/12f, 12f, 12f, 12f, 12f
+2836/"632146P/K"/High-Pass Filter Gravity/15f, 15f, 15f, 15f, 15f
+2837/"632146P/K"/Low-Pass Filter Gravity/15f, 15f, 15f, 15f, 15f
+2838/"632146P/K"/Shooting Time Stretch (Accelerate)/15f, 15f, 15f, 15f, 15f
+2839/"632146P/K"/Shooting Time Stretch (Decelerate)/15f, 15f, 15f, 15f, 15f
+2840/"632146P/K"/Gravity Rod (Shooting)/15f, 15f, 15f, 15f, 15f
+2841/"632146P/K"/Repulsive Rod (Shooting)/15f, 15f, 15f, 15f, 15f
+2842/"632146P/K"/Howling Metron/7f, 7f, 7f, 7f, 7f
+2843/"632146P/K"/Delayed Howling Metron/17f, 17f, 17f, 17f, 17f
+2844/"632146P/K"/Howling Metron MS Processing/12f, 12f, 12f, 12f, 12f
+2845/"632146P/K"/Metron Screamer 808/8f, 8f, 8f, 8f, 8f
+2846/"632146P/K"/Metron Arpeggio/27f, 27f, 27f, 27f, 27f
+2847/"632146P/K"/Delayed Tardus Metron/17f, 17f, 17f, 17f, 17f
+2848/"632146P/K"/Terra Metron/12f, 12f, 12f, 12f, 12f
+2849/"632146P/K"/Accipiter Metron/15f, 15f, 15f, 15f, 15f
+2850/"632146P/K"/Aquila Metron/10f, 10f, 10f, 10f, 10f
+2851/"632146P/K"/Bit Shift Metron/10f, 10f, 10f, 10f, 10f
+2852/"632146P/K"/RMS Boost Metron/10f, 10f, 10f, 10f, 10f
+2853/"632146P/K"/Go to Marker/12f, 12f, 12f, 12f, 12f
+2854/"632146P/K"/Sampler 404/7f, 7f, 7f, 7f, 7f
+2855/"632146P/K"/Chaotic Option/7f, 7f, 7f, 7f, 7f
+2856/"632146P/K"/"632146P/K"/3f, 3f, 3f, 3f, 3f
+2857/"632146P/K"/632146S/12f, 12f, 12f, 12f, 12f
+2858/"632146P/K"/236D/16f, 16f, 16f, 16f, 16f
+2859/"632146P/K"/236[D]/28f, 28f, 28f, 28f, 28f
 2860/632146S/5P/
 2861/632146S/5K/
 2862/632146S/c.S/
