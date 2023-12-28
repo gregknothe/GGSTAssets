@@ -37,17 +37,17 @@
 35/5P/Mirror/32f
 36/5P/236D/9f
 37/5P/236[D]/21f
-38/5K/5P/3f
-39/5K/5K/8f
-40/5K/c.S/6f
-41/5K/f.S/10f
-42/5K/5H/14f
+38/5K/5P/9f
+39/5K/5K/14f
+40/5K/c.S/12f
+41/5K/f.S/16f
+42/5K/5H/20f
 43/5K/5D/7f
-44/5K/5[D]/26f
-45/5K/2P/6f
-46/5K/2K/8f
-47/5K/2S/12f
-48/5K/2H/11f
+44/5K/5[D]/32f
+45/5K/2P/12f
+46/5K/2K/14f
+47/5K/2S/18f
+48/5K/2H/17f
 49/5K/2D/0f
 50/5K/6P/-2f
 51/5K/6K/9f
@@ -67,12 +67,12 @@
 65/5K/236S/16f
 66/5K/63214S/5f
 67/5K/63214[S]/23f
-68/5K/Reflect Projectile/-1f
+68/5K/Reflect Projectile/5f
 69/5K/214H/15f
 70/5K/41236H/-1f
 71/5K/236236S/-1f
 72/5K/632146H/-2f
-73/5K/Mirror/31f
+73/5K/Mirror/37f
 74/5K/236D/7f
 75/5K/236[D]/19f
 76/c.S/5P/1f
@@ -113,26 +113,26 @@
 111/c.S/Mirror/29f
 112/c.S/236D/2f
 113/c.S/236[D]/14f
-114/f.S/5P/2f
-115/f.S/5K/7f
-116/f.S/c.S/5f
-117/f.S/f.S/9f
+114/f.S/5P/13f
+115/f.S/5K/18f
+116/f.S/c.S/16f
+117/f.S/f.S/20f
 118/f.S/5H/0f
-119/f.S/5D/17f
-120/f.S/5[D]/25f
-121/f.S/2P/5f
-122/f.S/2K/7f
-123/f.S/2S/11f
+119/f.S/5D/28f
+120/f.S/5[D]/36f
+121/f.S/2P/16f
+122/f.S/2K/18f
+123/f.S/2S/22f
 124/f.S/2H/-3f
-125/f.S/2D/10f
-126/f.S/6P/8f
-127/f.S/6K/19f
-128/f.S/6H/20f
-129/f.S/j.P/9f
-130/f.S/j.K/12f
-131/f.S/j.S/15f
-132/f.S/j.H/14f
-133/f.S/j.D/15f
+125/f.S/2D/21f
+126/f.S/6P/19f
+127/f.S/6K/30f
+128/f.S/6H/31f
+129/f.S/j.P/20f
+130/f.S/j.K/23f
+131/f.S/j.S/26f
+132/f.S/j.H/25f
+133/f.S/j.D/26f
 134/f.S/[4]6H/2f
 135/f.S/[4]6H P/
 136/f.S/632146P/-11f
@@ -143,34 +143,34 @@
 141/f.S/236S/13f
 142/f.S/63214S/2f
 143/f.S/63214[S]/20f
-144/f.S/Reflect Projectile/-2f
+144/f.S/Reflect Projectile/9f
 145/f.S/214H/12f
 146/f.S/41236H/-4f
 147/f.S/236236S/-4f
 148/f.S/632146H/-5f
-149/f.S/Mirror/30f
+149/f.S/Mirror/41f
 150/f.S/236D/4f
 151/f.S/236[D]/16f
-152/5H/5P/1f
-153/5H/5K/6f
-154/5H/c.S/4f
-155/5H/f.S/8f
-156/5H/5H/12f
-157/5H/5D/16f
-158/5H/5[D]/24f
-159/5H/2P/4f
-160/5H/2K/6f
-161/5H/2S/10f
-162/5H/2H/9f
-163/5H/2D/9f
-164/5H/6P/7f
-165/5H/6K/18f
-166/5H/6H/19f
-167/5H/j.P/8f
-168/5H/j.K/11f
-169/5H/j.S/14f
-170/5H/j.H/13f
-171/5H/j.D/14f
+152/5H/5P/16f
+153/5H/5K/21f
+154/5H/c.S/19f
+155/5H/f.S/23f
+156/5H/5H/27f
+157/5H/5D/31f
+158/5H/5[D]/39f
+159/5H/2P/19f
+160/5H/2K/21f
+161/5H/2S/25f
+162/5H/2H/24f
+163/5H/2D/24f
+164/5H/6P/22f
+165/5H/6K/33f
+166/5H/6H/34f
+167/5H/j.P/23f
+168/5H/j.K/26f
+169/5H/j.S/29f
+170/5H/j.H/28f
+171/5H/j.D/29f
 172/5H/[4]6H/0f
 173/5H/[4]6H P/
 174/5H/632146P/-13f
@@ -181,110 +181,110 @@
 179/5H/236S/11f
 180/5H/63214S/0f
 181/5H/63214[S]/18f
-182/5H/Reflect Projectile/-3f
+182/5H/Reflect Projectile/12f
 183/5H/214H/10f
 184/5H/41236H/-6f
 185/5H/236236S/-6f
 186/5H/632146H/-7f
-187/5H/Mirror/29f
+187/5H/Mirror/44f
 188/5H/236D/2f
 189/5H/236[D]/14f
-190/5D/5P/3f
-191/5D/5K/8f
-192/5D/c.S/6f
-193/5D/f.S/10f
-194/5D/5H/14f
-195/5D/5D/18f
-196/5D/5[D]/26f
-197/5D/2P/6f
-198/5D/2K/8f
-199/5D/2S/12f
-200/5D/2H/11f
-201/5D/2D/11f
-202/5D/6P/9f
-203/5D/6K/20f
-204/5D/6H/21f
-205/5D/j.P/10f
-206/5D/j.K/13f
-207/5D/j.S/16f
-208/5D/j.H/15f
-209/5D/j.D/16f
-210/5D/[4]6H/16f
+190/5D/5P/20f
+191/5D/5K/25f
+192/5D/c.S/23f
+193/5D/f.S/27f
+194/5D/5H/31f
+195/5D/5D/35f
+196/5D/5[D]/43f
+197/5D/2P/23f
+198/5D/2K/25f
+199/5D/2S/29f
+200/5D/2H/28f
+201/5D/2D/28f
+202/5D/6P/26f
+203/5D/6K/37f
+204/5D/6H/38f
+205/5D/j.P/27f
+206/5D/j.K/30f
+207/5D/j.S/33f
+208/5D/j.H/32f
+209/5D/j.D/33f
+210/5D/[4]6H/33f
 211/5D/[4]6H P/
-212/5D/632146P/3f
-213/5D/623H/10f
-214/5D/236P/23f
-215/5D/214P/23f
-216/5D/2146K~P/23f
-217/5D/236S/27f
-218/5D/63214S/16f
-219/5D/63214[S]/34f
-220/5D/Reflect Projectile/-1f
-221/5D/214H/26f
-222/5D/41236H/10f
-223/5D/236236S/10f
-224/5D/632146H/9f
-225/5D/Mirror/31f
-226/5D/236D/18f
-227/5D/236[D]/30f
-228/5[D]/5P/1f
-229/5[D]/5K/6f
-230/5[D]/c.S/4f
-231/5[D]/f.S/8f
-232/5[D]/5H/12f
-233/5[D]/5D/16f
-234/5[D]/5[D]/24f
-235/5[D]/2P/4f
-236/5[D]/2K/6f
-237/5[D]/2S/10f
-238/5[D]/2H/9f
-239/5[D]/2D/9f
-240/5[D]/6P/7f
-241/5[D]/6K/18f
-242/5[D]/6H/19f
-243/5[D]/j.P/8f
-244/5[D]/j.K/11f
-245/5[D]/j.S/14f
-246/5[D]/j.H/13f
-247/5[D]/j.D/14f
-248/5[D]/[4]6H/14f
+212/5D/632146P/20f
+213/5D/623H/27f
+214/5D/236P/40f
+215/5D/214P/40f
+216/5D/2146K~P/40f
+217/5D/236S/44f
+218/5D/63214S/33f
+219/5D/63214[S]/51f
+220/5D/Reflect Projectile/16f
+221/5D/214H/43f
+222/5D/41236H/27f
+223/5D/236236S/27f
+224/5D/632146H/26f
+225/5D/Mirror/48f
+226/5D/236D/35f
+227/5D/236[D]/47f
+228/5[D]/5P/15f
+229/5[D]/5K/20f
+230/5[D]/c.S/18f
+231/5[D]/f.S/22f
+232/5[D]/5H/26f
+233/5[D]/5D/30f
+234/5[D]/5[D]/38f
+235/5[D]/2P/18f
+236/5[D]/2K/20f
+237/5[D]/2S/24f
+238/5[D]/2H/23f
+239/5[D]/2D/23f
+240/5[D]/6P/21f
+241/5[D]/6K/32f
+242/5[D]/6H/33f
+243/5[D]/j.P/22f
+244/5[D]/j.K/25f
+245/5[D]/j.S/28f
+246/5[D]/j.H/27f
+247/5[D]/j.D/28f
+248/5[D]/[4]6H/28f
 249/5[D]/[4]6H P/
-250/5[D]/632146P/1f
-251/5[D]/623H/8f
-252/5[D]/236P/21f
-253/5[D]/214P/21f
-254/5[D]/2146K~P/21f
-255/5[D]/236S/25f
-256/5[D]/63214S/14f
-257/5[D]/63214[S]/32f
-258/5[D]/Reflect Projectile/-3f
-259/5[D]/214H/24f
-260/5[D]/41236H/8f
-261/5[D]/236236S/8f
-262/5[D]/632146H/7f
-263/5[D]/Mirror/29f
-264/5[D]/236D/16f
-265/5[D]/236[D]/28f
+250/5[D]/632146P/15f
+251/5[D]/623H/22f
+252/5[D]/236P/35f
+253/5[D]/214P/35f
+254/5[D]/2146K~P/35f
+255/5[D]/236S/39f
+256/5[D]/63214S/28f
+257/5[D]/63214[S]/46f
+258/5[D]/Reflect Projectile/11f
+259/5[D]/214H/38f
+260/5[D]/41236H/22f
+261/5[D]/236236S/22f
+262/5[D]/632146H/21f
+263/5[D]/Mirror/43f
+264/5[D]/236D/30f
+265/5[D]/236[D]/42f
 266/2P/5P/-6f
-267/2P/5K/9f
-268/2P/c.S/7f
-269/2P/f.S/11f
-270/2P/5H/15f
-271/2P/5D/19f
-272/2P/5[D]/27f
+267/2P/5K/11f
+268/2P/c.S/9f
+269/2P/f.S/13f
+270/2P/5H/17f
+271/2P/5D/21f
+272/2P/5[D]/29f
 273/2P/2P/-3f
-274/2P/2K/9f
-275/2P/2S/13f
-276/2P/2H/12f
-277/2P/2D/12f
+274/2P/2K/11f
+275/2P/2S/15f
+276/2P/2H/14f
+277/2P/2D/14f
 278/2P/6P/0f
 279/2P/6K/11f
 280/2P/6H/12f
-281/2P/j.P/11f
-282/2P/j.K/14f
-283/2P/j.S/17f
-284/2P/j.H/16f
-285/2P/j.D/17f
+281/2P/j.P/13f
+282/2P/j.K/16f
+283/2P/j.S/19f
+284/2P/j.H/18f
+285/2P/j.D/19f
 286/2P/[4]6H/7f
 287/2P/[4]6H P/
 288/2P/632146P/-6f
@@ -295,34 +295,34 @@
 293/2P/236S/18f
 294/2P/63214S/7f
 295/2P/63214[S]/25f
-296/2P/Reflect Projectile/0f
+296/2P/Reflect Projectile/2f
 297/2P/214H/17f
 298/2P/41236H/1f
 299/2P/236236S/1f
 300/2P/632146H/0f
-301/2P/Mirror/32f
+301/2P/Mirror/34f
 302/2P/236D/9f
 303/2P/236[D]/21f
-304/2K/5P/3f
-305/2K/5K/8f
-306/2K/c.S/6f
-307/2K/f.S/10f
-308/2K/5H/14f
+304/2K/5P/9f
+305/2K/5K/14f
+306/2K/c.S/12f
+307/2K/f.S/16f
+308/2K/5H/20f
 309/2K/5D/7f
-310/2K/5[D]/26f
-311/2K/2P/6f
-312/2K/2K/8f
-313/2K/2S/12f
-314/2K/2H/11f
+310/2K/5[D]/32f
+311/2K/2P/12f
+312/2K/2K/14f
+313/2K/2S/18f
+314/2K/2H/17f
 315/2K/2D/0f
 316/2K/6P/-2f
 317/2K/6K/9f
 318/2K/6H/10f
-319/2K/j.P/10f
-320/2K/j.K/13f
-321/2K/j.S/16f
-322/2K/j.H/15f
-323/2K/j.D/16f
+319/2K/j.P/16f
+320/2K/j.K/19f
+321/2K/j.S/22f
+322/2K/j.H/21f
+323/2K/j.D/22f
 324/2K/[4]6H/5f
 325/2K/[4]6H P/
 326/2K/632146P/-8f
@@ -333,34 +333,34 @@
 331/2K/236S/16f
 332/2K/63214S/5f
 333/2K/63214[S]/23f
-334/2K/Reflect Projectile/-1f
+334/2K/Reflect Projectile/5f
 335/2K/214H/15f
 336/2K/41236H/-1f
 337/2K/236236S/-1f
 338/2K/632146H/-2f
-339/2K/Mirror/31f
+339/2K/Mirror/37f
 340/2K/236D/7f
 341/2K/236[D]/19f
-342/2S/5P/2f
-343/2S/5K/7f
-344/2S/c.S/5f
-345/2S/f.S/9f
+342/2S/5P/9f
+343/2S/5K/14f
+344/2S/c.S/12f
+345/2S/f.S/16f
 346/2S/5H/0f
-347/2S/5D/17f
-348/2S/5[D]/25f
-349/2S/2P/5f
-350/2S/2K/7f
-351/2S/2S/11f
+347/2S/5D/24f
+348/2S/5[D]/32f
+349/2S/2P/12f
+350/2S/2K/14f
+351/2S/2S/18f
 352/2S/2H/-3f
-353/2S/2D/10f
-354/2S/6P/8f
-355/2S/6K/19f
-356/2S/6H/20f
-357/2S/j.P/9f
-358/2S/j.K/12f
-359/2S/j.S/15f
-360/2S/j.H/14f
-361/2S/j.D/15f
+353/2S/2D/17f
+354/2S/6P/15f
+355/2S/6K/26f
+356/2S/6H/27f
+357/2S/j.P/16f
+358/2S/j.K/19f
+359/2S/j.S/22f
+360/2S/j.H/21f
+361/2S/j.D/22f
 362/2S/[4]6H/2f
 363/2S/[4]6H P/
 364/2S/632146P/-11f
@@ -371,34 +371,34 @@
 369/2S/236S/13f
 370/2S/63214S/2f
 371/2S/63214[S]/20f
-372/2S/Reflect Projectile/-2f
+372/2S/Reflect Projectile/5f
 373/2S/214H/12f
 374/2S/41236H/-4f
 375/2S/236236S/-4f
 376/2S/632146H/-5f
-377/2S/Mirror/30f
+377/2S/Mirror/37f
 378/2S/236D/4f
 379/2S/236[D]/16f
-380/2H/5P/1f
-381/2H/5K/6f
-382/2H/c.S/4f
-383/2H/f.S/8f
-384/2H/5H/12f
-385/2H/5D/16f
-386/2H/5[D]/24f
-387/2H/2P/4f
-388/2H/2K/6f
-389/2H/2S/10f
-390/2H/2H/9f
-391/2H/2D/9f
-392/2H/6P/7f
-393/2H/6K/18f
-394/2H/6H/19f
-395/2H/j.P/8f
-396/2H/j.K/11f
-397/2H/j.S/14f
-398/2H/j.H/13f
-399/2H/j.D/14f
+380/2H/5P/26f
+381/2H/5K/31f
+382/2H/c.S/29f
+383/2H/f.S/33f
+384/2H/5H/37f
+385/2H/5D/41f
+386/2H/5[D]/49f
+387/2H/2P/29f
+388/2H/2K/31f
+389/2H/2S/35f
+390/2H/2H/34f
+391/2H/2D/34f
+392/2H/6P/32f
+393/2H/6K/43f
+394/2H/6H/44f
+395/2H/j.P/33f
+396/2H/j.K/36f
+397/2H/j.S/39f
+398/2H/j.H/38f
+399/2H/j.D/39f
 400/2H/[4]6H/0f
 401/2H/[4]6H P/
 402/2H/632146P/-13f
@@ -409,34 +409,34 @@
 407/2H/236S/11f
 408/2H/63214S/0f
 409/2H/63214[S]/18f
-410/2H/Reflect Projectile/-3f
+410/2H/Reflect Projectile/22f
 411/2H/214H/10f
 412/2H/41236H/-6f
 413/2H/236236S/-6f
 414/2H/632146H/-7f
-415/2H/Mirror/29f
+415/2H/Mirror/54f
 416/2H/236D/2f
 417/2H/236[D]/14f
-418/2D/5P/2f
-419/2D/5K/7f
-420/2D/c.S/5f
-421/2D/f.S/9f
-422/2D/5H/13f
-423/2D/5D/17f
-424/2D/5[D]/25f
-425/2D/2P/5f
-426/2D/2K/7f
-427/2D/2S/11f
-428/2D/2H/10f
-429/2D/2D/10f
-430/2D/6P/8f
-431/2D/6K/19f
-432/2D/6H/20f
-433/2D/j.P/9f
-434/2D/j.K/12f
-435/2D/j.S/15f
-436/2D/j.H/14f
-437/2D/j.D/15f
+418/2D/5P/13f
+419/2D/5K/18f
+420/2D/c.S/16f
+421/2D/f.S/20f
+422/2D/5H/24f
+423/2D/5D/28f
+424/2D/5[D]/36f
+425/2D/2P/16f
+426/2D/2K/18f
+427/2D/2S/22f
+428/2D/2H/21f
+429/2D/2D/21f
+430/2D/6P/19f
+431/2D/6K/30f
+432/2D/6H/31f
+433/2D/j.P/20f
+434/2D/j.K/23f
+435/2D/j.S/26f
+436/2D/j.H/25f
+437/2D/j.D/26f
 438/2D/[4]6H/2f
 439/2D/[4]6H P/
 440/2D/632146P/-11f
@@ -447,34 +447,34 @@
 445/2D/236S/13f
 446/2D/63214S/2f
 447/2D/63214[S]/20f
-448/2D/Reflect Projectile/-2f
+448/2D/Reflect Projectile/9f
 449/2D/214H/12f
 450/2D/41236H/-4f
 451/2D/236236S/-4f
 452/2D/632146H/-5f
-453/2D/Mirror/30f
+453/2D/Mirror/41f
 454/2D/236D/4f
 455/2D/236[D]/16f
-456/6P/5P/2f
-457/6P/5K/7f
-458/6P/c.S/5f
-459/6P/f.S/9f
-460/6P/5H/13f
-461/6P/5D/17f
-462/6P/5[D]/25f
-463/6P/2P/5f
-464/6P/2K/7f
-465/6P/2S/11f
-466/6P/2H/10f
-467/6P/2D/10f
-468/6P/6P/8f
-469/6P/6K/19f
-470/6P/6H/20f
-471/6P/j.P/9f
-472/6P/j.K/12f
-473/6P/j.S/15f
-474/6P/j.H/14f
-475/6P/j.D/15f
+456/6P/5P/20f
+457/6P/5K/25f
+458/6P/c.S/23f
+459/6P/f.S/27f
+460/6P/5H/31f
+461/6P/5D/35f
+462/6P/5[D]/43f
+463/6P/2P/23f
+464/6P/2K/25f
+465/6P/2S/29f
+466/6P/2H/28f
+467/6P/2D/28f
+468/6P/6P/26f
+469/6P/6K/37f
+470/6P/6H/38f
+471/6P/j.P/27f
+472/6P/j.K/30f
+473/6P/j.S/33f
+474/6P/j.H/32f
+475/6P/j.D/33f
 476/6P/[4]6H/2f
 477/6P/[4]6H P/
 478/6P/632146P/-11f
@@ -485,72 +485,72 @@
 483/6P/236S/13f
 484/6P/63214S/2f
 485/6P/63214[S]/20f
-486/6P/Reflect Projectile/-2f
+486/6P/Reflect Projectile/16f
 487/6P/214H/12f
 488/6P/41236H/-4f
 489/6P/236236S/-4f
 490/6P/632146H/-5f
-491/6P/Mirror/30f
+491/6P/Mirror/48f
 492/6P/236D/4f
 493/6P/236[D]/16f
-494/6K/5P/2f
-495/6K/5K/7f
-496/6K/c.S/5f
-497/6K/f.S/9f
-498/6K/5H/13f
-499/6K/5D/17f
-500/6K/5[D]/25f
-501/6K/2P/5f
-502/6K/2K/7f
-503/6K/2S/11f
-504/6K/2H/10f
-505/6K/2D/10f
-506/6K/6P/8f
-507/6K/6K/19f
-508/6K/6H/20f
-509/6K/j.P/9f
-510/6K/j.K/12f
-511/6K/j.S/15f
-512/6K/j.H/14f
-513/6K/j.D/15f
-514/6K/[4]6H/15f
+494/6K/5P/11f
+495/6K/5K/16f
+496/6K/c.S/14f
+497/6K/f.S/18f
+498/6K/5H/22f
+499/6K/5D/26f
+500/6K/5[D]/34f
+501/6K/2P/14f
+502/6K/2K/16f
+503/6K/2S/20f
+504/6K/2H/19f
+505/6K/2D/19f
+506/6K/6P/17f
+507/6K/6K/28f
+508/6K/6H/29f
+509/6K/j.P/18f
+510/6K/j.K/21f
+511/6K/j.S/24f
+512/6K/j.H/23f
+513/6K/j.D/24f
+514/6K/[4]6H/24f
 515/6K/[4]6H P/
 516/6K/632146P/-11f
-517/6K/623H/9f
-518/6K/236P/22f
-519/6K/214P/22f
-520/6K/2146K~P/22f
-521/6K/236S/26f
-522/6K/63214S/15f
-523/6K/63214[S]/33f
-524/6K/Reflect Projectile/-2f
-525/6K/214H/25f
-526/6K/41236H/9f
+517/6K/623H/18f
+518/6K/236P/31f
+519/6K/214P/31f
+520/6K/2146K~P/31f
+521/6K/236S/35f
+522/6K/63214S/24f
+523/6K/63214[S]/42f
+524/6K/Reflect Projectile/7f
+525/6K/214H/34f
+526/6K/41236H/18f
 527/6K/236236S/-4f
 528/6K/632146H/-5f
-529/6K/Mirror/30f
-530/6K/236D/17f
-531/6K/236[D]/29f
-532/6H/5P/1f
-533/6H/5K/6f
-534/6H/c.S/4f
-535/6H/f.S/8f
-536/6H/5H/12f
-537/6H/5D/16f
-538/6H/5[D]/24f
-539/6H/2P/4f
-540/6H/2K/6f
-541/6H/2S/10f
-542/6H/2H/9f
-543/6H/2D/9f
-544/6H/6P/7f
-545/6H/6K/18f
-546/6H/6H/19f
-547/6H/j.P/8f
-548/6H/j.K/11f
-549/6H/j.S/14f
-550/6H/j.H/13f
-551/6H/j.D/14f
+529/6K/Mirror/39f
+530/6K/236D/26f
+531/6K/236[D]/38f
+532/6H/5P/20f
+533/6H/5K/25f
+534/6H/c.S/23f
+535/6H/f.S/27f
+536/6H/5H/31f
+537/6H/5D/35f
+538/6H/5[D]/43f
+539/6H/2P/23f
+540/6H/2K/25f
+541/6H/2S/29f
+542/6H/2H/28f
+543/6H/2D/28f
+544/6H/6P/26f
+545/6H/6K/37f
+546/6H/6H/38f
+547/6H/j.P/27f
+548/6H/j.K/30f
+549/6H/j.S/33f
+550/6H/j.H/32f
+551/6H/j.D/33f
 552/6H/[4]6H/0f
 553/6H/[4]6H P/
 554/6H/632146P/-13f
@@ -561,242 +561,242 @@
 559/6H/236S/11f
 560/6H/63214S/0f
 561/6H/63214[S]/18f
-562/6H/Reflect Projectile/-3f
+562/6H/Reflect Projectile/16f
 563/6H/214H/10f
 564/6H/41236H/-6f
 565/6H/236236S/-6f
 566/6H/632146H/-7f
-567/6H/Mirror/29f
+567/6H/Mirror/48f
 568/6H/236D/2f
 569/6H/236[D]/14f
-570/j.P/5P/j.Phas9fofblockstun, while5Phas5fofstartupf
-571/j.P/5K/j.Phas9fofblockstun, while5Khas10fofstartupf
-572/j.P/c.S/j.Phas9fofblockstun, whilec.Shas8fofstartupf
-573/j.P/f.S/j.Phas9fofblockstun, whilef.Shas12fofstartupf
-574/j.P/5H/j.Phas9fofblockstun, while5Hhas16fofstartupf
-575/j.P/5D/j.Phas9fofblockstun, while5Dhas20fofstartupf
-576/j.P/5[D]/j.Phas9fofblockstun, while5 [D]has28fofstartupf
-577/j.P/2P/j.Phas9fofblockstun, while2Phas8fofstartupf
-578/j.P/2K/j.Phas9fofblockstun, while2Khas10fofstartupf
-579/j.P/2S/j.Phas9fofblockstun, while2Shas14fofstartupf
-580/j.P/2H/j.Phas9fofblockstun, while2Hhas13fofstartupf
-581/j.P/2D/j.Phas9fofblockstun, while2Dhas13fofstartupf
-582/j.P/6P/j.Phas9fofblockstun, while6Phas11fofstartupf
-583/j.P/6K/j.Phas9fofblockstun, while6Khas22fofstartupf
-584/j.P/6H/j.Phas9fofblockstun, while6Hhas23fofstartupf
+570/j.P/5P/"N/A"
+571/j.P/5K/"N/A"
+572/j.P/c.S/"N/A"
+573/j.P/f.S/"N/A"
+574/j.P/5H/"N/A"
+575/j.P/5D/"N/A"
+576/j.P/5[D]/"N/A"
+577/j.P/2P/"N/A"
+578/j.P/2K/"N/A"
+579/j.P/2S/"N/A"
+580/j.P/2H/"N/A"
+581/j.P/2D/"N/A"
+582/j.P/6P/"N/A"
+583/j.P/6K/"N/A"
+584/j.P/6H/"N/A"
 585/j.P/j.P/-2f
-586/j.P/j.K/j.Phas9fofblockstun, whilej.Khas10fofstartupf
-587/j.P/j.S/j.Phas9fofblockstun, whilej.Shas13fofstartupf
-588/j.P/j.H/j.Phas9fofblockstun, whilej.Hhas12fofstartupf
-589/j.P/j.D/j.Phas9fofblockstun, whilej.Dhas13fofstartupf
-590/j.P/[4]6H/j.Phas9fofblockstun, while [4]6Hhas18fofstartupf
-591/j.P/[4]6H P/
-592/j.P/632146P/j.Phas9fofblockstun, while632146Phas5fofstartupf
-593/j.P/623H/j.Phas9fofblockstun, while623Hhas12fofstartupf
-594/j.P/236P/j.Phas9fofblockstun, while236Phas25fofstartupf
-595/j.P/214P/j.Phas9fofblockstun, while214Phas25fofstartupf
-596/j.P/2146K~P/j.Phas9fofblockstun, while2146K~Phas25fofstartupf
-597/j.P/236S/j.Phas9fofblockstun, while236Shas29fofstartupf
-598/j.P/63214S/j.Phas9fofblockstun, while63214Shas18fofstartupf
-599/j.P/63214[S]/j.Phas9fofblockstun, while63214 [S]has36fofstartupf
-600/j.P/Reflect Projectile/j.Phas9fofblockstun, whileReflectProjectilehas1fofstartupf
-601/j.P/214H/j.Phas9fofblockstun, while214Hhas28fofstartupf
-602/j.P/41236H/j.Phas9fofblockstun, while41236Hhas12fofstartupf
-603/j.P/236236S/j.Phas9fofblockstun, while236236Shas12fofstartupf
-604/j.P/632146H/j.Phas9fofblockstun, while632146Hhas11fofstartupf
-605/j.P/Mirror/j.Phas9fofblockstun, whileMirrorhas33fofstartupf
-606/j.P/236D/j.Phas9fofblockstun, while236Dhas20fofstartupf
-607/j.P/236[D]/j.Phas9fofblockstun, while236 [D]has32fofstartupf
-608/j.K/5P/j.Khas11fofblockstun, while5Phas5fofstartupf
-609/j.K/5K/j.Khas11fofblockstun, while5Khas10fofstartupf
-610/j.K/c.S/j.Khas11fofblockstun, whilec.Shas8fofstartupf
-611/j.K/f.S/j.Khas11fofblockstun, whilef.Shas12fofstartupf
-612/j.K/5H/j.Khas11fofblockstun, while5Hhas16fofstartupf
-613/j.K/5D/j.Khas11fofblockstun, while5Dhas20fofstartupf
-614/j.K/5[D]/j.Khas11fofblockstun, while5 [D]has28fofstartupf
-615/j.K/2P/j.Khas11fofblockstun, while2Phas8fofstartupf
-616/j.K/2K/j.Khas11fofblockstun, while2Khas10fofstartupf
-617/j.K/2S/j.Khas11fofblockstun, while2Shas14fofstartupf
-618/j.K/2H/j.Khas11fofblockstun, while2Hhas13fofstartupf
-619/j.K/2D/j.Khas11fofblockstun, while2Dhas13fofstartupf
-620/j.K/6P/j.Khas11fofblockstun, while6Phas11fofstartupf
-621/j.K/6K/j.Khas11fofblockstun, while6Khas22fofstartupf
-622/j.K/6H/j.Khas11fofblockstun, while6Hhas23fofstartupf
-623/j.K/j.P/j.Khas11fofblockstun, whilej.Phas7fofstartupf
-624/j.K/j.K/j.Khas11fofblockstun, whilej.Khas10fofstartupf
-625/j.K/j.S/j.Khas11fofblockstun, whilej.Shas13fofstartupf
-626/j.K/j.H/j.Khas11fofblockstun, whilej.Hhas12fofstartupf
+586/j.P/j.K/"N/A"
+587/j.P/j.S/"N/A"
+588/j.P/j.H/"N/A"
+589/j.P/j.D/"N/A"
+590/j.P/[4]6H/"N/A"
+591/j.P/[4]6H P/  
+592/j.P/632146P/"N/A"
+593/j.P/623H/"N/A"
+594/j.P/236P/"N/A"
+595/j.P/214P/"N/A"
+596/j.P/2146K~P/"N/A"
+597/j.P/236S/"N/A"
+598/j.P/63214S/"N/A"
+599/j.P/63214[S]/"N/A"
+600/j.P/Reflect Projectile/"N/A"
+601/j.P/214H/"N/A"
+602/j.P/41236H/"N/A"
+603/j.P/236236S/"N/A"
+604/j.P/632146H/"N/A"
+605/j.P/Mirror/"N/A"
+606/j.P/236D/"N/A"
+607/j.P/236[D]/"N/A"
+608/j.K/5P/"N/A"
+609/j.K/5K/"N/A"
+610/j.K/c.S/"N/A"
+611/j.K/f.S/"N/A"
+612/j.K/5H/"N/A"
+613/j.K/5D/"N/A"
+614/j.K/5[D]/"N/A"
+615/j.K/2P/"N/A"
+616/j.K/2K/"N/A"
+617/j.K/2S/"N/A"
+618/j.K/2H/"N/A"
+619/j.K/2D/"N/A"
+620/j.K/6P/"N/A"
+621/j.K/6K/"N/A"
+622/j.K/6H/"N/A"
+623/j.K/j.P/"N/A"
+624/j.K/j.K/"N/A"
+625/j.K/j.S/"N/A"
+626/j.K/j.H/"N/A"
 627/j.K/j.D/2f
-628/j.K/[4]6H/j.Khas11fofblockstun, while [4]6Hhas18fofstartupf
-629/j.K/[4]6H P/
-630/j.K/632146P/j.Khas11fofblockstun, while632146Phas5fofstartupf
-631/j.K/623H/j.Khas11fofblockstun, while623Hhas12fofstartupf
-632/j.K/236P/j.Khas11fofblockstun, while236Phas25fofstartupf
-633/j.K/214P/j.Khas11fofblockstun, while214Phas25fofstartupf
-634/j.K/2146K~P/j.Khas11fofblockstun, while2146K~Phas25fofstartupf
-635/j.K/236S/j.Khas11fofblockstun, while236Shas29fofstartupf
-636/j.K/63214S/j.Khas11fofblockstun, while63214Shas18fofstartupf
-637/j.K/63214[S]/j.Khas11fofblockstun, while63214 [S]has36fofstartupf
-638/j.K/Reflect Projectile/j.Khas11fofblockstun, whileReflectProjectilehas1fofstartupf
-639/j.K/214H/j.Khas11fofblockstun, while214Hhas28fofstartupf
-640/j.K/41236H/j.Khas11fofblockstun, while41236Hhas12fofstartupf
-641/j.K/236236S/j.Khas11fofblockstun, while236236Shas12fofstartupf
-642/j.K/632146H/j.Khas11fofblockstun, while632146Hhas11fofstartupf
-643/j.K/Mirror/j.Khas11fofblockstun, whileMirrorhas33fofstartupf
-644/j.K/236D/j.Khas11fofblockstun, while236Dhas20fofstartupf
-645/j.K/236[D]/j.Khas11fofblockstun, while236 [D]has32fofstartupf
-646/j.S/5P/j.Shas16fofblockstun, while5Phas5fofstartupf
-647/j.S/5K/j.Shas16fofblockstun, while5Khas10fofstartupf
-648/j.S/c.S/j.Shas16fofblockstun, whilec.Shas8fofstartupf
-649/j.S/f.S/j.Shas16fofblockstun, whilef.Shas12fofstartupf
-650/j.S/5H/j.Shas16fofblockstun, while5Hhas16fofstartupf
-651/j.S/5D/j.Shas16fofblockstun, while5Dhas20fofstartupf
-652/j.S/5[D]/j.Shas16fofblockstun, while5 [D]has28fofstartupf
-653/j.S/2P/j.Shas16fofblockstun, while2Phas8fofstartupf
-654/j.S/2K/j.Shas16fofblockstun, while2Khas10fofstartupf
-655/j.S/2S/j.Shas16fofblockstun, while2Shas14fofstartupf
-656/j.S/2H/j.Shas16fofblockstun, while2Hhas13fofstartupf
-657/j.S/2D/j.Shas16fofblockstun, while2Dhas13fofstartupf
-658/j.S/6P/j.Shas16fofblockstun, while6Phas11fofstartupf
-659/j.S/6K/j.Shas16fofblockstun, while6Khas22fofstartupf
-660/j.S/6H/j.Shas16fofblockstun, while6Hhas23fofstartupf
-661/j.S/j.P/j.Shas16fofblockstun, whilej.Phas7fofstartupf
-662/j.S/j.K/j.Shas16fofblockstun, whilej.Khas10fofstartupf
-663/j.S/j.S/j.Shas16fofblockstun, whilej.Shas13fofstartupf
+628/j.K/[4]6H/"N/A"
+629/j.K/[4]6H P/  
+630/j.K/632146P/"N/A"
+631/j.K/623H/"N/A"
+632/j.K/236P/"N/A"
+633/j.K/214P/"N/A"
+634/j.K/2146K~P/"N/A"
+635/j.K/236S/"N/A"
+636/j.K/63214S/"N/A"
+637/j.K/63214[S]/"N/A"
+638/j.K/Reflect Projectile/"N/A"
+639/j.K/214H/"N/A"
+640/j.K/41236H/"N/A"
+641/j.K/236236S/"N/A"
+642/j.K/632146H/"N/A"
+643/j.K/Mirror/"N/A"
+644/j.K/236D/"N/A"
+645/j.K/236[D]/"N/A"
+646/j.S/5P/"N/A"
+647/j.S/5K/"N/A"
+648/j.S/c.S/"N/A"
+649/j.S/f.S/"N/A"
+650/j.S/5H/"N/A"
+651/j.S/5D/"N/A"
+652/j.S/5[D]/"N/A"
+653/j.S/2P/"N/A"
+654/j.S/2K/"N/A"
+655/j.S/2S/"N/A"
+656/j.S/2H/"N/A"
+657/j.S/2D/"N/A"
+658/j.S/6P/"N/A"
+659/j.S/6K/"N/A"
+660/j.S/6H/"N/A"
+661/j.S/j.P/"N/A"
+662/j.S/j.K/"N/A"
+663/j.S/j.S/"N/A"
 664/j.S/j.H/-4f
 665/j.S/j.D/-3f
-666/j.S/[4]6H/j.Shas16fofblockstun, while [4]6Hhas18fofstartupf
-667/j.S/[4]6H P/
-668/j.S/632146P/j.Shas16fofblockstun, while632146Phas5fofstartupf
-669/j.S/623H/j.Shas16fofblockstun, while623Hhas12fofstartupf
-670/j.S/236P/j.Shas16fofblockstun, while236Phas25fofstartupf
-671/j.S/214P/j.Shas16fofblockstun, while214Phas25fofstartupf
-672/j.S/2146K~P/j.Shas16fofblockstun, while2146K~Phas25fofstartupf
-673/j.S/236S/j.Shas16fofblockstun, while236Shas29fofstartupf
-674/j.S/63214S/j.Shas16fofblockstun, while63214Shas18fofstartupf
-675/j.S/63214[S]/j.Shas16fofblockstun, while63214 [S]has36fofstartupf
-676/j.S/Reflect Projectile/j.Shas16fofblockstun, whileReflectProjectilehas1fofstartupf
-677/j.S/214H/j.Shas16fofblockstun, while214Hhas28fofstartupf
-678/j.S/41236H/j.Shas16fofblockstun, while41236Hhas12fofstartupf
-679/j.S/236236S/j.Shas16fofblockstun, while236236Shas12fofstartupf
-680/j.S/632146H/j.Shas16fofblockstun, while632146Hhas11fofstartupf
-681/j.S/Mirror/j.Shas16fofblockstun, whileMirrorhas33fofstartupf
-682/j.S/236D/j.Shas16fofblockstun, while236Dhas20fofstartupf
-683/j.S/236[D]/j.Shas16fofblockstun, while236 [D]has32fofstartupf
-684/j.H/5P/j.Hhas18fofblockstun, while5Phas5fofstartupf
-685/j.H/5K/j.Hhas18fofblockstun, while5Khas10fofstartupf
-686/j.H/c.S/j.Hhas18fofblockstun, whilec.Shas8fofstartupf
-687/j.H/f.S/j.Hhas18fofblockstun, whilef.Shas12fofstartupf
-688/j.H/5H/j.Hhas18fofblockstun, while5Hhas16fofstartupf
-689/j.H/5D/j.Hhas18fofblockstun, while5Dhas20fofstartupf
-690/j.H/5[D]/j.Hhas18fofblockstun, while5 [D]has28fofstartupf
-691/j.H/2P/j.Hhas18fofblockstun, while2Phas8fofstartupf
-692/j.H/2K/j.Hhas18fofblockstun, while2Khas10fofstartupf
-693/j.H/2S/j.Hhas18fofblockstun, while2Shas14fofstartupf
-694/j.H/2H/j.Hhas18fofblockstun, while2Hhas13fofstartupf
-695/j.H/2D/j.Hhas18fofblockstun, while2Dhas13fofstartupf
-696/j.H/6P/j.Hhas18fofblockstun, while6Phas11fofstartupf
-697/j.H/6K/j.Hhas18fofblockstun, while6Khas22fofstartupf
-698/j.H/6H/j.Hhas18fofblockstun, while6Hhas23fofstartupf
-699/j.H/j.P/j.Hhas18fofblockstun, whilej.Phas7fofstartupf
-700/j.H/j.K/j.Hhas18fofblockstun, whilej.Khas10fofstartupf
-701/j.H/j.S/j.Hhas18fofblockstun, whilej.Shas13fofstartupf
-702/j.H/j.H/j.Hhas18fofblockstun, whilej.Hhas12fofstartupf
+666/j.S/[4]6H/"N/A"
+667/j.S/[4]6H P/  
+668/j.S/632146P/"N/A"
+669/j.S/623H/"N/A"
+670/j.S/236P/"N/A"
+671/j.S/214P/"N/A"
+672/j.S/2146K~P/"N/A"
+673/j.S/236S/"N/A"
+674/j.S/63214S/"N/A"
+675/j.S/63214[S]/"N/A"
+676/j.S/Reflect Projectile/"N/A"
+677/j.S/214H/"N/A"
+678/j.S/41236H/"N/A"
+679/j.S/236236S/"N/A"
+680/j.S/632146H/"N/A"
+681/j.S/Mirror/"N/A"
+682/j.S/236D/"N/A"
+683/j.S/236[D]/"N/A"
+684/j.H/5P/"N/A"
+685/j.H/5K/"N/A"
+686/j.H/c.S/"N/A"
+687/j.H/f.S/"N/A"
+688/j.H/5H/"N/A"
+689/j.H/5D/"N/A"
+690/j.H/5[D]/"N/A"
+691/j.H/2P/"N/A"
+692/j.H/2K/"N/A"
+693/j.H/2S/"N/A"
+694/j.H/2H/"N/A"
+695/j.H/2D/"N/A"
+696/j.H/6P/"N/A"
+697/j.H/6K/"N/A"
+698/j.H/6H/"N/A"
+699/j.H/j.P/"N/A"
+700/j.H/j.K/"N/A"
+701/j.H/j.S/"N/A"
+702/j.H/j.H/"N/A"
 703/j.H/j.D/-5f
-704/j.H/[4]6H/j.Hhas18fofblockstun, while [4]6Hhas18fofstartupf
-705/j.H/[4]6H P/
-706/j.H/632146P/j.Hhas18fofblockstun, while632146Phas5fofstartupf
-707/j.H/623H/j.Hhas18fofblockstun, while623Hhas12fofstartupf
-708/j.H/236P/j.Hhas18fofblockstun, while236Phas25fofstartupf
-709/j.H/214P/j.Hhas18fofblockstun, while214Phas25fofstartupf
-710/j.H/2146K~P/j.Hhas18fofblockstun, while2146K~Phas25fofstartupf
-711/j.H/236S/j.Hhas18fofblockstun, while236Shas29fofstartupf
-712/j.H/63214S/j.Hhas18fofblockstun, while63214Shas18fofstartupf
-713/j.H/63214[S]/j.Hhas18fofblockstun, while63214 [S]has36fofstartupf
-714/j.H/Reflect Projectile/j.Hhas18fofblockstun, whileReflectProjectilehas1fofstartupf
-715/j.H/214H/j.Hhas18fofblockstun, while214Hhas28fofstartupf
-716/j.H/41236H/j.Hhas18fofblockstun, while41236Hhas12fofstartupf
-717/j.H/236236S/j.Hhas18fofblockstun, while236236Shas12fofstartupf
-718/j.H/632146H/j.Hhas18fofblockstun, while632146Hhas11fofstartupf
-719/j.H/Mirror/j.Hhas18fofblockstun, whileMirrorhas33fofstartupf
-720/j.H/236D/j.Hhas18fofblockstun, while236Dhas20fofstartupf
-721/j.H/236[D]/j.Hhas18fofblockstun, while236 [D]has32fofstartupf
-722/j.D/5P/j.Dhas16fofblockstun, while5Phas5fofstartupf
-723/j.D/5K/j.Dhas16fofblockstun, while5Khas10fofstartupf
-724/j.D/c.S/j.Dhas16fofblockstun, whilec.Shas8fofstartupf
-725/j.D/f.S/j.Dhas16fofblockstun, whilef.Shas12fofstartupf
-726/j.D/5H/j.Dhas16fofblockstun, while5Hhas16fofstartupf
-727/j.D/5D/j.Dhas16fofblockstun, while5Dhas20fofstartupf
-728/j.D/5[D]/j.Dhas16fofblockstun, while5 [D]has28fofstartupf
-729/j.D/2P/j.Dhas16fofblockstun, while2Phas8fofstartupf
-730/j.D/2K/j.Dhas16fofblockstun, while2Khas10fofstartupf
-731/j.D/2S/j.Dhas16fofblockstun, while2Shas14fofstartupf
-732/j.D/2H/j.Dhas16fofblockstun, while2Hhas13fofstartupf
-733/j.D/2D/j.Dhas16fofblockstun, while2Dhas13fofstartupf
-734/j.D/6P/j.Dhas16fofblockstun, while6Phas11fofstartupf
-735/j.D/6K/j.Dhas16fofblockstun, while6Khas22fofstartupf
-736/j.D/6H/j.Dhas16fofblockstun, while6Hhas23fofstartupf
-737/j.D/j.P/j.Dhas16fofblockstun, whilej.Phas7fofstartupf
-738/j.D/j.K/j.Dhas16fofblockstun, whilej.Khas10fofstartupf
-739/j.D/j.S/j.Dhas16fofblockstun, whilej.Shas13fofstartupf
-740/j.D/j.H/j.Dhas16fofblockstun, whilej.Hhas12fofstartupf
-741/j.D/j.D/j.Dhas16fofblockstun, whilej.Dhas13fofstartupf
-742/j.D/[4]6H/j.Dhas16fofblockstun, while [4]6Hhas18fofstartupf
-743/j.D/[4]6H P/
-744/j.D/632146P/j.Dhas16fofblockstun, while632146Phas5fofstartupf
-745/j.D/623H/j.Dhas16fofblockstun, while623Hhas12fofstartupf
-746/j.D/236P/j.Dhas16fofblockstun, while236Phas25fofstartupf
-747/j.D/214P/j.Dhas16fofblockstun, while214Phas25fofstartupf
-748/j.D/2146K~P/j.Dhas16fofblockstun, while2146K~Phas25fofstartupf
-749/j.D/236S/j.Dhas16fofblockstun, while236Shas29fofstartupf
-750/j.D/63214S/j.Dhas16fofblockstun, while63214Shas18fofstartupf
-751/j.D/63214[S]/j.Dhas16fofblockstun, while63214 [S]has36fofstartupf
-752/j.D/Reflect Projectile/j.Dhas16fofblockstun, whileReflectProjectilehas1fofstartupf
-753/j.D/214H/j.Dhas16fofblockstun, while214Hhas28fofstartupf
-754/j.D/41236H/j.Dhas16fofblockstun, while41236Hhas12fofstartupf
-755/j.D/236236S/j.Dhas16fofblockstun, while236236Shas12fofstartupf
-756/j.D/632146H/j.Dhas16fofblockstun, while632146Hhas11fofstartupf
-757/j.D/Mirror/j.Dhas16fofblockstun, whileMirrorhas33fofstartupf
-758/j.D/236D/j.Dhas16fofblockstun, while236Dhas20fofstartupf
-759/j.D/236[D]/j.Dhas16fofblockstun, while236 [D]has32fofstartupf
-760/[4]6H/5P/1f
-761/[4]6H/5K/6f
-762/[4]6H/c.S/4f
-763/[4]6H/f.S/8f
-764/[4]6H/5H/12f
-765/[4]6H/5D/16f
-766/[4]6H/5[D]/24f
-767/[4]6H/2P/4f
-768/[4]6H/2K/6f
-769/[4]6H/2S/10f
-770/[4]6H/2H/9f
-771/[4]6H/2D/9f
-772/[4]6H/6P/7f
-773/[4]6H/6K/18f
-774/[4]6H/6H/19f
-775/[4]6H/j.P/8f
-776/[4]6H/j.K/11f
-777/[4]6H/j.S/14f
-778/[4]6H/j.H/13f
-779/[4]6H/j.D/14f
-780/[4]6H/[4]6H/14f
+704/j.H/[4]6H/"N/A"
+705/j.H/[4]6H P/  
+706/j.H/632146P/"N/A"
+707/j.H/623H/"N/A"
+708/j.H/236P/"N/A"
+709/j.H/214P/"N/A"
+710/j.H/2146K~P/"N/A"
+711/j.H/236S/"N/A"
+712/j.H/63214S/"N/A"
+713/j.H/63214[S]/"N/A"
+714/j.H/Reflect Projectile/"N/A"
+715/j.H/214H/"N/A"
+716/j.H/41236H/"N/A"
+717/j.H/236236S/"N/A"
+718/j.H/632146H/"N/A"
+719/j.H/Mirror/"N/A"
+720/j.H/236D/"N/A"
+721/j.H/236[D]/"N/A"
+722/j.D/5P/"N/A"
+723/j.D/5K/"N/A"
+724/j.D/c.S/"N/A"
+725/j.D/f.S/"N/A"
+726/j.D/5H/"N/A"
+727/j.D/5D/"N/A"
+728/j.D/5[D]/"N/A"
+729/j.D/2P/"N/A"
+730/j.D/2K/"N/A"
+731/j.D/2S/"N/A"
+732/j.D/2H/"N/A"
+733/j.D/2D/"N/A"
+734/j.D/6P/"N/A"
+735/j.D/6K/"N/A"
+736/j.D/6H/"N/A"
+737/j.D/j.P/"N/A"
+738/j.D/j.K/"N/A"
+739/j.D/j.S/"N/A"
+740/j.D/j.H/"N/A"
+741/j.D/j.D/"N/A"
+742/j.D/[4]6H/"N/A"
+743/j.D/[4]6H P/ 
+744/j.D/632146P/"N/A"
+745/j.D/623H/"N/A"
+746/j.D/236P/"N/A"
+747/j.D/214P/"N/A"
+748/j.D/2146K~P/"N/A"
+749/j.D/236S/"N/A"
+750/j.D/63214S/"N/A"
+751/j.D/63214[S]/"N/A"
+752/j.D/Reflect Projectile/"N/A"
+753/j.D/214H/"N/A"
+754/j.D/41236H/"N/A"
+755/j.D/236236S/"N/A"
+756/j.D/632146H/"N/A"
+757/j.D/Mirror/"N/A"
+758/j.D/236D/"N/A"
+759/j.D/236[D]/"N/A"
+760/[4]6H/5P/14f
+761/[4]6H/5K/19f
+762/[4]6H/c.S/17f
+763/[4]6H/f.S/21f
+764/[4]6H/5H/25f
+765/[4]6H/5D/29f
+766/[4]6H/5[D]/37f
+767/[4]6H/2P/17f
+768/[4]6H/2K/19f
+769/[4]6H/2S/23f
+770/[4]6H/2H/22f
+771/[4]6H/2D/22f
+772/[4]6H/6P/20f
+773/[4]6H/6K/31f
+774/[4]6H/6H/32f
+775/[4]6H/j.P/21f
+776/[4]6H/j.K/24f
+777/[4]6H/j.S/27f
+778/[4]6H/j.H/26f
+779/[4]6H/j.D/27f
+780/[4]6H/[4]6H/27f
 781/[4]6H/[4]6H P/
-782/[4]6H/632146P/1f
-783/[4]6H/623H/8f
-784/[4]6H/236P/21f
-785/[4]6H/214P/21f
-786/[4]6H/2146K~P/21f
-787/[4]6H/236S/25f
-788/[4]6H/63214S/14f
-789/[4]6H/63214[S]/32f
-790/[4]6H/Reflect Projectile/-3f
-791/[4]6H/214H/24f
-792/[4]6H/41236H/8f
-793/[4]6H/236236S/8f
-794/[4]6H/632146H/7f
-795/[4]6H/Mirror/29f
-796/[4]6H/236D/16f
-797/[4]6H/236[D]/28f
+782/[4]6H/632146P/14f
+783/[4]6H/623H/21f
+784/[4]6H/236P/34f
+785/[4]6H/214P/34f
+786/[4]6H/2146K~P/34f
+787/[4]6H/236S/38f
+788/[4]6H/63214S/27f
+789/[4]6H/63214[S]/45f
+790/[4]6H/Reflect Projectile/10f
+791/[4]6H/214H/37f
+792/[4]6H/41236H/21f
+793/[4]6H/236236S/21f
+794/[4]6H/632146H/20f
+795/[4]6H/Mirror/42f
+796/[4]6H/236D/29f
+797/[4]6H/236[D]/41f
 798/[4]6H P/5P/
 799/[4]6H P/5K/
 800/[4]6H P/c.S/
@@ -873,386 +873,386 @@
 871/632146P/Mirror/
 872/632146P/236D/
 873/632146P/236[D]/
-874/623H/5P/
-875/623H/5K/
-876/623H/c.S/
-877/623H/f.S/
-878/623H/5H/
-879/623H/5D/
-880/623H/5[D]/
-881/623H/2P/
-882/623H/2K/
-883/623H/2S/
-884/623H/2H/
-885/623H/2D/
-886/623H/6P/
-887/623H/6K/
-888/623H/6H/
-889/623H/j.P/
-890/623H/j.K/
-891/623H/j.S/
-892/623H/j.H/
-893/623H/j.D/
-894/623H/[4]6H/
+874/623H/5P/-5f
+875/623H/5K/0f
+876/623H/c.S/-2f
+877/623H/f.S/2f
+878/623H/5H/6f
+879/623H/5D/10f
+880/623H/5[D]/18f
+881/623H/2P/-2f
+882/623H/2K/0f
+883/623H/2S/4f
+884/623H/2H/3f
+885/623H/2D/3f
+886/623H/6P/1f
+887/623H/6K/12f
+888/623H/6H/13f
+889/623H/j.P/2f
+890/623H/j.K/5f
+891/623H/j.S/8f
+892/623H/j.H/7f
+893/623H/j.D/8f
+894/623H/[4]6H/8f
 895/623H/[4]6H P/
-896/623H/632146P/
-897/623H/623H/
-898/623H/236P/
-899/623H/214P/
-900/623H/2146K~P/
-901/623H/236S/
-902/623H/63214S/
-903/623H/63214[S]/
-904/623H/Reflect Projectile/
-905/623H/214H/
-906/623H/41236H/
-907/623H/236236S/
-908/623H/632146H/
-909/623H/Mirror/
-910/623H/236D/
-911/623H/236[D]/
-912/236P/5P/2f
-913/236P/5K/7f
-914/236P/c.S/5f
-915/236P/f.S/9f
-916/236P/5H/13f
-917/236P/5D/17f
-918/236P/5[D]/25f
-919/236P/2P/5f
-920/236P/2K/7f
-921/236P/2S/11f
-922/236P/2H/10f
-923/236P/2D/10f
-924/236P/6P/8f
-925/236P/6K/19f
-926/236P/6H/20f
-927/236P/j.P/9f
-928/236P/j.K/12f
-929/236P/j.S/15f
-930/236P/j.H/14f
-931/236P/j.D/15f
-932/236P/[4]6H/15f
+896/623H/632146P/-5f
+897/623H/623H/2f
+898/623H/236P/15f
+899/623H/214P/15f
+900/623H/2146K~P/15f
+901/623H/236S/19f
+902/623H/63214S/8f
+903/623H/63214[S]/26f
+904/623H/Reflect Projectile/-9f
+905/623H/214H/18f
+906/623H/41236H/2f
+907/623H/236236S/2f
+908/623H/632146H/1f
+909/623H/Mirror/23f
+910/623H/236D/10f
+911/623H/236[D]/22f
+912/236P/5P/11f
+913/236P/5K/16f
+914/236P/c.S/14f
+915/236P/f.S/18f
+916/236P/5H/22f
+917/236P/5D/26f
+918/236P/5[D]/34f
+919/236P/2P/14f
+920/236P/2K/16f
+921/236P/2S/20f
+922/236P/2H/19f
+923/236P/2D/19f
+924/236P/6P/17f
+925/236P/6K/28f
+926/236P/6H/29f
+927/236P/j.P/18f
+928/236P/j.K/21f
+929/236P/j.S/24f
+930/236P/j.H/23f
+931/236P/j.D/24f
+932/236P/[4]6H/24f
 933/236P/[4]6H P/
-934/236P/632146P/2f
-935/236P/623H/9f
-936/236P/236P/22f
-937/236P/214P/22f
-938/236P/2146K~P/22f
-939/236P/236S/26f
-940/236P/63214S/15f
-941/236P/63214[S]/33f
-942/236P/Reflect Projectile/-2f
-943/236P/214H/25f
-944/236P/41236H/9f
-945/236P/236236S/9f
-946/236P/632146H/8f
-947/236P/Mirror/30f
-948/236P/236D/17f
-949/236P/236[D]/29f
-950/214P/5P/2f
-951/214P/5K/7f
-952/214P/c.S/5f
-953/214P/f.S/9f
-954/214P/5H/13f
-955/214P/5D/17f
-956/214P/5[D]/25f
-957/214P/2P/5f
-958/214P/2K/7f
-959/214P/2S/11f
-960/214P/2H/10f
-961/214P/2D/10f
-962/214P/6P/8f
-963/214P/6K/19f
-964/214P/6H/20f
-965/214P/j.P/9f
-966/214P/j.K/12f
-967/214P/j.S/15f
-968/214P/j.H/14f
-969/214P/j.D/15f
-970/214P/[4]6H/15f
+934/236P/632146P/11f
+935/236P/623H/18f
+936/236P/236P/31f
+937/236P/214P/31f
+938/236P/2146K~P/31f
+939/236P/236S/35f
+940/236P/63214S/24f
+941/236P/63214[S]/42f
+942/236P/Reflect Projectile/7f
+943/236P/214H/34f
+944/236P/41236H/18f
+945/236P/236236S/18f
+946/236P/632146H/17f
+947/236P/Mirror/39f
+948/236P/236D/26f
+949/236P/236[D]/38f
+950/214P/5P/1f
+951/214P/5K/6f
+952/214P/c.S/4f
+953/214P/f.S/8f
+954/214P/5H/12f
+955/214P/5D/16f
+956/214P/5[D]/24f
+957/214P/2P/4f
+958/214P/2K/6f
+959/214P/2S/10f
+960/214P/2H/9f
+961/214P/2D/9f
+962/214P/6P/7f
+963/214P/6K/18f
+964/214P/6H/19f
+965/214P/j.P/8f
+966/214P/j.K/11f
+967/214P/j.S/14f
+968/214P/j.H/13f
+969/214P/j.D/14f
+970/214P/[4]6H/14f
 971/214P/[4]6H P/
-972/214P/632146P/2f
-973/214P/623H/9f
-974/214P/236P/22f
-975/214P/214P/22f
-976/214P/2146K~P/22f
-977/214P/236S/26f
-978/214P/63214S/15f
-979/214P/63214[S]/33f
-980/214P/Reflect Projectile/-2f
-981/214P/214H/25f
-982/214P/41236H/9f
-983/214P/236236S/9f
-984/214P/632146H/8f
-985/214P/Mirror/30f
-986/214P/236D/17f
-987/214P/236[D]/29f
-988/2146K~P/5P/2f
-989/2146K~P/5K/7f
-990/2146K~P/c.S/5f
-991/2146K~P/f.S/9f
-992/2146K~P/5H/13f
-993/2146K~P/5D/17f
-994/2146K~P/5[D]/25f
-995/2146K~P/2P/5f
-996/2146K~P/2K/7f
-997/2146K~P/2S/11f
-998/2146K~P/2H/10f
-999/2146K~P/2D/10f
-1000/2146K~P/6P/8f
-1001/2146K~P/6K/19f
-1002/2146K~P/6H/20f
-1003/2146K~P/j.P/9f
-1004/2146K~P/j.K/12f
-1005/2146K~P/j.S/15f
-1006/2146K~P/j.H/14f
-1007/2146K~P/j.D/15f
-1008/2146K~P/[4]6H/15f
+972/214P/632146P/1f
+973/214P/623H/8f
+974/214P/236P/21f
+975/214P/214P/21f
+976/214P/2146K~P/21f
+977/214P/236S/25f
+978/214P/63214S/14f
+979/214P/63214[S]/32f
+980/214P/Reflect Projectile/-3f
+981/214P/214H/24f
+982/214P/41236H/8f
+983/214P/236236S/8f
+984/214P/632146H/7f
+985/214P/Mirror/29f
+986/214P/236D/16f
+987/214P/236[D]/28f
+988/2146K~P/5P/7f
+989/2146K~P/5K/12f
+990/2146K~P/c.S/10f
+991/2146K~P/f.S/14f
+992/2146K~P/5H/18f
+993/2146K~P/5D/22f
+994/2146K~P/5[D]/30f
+995/2146K~P/2P/10f
+996/2146K~P/2K/12f
+997/2146K~P/2S/16f
+998/2146K~P/2H/15f
+999/2146K~P/2D/15f
+1000/2146K~P/6P/13f
+1001/2146K~P/6K/24f
+1002/2146K~P/6H/25f
+1003/2146K~P/j.P/14f
+1004/2146K~P/j.K/17f
+1005/2146K~P/j.S/20f
+1006/2146K~P/j.H/19f
+1007/2146K~P/j.D/20f
+1008/2146K~P/[4]6H/20f
 1009/2146K~P/[4]6H P/
-1010/2146K~P/632146P/2f
-1011/2146K~P/623H/9f
-1012/2146K~P/236P/22f
-1013/2146K~P/214P/22f
-1014/2146K~P/2146K~P/22f
-1015/2146K~P/236S/26f
-1016/2146K~P/63214S/15f
-1017/2146K~P/63214[S]/33f
-1018/2146K~P/Reflect Projectile/-2f
-1019/2146K~P/214H/25f
-1020/2146K~P/41236H/9f
-1021/2146K~P/236236S/9f
-1022/2146K~P/632146H/8f
-1023/2146K~P/Mirror/30f
-1024/2146K~P/236D/17f
-1025/2146K~P/236[D]/29f
-1026/236S/5P/1f
-1027/236S/5K/6f
-1028/236S/c.S/4f
-1029/236S/f.S/8f
-1030/236S/5H/12f
-1031/236S/5D/16f
-1032/236S/5[D]/24f
-1033/236S/2P/4f
-1034/236S/2K/6f
-1035/236S/2S/10f
-1036/236S/2H/9f
-1037/236S/2D/9f
-1038/236S/6P/7f
-1039/236S/6K/18f
-1040/236S/6H/19f
-1041/236S/j.P/8f
-1042/236S/j.K/11f
-1043/236S/j.S/14f
-1044/236S/j.H/13f
-1045/236S/j.D/14f
-1046/236S/[4]6H/14f
+1010/2146K~P/632146P/7f
+1011/2146K~P/623H/14f
+1012/2146K~P/236P/27f
+1013/2146K~P/214P/27f
+1014/2146K~P/2146K~P/27f
+1015/2146K~P/236S/31f
+1016/2146K~P/63214S/20f
+1017/2146K~P/63214[S]/38f
+1018/2146K~P/Reflect Projectile/3f
+1019/2146K~P/214H/30f
+1020/2146K~P/41236H/14f
+1021/2146K~P/236236S/14f
+1022/2146K~P/632146H/13f
+1023/2146K~P/Mirror/35f
+1024/2146K~P/236D/22f
+1025/2146K~P/236[D]/34f
+1026/236S/5P/5f
+1027/236S/5K/10f
+1028/236S/c.S/8f
+1029/236S/f.S/12f
+1030/236S/5H/16f
+1031/236S/5D/20f
+1032/236S/5[D]/28f
+1033/236S/2P/8f
+1034/236S/2K/10f
+1035/236S/2S/14f
+1036/236S/2H/13f
+1037/236S/2D/13f
+1038/236S/6P/11f
+1039/236S/6K/22f
+1040/236S/6H/23f
+1041/236S/j.P/12f
+1042/236S/j.K/15f
+1043/236S/j.S/18f
+1044/236S/j.H/17f
+1045/236S/j.D/18f
+1046/236S/[4]6H/18f
 1047/236S/[4]6H P/
-1048/236S/632146P/1f
-1049/236S/623H/8f
-1050/236S/236P/21f
-1051/236S/214P/21f
-1052/236S/2146K~P/21f
-1053/236S/236S/25f
-1054/236S/63214S/14f
-1055/236S/63214[S]/32f
-1056/236S/Reflect Projectile/-3f
-1057/236S/214H/24f
-1058/236S/41236H/8f
-1059/236S/236236S/8f
-1060/236S/632146H/7f
-1061/236S/Mirror/29f
-1062/236S/236D/16f
-1063/236S/236[D]/28f
-1064/63214S/5P/2f
-1065/63214S/5K/7f
-1066/63214S/c.S/5f
-1067/63214S/f.S/9f
-1068/63214S/5H/13f
-1069/63214S/5D/17f
-1070/63214S/5[D]/25f
-1071/63214S/2P/5f
-1072/63214S/2K/7f
-1073/63214S/2S/11f
-1074/63214S/2H/10f
-1075/63214S/2D/10f
-1076/63214S/6P/8f
-1077/63214S/6K/19f
-1078/63214S/6H/20f
-1079/63214S/j.P/9f
-1080/63214S/j.K/12f
-1081/63214S/j.S/15f
-1082/63214S/j.H/14f
-1083/63214S/j.D/15f
-1084/63214S/[4]6H/15f
+1048/236S/632146P/5f
+1049/236S/623H/12f
+1050/236S/236P/25f
+1051/236S/214P/25f
+1052/236S/2146K~P/25f
+1053/236S/236S/29f
+1054/236S/63214S/18f
+1055/236S/63214[S]/36f
+1056/236S/Reflect Projectile/1f
+1057/236S/214H/28f
+1058/236S/41236H/12f
+1059/236S/236236S/12f
+1060/236S/632146H/11f
+1061/236S/Mirror/33f
+1062/236S/236D/20f
+1063/236S/236[D]/32f
+1064/63214S/5P/11f
+1065/63214S/5K/16f
+1066/63214S/c.S/14f
+1067/63214S/f.S/18f
+1068/63214S/5H/22f
+1069/63214S/5D/26f
+1070/63214S/5[D]/34f
+1071/63214S/2P/14f
+1072/63214S/2K/16f
+1073/63214S/2S/20f
+1074/63214S/2H/19f
+1075/63214S/2D/19f
+1076/63214S/6P/17f
+1077/63214S/6K/28f
+1078/63214S/6H/29f
+1079/63214S/j.P/18f
+1080/63214S/j.K/21f
+1081/63214S/j.S/24f
+1082/63214S/j.H/23f
+1083/63214S/j.D/24f
+1084/63214S/[4]6H/24f
 1085/63214S/[4]6H P/
-1086/63214S/632146P/2f
-1087/63214S/623H/9f
-1088/63214S/236P/22f
-1089/63214S/214P/22f
-1090/63214S/2146K~P/22f
-1091/63214S/236S/26f
-1092/63214S/63214S/15f
-1093/63214S/63214[S]/33f
-1094/63214S/Reflect Projectile/-2f
-1095/63214S/214H/25f
-1096/63214S/41236H/9f
-1097/63214S/236236S/9f
-1098/63214S/632146H/8f
-1099/63214S/Mirror/30f
-1100/63214S/236D/17f
-1101/63214S/236[D]/29f
-1102/63214[S]/5P/2f
-1103/63214[S]/5K/7f
-1104/63214[S]/c.S/5f
-1105/63214[S]/f.S/9f
-1106/63214[S]/5H/13f
-1107/63214[S]/5D/17f
-1108/63214[S]/5[D]/25f
-1109/63214[S]/2P/5f
-1110/63214[S]/2K/7f
-1111/63214[S]/2S/11f
-1112/63214[S]/2H/10f
-1113/63214[S]/2D/10f
-1114/63214[S]/6P/8f
-1115/63214[S]/6K/19f
-1116/63214[S]/6H/20f
-1117/63214[S]/j.P/9f
-1118/63214[S]/j.K/12f
-1119/63214[S]/j.S/15f
-1120/63214[S]/j.H/14f
-1121/63214[S]/j.D/15f
-1122/63214[S]/[4]6H/15f
+1086/63214S/632146P/11f
+1087/63214S/623H/18f
+1088/63214S/236P/31f
+1089/63214S/214P/31f
+1090/63214S/2146K~P/31f
+1091/63214S/236S/35f
+1092/63214S/63214S/24f
+1093/63214S/63214[S]/42f
+1094/63214S/Reflect Projectile/7f
+1095/63214S/214H/34f
+1096/63214S/41236H/18f
+1097/63214S/236236S/18f
+1098/63214S/632146H/17f
+1099/63214S/Mirror/39f
+1100/63214S/236D/26f
+1101/63214S/236[D]/38f
+1102/63214[S]/5P/11f
+1103/63214[S]/5K/16f
+1104/63214[S]/c.S/14f
+1105/63214[S]/f.S/18f
+1106/63214[S]/5H/22f
+1107/63214[S]/5D/26f
+1108/63214[S]/5[D]/34f
+1109/63214[S]/2P/14f
+1110/63214[S]/2K/16f
+1111/63214[S]/2S/20f
+1112/63214[S]/2H/19f
+1113/63214[S]/2D/19f
+1114/63214[S]/6P/17f
+1115/63214[S]/6K/28f
+1116/63214[S]/6H/29f
+1117/63214[S]/j.P/18f
+1118/63214[S]/j.K/21f
+1119/63214[S]/j.S/24f
+1120/63214[S]/j.H/23f
+1121/63214[S]/j.D/24f
+1122/63214[S]/[4]6H/24f
 1123/63214[S]/[4]6H P/
-1124/63214[S]/632146P/2f
-1125/63214[S]/623H/9f
-1126/63214[S]/236P/22f
-1127/63214[S]/214P/22f
-1128/63214[S]/2146K~P/22f
-1129/63214[S]/236S/26f
-1130/63214[S]/63214S/15f
-1131/63214[S]/63214[S]/33f
-1132/63214[S]/Reflect Projectile/-2f
-1133/63214[S]/214H/25f
-1134/63214[S]/41236H/9f
-1135/63214[S]/236236S/9f
-1136/63214[S]/632146H/8f
-1137/63214[S]/Mirror/30f
-1138/63214[S]/236D/17f
-1139/63214[S]/236[D]/29f
-1140/Reflect Projectile/5P/2f
-1141/Reflect Projectile/5K/7f
-1142/Reflect Projectile/c.S/5f
-1143/Reflect Projectile/f.S/9f
-1144/Reflect Projectile/5H/13f
-1145/Reflect Projectile/5D/17f
-1146/Reflect Projectile/5[D]/25f
-1147/Reflect Projectile/2P/5f
-1148/Reflect Projectile/2K/7f
-1149/Reflect Projectile/2S/11f
-1150/Reflect Projectile/2H/10f
-1151/Reflect Projectile/2D/10f
-1152/Reflect Projectile/6P/8f
-1153/Reflect Projectile/6K/19f
-1154/Reflect Projectile/6H/20f
-1155/Reflect Projectile/j.P/9f
-1156/Reflect Projectile/j.K/12f
-1157/Reflect Projectile/j.S/15f
-1158/Reflect Projectile/j.H/14f
-1159/Reflect Projectile/j.D/15f
-1160/Reflect Projectile/[4]6H/15f
+1124/63214[S]/632146P/11f
+1125/63214[S]/623H/18f
+1126/63214[S]/236P/31f
+1127/63214[S]/214P/31f
+1128/63214[S]/2146K~P/31f
+1129/63214[S]/236S/35f
+1130/63214[S]/63214S/24f
+1131/63214[S]/63214[S]/42f
+1132/63214[S]/Reflect Projectile/7f
+1133/63214[S]/214H/34f
+1134/63214[S]/41236H/18f
+1135/63214[S]/236236S/18f
+1136/63214[S]/632146H/17f
+1137/63214[S]/Mirror/39f
+1138/63214[S]/236D/26f
+1139/63214[S]/236[D]/38f
+1140/Reflect Projectile/5P/-6f
+1141/Reflect Projectile/5K/-1f
+1142/Reflect Projectile/c.S/-3f
+1143/Reflect Projectile/f.S/1f
+1144/Reflect Projectile/5H/5f
+1145/Reflect Projectile/5D/9f
+1146/Reflect Projectile/5[D]/17f
+1147/Reflect Projectile/2P/-3f
+1148/Reflect Projectile/2K/-1f
+1149/Reflect Projectile/2S/3f
+1150/Reflect Projectile/2H/2f
+1151/Reflect Projectile/2D/2f
+1152/Reflect Projectile/6P/0f
+1153/Reflect Projectile/6K/11f
+1154/Reflect Projectile/6H/12f
+1155/Reflect Projectile/j.P/1f
+1156/Reflect Projectile/j.K/4f
+1157/Reflect Projectile/j.S/7f
+1158/Reflect Projectile/j.H/6f
+1159/Reflect Projectile/j.D/7f
+1160/Reflect Projectile/[4]6H/7f
 1161/Reflect Projectile/[4]6H P/
-1162/Reflect Projectile/632146P/2f
-1163/Reflect Projectile/623H/9f
-1164/Reflect Projectile/236P/22f
-1165/Reflect Projectile/214P/22f
-1166/Reflect Projectile/2146K~P/22f
-1167/Reflect Projectile/236S/26f
-1168/Reflect Projectile/63214S/15f
-1169/Reflect Projectile/63214[S]/33f
-1170/Reflect Projectile/Reflect Projectile/-2f
-1171/Reflect Projectile/214H/25f
-1172/Reflect Projectile/41236H/9f
-1173/Reflect Projectile/236236S/9f
-1174/Reflect Projectile/632146H/8f
-1175/Reflect Projectile/Mirror/30f
-1176/Reflect Projectile/236D/17f
-1177/Reflect Projectile/236[D]/29f
-1178/214H/5P/
-1179/214H/5K/
-1180/214H/c.S/
-1181/214H/f.S/
-1182/214H/5H/
-1183/214H/5D/
-1184/214H/5[D]/
-1185/214H/2P/
-1186/214H/2K/
-1187/214H/2S/
-1188/214H/2H/
-1189/214H/2D/
-1190/214H/6P/
-1191/214H/6K/
-1192/214H/6H/
-1193/214H/j.P/
-1194/214H/j.K/
-1195/214H/j.S/
-1196/214H/j.H/
-1197/214H/j.D/
-1198/214H/[4]6H/
+1162/Reflect Projectile/632146P/-6f
+1163/Reflect Projectile/623H/1f
+1164/Reflect Projectile/236P/14f
+1165/Reflect Projectile/214P/14f
+1166/Reflect Projectile/2146K~P/14f
+1167/Reflect Projectile/236S/18f
+1168/Reflect Projectile/63214S/7f
+1169/Reflect Projectile/63214[S]/25f
+1170/Reflect Projectile/Reflect Projectile/-10f
+1171/Reflect Projectile/214H/17f
+1172/Reflect Projectile/41236H/1f
+1173/Reflect Projectile/236236S/1f
+1174/Reflect Projectile/632146H/0f
+1175/Reflect Projectile/Mirror/22f
+1176/Reflect Projectile/236D/9f
+1177/Reflect Projectile/236[D]/21f
+1178/214H/5P/-14f
+1179/214H/5K/-9f
+1180/214H/c.S/-11f
+1181/214H/f.S/-7f
+1182/214H/5H/-3f
+1183/214H/5D/1f
+1184/214H/5[D]/9f
+1185/214H/2P/-11f
+1186/214H/2K/-9f
+1187/214H/2S/-5f
+1188/214H/2H/-6f
+1189/214H/2D/-6f
+1190/214H/6P/-8f
+1191/214H/6K/3f
+1192/214H/6H/4f
+1193/214H/j.P/-7f
+1194/214H/j.K/-4f
+1195/214H/j.S/-1f
+1196/214H/j.H/-2f
+1197/214H/j.D/-1f
+1198/214H/[4]6H/-1f
 1199/214H/[4]6H P/
-1200/214H/632146P/
-1201/214H/623H/
-1202/214H/236P/
-1203/214H/214P/
-1204/214H/2146K~P/
-1205/214H/236S/
-1206/214H/63214S/
-1207/214H/63214[S]/
-1208/214H/Reflect Projectile/
-1209/214H/214H/
-1210/214H/41236H/
-1211/214H/236236S/
-1212/214H/632146H/
-1213/214H/Mirror/
-1214/214H/236D/
-1215/214H/236[D]/
-1216/41236H/5P/1f
-1217/41236H/5K/6f
-1218/41236H/c.S/4f
-1219/41236H/f.S/8f
-1220/41236H/5H/12f
-1221/41236H/5D/16f
-1222/41236H/5[D]/24f
-1223/41236H/2P/4f
-1224/41236H/2K/6f
-1225/41236H/2S/10f
-1226/41236H/2H/9f
-1227/41236H/2D/9f
-1228/41236H/6P/7f
-1229/41236H/6K/18f
-1230/41236H/6H/19f
-1231/41236H/j.P/8f
-1232/41236H/j.K/11f
-1233/41236H/j.S/14f
-1234/41236H/j.H/13f
-1235/41236H/j.D/14f
-1236/41236H/[4]6H/14f
+1200/214H/632146P/-14f
+1201/214H/623H/-7f
+1202/214H/236P/6f
+1203/214H/214P/6f
+1204/214H/2146K~P/6f
+1205/214H/236S/10f
+1206/214H/63214S/-1f
+1207/214H/63214[S]/17f
+1208/214H/Reflect Projectile/-18f
+1209/214H/214H/9f
+1210/214H/41236H/-7f
+1211/214H/236236S/-7f
+1212/214H/632146H/-8f
+1213/214H/Mirror/14f
+1214/214H/236D/1f
+1215/214H/236[D]/13f
+1216/41236H/5P/42f
+1217/41236H/5K/47f
+1218/41236H/c.S/45f
+1219/41236H/f.S/49f
+1220/41236H/5H/53f
+1221/41236H/5D/57f
+1222/41236H/5[D]/65f
+1223/41236H/2P/45f
+1224/41236H/2K/47f
+1225/41236H/2S/51f
+1226/41236H/2H/50f
+1227/41236H/2D/50f
+1228/41236H/6P/48f
+1229/41236H/6K/59f
+1230/41236H/6H/60f
+1231/41236H/j.P/49f
+1232/41236H/j.K/52f
+1233/41236H/j.S/55f
+1234/41236H/j.H/54f
+1235/41236H/j.D/55f
+1236/41236H/[4]6H/55f
 1237/41236H/[4]6H P/
-1238/41236H/632146P/1f
-1239/41236H/623H/8f
-1240/41236H/236P/21f
-1241/41236H/214P/21f
-1242/41236H/2146K~P/21f
-1243/41236H/236S/25f
-1244/41236H/63214S/14f
-1245/41236H/63214[S]/32f
-1246/41236H/Reflect Projectile/-3f
-1247/41236H/214H/24f
-1248/41236H/41236H/8f
-1249/41236H/236236S/8f
-1250/41236H/632146H/7f
-1251/41236H/Mirror/29f
-1252/41236H/236D/16f
-1253/41236H/236[D]/28f
+1238/41236H/632146P/42f
+1239/41236H/623H/49f
+1240/41236H/236P/62f
+1241/41236H/214P/62f
+1242/41236H/2146K~P/62f
+1243/41236H/236S/66f
+1244/41236H/63214S/55f
+1245/41236H/63214[S]/73f
+1246/41236H/Reflect Projectile/38f
+1247/41236H/214H/65f
+1248/41236H/41236H/49f
+1249/41236H/236236S/49f
+1250/41236H/632146H/48f
+1251/41236H/Mirror/70f
+1252/41236H/236D/57f
+1253/41236H/236[D]/69f
 1254/236236S/5P/
 1255/236236S/5K/
 1256/236236S/c.S/
@@ -1291,44 +1291,44 @@
 1289/236236S/Mirror/
 1290/236236S/236D/
 1291/236236S/236[D]/
-1292/632146H/5P/
-1293/632146H/5K/
-1294/632146H/c.S/
-1295/632146H/f.S/
-1296/632146H/5H/
-1297/632146H/5D/
-1298/632146H/5[D]/
-1299/632146H/2P/
-1300/632146H/2K/
-1301/632146H/2S/
-1302/632146H/2H/
-1303/632146H/2D/
-1304/632146H/6P/
-1305/632146H/6K/
-1306/632146H/6H/
-1307/632146H/j.P/
-1308/632146H/j.K/
-1309/632146H/j.S/
-1310/632146H/j.H/
-1311/632146H/j.D/
-1312/632146H/[4]6H/
+1292/632146H/5P/-95f
+1293/632146H/5K/-90f
+1294/632146H/c.S/-92f
+1295/632146H/f.S/-88f
+1296/632146H/5H/-84f
+1297/632146H/5D/-80f
+1298/632146H/5[D]/-72f
+1299/632146H/2P/-92f
+1300/632146H/2K/-90f
+1301/632146H/2S/-86f
+1302/632146H/2H/-87f
+1303/632146H/2D/-87f
+1304/632146H/6P/-89f
+1305/632146H/6K/-78f
+1306/632146H/6H/-77f
+1307/632146H/j.P/-88f
+1308/632146H/j.K/-85f
+1309/632146H/j.S/-82f
+1310/632146H/j.H/-83f
+1311/632146H/j.D/-82f
+1312/632146H/[4]6H/-82f
 1313/632146H/[4]6H P/
-1314/632146H/632146P/
-1315/632146H/623H/
-1316/632146H/236P/
-1317/632146H/214P/
-1318/632146H/2146K~P/
-1319/632146H/236S/
-1320/632146H/63214S/
-1321/632146H/63214[S]/
-1322/632146H/Reflect Projectile/
-1323/632146H/214H/
-1324/632146H/41236H/
-1325/632146H/236236S/
-1326/632146H/632146H/
-1327/632146H/Mirror/
-1328/632146H/236D/
-1329/632146H/236[D]/
+1314/632146H/632146P/-95f
+1315/632146H/623H/-88f
+1316/632146H/236P/-75f
+1317/632146H/214P/-75f
+1318/632146H/2146K~P/-75f
+1319/632146H/236S/-71f
+1320/632146H/63214S/-82f
+1321/632146H/63214[S]/-64f
+1322/632146H/Reflect Projectile/-99f
+1323/632146H/214H/-72f
+1324/632146H/41236H/-88f
+1325/632146H/236236S/-88f
+1326/632146H/632146H/-89f
+1327/632146H/Mirror/-67f
+1328/632146H/236D/-80f
+1329/632146H/236[D]/-68f
 1330/Mirror/5P/
 1331/Mirror/5K/
 1332/Mirror/c.S/
@@ -1367,79 +1367,79 @@
 1365/Mirror/Mirror/
 1366/Mirror/236D/
 1367/Mirror/236[D]/
-1368/236D/5P/1f
-1369/236D/5K/6f
-1370/236D/c.S/4f
-1371/236D/f.S/8f
-1372/236D/5H/12f
-1373/236D/5D/16f
-1374/236D/5[D]/24f
-1375/236D/2P/4f
-1376/236D/2K/6f
-1377/236D/2S/10f
-1378/236D/2H/9f
-1379/236D/2D/9f
-1380/236D/6P/7f
-1381/236D/6K/18f
-1382/236D/6H/19f
-1383/236D/j.P/8f
-1384/236D/j.K/11f
-1385/236D/j.S/14f
-1386/236D/j.H/13f
-1387/236D/j.D/14f
-1388/236D/[4]6H/14f
+1368/236D/5P/-7f
+1369/236D/5K/-2f
+1370/236D/c.S/-4f
+1371/236D/f.S/0f
+1372/236D/5H/4f
+1373/236D/5D/8f
+1374/236D/5[D]/16f
+1375/236D/2P/-4f
+1376/236D/2K/-2f
+1377/236D/2S/2f
+1378/236D/2H/1f
+1379/236D/2D/1f
+1380/236D/6P/-1f
+1381/236D/6K/10f
+1382/236D/6H/11f
+1383/236D/j.P/0f
+1384/236D/j.K/3f
+1385/236D/j.S/6f
+1386/236D/j.H/5f
+1387/236D/j.D/6f
+1388/236D/[4]6H/6f
 1389/236D/[4]6H P/
-1390/236D/632146P/1f
-1391/236D/623H/8f
-1392/236D/236P/21f
-1393/236D/214P/21f
-1394/236D/2146K~P/21f
-1395/236D/236S/25f
-1396/236D/63214S/14f
-1397/236D/63214[S]/32f
-1398/236D/Reflect Projectile/-3f
-1399/236D/214H/24f
-1400/236D/41236H/8f
-1401/236D/236236S/8f
-1402/236D/632146H/7f
-1403/236D/Mirror/29f
-1404/236D/236D/16f
-1405/236D/236[D]/28f
-1406/236[D]/5P/1f
-1407/236[D]/5K/6f
-1408/236[D]/c.S/4f
-1409/236[D]/f.S/8f
-1410/236[D]/5H/12f
-1411/236[D]/5D/16f
-1412/236[D]/5[D]/24f
-1413/236[D]/2P/4f
-1414/236[D]/2K/6f
-1415/236[D]/2S/10f
-1416/236[D]/2H/9f
-1417/236[D]/2D/9f
-1418/236[D]/6P/7f
-1419/236[D]/6K/18f
-1420/236[D]/6H/19f
-1421/236[D]/j.P/8f
-1422/236[D]/j.K/11f
-1423/236[D]/j.S/14f
-1424/236[D]/j.H/13f
-1425/236[D]/j.D/14f
-1426/236[D]/[4]6H/14f
+1390/236D/632146P/-7f
+1391/236D/623H/0f
+1392/236D/236P/13f
+1393/236D/214P/13f
+1394/236D/2146K~P/13f
+1395/236D/236S/17f
+1396/236D/63214S/6f
+1397/236D/63214[S]/24f
+1398/236D/Reflect Projectile/-11f
+1399/236D/214H/16f
+1400/236D/41236H/0f
+1401/236D/236236S/0f
+1402/236D/632146H/-1f
+1403/236D/Mirror/21f
+1404/236D/236D/8f
+1405/236D/236[D]/20f
+1406/236[D]/5P/-12f
+1407/236[D]/5K/-7f
+1408/236[D]/c.S/-9f
+1409/236[D]/f.S/-5f
+1410/236[D]/5H/-1f
+1411/236[D]/5D/3f
+1412/236[D]/5[D]/11f
+1413/236[D]/2P/-9f
+1414/236[D]/2K/-7f
+1415/236[D]/2S/-3f
+1416/236[D]/2H/-4f
+1417/236[D]/2D/-4f
+1418/236[D]/6P/-6f
+1419/236[D]/6K/5f
+1420/236[D]/6H/6f
+1421/236[D]/j.P/-5f
+1422/236[D]/j.K/-2f
+1423/236[D]/j.S/1f
+1424/236[D]/j.H/0f
+1425/236[D]/j.D/1f
+1426/236[D]/[4]6H/1f
 1427/236[D]/[4]6H P/
-1428/236[D]/632146P/1f
-1429/236[D]/623H/8f
-1430/236[D]/236P/21f
-1431/236[D]/214P/21f
-1432/236[D]/2146K~P/21f
-1433/236[D]/236S/25f
-1434/236[D]/63214S/14f
-1435/236[D]/63214[S]/32f
-1436/236[D]/Reflect Projectile/-3f
-1437/236[D]/214H/24f
-1438/236[D]/41236H/8f
-1439/236[D]/236236S/8f
-1440/236[D]/632146H/7f
-1441/236[D]/Mirror/29f
-1442/236[D]/236D/16f
-1443/236[D]/236[D]/28f
+1428/236[D]/632146P/-12f
+1429/236[D]/623H/-5f
+1430/236[D]/236P/8f
+1431/236[D]/214P/8f
+1432/236[D]/2146K~P/8f
+1433/236[D]/236S/12f
+1434/236[D]/63214S/1f
+1435/236[D]/63214[S]/19f
+1436/236[D]/Reflect Projectile/-16f
+1437/236[D]/214H/11f
+1438/236[D]/41236H/-5f
+1439/236[D]/236236S/-5f
+1440/236[D]/632146H/-6f
+1441/236[D]/Mirror/16f
+1442/236[D]/236D/3f
+1443/236[D]/236[D]/15f

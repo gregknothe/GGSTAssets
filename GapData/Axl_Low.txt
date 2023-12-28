@@ -1,24 +1,24 @@
 /move1/move2/gap
-0/5P/5P/5f [4f]
-1/5P/5K/4f [3f]
-2/5P/c.S/6f [5f]
-3/5P/f.S/8f [7f]
-4/5P/5H/14f [13f]
-5/5P/2P/8f [7f]
-6/5P/2K/3f [2f]
-7/5P/2S/7f [6f]
-8/5P/2H/9f [8f]
-9/5P/j.P/12f [11f]
-10/5P/j.K/11f [10f]
-11/5P/j.S/17f [16f]
-12/5P/j.H/15f [14f]
-13/5P/j.D/13f [12f]
+0/5P/5P/18f [10f]
+1/5P/5K/17f [9f]
+2/5P/c.S/19f [11f]
+3/5P/f.S/21f [13f]
+4/5P/5H/27f [19f]
+5/5P/2P/21f [13f]
+6/5P/2K/16f [8f]
+7/5P/2S/20f [12f]
+8/5P/2H/22f [14f]
+9/5P/j.P/25f [17f]
+10/5P/j.K/24f [16f]
+11/5P/j.S/30f [22f]
+12/5P/j.H/28f [20f]
+13/5P/j.D/26f [18f]
 14/5P/6P/-1f [-4f]
 15/5P/6K/-2f [-5f]
 16/5P/6H/14f [11f]
-17/5P/2D/8f [7f]
-18/5P/5D/18f [17f]
-19/5P/5[D]/26f [25f]
+17/5P/2D/21f [13f]
+18/5P/5D/31f [23f]
+19/5P/5[D]/39f [31f]
 20/5P/[4]6S/11f [8f]
 21/5P/[4]6S 8/-5f [-8f]
 22/5P/[4]6S 2/-6f [-9f]
@@ -26,25 +26,25 @@
 24/5P/41236H/15f [12f]
 25/5P/214S/11f [8f]
 26/5P/214H/1f [-2f]
-27/5P/j.214H/17f [16f]
-28/5P/j.236H/12f [11f]
+27/5P/j.214H/30f [22f]
+28/5P/j.236H/25f [17f]
 29/5P/214K/4f [1f]
 30/5P/214[K]/28f [25f]
 31/5P/236236H/-1f [-4f]
 32/5P/632146P/-8f [-11f]
 33/5P/632146P Attack/-4f [-7f]
-34/5P/j.632146P Attack/12f [11f]
+34/5P/j.632146P Attack/25f [17f]
 35/5P/236D/7f [4f]
 36/5P/236[D]/19f [16f]
-37/5K/5P/6f
-38/5K/5K/5f
-39/5K/c.S/7f
-40/5K/f.S/9f
-41/5K/5H/15f
-42/5K/2P/9f
-43/5K/2K/4f
-44/5K/2S/8f
-45/5K/2H/10f
+37/5K/5P/9f
+38/5K/5K/8f
+39/5K/c.S/10f
+40/5K/f.S/12f
+41/5K/5H/18f
+42/5K/2P/12f
+43/5K/2K/7f
+44/5K/2S/11f
+45/5K/2H/13f
 46/5K/j.P/3f
 47/5K/j.K/2f
 48/5K/j.S/8f
@@ -55,7 +55,7 @@
 53/5K/6H/16f
 54/5K/2D/-1f
 55/5K/5D/9f
-56/5K/5[D]/27f
+56/5K/5[D]/30f
 57/5K/[4]6S/13f
 58/5K/[4]6S 8/-3f
 59/5K/[4]6S 2/-4f
@@ -73,13 +73,13 @@
 71/5K/j.632146P Attack/3f
 72/5K/236D/9f
 73/5K/236[D]/21f
-74/c.S/5P/4f
-75/c.S/5K/3f
-76/c.S/c.S/5f
+74/c.S/5P/8f
+75/c.S/5K/7f
+76/c.S/c.S/9f
 77/c.S/f.S/-6f
 78/c.S/5H/0f
-79/c.S/2P/7f
-80/c.S/2K/2f
+79/c.S/2P/11f
+80/c.S/2K/6f
 81/c.S/2S/-7f
 82/c.S/2H/-5f
 83/c.S/j.P/-2f
@@ -92,7 +92,7 @@
 90/c.S/6H/11f
 91/c.S/2D/-6f
 92/c.S/5D/4f
-93/c.S/5[D]/25f
+93/c.S/5[D]/29f
 94/c.S/[4]6S/8f
 95/c.S/[4]6S 8/-8f
 96/c.S/[4]6S 2/-9f
@@ -110,26 +110,26 @@
 108/c.S/j.632146P Attack/-2f
 109/c.S/236D/4f
 110/c.S/236[D]/16f
-111/f.S/5P/5f
-112/f.S/5K/4f
-113/f.S/c.S/6f
-114/f.S/f.S/8f
+111/f.S/5P/15f
+112/f.S/5K/14f
+113/f.S/c.S/16f
+114/f.S/f.S/18f
 115/f.S/5H/3f
-116/f.S/2P/8f
-117/f.S/2K/3f
-118/f.S/2S/7f
+116/f.S/2P/18f
+117/f.S/2K/13f
+118/f.S/2S/17f
 119/f.S/2H/-2f
-120/f.S/j.P/12f
-121/f.S/j.K/11f
-122/f.S/j.S/17f
-123/f.S/j.H/15f
-124/f.S/j.D/13f
-125/f.S/6P/10f
-126/f.S/6K/9f
-127/f.S/6H/25f
-128/f.S/2D/8f
-129/f.S/5D/18f
-130/f.S/5[D]/26f
+120/f.S/j.P/22f
+121/f.S/j.K/21f
+122/f.S/j.S/27f
+123/f.S/j.H/25f
+124/f.S/j.D/23f
+125/f.S/6P/20f
+126/f.S/6K/19f
+127/f.S/6H/35f
+128/f.S/2D/18f
+129/f.S/5D/28f
+130/f.S/5[D]/36f
 131/f.S/[4]6S/11f
 132/f.S/[4]6S 8/-5f
 133/f.S/[4]6S 2/-6f
@@ -137,36 +137,36 @@
 135/f.S/41236H/15f
 136/f.S/214S/11f
 137/f.S/214H/1f
-138/f.S/j.214H/17f
-139/f.S/j.236H/12f
+138/f.S/j.214H/27f
+139/f.S/j.236H/22f
 140/f.S/214K/4f
 141/f.S/214[K]/28f
 142/f.S/236236H/-1f
 143/f.S/632146P/-8f
 144/f.S/632146P Attack/-4f
-145/f.S/j.632146P Attack/12f
+145/f.S/j.632146P Attack/22f
 146/f.S/236D/7f
 147/f.S/236[D]/19f
-148/5H/5P/3f
-149/5H/5K/2f
-150/5H/c.S/4f
-151/5H/f.S/6f
-152/5H/5H/12f
-153/5H/2P/6f
-154/5H/2K/1f
-155/5H/2S/5f
-156/5H/2H/7f
-157/5H/j.P/10f
-158/5H/j.K/9f
-159/5H/j.S/15f
-160/5H/j.H/13f
-161/5H/j.D/11f
-162/5H/6P/8f
-163/5H/6K/7f
-164/5H/6H/23f
-165/5H/2D/6f
-166/5H/5D/16f
-167/5H/5[D]/24f
+148/5H/5P/11f
+149/5H/5K/10f
+150/5H/c.S/12f
+151/5H/f.S/14f
+152/5H/5H/20f
+153/5H/2P/14f
+154/5H/2K/9f
+155/5H/2S/13f
+156/5H/2H/15f
+157/5H/j.P/18f
+158/5H/j.K/17f
+159/5H/j.S/23f
+160/5H/j.H/21f
+161/5H/j.D/19f
+162/5H/6P/16f
+163/5H/6K/15f
+164/5H/6H/31f
+165/5H/2D/14f
+166/5H/5D/24f
+167/5H/5[D]/32f
 168/5H/[4]6S/6f
 169/5H/[4]6S 8/-10f
 170/5H/[4]6S 2/-11f
@@ -174,36 +174,36 @@
 172/5H/41236H/10f
 173/5H/214S/6f
 174/5H/214H/-4f
-175/5H/j.214H/15f
-176/5H/j.236H/10f
+175/5H/j.214H/23f
+176/5H/j.236H/18f
 177/5H/214K/-1f
 178/5H/214[K]/23f
 179/5H/236236H/-6f
 180/5H/632146P/-13f
 181/5H/632146P Attack/-9f
-182/5H/j.632146P Attack/10f
+182/5H/j.632146P Attack/18f
 183/5H/236D/2f
 184/5H/236[D]/14f
-185/2P/5P/6f [5f]
-186/2P/5K/5f [4f]
-187/2P/c.S/7f [6f]
-188/2P/f.S/9f [8f]
-189/2P/5H/15f [14f]
-190/2P/2P/9f [8f]
-191/2P/2K/4f [3f]
-192/2P/2S/8f [7f]
-193/2P/2H/10f [9f]
-194/2P/j.P/13f [12f]
-195/2P/j.K/12f [11f]
-196/2P/j.S/18f [17f]
-197/2P/j.H/16f [15f]
-198/2P/j.D/14f [13f]
+185/2P/5P/13f
+186/2P/5K/12f
+187/2P/c.S/14f
+188/2P/f.S/16f
+189/2P/5H/22f
+190/2P/2P/16f
+191/2P/2K/11f
+192/2P/2S/15f
+193/2P/2H/17f
+194/2P/j.P/20f
+195/2P/j.K/19f
+196/2P/j.S/25f
+197/2P/j.H/23f
+198/2P/j.D/21f
 199/2P/6P/1f [-1f]
 200/2P/6K/0f [-2f]
 201/2P/6H/16f [14f]
-202/2P/2D/9f [8f]
-203/2P/5D/19f [18f]
-204/2P/5[D]/27f [26f]
+202/2P/2D/16f
+203/2P/5D/26f
+204/2P/5[D]/34f
 205/2P/[4]6S/13f [11f]
 206/2P/[4]6S 8/-3f [-5f]
 207/2P/[4]6S 2/-4f [-6f]
@@ -211,36 +211,36 @@
 209/2P/41236H/17f [15f]
 210/2P/214S/13f [11f]
 211/2P/214H/3f [1f]
-212/2P/j.214H/18f [17f]
-213/2P/j.236H/13f [12f]
+212/2P/j.214H/25f
+213/2P/j.236H/20f
 214/2P/214K/6f [4f]
 215/2P/214[K]/30f [28f]
 216/2P/236236H/1f [-1f]
 217/2P/632146P/-6f [-8f]
 218/2P/632146P Attack/-2f [-4f]
-219/2P/j.632146P Attack/13f [12f]
+219/2P/j.632146P Attack/20f
 220/2P/236D/9f [7f]
 221/2P/236[D]/21f [19f]
-222/2K/5P/6f
-223/2K/5K/5f
-224/2K/c.S/7f
-225/2K/f.S/9f
-226/2K/5H/15f
-227/2K/2P/9f
-228/2K/2K/4f
-229/2K/2S/8f
-230/2K/2H/10f
-231/2K/j.P/13f
-232/2K/j.K/12f
-233/2K/j.S/18f
-234/2K/j.H/16f
-235/2K/j.D/14f
+222/2K/5P/11f
+223/2K/5K/10f
+224/2K/c.S/12f
+225/2K/f.S/14f
+226/2K/5H/20f
+227/2K/2P/14f
+228/2K/2K/9f
+229/2K/2S/13f
+230/2K/2H/15f
+231/2K/j.P/18f
+232/2K/j.K/17f
+233/2K/j.S/23f
+234/2K/j.H/21f
+235/2K/j.D/19f
 236/2K/6P/1f
 237/2K/6K/0f
 238/2K/6H/16f
 239/2K/2D/-1f
 240/2K/5D/9f
-241/2K/5[D]/27f
+241/2K/5[D]/32f
 242/2K/[4]6S/13f
 243/2K/[4]6S 8/-3f
 244/2K/[4]6S 2/-4f
@@ -248,36 +248,36 @@
 246/2K/41236H/17f
 247/2K/214S/13f
 248/2K/214H/3f
-249/2K/j.214H/18f
-250/2K/j.236H/13f
+249/2K/j.214H/23f
+250/2K/j.236H/18f
 251/2K/214K/6f
 252/2K/214[K]/30f
 253/2K/236236H/1f
 254/2K/632146P/-6f
 255/2K/632146P Attack/-2f
-256/2K/j.632146P Attack/13f
+256/2K/j.632146P Attack/18f
 257/2K/236D/9f
 258/2K/236[D]/21f
-259/2S/5P/4f [3f]
-260/2S/5K/3f [2f]
-261/2S/c.S/5f [4f]
-262/2S/f.S/7f [6f]
+259/2S/5P/23f
+260/2S/5K/22f
+261/2S/c.S/24f
+262/2S/f.S/26f
 263/2S/5H/0f [-2f]
-264/2S/2P/7f [6f]
-265/2S/2K/2f [1f]
-266/2S/2S/6f [5f]
+264/2S/2P/26f
+265/2S/2K/21f
+266/2S/2S/25f
 267/2S/2H/-5f [-7f]
-268/2S/j.P/11f [10f]
-269/2S/j.K/10f [9f]
-270/2S/j.S/16f [15f]
-271/2S/j.H/14f [13f]
-272/2S/j.D/12f [11f]
-273/2S/6P/9f [8f]
-274/2S/6K/8f [7f]
-275/2S/6H/24f [23f]
-276/2S/2D/7f [6f]
-277/2S/5D/17f [16f]
-278/2S/5[D]/25f [24f]
+268/2S/j.P/30f
+269/2S/j.K/29f
+270/2S/j.S/35f
+271/2S/j.H/33f
+272/2S/j.D/31f
+273/2S/6P/28f
+274/2S/6K/27f
+275/2S/6H/43f
+276/2S/2D/26f
+277/2S/5D/36f
+278/2S/5[D]/44f
 279/2S/[4]6S/8f [6f]
 280/2S/[4]6S 8/-8f [-10f]
 281/2S/[4]6S 2/-9f [-11f]
@@ -285,36 +285,36 @@
 283/2S/41236H/12f [10f]
 284/2S/214S/8f [6f]
 285/2S/214H/-2f [-4f]
-286/2S/j.214H/16f [15f]
-287/2S/j.236H/11f [10f]
+286/2S/j.214H/35f
+287/2S/j.236H/30f
 288/2S/214K/1f [-1f]
 289/2S/214[K]/25f [23f]
 290/2S/236236H/-4f [-6f]
 291/2S/632146P/-11f [-13f]
 292/2S/632146P Attack/-7f [-9f]
-293/2S/j.632146P Attack/11f [10f]
+293/2S/j.632146P Attack/30f
 294/2S/236D/4f [2f]
 295/2S/236[D]/16f [14f]
-296/2H/5P/4f [3f]
-297/2H/5K/3f [2f]
-298/2H/c.S/5f [4f]
-299/2H/f.S/7f [6f]
-300/2H/5H/13f [12f]
-301/2H/2P/7f [6f]
-302/2H/2K/2f [1f]
-303/2H/2S/6f [5f]
-304/2H/2H/8f [7f]
-305/2H/j.P/11f [10f]
-306/2H/j.K/10f [9f]
-307/2H/j.S/16f [15f]
-308/2H/j.H/14f [13f]
-309/2H/j.D/12f [11f]
-310/2H/6P/9f [8f]
-311/2H/6K/8f [7f]
-312/2H/6H/24f [23f]
-313/2H/2D/7f [6f]
-314/2H/5D/17f [16f]
-315/2H/5[D]/25f [24f]
+296/2H/5P/25f [15f]
+297/2H/5K/24f [14f]
+298/2H/c.S/26f [16f]
+299/2H/f.S/28f [18f]
+300/2H/5H/34f [24f]
+301/2H/2P/28f [18f]
+302/2H/2K/23f [13f]
+303/2H/2S/27f [17f]
+304/2H/2H/29f [19f]
+305/2H/j.P/32f [22f]
+306/2H/j.K/31f [21f]
+307/2H/j.S/37f [27f]
+308/2H/j.H/35f [25f]
+309/2H/j.D/33f [23f]
+310/2H/6P/30f [20f]
+311/2H/6K/29f [19f]
+312/2H/6H/45f [35f]
+313/2H/2D/28f [18f]
+314/2H/5D/38f [28f]
+315/2H/5[D]/46f [36f]
 316/2H/[4]6S/8f [6f]
 317/2H/[4]6S 8/-8f [-10f]
 318/2H/[4]6S 2/-9f [-11f]
@@ -322,221 +322,221 @@
 320/2H/41236H/12f [10f]
 321/2H/214S/8f [6f]
 322/2H/214H/-2f [-4f]
-323/2H/j.214H/16f [15f]
-324/2H/j.236H/11f [10f]
+323/2H/j.214H/37f [27f]
+324/2H/j.236H/32f [22f]
 325/2H/214K/1f [-1f]
 326/2H/214[K]/25f [23f]
 327/2H/236236H/-4f [-6f]
 328/2H/632146P/-11f [-13f]
 329/2H/632146P Attack/-7f [-9f]
-330/2H/j.632146P Attack/11f [10f]
+330/2H/j.632146P Attack/32f [22f]
 331/2H/236D/4f [2f]
 332/2H/236[D]/16f [14f]
-333/j.P/5P/j.Phas11fofblockstun, while5Phas7fofstartupf [j.Phas13fofblockstun, while5Phas7fofstartupf]
-334/j.P/5K/j.Phas11fofblockstun, while5Khas6fofstartupf [j.Phas13fofblockstun, while5Khas6fofstartupf]
-335/j.P/c.S/j.Phas11fofblockstun, whilec.Shas8fofstartupf [j.Phas13fofblockstun, whilec.Shas8fofstartupf]
-336/j.P/f.S/j.Phas11fofblockstun, whilef.Shas10fofstartupf [j.Phas13fofblockstun, whilef.Shas10fofstartupf]
-337/j.P/5H/j.Phas11fofblockstun, while5Hhas16fofstartupf [j.Phas13fofblockstun, while5Hhas16fofstartupf]
-338/j.P/2P/j.Phas11fofblockstun, while2Phas10fofstartupf [j.Phas13fofblockstun, while2Phas10fofstartupf]
-339/j.P/2K/j.Phas11fofblockstun, while2Khas5fofstartupf [j.Phas13fofblockstun, while2Khas5fofstartupf]
-340/j.P/2S/j.Phas11fofblockstun, while2Shas9fofstartupf [j.Phas13fofblockstun, while2Shas9fofstartupf]
-341/j.P/2H/j.Phas11fofblockstun, while2Hhas11fofstartupf [j.Phas13fofblockstun, while2Hhas11fofstartupf]
-342/j.P/j.P/j.Phas11fofblockstun, whilej.Phas9fofstartupf [j.Phas13fofblockstun, whilej.Phas9fofstartupf]
-343/j.P/j.K/j.Phas11fofblockstun, whilej.Khas8fofstartupf [j.Phas13fofblockstun, whilej.Khas8fofstartupf]
-344/j.P/j.S/j.Phas11fofblockstun, whilej.Shas14fofstartupf [j.Phas13fofblockstun, whilej.Shas14fofstartupf]
-345/j.P/j.H/j.Phas11fofblockstun, whilej.Hhas12fofstartupf [j.Phas13fofblockstun, whilej.Hhas12fofstartupf]
-346/j.P/j.D/j.Phas11fofblockstun, whilej.Dhas10fofstartupf [j.Phas13fofblockstun, whilej.Dhas10fofstartupf]
-347/j.P/6P/j.Phas11fofblockstun, while6Phas12fofstartupf [j.Phas13fofblockstun, while6Phas12fofstartupf]
-348/j.P/6K/j.Phas11fofblockstun, while6Khas11fofstartupf [j.Phas13fofblockstun, while6Khas11fofstartupf]
-349/j.P/6H/j.Phas11fofblockstun, while6Hhas27fofstartupf [j.Phas13fofblockstun, while6Hhas27fofstartupf]
-350/j.P/2D/j.Phas11fofblockstun, while2Dhas10fofstartupf [j.Phas13fofblockstun, while2Dhas10fofstartupf]
-351/j.P/5D/j.Phas11fofblockstun, while5Dhas20fofstartupf [j.Phas13fofblockstun, while5Dhas20fofstartupf]
-352/j.P/5[D]/j.Phas11fofblockstun, while5 [D]has28fofstartupf [j.Phas13fofblockstun, while5 [D]has28fofstartupf]
-353/j.P/[4]6S/j.Phas11fofblockstun, while [4]6Shas24fofstartupf [j.Phas13fofblockstun, while [4]6Shas24fofstartupf]
-354/j.P/[4]6S 8/j.Phas11fofblockstun, while [4]6S8has8fofstartupf [j.Phas13fofblockstun, while [4]6S8has8fofstartupf]
-355/j.P/[4]6S 2/j.Phas11fofblockstun, while [4]6S2has7fofstartupf [j.Phas13fofblockstun, while [4]6S2has7fofstartupf]
-356/j.P/[4]6S S/j.Phas11fofblockstun, while [4]6SShas18fofstartupf [j.Phas11fofblockstun, while [4]6SShas22fofstartupf] [j.Phas13fofblockstun, while [4]6SShas18fofstartupf [j.Phas13fofblockstun, while [4]6SShas22fofstartupf]]
-357/j.P/41236H/j.Phas11fofblockstun, while41236Hhas28fofstartupf [j.Phas13fofblockstun, while41236Hhas28fofstartupf]
-358/j.P/214S/j.Phas11fofblockstun, while214Shas24fofstartupf [j.Phas13fofblockstun, while214Shas24fofstartupf]
-359/j.P/214H/j.Phas11fofblockstun, while214Hhas14fofstartupf [j.Phas13fofblockstun, while214Hhas14fofstartupf]
-360/j.P/j.214H/j.Phas11fofblockstun, whilej.214Hhas14fofstartupf [j.Phas13fofblockstun, whilej.214Hhas14fofstartupf]
-361/j.P/j.236H/j.Phas11fofblockstun, whilej.236Hhas9fofstartupf [j.Phas13fofblockstun, whilej.236Hhas9fofstartupf]
-362/j.P/214K/j.Phas11fofblockstun, while214Khas17fofstartupf [j.Phas13fofblockstun, while214Khas17fofstartupf]
-363/j.P/214[K]/j.Phas11fofblockstun, while214 [K]has41fofstartupf [j.Phas13fofblockstun, while214 [K]has41fofstartupf]
-364/j.P/236236H/j.Phas11fofblockstun, while236236Hhas12fofstartupf [j.Phas13fofblockstun, while236236Hhas12fofstartupf]
-365/j.P/632146P/j.Phas11fofblockstun, while632146Phas5fofstartupf [j.Phas13fofblockstun, while632146Phas5fofstartupf]
-366/j.P/632146P Attack/j.Phas11fofblockstun, while632146PAttackhas9fofstartupf [j.Phas13fofblockstun, while632146PAttackhas9fofstartupf]
-367/j.P/j.632146P Attack/j.Phas11fofblockstun, whilej.632146PAttackhas9fofstartupf [j.Phas13fofblockstun, whilej.632146PAttackhas9fofstartupf]
-368/j.P/236D/j.Phas11fofblockstun, while236Dhas20fofstartupf [j.Phas13fofblockstun, while236Dhas20fofstartupf]
-369/j.P/236[D]/j.Phas11fofblockstun, while236 [D]has32fofstartupf [j.Phas13fofblockstun, while236 [D]has32fofstartupf]
-370/j.K/5P/j.Khas11fofblockstun, while5Phas7fofstartupf
-371/j.K/5K/j.Khas11fofblockstun, while5Khas6fofstartupf
-372/j.K/c.S/j.Khas11fofblockstun, whilec.Shas8fofstartupf
-373/j.K/f.S/j.Khas11fofblockstun, whilef.Shas10fofstartupf
-374/j.K/5H/j.Khas11fofblockstun, while5Hhas16fofstartupf
-375/j.K/2P/j.Khas11fofblockstun, while2Phas10fofstartupf
-376/j.K/2K/j.Khas11fofblockstun, while2Khas5fofstartupf
-377/j.K/2S/j.Khas11fofblockstun, while2Shas9fofstartupf
-378/j.K/2H/j.Khas11fofblockstun, while2Hhas11fofstartupf
-379/j.K/j.P/j.Khas11fofblockstun, whilej.Phas9fofstartupf
-380/j.K/j.K/j.Khas11fofblockstun, whilej.Khas8fofstartupf
-381/j.K/j.S/j.Khas11fofblockstun, whilej.Shas14fofstartupf
-382/j.K/j.H/j.Khas11fofblockstun, whilej.Hhas12fofstartupf
+333/j.P/5P/
+334/j.P/5K/
+335/j.P/c.S/
+336/j.P/f.S/
+337/j.P/5H/
+338/j.P/2P/
+339/j.P/2K/
+340/j.P/2S/
+341/j.P/2H/
+342/j.P/j.P/
+343/j.P/j.K/
+344/j.P/j.S/
+345/j.P/j.H/
+346/j.P/j.D/
+347/j.P/6P/
+348/j.P/6K/
+349/j.P/6H/
+350/j.P/2D/
+351/j.P/5D/
+352/j.P/5[D]/
+353/j.P/[4]6S/
+354/j.P/[4]6S 8/
+355/j.P/[4]6S 2/
+356/j.P/[4]6S S/
+357/j.P/41236H/
+358/j.P/214S/
+359/j.P/214H/
+360/j.P/j.214H/
+361/j.P/j.236H/
+362/j.P/214K/
+363/j.P/214[K]/
+364/j.P/236236H/
+365/j.P/632146P/
+366/j.P/632146P Attack/
+367/j.P/j.632146P Attack/
+368/j.P/236D/
+369/j.P/236[D]/
+370/j.K/5P/
+371/j.K/5K/
+372/j.K/c.S/
+373/j.K/f.S/
+374/j.K/5H/
+375/j.K/2P/
+376/j.K/2K/
+377/j.K/2S/
+378/j.K/2H/
+379/j.K/j.P/
+380/j.K/j.K/
+381/j.K/j.S/
+382/j.K/j.H/
 383/j.K/j.D/-1f
-384/j.K/6P/j.Khas11fofblockstun, while6Phas12fofstartupf
-385/j.K/6K/j.Khas11fofblockstun, while6Khas11fofstartupf
-386/j.K/6H/j.Khas11fofblockstun, while6Hhas27fofstartupf
-387/j.K/2D/j.Khas11fofblockstun, while2Dhas10fofstartupf
-388/j.K/5D/j.Khas11fofblockstun, while5Dhas20fofstartupf
-389/j.K/5[D]/j.Khas11fofblockstun, while5 [D]has28fofstartupf
-390/j.K/[4]6S/j.Khas11fofblockstun, while [4]6Shas24fofstartupf
-391/j.K/[4]6S 8/j.Khas11fofblockstun, while [4]6S8has8fofstartupf
-392/j.K/[4]6S 2/j.Khas11fofblockstun, while [4]6S2has7fofstartupf
-393/j.K/[4]6S S/j.Khas11fofblockstun, while [4]6SShas18fofstartupf [j.Khas11fofblockstun, while [4]6SShas22fofstartupf]
-394/j.K/41236H/j.Khas11fofblockstun, while41236Hhas28fofstartupf
-395/j.K/214S/j.Khas11fofblockstun, while214Shas24fofstartupf
-396/j.K/214H/j.Khas11fofblockstun, while214Hhas14fofstartupf
-397/j.K/j.214H/j.Khas11fofblockstun, whilej.214Hhas14fofstartupf
-398/j.K/j.236H/j.Khas11fofblockstun, whilej.236Hhas9fofstartupf
-399/j.K/214K/j.Khas11fofblockstun, while214Khas17fofstartupf
-400/j.K/214[K]/j.Khas11fofblockstun, while214 [K]has41fofstartupf
-401/j.K/236236H/j.Khas11fofblockstun, while236236Hhas12fofstartupf
-402/j.K/632146P/j.Khas11fofblockstun, while632146Phas5fofstartupf
-403/j.K/632146P Attack/j.Khas11fofblockstun, while632146PAttackhas9fofstartupf
-404/j.K/j.632146P Attack/j.Khas11fofblockstun, whilej.632146PAttackhas9fofstartupf
-405/j.K/236D/j.Khas11fofblockstun, while236Dhas20fofstartupf
-406/j.K/236[D]/j.Khas11fofblockstun, while236 [D]has32fofstartupf
-407/j.S/5P/j.Shas13fofblockstun, while5Phas7fofstartupf [j.Shas16fofblockstun, while5Phas7fofstartupf]
-408/j.S/5K/j.Shas13fofblockstun, while5Khas6fofstartupf [j.Shas16fofblockstun, while5Khas6fofstartupf]
-409/j.S/c.S/j.Shas13fofblockstun, whilec.Shas8fofstartupf [j.Shas16fofblockstun, whilec.Shas8fofstartupf]
-410/j.S/f.S/j.Shas13fofblockstun, whilef.Shas10fofstartupf [j.Shas16fofblockstun, whilef.Shas10fofstartupf]
-411/j.S/5H/j.Shas13fofblockstun, while5Hhas16fofstartupf [j.Shas16fofblockstun, while5Hhas16fofstartupf]
-412/j.S/2P/j.Shas13fofblockstun, while2Phas10fofstartupf [j.Shas16fofblockstun, while2Phas10fofstartupf]
-413/j.S/2K/j.Shas13fofblockstun, while2Khas5fofstartupf [j.Shas16fofblockstun, while2Khas5fofstartupf]
-414/j.S/2S/j.Shas13fofblockstun, while2Shas9fofstartupf [j.Shas16fofblockstun, while2Shas9fofstartupf]
-415/j.S/2H/j.Shas13fofblockstun, while2Hhas11fofstartupf [j.Shas16fofblockstun, while2Hhas11fofstartupf]
-416/j.S/j.P/j.Shas13fofblockstun, whilej.Phas9fofstartupf [j.Shas16fofblockstun, whilej.Phas9fofstartupf]
-417/j.S/j.K/j.Shas13fofblockstun, whilej.Khas8fofstartupf [j.Shas16fofblockstun, whilej.Khas8fofstartupf]
-418/j.S/j.S/j.Shas13fofblockstun, whilej.Shas14fofstartupf [j.Shas16fofblockstun, whilej.Shas14fofstartupf]
+384/j.K/6P/
+385/j.K/6K/
+386/j.K/6H/
+387/j.K/2D/
+388/j.K/5D/
+389/j.K/5[D]/
+390/j.K/[4]6S/
+391/j.K/[4]6S 8/
+392/j.K/[4]6S 2/
+393/j.K/[4]6S S/
+394/j.K/41236H/
+395/j.K/214S/
+396/j.K/214H/
+397/j.K/j.214H/
+398/j.K/j.236H/
+399/j.K/214K/
+400/j.K/214[K]/
+401/j.K/236236H/
+402/j.K/632146P/
+403/j.K/632146P Attack/
+404/j.K/j.632146P Attack/
+405/j.K/236D/
+406/j.K/236[D]/
+407/j.S/5P/
+408/j.S/5K/
+409/j.S/c.S/
+410/j.S/f.S/
+411/j.S/5H/
+412/j.S/2P/
+413/j.S/2K/
+414/j.S/2S/
+415/j.S/2H/
+416/j.S/j.P/
+417/j.S/j.K/
+418/j.S/j.S/
 419/j.S/j.H/-1f [-4f]
 420/j.S/j.D/-3f [-6f]
-421/j.S/6P/j.Shas13fofblockstun, while6Phas12fofstartupf [j.Shas16fofblockstun, while6Phas12fofstartupf]
-422/j.S/6K/j.Shas13fofblockstun, while6Khas11fofstartupf [j.Shas16fofblockstun, while6Khas11fofstartupf]
-423/j.S/6H/j.Shas13fofblockstun, while6Hhas27fofstartupf [j.Shas16fofblockstun, while6Hhas27fofstartupf]
-424/j.S/2D/j.Shas13fofblockstun, while2Dhas10fofstartupf [j.Shas16fofblockstun, while2Dhas10fofstartupf]
-425/j.S/5D/j.Shas13fofblockstun, while5Dhas20fofstartupf [j.Shas16fofblockstun, while5Dhas20fofstartupf]
-426/j.S/5[D]/j.Shas13fofblockstun, while5 [D]has28fofstartupf [j.Shas16fofblockstun, while5 [D]has28fofstartupf]
-427/j.S/[4]6S/j.Shas13fofblockstun, while [4]6Shas24fofstartupf [j.Shas16fofblockstun, while [4]6Shas24fofstartupf]
-428/j.S/[4]6S 8/j.Shas13fofblockstun, while [4]6S8has8fofstartupf [j.Shas16fofblockstun, while [4]6S8has8fofstartupf]
-429/j.S/[4]6S 2/j.Shas13fofblockstun, while [4]6S2has7fofstartupf [j.Shas16fofblockstun, while [4]6S2has7fofstartupf]
-430/j.S/[4]6S S/j.Shas13fofblockstun, while [4]6SShas18fofstartupf [j.Shas13fofblockstun, while [4]6SShas22fofstartupf] [j.Shas16fofblockstun, while [4]6SShas18fofstartupf [j.Shas16fofblockstun, while [4]6SShas22fofstartupf]]
-431/j.S/41236H/j.Shas13fofblockstun, while41236Hhas28fofstartupf [j.Shas16fofblockstun, while41236Hhas28fofstartupf]
-432/j.S/214S/j.Shas13fofblockstun, while214Shas24fofstartupf [j.Shas16fofblockstun, while214Shas24fofstartupf]
-433/j.S/214H/j.Shas13fofblockstun, while214Hhas14fofstartupf [j.Shas16fofblockstun, while214Hhas14fofstartupf]
-434/j.S/j.214H/j.Shas13fofblockstun, whilej.214Hhas14fofstartupf [j.Shas16fofblockstun, whilej.214Hhas14fofstartupf]
-435/j.S/j.236H/j.Shas13fofblockstun, whilej.236Hhas9fofstartupf [j.Shas16fofblockstun, whilej.236Hhas9fofstartupf]
-436/j.S/214K/j.Shas13fofblockstun, while214Khas17fofstartupf [j.Shas16fofblockstun, while214Khas17fofstartupf]
-437/j.S/214[K]/j.Shas13fofblockstun, while214 [K]has41fofstartupf [j.Shas16fofblockstun, while214 [K]has41fofstartupf]
-438/j.S/236236H/j.Shas13fofblockstun, while236236Hhas12fofstartupf [j.Shas16fofblockstun, while236236Hhas12fofstartupf]
-439/j.S/632146P/j.Shas13fofblockstun, while632146Phas5fofstartupf [j.Shas16fofblockstun, while632146Phas5fofstartupf]
-440/j.S/632146P Attack/j.Shas13fofblockstun, while632146PAttackhas9fofstartupf [j.Shas16fofblockstun, while632146PAttackhas9fofstartupf]
-441/j.S/j.632146P Attack/j.Shas13fofblockstun, whilej.632146PAttackhas9fofstartupf [j.Shas16fofblockstun, whilej.632146PAttackhas9fofstartupf]
-442/j.S/236D/j.Shas13fofblockstun, while236Dhas20fofstartupf [j.Shas16fofblockstun, while236Dhas20fofstartupf]
-443/j.S/236[D]/j.Shas13fofblockstun, while236 [D]has32fofstartupf [j.Shas16fofblockstun, while236 [D]has32fofstartupf]
-444/j.H/5P/j.Hhas13fofblockstun, while5Phas7fofstartupf [j.Hhas16fofblockstun, while5Phas7fofstartupf]
-445/j.H/5K/j.Hhas13fofblockstun, while5Khas6fofstartupf [j.Hhas16fofblockstun, while5Khas6fofstartupf]
-446/j.H/c.S/j.Hhas13fofblockstun, whilec.Shas8fofstartupf [j.Hhas16fofblockstun, whilec.Shas8fofstartupf]
-447/j.H/f.S/j.Hhas13fofblockstun, whilef.Shas10fofstartupf [j.Hhas16fofblockstun, whilef.Shas10fofstartupf]
-448/j.H/5H/j.Hhas13fofblockstun, while5Hhas16fofstartupf [j.Hhas16fofblockstun, while5Hhas16fofstartupf]
-449/j.H/2P/j.Hhas13fofblockstun, while2Phas10fofstartupf [j.Hhas16fofblockstun, while2Phas10fofstartupf]
-450/j.H/2K/j.Hhas13fofblockstun, while2Khas5fofstartupf [j.Hhas16fofblockstun, while2Khas5fofstartupf]
-451/j.H/2S/j.Hhas13fofblockstun, while2Shas9fofstartupf [j.Hhas16fofblockstun, while2Shas9fofstartupf]
-452/j.H/2H/j.Hhas13fofblockstun, while2Hhas11fofstartupf [j.Hhas16fofblockstun, while2Hhas11fofstartupf]
-453/j.H/j.P/j.Hhas13fofblockstun, whilej.Phas9fofstartupf [j.Hhas16fofblockstun, whilej.Phas9fofstartupf]
-454/j.H/j.K/j.Hhas13fofblockstun, whilej.Khas8fofstartupf [j.Hhas16fofblockstun, whilej.Khas8fofstartupf]
-455/j.H/j.S/j.Hhas13fofblockstun, whilej.Shas14fofstartupf [j.Hhas16fofblockstun, whilej.Shas14fofstartupf]
-456/j.H/j.H/j.Hhas13fofblockstun, whilej.Hhas12fofstartupf [j.Hhas16fofblockstun, whilej.Hhas12fofstartupf]
+421/j.S/6P/
+422/j.S/6K/
+423/j.S/6H/
+424/j.S/2D/
+425/j.S/5D/
+426/j.S/5[D]/
+427/j.S/[4]6S/
+428/j.S/[4]6S 8/
+429/j.S/[4]6S 2/
+430/j.S/[4]6S S/
+431/j.S/41236H/
+432/j.S/214S/
+433/j.S/214H/
+434/j.S/j.214H/
+435/j.S/j.236H/
+436/j.S/214K/
+437/j.S/214[K]/
+438/j.S/236236H/
+439/j.S/632146P/
+440/j.S/632146P Attack/
+441/j.S/j.632146P Attack/
+442/j.S/236D/
+443/j.S/236[D]/
+444/j.H/5P/"N/A"
+445/j.H/5K/"N/A"
+446/j.H/c.S/"N/A"
+447/j.H/f.S/"N/A"
+448/j.H/5H/"N/A"
+449/j.H/2P/"N/A"
+450/j.H/2K/"N/A"
+451/j.H/2S/"N/A"
+452/j.H/2H/"N/A"
+453/j.H/j.P/"N/A"
+454/j.H/j.K/"N/A"
+455/j.H/j.S/"N/A"
+456/j.H/j.H/"N/A"
 457/j.H/j.D/-3f [-6f]
-458/j.H/6P/j.Hhas13fofblockstun, while6Phas12fofstartupf [j.Hhas16fofblockstun, while6Phas12fofstartupf]
-459/j.H/6K/j.Hhas13fofblockstun, while6Khas11fofstartupf [j.Hhas16fofblockstun, while6Khas11fofstartupf]
-460/j.H/6H/j.Hhas13fofblockstun, while6Hhas27fofstartupf [j.Hhas16fofblockstun, while6Hhas27fofstartupf]
-461/j.H/2D/j.Hhas13fofblockstun, while2Dhas10fofstartupf [j.Hhas16fofblockstun, while2Dhas10fofstartupf]
-462/j.H/5D/j.Hhas13fofblockstun, while5Dhas20fofstartupf [j.Hhas16fofblockstun, while5Dhas20fofstartupf]
-463/j.H/5[D]/j.Hhas13fofblockstun, while5 [D]has28fofstartupf [j.Hhas16fofblockstun, while5 [D]has28fofstartupf]
-464/j.H/[4]6S/j.Hhas13fofblockstun, while [4]6Shas24fofstartupf [j.Hhas16fofblockstun, while [4]6Shas24fofstartupf]
-465/j.H/[4]6S 8/j.Hhas13fofblockstun, while [4]6S8has8fofstartupf [j.Hhas16fofblockstun, while [4]6S8has8fofstartupf]
-466/j.H/[4]6S 2/j.Hhas13fofblockstun, while [4]6S2has7fofstartupf [j.Hhas16fofblockstun, while [4]6S2has7fofstartupf]
-467/j.H/[4]6S S/j.Hhas13fofblockstun, while [4]6SShas18fofstartupf [j.Hhas13fofblockstun, while [4]6SShas22fofstartupf] [j.Hhas16fofblockstun, while [4]6SShas18fofstartupf [j.Hhas16fofblockstun, while [4]6SShas22fofstartupf]]
-468/j.H/41236H/j.Hhas13fofblockstun, while41236Hhas28fofstartupf [j.Hhas16fofblockstun, while41236Hhas28fofstartupf]
-469/j.H/214S/j.Hhas13fofblockstun, while214Shas24fofstartupf [j.Hhas16fofblockstun, while214Shas24fofstartupf]
-470/j.H/214H/j.Hhas13fofblockstun, while214Hhas14fofstartupf [j.Hhas16fofblockstun, while214Hhas14fofstartupf]
-471/j.H/j.214H/j.Hhas13fofblockstun, whilej.214Hhas14fofstartupf [j.Hhas16fofblockstun, whilej.214Hhas14fofstartupf]
-472/j.H/j.236H/j.Hhas13fofblockstun, whilej.236Hhas9fofstartupf [j.Hhas16fofblockstun, whilej.236Hhas9fofstartupf]
-473/j.H/214K/j.Hhas13fofblockstun, while214Khas17fofstartupf [j.Hhas16fofblockstun, while214Khas17fofstartupf]
-474/j.H/214[K]/j.Hhas13fofblockstun, while214 [K]has41fofstartupf [j.Hhas16fofblockstun, while214 [K]has41fofstartupf]
-475/j.H/236236H/j.Hhas13fofblockstun, while236236Hhas12fofstartupf [j.Hhas16fofblockstun, while236236Hhas12fofstartupf]
-476/j.H/632146P/j.Hhas13fofblockstun, while632146Phas5fofstartupf [j.Hhas16fofblockstun, while632146Phas5fofstartupf]
-477/j.H/632146P Attack/j.Hhas13fofblockstun, while632146PAttackhas9fofstartupf [j.Hhas16fofblockstun, while632146PAttackhas9fofstartupf]
-478/j.H/j.632146P Attack/j.Hhas13fofblockstun, whilej.632146PAttackhas9fofstartupf [j.Hhas16fofblockstun, whilej.632146PAttackhas9fofstartupf]
-479/j.H/236D/j.Hhas13fofblockstun, while236Dhas20fofstartupf [j.Hhas16fofblockstun, while236Dhas20fofstartupf]
-480/j.H/236[D]/j.Hhas13fofblockstun, while236 [D]has32fofstartupf [j.Hhas16fofblockstun, while236 [D]has32fofstartupf]
-481/j.D/5P/j.Dhas16fofblockstun, while5Phas7fofstartupf
-482/j.D/5K/j.Dhas16fofblockstun, while5Khas6fofstartupf
-483/j.D/c.S/j.Dhas16fofblockstun, whilec.Shas8fofstartupf
-484/j.D/f.S/j.Dhas16fofblockstun, whilef.Shas10fofstartupf
-485/j.D/5H/j.Dhas16fofblockstun, while5Hhas16fofstartupf
-486/j.D/2P/j.Dhas16fofblockstun, while2Phas10fofstartupf
-487/j.D/2K/j.Dhas16fofblockstun, while2Khas5fofstartupf
-488/j.D/2S/j.Dhas16fofblockstun, while2Shas9fofstartupf
-489/j.D/2H/j.Dhas16fofblockstun, while2Hhas11fofstartupf
-490/j.D/j.P/j.Dhas16fofblockstun, whilej.Phas9fofstartupf
-491/j.D/j.K/j.Dhas16fofblockstun, whilej.Khas8fofstartupf
-492/j.D/j.S/j.Dhas16fofblockstun, whilej.Shas14fofstartupf
-493/j.D/j.H/j.Dhas16fofblockstun, whilej.Hhas12fofstartupf
-494/j.D/j.D/j.Dhas16fofblockstun, whilej.Dhas10fofstartupf
-495/j.D/6P/j.Dhas16fofblockstun, while6Phas12fofstartupf
-496/j.D/6K/j.Dhas16fofblockstun, while6Khas11fofstartupf
-497/j.D/6H/j.Dhas16fofblockstun, while6Hhas27fofstartupf
-498/j.D/2D/j.Dhas16fofblockstun, while2Dhas10fofstartupf
-499/j.D/5D/j.Dhas16fofblockstun, while5Dhas20fofstartupf
-500/j.D/5[D]/j.Dhas16fofblockstun, while5 [D]has28fofstartupf
-501/j.D/[4]6S/j.Dhas16fofblockstun, while [4]6Shas24fofstartupf
-502/j.D/[4]6S 8/j.Dhas16fofblockstun, while [4]6S8has8fofstartupf
-503/j.D/[4]6S 2/j.Dhas16fofblockstun, while [4]6S2has7fofstartupf
-504/j.D/[4]6S S/j.Dhas16fofblockstun, while [4]6SShas18fofstartupf [j.Dhas16fofblockstun, while [4]6SShas22fofstartupf]
-505/j.D/41236H/j.Dhas16fofblockstun, while41236Hhas28fofstartupf
-506/j.D/214S/j.Dhas16fofblockstun, while214Shas24fofstartupf
-507/j.D/214H/j.Dhas16fofblockstun, while214Hhas14fofstartupf
-508/j.D/j.214H/j.Dhas16fofblockstun, whilej.214Hhas14fofstartupf
-509/j.D/j.236H/j.Dhas16fofblockstun, whilej.236Hhas9fofstartupf
-510/j.D/214K/j.Dhas16fofblockstun, while214Khas17fofstartupf
-511/j.D/214[K]/j.Dhas16fofblockstun, while214 [K]has41fofstartupf
-512/j.D/236236H/j.Dhas16fofblockstun, while236236Hhas12fofstartupf
-513/j.D/632146P/j.Dhas16fofblockstun, while632146Phas5fofstartupf
-514/j.D/632146P Attack/j.Dhas16fofblockstun, while632146PAttackhas9fofstartupf
-515/j.D/j.632146P Attack/j.Dhas16fofblockstun, whilej.632146PAttackhas9fofstartupf
-516/j.D/236D/j.Dhas16fofblockstun, while236Dhas20fofstartupf
-517/j.D/236[D]/j.Dhas16fofblockstun, while236 [D]has32fofstartupf
-518/6P/5P/5f
-519/6P/5K/4f
-520/6P/c.S/6f
-521/6P/f.S/8f
-522/6P/5H/14f
-523/6P/2P/8f
-524/6P/2K/3f
-525/6P/2S/7f
-526/6P/2H/9f
-527/6P/j.P/12f
-528/6P/j.K/11f
-529/6P/j.S/17f
-530/6P/j.H/15f
-531/6P/j.D/13f
-532/6P/6P/10f
-533/6P/6K/9f
-534/6P/6H/25f
-535/6P/2D/8f
-536/6P/5D/18f
-537/6P/5[D]/26f
+458/j.H/6P/"N/A"
+459/j.H/6K/"N/A"
+460/j.H/6H/"N/A"
+461/j.H/2D/"N/A"
+462/j.H/5D/"N/A"
+463/j.H/5[D]/"N/A"
+464/j.H/[4]6S/"N/A"
+465/j.H/[4]6S 8/"N/A"
+466/j.H/[4]6S 2/"N/A"
+467/j.H/[4]6S S/"N/A"
+468/j.H/41236H/"N/A"
+469/j.H/214S/"N/A"
+470/j.H/214H/"N/A"
+471/j.H/j.214H/"N/A"
+472/j.H/j.236H/"N/A"
+473/j.H/214K/"N/A"
+474/j.H/214[K]/"N/A"
+475/j.H/236236H/"N/A"
+476/j.H/632146P/"N/A"
+477/j.H/632146P Attack/"N/A"
+478/j.H/j.632146P Attack/"N/A"
+479/j.H/236D/"N/A"
+480/j.H/236[D]/"N/A"
+481/j.D/5P/"N/A"
+482/j.D/5K/"N/A"
+483/j.D/c.S/"N/A"
+484/j.D/f.S/"N/A"
+485/j.D/5H/"N/A"
+486/j.D/2P/"N/A"
+487/j.D/2K/"N/A"
+488/j.D/2S/"N/A"
+489/j.D/2H/"N/A"
+490/j.D/j.P/"N/A"
+491/j.D/j.K/"N/A"
+492/j.D/j.S/"N/A"
+493/j.D/j.H/"N/A"
+494/j.D/j.D/"N/A"
+495/j.D/6P/"N/A"
+496/j.D/6K/"N/A"
+497/j.D/6H/"N/A"
+498/j.D/2D/"N/A"
+499/j.D/5D/"N/A"
+500/j.D/5[D]/"N/A"
+501/j.D/[4]6S/"N/A"
+502/j.D/[4]6S 8/"N/A"
+503/j.D/[4]6S 2/"N/A"
+504/j.D/[4]6S S/"N/A"
+505/j.D/41236H/"N/A"
+506/j.D/214S/"N/A"
+507/j.D/214H/"N/A"
+508/j.D/j.214H/"N/A"
+509/j.D/j.236H/"N/A"
+510/j.D/214K/"N/A"
+511/j.D/214[K]/"N/A"
+512/j.D/236236H/"N/A"
+513/j.D/632146P/"N/A"
+514/j.D/632146P Attack/"N/A"
+515/j.D/j.632146P Attack/"N/A"
+516/j.D/236D/"N/A"
+517/j.D/236[D]/"N/A"
+518/6P/5P/20f
+519/6P/5K/19f
+520/6P/c.S/21f
+521/6P/f.S/23f
+522/6P/5H/29f
+523/6P/2P/23f
+524/6P/2K/18f
+525/6P/2S/22f
+526/6P/2H/24f
+527/6P/j.P/27f
+528/6P/j.K/26f
+529/6P/j.S/32f
+530/6P/j.H/30f
+531/6P/j.D/28f
+532/6P/6P/25f
+533/6P/6K/24f
+534/6P/6H/40f
+535/6P/2D/23f
+536/6P/5D/33f
+537/6P/5[D]/41f
 538/6P/[4]6S/11f
 539/6P/[4]6S 8/-5f
 540/6P/[4]6S 2/-6f
@@ -544,36 +544,36 @@
 542/6P/41236H/15f
 543/6P/214S/11f
 544/6P/214H/1f
-545/6P/j.214H/17f
-546/6P/j.236H/12f
+545/6P/j.214H/32f
+546/6P/j.236H/27f
 547/6P/214K/4f
 548/6P/214[K]/28f
 549/6P/236236H/-1f
 550/6P/632146P/-8f
 551/6P/632146P Attack/-4f
-552/6P/j.632146P Attack/12f
+552/6P/j.632146P Attack/27f
 553/6P/236D/7f
 554/6P/236[D]/19f
-555/6K/5P/4f [3f]
-556/6K/5K/3f [2f]
-557/6K/c.S/5f [4f]
-558/6K/f.S/7f [6f]
-559/6K/5H/13f [12f]
-560/6K/2P/7f [6f]
-561/6K/2K/2f [1f]
-562/6K/2S/6f [5f]
-563/6K/2H/8f [7f]
-564/6K/j.P/11f [10f]
-565/6K/j.K/10f [9f]
-566/6K/j.S/16f [15f]
-567/6K/j.H/14f [13f]
-568/6K/j.D/12f [11f]
-569/6K/6P/9f [8f]
-570/6K/6K/8f [7f]
-571/6K/6H/24f [23f]
-572/6K/2D/7f [6f]
-573/6K/5D/17f [16f]
-574/6K/5[D]/25f [24f]
+555/6K/5P/20f
+556/6K/5K/19f
+557/6K/c.S/21f
+558/6K/f.S/23f
+559/6K/5H/29f
+560/6K/2P/23f
+561/6K/2K/18f
+562/6K/2S/22f
+563/6K/2H/24f
+564/6K/j.P/27f
+565/6K/j.K/26f
+566/6K/j.S/32f
+567/6K/j.H/30f
+568/6K/j.D/28f
+569/6K/6P/25f
+570/6K/6K/24f
+571/6K/6H/40f
+572/6K/2D/23f
+573/6K/5D/33f
+574/6K/5[D]/41f
 575/6K/[4]6S/8f [6f]
 576/6K/[4]6S 8/-8f [-10f]
 577/6K/[4]6S 2/-9f [-11f]
@@ -581,73 +581,73 @@
 579/6K/41236H/12f [10f]
 580/6K/214S/8f [6f]
 581/6K/214H/-2f [-4f]
-582/6K/j.214H/16f [15f]
-583/6K/j.236H/11f [10f]
+582/6K/j.214H/32f
+583/6K/j.236H/27f
 584/6K/214K/1f [-1f]
 585/6K/214[K]/25f [23f]
 586/6K/236236H/-4f [-6f]
 587/6K/632146P/-11f [-13f]
 588/6K/632146P Attack/-7f [-9f]
-589/6K/j.632146P Attack/11f [10f]
+589/6K/j.632146P Attack/27f
 590/6K/236D/4f [2f]
 591/6K/236[D]/16f [14f]
-592/6H/5P/3f
-593/6H/5K/2f
-594/6H/c.S/4f
-595/6H/f.S/6f
-596/6H/5H/12f
-597/6H/2P/6f
-598/6H/2K/1f
-599/6H/2S/5f
-600/6H/2H/7f
-601/6H/j.P/10f
-602/6H/j.K/9f
-603/6H/j.S/15f
-604/6H/j.H/13f
-605/6H/j.D/11f
-606/6H/6P/8f
-607/6H/6K/7f
-608/6H/6H/23f
-609/6H/2D/6f
-610/6H/5D/16f
-611/6H/5[D]/24f
-612/6H/[4]6S/20f
-613/6H/[4]6S 8/4f
-614/6H/[4]6S 2/3f
-615/6H/[4]6S S/14f [18f]
-616/6H/41236H/24f
-617/6H/214S/20f
-618/6H/214H/10f
-619/6H/j.214H/15f
-620/6H/j.236H/10f
-621/6H/214K/13f
-622/6H/214[K]/37f
-623/6H/236236H/8f
-624/6H/632146P/1f
-625/6H/632146P Attack/5f
-626/6H/j.632146P Attack/10f
-627/6H/236D/16f
-628/6H/236[D]/28f
-629/2D/5P/5f
-630/2D/5K/4f
-631/2D/c.S/6f
-632/2D/f.S/8f
-633/2D/5H/14f
-634/2D/2P/8f
-635/2D/2K/3f
-636/2D/2S/7f
-637/2D/2H/9f
-638/2D/j.P/12f
-639/2D/j.K/11f
-640/2D/j.S/17f
-641/2D/j.H/15f
-642/2D/j.D/13f
-643/2D/6P/10f
-644/2D/6K/9f
-645/2D/6H/25f
-646/2D/2D/8f
-647/2D/5D/18f
-648/2D/5[D]/26f
+592/6H/5P/10f
+593/6H/5K/9f
+594/6H/c.S/11f
+595/6H/f.S/13f
+596/6H/5H/19f
+597/6H/2P/13f
+598/6H/2K/8f
+599/6H/2S/12f
+600/6H/2H/14f
+601/6H/j.P/17f
+602/6H/j.K/16f
+603/6H/j.S/22f
+604/6H/j.H/20f
+605/6H/j.D/18f
+606/6H/6P/15f
+607/6H/6K/14f
+608/6H/6H/30f
+609/6H/2D/13f
+610/6H/5D/23f
+611/6H/5[D]/31f
+612/6H/[4]6S/27f
+613/6H/[4]6S 8/11f
+614/6H/[4]6S 2/10f
+615/6H/[4]6S S/21f [25f]
+616/6H/41236H/31f
+617/6H/214S/27f
+618/6H/214H/17f
+619/6H/j.214H/22f
+620/6H/j.236H/17f
+621/6H/214K/20f
+622/6H/214[K]/44f
+623/6H/236236H/15f
+624/6H/632146P/8f
+625/6H/632146P Attack/12f
+626/6H/j.632146P Attack/17f
+627/6H/236D/23f
+628/6H/236[D]/35f
+629/2D/5P/16f
+630/2D/5K/15f
+631/2D/c.S/17f
+632/2D/f.S/19f
+633/2D/5H/25f
+634/2D/2P/19f
+635/2D/2K/14f
+636/2D/2S/18f
+637/2D/2H/20f
+638/2D/j.P/23f
+639/2D/j.K/22f
+640/2D/j.S/28f
+641/2D/j.H/26f
+642/2D/j.D/24f
+643/2D/6P/21f
+644/2D/6K/20f
+645/2D/6H/36f
+646/2D/2D/19f
+647/2D/5D/29f
+648/2D/5[D]/37f
 649/2D/[4]6S/11f
 650/2D/[4]6S 8/-5f
 651/2D/[4]6S 2/-6f
@@ -655,238 +655,238 @@
 653/2D/41236H/15f
 654/2D/214S/11f
 655/2D/214H/1f
-656/2D/j.214H/17f
-657/2D/j.236H/12f
+656/2D/j.214H/28f
+657/2D/j.236H/23f
 658/2D/214K/4f
 659/2D/214[K]/28f
 660/2D/236236H/-1f
 661/2D/632146P/-8f
 662/2D/632146P Attack/-4f
-663/2D/j.632146P Attack/12f
+663/2D/j.632146P Attack/23f
 664/2D/236D/7f
 665/2D/236[D]/19f
-666/5D/5P/5f
-667/5D/5K/4f
-668/5D/c.S/6f
-669/5D/f.S/8f
-670/5D/5H/14f
-671/5D/2P/8f
-672/5D/2K/3f
-673/5D/2S/7f
-674/5D/2H/9f
-675/5D/j.P/12f
-676/5D/j.K/11f
-677/5D/j.S/17f
-678/5D/j.H/15f
-679/5D/j.D/13f
-680/5D/6P/10f
-681/5D/6K/9f
-682/5D/6H/25f
-683/5D/2D/8f
-684/5D/5D/18f
-685/5D/5[D]/26f
-686/5D/[4]6S/22f
-687/5D/[4]6S 8/6f
-688/5D/[4]6S 2/5f
-689/5D/[4]6S S/16f [20f]
-690/5D/41236H/26f
-691/5D/214S/22f
-692/5D/214H/12f
-693/5D/j.214H/17f
-694/5D/j.236H/12f
-695/5D/214K/15f
-696/5D/214[K]/39f
-697/5D/236236H/10f
-698/5D/632146P/3f
-699/5D/632146P Attack/7f
-700/5D/j.632146P Attack/12f
-701/5D/236D/18f
-702/5D/236[D]/30f
-703/5[D]/5P/3f
-704/5[D]/5K/2f
-705/5[D]/c.S/4f
-706/5[D]/f.S/6f
-707/5[D]/5H/12f
-708/5[D]/2P/6f
-709/5[D]/2K/1f
-710/5[D]/2S/5f
-711/5[D]/2H/7f
-712/5[D]/j.P/10f
-713/5[D]/j.K/9f
-714/5[D]/j.S/15f
-715/5[D]/j.H/13f
-716/5[D]/j.D/11f
-717/5[D]/6P/8f
-718/5[D]/6K/7f
-719/5[D]/6H/23f
-720/5[D]/2D/6f
-721/5[D]/5D/16f
-722/5[D]/5[D]/24f
-723/5[D]/[4]6S/20f
-724/5[D]/[4]6S 8/4f
-725/5[D]/[4]6S 2/3f
-726/5[D]/[4]6S S/14f [18f]
-727/5[D]/41236H/24f
-728/5[D]/214S/20f
-729/5[D]/214H/10f
-730/5[D]/j.214H/15f
-731/5[D]/j.236H/10f
-732/5[D]/214K/13f
-733/5[D]/214[K]/37f
-734/5[D]/236236H/8f
-735/5[D]/632146P/1f
-736/5[D]/632146P Attack/5f
-737/5[D]/j.632146P Attack/10f
-738/5[D]/236D/16f
-739/5[D]/236[D]/28f
-740/[4]6S/5P/4f
-741/[4]6S/5K/3f
-742/[4]6S/c.S/5f
-743/[4]6S/f.S/7f
-744/[4]6S/5H/13f
-745/[4]6S/2P/7f
-746/[4]6S/2K/2f
-747/[4]6S/2S/6f
-748/[4]6S/2H/8f
-749/[4]6S/j.P/11f
-750/[4]6S/j.K/10f
-751/[4]6S/j.S/16f
-752/[4]6S/j.H/14f
-753/[4]6S/j.D/12f
-754/[4]6S/6P/9f
-755/[4]6S/6K/8f
-756/[4]6S/6H/24f
-757/[4]6S/2D/7f
-758/[4]6S/5D/17f
-759/[4]6S/5[D]/25f
-760/[4]6S/[4]6S/21f
-761/[4]6S/[4]6S 8/5f
-762/[4]6S/[4]6S 2/4f
-763/[4]6S/[4]6S S/15f [19f]
-764/[4]6S/41236H/25f
-765/[4]6S/214S/21f
-766/[4]6S/214H/11f
-767/[4]6S/j.214H/16f
-768/[4]6S/j.236H/11f
-769/[4]6S/214K/14f
-770/[4]6S/214[K]/38f
-771/[4]6S/236236H/9f
-772/[4]6S/632146P/2f
-773/[4]6S/632146P Attack/6f
-774/[4]6S/j.632146P Attack/11f
-775/[4]6S/236D/17f
-776/[4]6S/236[D]/29f
-777/[4]6S 8/5P/4f
-778/[4]6S 8/5K/3f
-779/[4]6S 8/c.S/5f
-780/[4]6S 8/f.S/7f
-781/[4]6S 8/5H/13f
-782/[4]6S 8/2P/7f
-783/[4]6S 8/2K/2f
-784/[4]6S 8/2S/6f
-785/[4]6S 8/2H/8f
-786/[4]6S 8/j.P/11f
-787/[4]6S 8/j.K/10f
-788/[4]6S 8/j.S/16f
-789/[4]6S 8/j.H/14f
-790/[4]6S 8/j.D/12f
-791/[4]6S 8/6P/9f
-792/[4]6S 8/6K/8f
-793/[4]6S 8/6H/24f
-794/[4]6S 8/2D/7f
-795/[4]6S 8/5D/17f
-796/[4]6S 8/5[D]/25f
-797/[4]6S 8/[4]6S/21f
-798/[4]6S 8/[4]6S 8/5f
-799/[4]6S 8/[4]6S 2/4f
-800/[4]6S 8/[4]6S S/15f [19f]
-801/[4]6S 8/41236H/25f
-802/[4]6S 8/214S/21f
-803/[4]6S 8/214H/11f
-804/[4]6S 8/j.214H/16f
-805/[4]6S 8/j.236H/11f
-806/[4]6S 8/214K/14f
-807/[4]6S 8/214[K]/38f
-808/[4]6S 8/236236H/9f
-809/[4]6S 8/632146P/2f
-810/[4]6S 8/632146P Attack/6f
-811/[4]6S 8/j.632146P Attack/11f
-812/[4]6S 8/236D/17f
-813/[4]6S 8/236[D]/29f
-814/[4]6S 2/5P/5f
-815/[4]6S 2/5K/4f
-816/[4]6S 2/c.S/6f
-817/[4]6S 2/f.S/8f
-818/[4]6S 2/5H/14f
-819/[4]6S 2/2P/8f
-820/[4]6S 2/2K/3f
-821/[4]6S 2/2S/7f
-822/[4]6S 2/2H/9f
-823/[4]6S 2/j.P/12f
-824/[4]6S 2/j.K/11f
-825/[4]6S 2/j.S/17f
-826/[4]6S 2/j.H/15f
-827/[4]6S 2/j.D/13f
-828/[4]6S 2/6P/10f
-829/[4]6S 2/6K/9f
-830/[4]6S 2/6H/25f
-831/[4]6S 2/2D/8f
-832/[4]6S 2/5D/18f
-833/[4]6S 2/5[D]/26f
-834/[4]6S 2/[4]6S/22f
-835/[4]6S 2/[4]6S 8/6f
-836/[4]6S 2/[4]6S 2/5f
-837/[4]6S 2/[4]6S S/16f [20f]
-838/[4]6S 2/41236H/26f
-839/[4]6S 2/214S/22f
-840/[4]6S 2/214H/12f
-841/[4]6S 2/j.214H/17f
-842/[4]6S 2/j.236H/12f
-843/[4]6S 2/214K/15f
-844/[4]6S 2/214[K]/39f
-845/[4]6S 2/236236H/10f
-846/[4]6S 2/632146P/3f
-847/[4]6S 2/632146P Attack/7f
-848/[4]6S 2/j.632146P Attack/12f
-849/[4]6S 2/236D/18f
-850/[4]6S 2/236[D]/30f
-851/[4]6S S/5P/4f [3f]
-852/[4]6S S/5K/3f [2f]
-853/[4]6S S/c.S/5f [4f]
-854/[4]6S S/f.S/7f [6f]
-855/[4]6S S/5H/13f [12f]
-856/[4]6S S/2P/7f [6f]
-857/[4]6S S/2K/2f [1f]
-858/[4]6S S/2S/6f [5f]
-859/[4]6S S/2H/8f [7f]
-860/[4]6S S/j.P/11f [10f]
-861/[4]6S S/j.K/10f [9f]
-862/[4]6S S/j.S/16f [15f]
-863/[4]6S S/j.H/14f [13f]
-864/[4]6S S/j.D/12f [11f]
-865/[4]6S S/6P/9f [8f]
-866/[4]6S S/6K/8f [7f]
-867/[4]6S S/6H/24f [23f]
-868/[4]6S S/2D/7f [6f]
-869/[4]6S S/5D/17f [16f]
-870/[4]6S S/5[D]/25f [24f]
-871/[4]6S S/[4]6S/21f [20f]
-872/[4]6S S/[4]6S 8/5f [4f]
-873/[4]6S S/[4]6S 2/4f [3f]
-874/[4]6S S/[4]6S S/15f [19f] [14f [18f]]
-875/[4]6S S/41236H/25f [24f]
-876/[4]6S S/214S/21f [20f]
-877/[4]6S S/214H/11f [10f]
-878/[4]6S S/j.214H/16f [15f]
-879/[4]6S S/j.236H/11f [10f]
-880/[4]6S S/214K/14f [13f]
-881/[4]6S S/214[K]/38f [37f]
-882/[4]6S S/236236H/9f [8f]
-883/[4]6S S/632146P/2f [1f]
-884/[4]6S S/632146P Attack/6f [5f]
-885/[4]6S S/j.632146P Attack/11f [10f]
-886/[4]6S S/236D/17f [16f]
-887/[4]6S S/236[D]/29f [28f]
+666/5D/5P/22f
+667/5D/5K/21f
+668/5D/c.S/23f
+669/5D/f.S/25f
+670/5D/5H/31f
+671/5D/2P/25f
+672/5D/2K/20f
+673/5D/2S/24f
+674/5D/2H/26f
+675/5D/j.P/29f
+676/5D/j.K/28f
+677/5D/j.S/34f
+678/5D/j.H/32f
+679/5D/j.D/30f
+680/5D/6P/27f
+681/5D/6K/26f
+682/5D/6H/42f
+683/5D/2D/25f
+684/5D/5D/35f
+685/5D/5[D]/43f
+686/5D/[4]6S/39f
+687/5D/[4]6S 8/23f
+688/5D/[4]6S 2/22f
+689/5D/[4]6S S/33f [37f]
+690/5D/41236H/43f
+691/5D/214S/39f
+692/5D/214H/29f
+693/5D/j.214H/34f
+694/5D/j.236H/29f
+695/5D/214K/32f
+696/5D/214[K]/56f
+697/5D/236236H/27f
+698/5D/632146P/20f
+699/5D/632146P Attack/24f
+700/5D/j.632146P Attack/29f
+701/5D/236D/35f
+702/5D/236[D]/47f
+703/5[D]/5P/17f
+704/5[D]/5K/16f
+705/5[D]/c.S/18f
+706/5[D]/f.S/20f
+707/5[D]/5H/26f
+708/5[D]/2P/20f
+709/5[D]/2K/15f
+710/5[D]/2S/19f
+711/5[D]/2H/21f
+712/5[D]/j.P/24f
+713/5[D]/j.K/23f
+714/5[D]/j.S/29f
+715/5[D]/j.H/27f
+716/5[D]/j.D/25f
+717/5[D]/6P/22f
+718/5[D]/6K/21f
+719/5[D]/6H/37f
+720/5[D]/2D/20f
+721/5[D]/5D/30f
+722/5[D]/5[D]/38f
+723/5[D]/[4]6S/34f
+724/5[D]/[4]6S 8/18f
+725/5[D]/[4]6S 2/17f
+726/5[D]/[4]6S S/28f [32f]
+727/5[D]/41236H/38f
+728/5[D]/214S/34f
+729/5[D]/214H/24f
+730/5[D]/j.214H/29f
+731/5[D]/j.236H/24f
+732/5[D]/214K/27f
+733/5[D]/214[K]/51f
+734/5[D]/236236H/22f
+735/5[D]/632146P/15f
+736/5[D]/632146P Attack/19f
+737/5[D]/j.632146P Attack/24f
+738/5[D]/236D/30f
+739/5[D]/236[D]/42f
+740/[4]6S/5P/26f
+741/[4]6S/5K/25f
+742/[4]6S/c.S/27f
+743/[4]6S/f.S/29f
+744/[4]6S/5H/35f
+745/[4]6S/2P/29f
+746/[4]6S/2K/24f
+747/[4]6S/2S/28f
+748/[4]6S/2H/30f
+749/[4]6S/j.P/33f
+750/[4]6S/j.K/32f
+751/[4]6S/j.S/38f
+752/[4]6S/j.H/36f
+753/[4]6S/j.D/34f
+754/[4]6S/6P/31f
+755/[4]6S/6K/30f
+756/[4]6S/6H/46f
+757/[4]6S/2D/29f
+758/[4]6S/5D/39f
+759/[4]6S/5[D]/47f
+760/[4]6S/[4]6S/43f
+761/[4]6S/[4]6S 8/27f
+762/[4]6S/[4]6S 2/26f
+763/[4]6S/[4]6S S/37f [41f]
+764/[4]6S/41236H/47f
+765/[4]6S/214S/43f
+766/[4]6S/214H/33f
+767/[4]6S/j.214H/38f
+768/[4]6S/j.236H/33f
+769/[4]6S/214K/36f
+770/[4]6S/214[K]/60f
+771/[4]6S/236236H/31f
+772/[4]6S/632146P/24f
+773/[4]6S/632146P Attack/28f
+774/[4]6S/j.632146P Attack/33f
+775/[4]6S/236D/39f
+776/[4]6S/236[D]/51f
+777/[4]6S 8/5P/18f
+778/[4]6S 8/5K/17f
+779/[4]6S 8/c.S/19f
+780/[4]6S 8/f.S/21f
+781/[4]6S 8/5H/27f
+782/[4]6S 8/2P/21f
+783/[4]6S 8/2K/16f
+784/[4]6S 8/2S/20f
+785/[4]6S 8/2H/22f
+786/[4]6S 8/j.P/25f
+787/[4]6S 8/j.K/24f
+788/[4]6S 8/j.S/30f
+789/[4]6S 8/j.H/28f
+790/[4]6S 8/j.D/26f
+791/[4]6S 8/6P/23f
+792/[4]6S 8/6K/22f
+793/[4]6S 8/6H/38f
+794/[4]6S 8/2D/21f
+795/[4]6S 8/5D/31f
+796/[4]6S 8/5[D]/39f
+797/[4]6S 8/[4]6S/35f
+798/[4]6S 8/[4]6S 8/19f
+799/[4]6S 8/[4]6S 2/18f
+800/[4]6S 8/[4]6S S/29f [33f]
+801/[4]6S 8/41236H/39f
+802/[4]6S 8/214S/35f
+803/[4]6S 8/214H/25f
+804/[4]6S 8/j.214H/30f
+805/[4]6S 8/j.236H/25f
+806/[4]6S 8/214K/28f
+807/[4]6S 8/214[K]/52f
+808/[4]6S 8/236236H/23f
+809/[4]6S 8/632146P/16f
+810/[4]6S 8/632146P Attack/20f
+811/[4]6S 8/j.632146P Attack/25f
+812/[4]6S 8/236D/31f
+813/[4]6S 8/236[D]/43f
+814/[4]6S 2/5P/13f
+815/[4]6S 2/5K/12f
+816/[4]6S 2/c.S/14f
+817/[4]6S 2/f.S/16f
+818/[4]6S 2/5H/22f
+819/[4]6S 2/2P/16f
+820/[4]6S 2/2K/11f
+821/[4]6S 2/2S/15f
+822/[4]6S 2/2H/17f
+823/[4]6S 2/j.P/20f
+824/[4]6S 2/j.K/19f
+825/[4]6S 2/j.S/25f
+826/[4]6S 2/j.H/23f
+827/[4]6S 2/j.D/21f
+828/[4]6S 2/6P/18f
+829/[4]6S 2/6K/17f
+830/[4]6S 2/6H/33f
+831/[4]6S 2/2D/16f
+832/[4]6S 2/5D/26f
+833/[4]6S 2/5[D]/34f
+834/[4]6S 2/[4]6S/30f
+835/[4]6S 2/[4]6S 8/14f
+836/[4]6S 2/[4]6S 2/13f
+837/[4]6S 2/[4]6S S/24f [28f]
+838/[4]6S 2/41236H/34f
+839/[4]6S 2/214S/30f
+840/[4]6S 2/214H/20f
+841/[4]6S 2/j.214H/25f
+842/[4]6S 2/j.236H/20f
+843/[4]6S 2/214K/23f
+844/[4]6S 2/214[K]/47f
+845/[4]6S 2/236236H/18f
+846/[4]6S 2/632146P/11f
+847/[4]6S 2/632146P Attack/15f
+848/[4]6S 2/j.632146P Attack/20f
+849/[4]6S 2/236D/26f
+850/[4]6S 2/236[D]/38f
+851/[4]6S S/5P/10f [-3f]
+852/[4]6S S/5K/9f [-4f]
+853/[4]6S S/c.S/11f [-2f]
+854/[4]6S S/f.S/13f [0f]
+855/[4]6S S/5H/19f [6f]
+856/[4]6S S/2P/13f [0f]
+857/[4]6S S/2K/8f [-5f]
+858/[4]6S S/2S/12f [-1f]
+859/[4]6S S/2H/14f [1f]
+860/[4]6S S/j.P/17f [4f]
+861/[4]6S S/j.K/16f [3f]
+862/[4]6S S/j.S/22f [9f]
+863/[4]6S S/j.H/20f [7f]
+864/[4]6S S/j.D/18f [5f]
+865/[4]6S S/6P/15f [2f]
+866/[4]6S S/6K/14f [1f]
+867/[4]6S S/6H/30f [17f]
+868/[4]6S S/2D/13f [0f]
+869/[4]6S S/5D/23f [10f]
+870/[4]6S S/5[D]/31f [18f]
+871/[4]6S S/[4]6S/27f [14f]
+872/[4]6S S/[4]6S 8/11f [-2f]
+873/[4]6S S/[4]6S 2/10f [-3f]
+874/[4]6S S/[4]6S S/21f [25f] [8f [12f]]
+875/[4]6S S/41236H/31f [18f]
+876/[4]6S S/214S/27f [14f]
+877/[4]6S S/214H/17f [4f]
+878/[4]6S S/j.214H/22f [9f]
+879/[4]6S S/j.236H/17f [4f]
+880/[4]6S S/214K/20f [7f]
+881/[4]6S S/214[K]/44f [31f]
+882/[4]6S S/236236H/15f [2f]
+883/[4]6S S/632146P/8f [-5f]
+884/[4]6S S/632146P Attack/12f [-1f]
+885/[4]6S S/j.632146P Attack/17f [4f]
+886/[4]6S S/236D/23f [10f]
+887/[4]6S S/236[D]/35f [22f]
 888/41236H/5P/
 889/41236H/5K/
 890/41236H/c.S/
@@ -961,228 +961,228 @@
 959/214S/j.632146P Attack/11f
 960/214S/236D/17f
 961/214S/236[D]/29f
-962/214H/5P/4f
-963/214H/5K/3f
-964/214H/c.S/5f
-965/214H/f.S/7f
-966/214H/5H/13f
-967/214H/2P/7f
-968/214H/2K/2f
-969/214H/2S/6f
-970/214H/2H/8f
-971/214H/j.P/11f
-972/214H/j.K/10f
-973/214H/j.S/16f
-974/214H/j.H/14f
-975/214H/j.D/12f
-976/214H/6P/9f
-977/214H/6K/8f
-978/214H/6H/24f
-979/214H/2D/7f
-980/214H/5D/17f
-981/214H/5[D]/25f
-982/214H/[4]6S/21f
-983/214H/[4]6S 8/5f
-984/214H/[4]6S 2/4f
-985/214H/[4]6S S/15f [19f]
-986/214H/41236H/25f
-987/214H/214S/21f
-988/214H/214H/11f
-989/214H/j.214H/16f
-990/214H/j.236H/11f
-991/214H/214K/14f
-992/214H/214[K]/38f
-993/214H/236236H/9f
-994/214H/632146P/2f
-995/214H/632146P Attack/6f
-996/214H/j.632146P Attack/11f
-997/214H/236D/17f
-998/214H/236[D]/29f
-999/j.214H/5P/j.214Hhas16fofblockstun, while5Phas7fofstartupf
-1000/j.214H/5K/j.214Hhas16fofblockstun, while5Khas6fofstartupf
-1001/j.214H/c.S/j.214Hhas16fofblockstun, whilec.Shas8fofstartupf
-1002/j.214H/f.S/j.214Hhas16fofblockstun, whilef.Shas10fofstartupf
-1003/j.214H/5H/j.214Hhas16fofblockstun, while5Hhas16fofstartupf
-1004/j.214H/2P/j.214Hhas16fofblockstun, while2Phas10fofstartupf
-1005/j.214H/2K/j.214Hhas16fofblockstun, while2Khas5fofstartupf
-1006/j.214H/2S/j.214Hhas16fofblockstun, while2Shas9fofstartupf
-1007/j.214H/2H/j.214Hhas16fofblockstun, while2Hhas11fofstartupf
-1008/j.214H/j.P/j.214Hhas16fofblockstun, whilej.Phas9fofstartupf
-1009/j.214H/j.K/j.214Hhas16fofblockstun, whilej.Khas8fofstartupf
-1010/j.214H/j.S/j.214Hhas16fofblockstun, whilej.Shas14fofstartupf
-1011/j.214H/j.H/j.214Hhas16fofblockstun, whilej.Hhas12fofstartupf
-1012/j.214H/j.D/j.214Hhas16fofblockstun, whilej.Dhas10fofstartupf
-1013/j.214H/6P/j.214Hhas16fofblockstun, while6Phas12fofstartupf
-1014/j.214H/6K/j.214Hhas16fofblockstun, while6Khas11fofstartupf
-1015/j.214H/6H/j.214Hhas16fofblockstun, while6Hhas27fofstartupf
-1016/j.214H/2D/j.214Hhas16fofblockstun, while2Dhas10fofstartupf
-1017/j.214H/5D/j.214Hhas16fofblockstun, while5Dhas20fofstartupf
-1018/j.214H/5[D]/j.214Hhas16fofblockstun, while5 [D]has28fofstartupf
-1019/j.214H/[4]6S/j.214Hhas16fofblockstun, while [4]6Shas24fofstartupf
-1020/j.214H/[4]6S 8/j.214Hhas16fofblockstun, while [4]6S8has8fofstartupf
-1021/j.214H/[4]6S 2/j.214Hhas16fofblockstun, while [4]6S2has7fofstartupf
-1022/j.214H/[4]6S S/j.214Hhas16fofblockstun, while [4]6SShas18fofstartupf [j.214Hhas16fofblockstun, while [4]6SShas22fofstartupf]
-1023/j.214H/41236H/j.214Hhas16fofblockstun, while41236Hhas28fofstartupf
-1024/j.214H/214S/j.214Hhas16fofblockstun, while214Shas24fofstartupf
-1025/j.214H/214H/j.214Hhas16fofblockstun, while214Hhas14fofstartupf
-1026/j.214H/j.214H/j.214Hhas16fofblockstun, whilej.214Hhas14fofstartupf
-1027/j.214H/j.236H/j.214Hhas16fofblockstun, whilej.236Hhas9fofstartupf
-1028/j.214H/214K/j.214Hhas16fofblockstun, while214Khas17fofstartupf
-1029/j.214H/214[K]/j.214Hhas16fofblockstun, while214 [K]has41fofstartupf
-1030/j.214H/236236H/j.214Hhas16fofblockstun, while236236Hhas12fofstartupf
-1031/j.214H/632146P/j.214Hhas16fofblockstun, while632146Phas5fofstartupf
-1032/j.214H/632146P Attack/j.214Hhas16fofblockstun, while632146PAttackhas9fofstartupf
-1033/j.214H/j.632146P Attack/j.214Hhas16fofblockstun, whilej.632146PAttackhas9fofstartupf
-1034/j.214H/236D/j.214Hhas16fofblockstun, while236Dhas20fofstartupf
-1035/j.214H/236[D]/j.214Hhas16fofblockstun, while236 [D]has32fofstartupf
-1036/j.236H/5P/j.236Hhas18fofblockstun, while5Phas7fofstartupf
-1037/j.236H/5K/j.236Hhas18fofblockstun, while5Khas6fofstartupf
-1038/j.236H/c.S/j.236Hhas18fofblockstun, whilec.Shas8fofstartupf
-1039/j.236H/f.S/j.236Hhas18fofblockstun, whilef.Shas10fofstartupf
-1040/j.236H/5H/j.236Hhas18fofblockstun, while5Hhas16fofstartupf
-1041/j.236H/2P/j.236Hhas18fofblockstun, while2Phas10fofstartupf
-1042/j.236H/2K/j.236Hhas18fofblockstun, while2Khas5fofstartupf
-1043/j.236H/2S/j.236Hhas18fofblockstun, while2Shas9fofstartupf
-1044/j.236H/2H/j.236Hhas18fofblockstun, while2Hhas11fofstartupf
-1045/j.236H/j.P/j.236Hhas18fofblockstun, whilej.Phas9fofstartupf
-1046/j.236H/j.K/j.236Hhas18fofblockstun, whilej.Khas8fofstartupf
-1047/j.236H/j.S/j.236Hhas18fofblockstun, whilej.Shas14fofstartupf
-1048/j.236H/j.H/j.236Hhas18fofblockstun, whilej.Hhas12fofstartupf
-1049/j.236H/j.D/j.236Hhas18fofblockstun, whilej.Dhas10fofstartupf
-1050/j.236H/6P/j.236Hhas18fofblockstun, while6Phas12fofstartupf
-1051/j.236H/6K/j.236Hhas18fofblockstun, while6Khas11fofstartupf
-1052/j.236H/6H/j.236Hhas18fofblockstun, while6Hhas27fofstartupf
-1053/j.236H/2D/j.236Hhas18fofblockstun, while2Dhas10fofstartupf
-1054/j.236H/5D/j.236Hhas18fofblockstun, while5Dhas20fofstartupf
-1055/j.236H/5[D]/j.236Hhas18fofblockstun, while5 [D]has28fofstartupf
-1056/j.236H/[4]6S/j.236Hhas18fofblockstun, while [4]6Shas24fofstartupf
-1057/j.236H/[4]6S 8/j.236Hhas18fofblockstun, while [4]6S8has8fofstartupf
-1058/j.236H/[4]6S 2/j.236Hhas18fofblockstun, while [4]6S2has7fofstartupf
-1059/j.236H/[4]6S S/j.236Hhas18fofblockstun, while [4]6SShas18fofstartupf [j.236Hhas18fofblockstun, while [4]6SShas22fofstartupf]
-1060/j.236H/41236H/j.236Hhas18fofblockstun, while41236Hhas28fofstartupf
-1061/j.236H/214S/j.236Hhas18fofblockstun, while214Shas24fofstartupf
-1062/j.236H/214H/j.236Hhas18fofblockstun, while214Hhas14fofstartupf
-1063/j.236H/j.214H/j.236Hhas18fofblockstun, whilej.214Hhas14fofstartupf
-1064/j.236H/j.236H/j.236Hhas18fofblockstun, whilej.236Hhas9fofstartupf
-1065/j.236H/214K/j.236Hhas18fofblockstun, while214Khas17fofstartupf
-1066/j.236H/214[K]/j.236Hhas18fofblockstun, while214 [K]has41fofstartupf
-1067/j.236H/236236H/j.236Hhas18fofblockstun, while236236Hhas12fofstartupf
-1068/j.236H/632146P/j.236Hhas18fofblockstun, while632146Phas5fofstartupf
-1069/j.236H/632146P Attack/j.236Hhas18fofblockstun, while632146PAttackhas9fofstartupf
-1070/j.236H/j.632146P Attack/j.236Hhas18fofblockstun, whilej.632146PAttackhas9fofstartupf
-1071/j.236H/236D/j.236Hhas18fofblockstun, while236Dhas20fofstartupf
-1072/j.236H/236[D]/j.236Hhas18fofblockstun, while236 [D]has32fofstartupf
-1073/214K/5P/"N/A"
-1074/214K/5K/"N/A"
-1075/214K/c.S/"N/A"
-1076/214K/f.S/"N/A"
-1077/214K/5H/"N/A"
-1078/214K/2P/"N/A"
-1079/214K/2K/"N/A"
-1080/214K/2S/"N/A"
-1081/214K/2H/"N/A"
-1082/214K/j.P/"N/A"
-1083/214K/j.K/"N/A"
-1084/214K/j.S/"N/A"
-1085/214K/j.H/"N/A"
-1086/214K/j.D/"N/A"
-1087/214K/6P/"N/A"
-1088/214K/6K/"N/A"
-1089/214K/6H/"N/A"
-1090/214K/2D/"N/A"
-1091/214K/5D/"N/A"
-1092/214K/5[D]/"N/A"
-1093/214K/[4]6S/"N/A"
-1094/214K/[4]6S 8/"N/A"
-1095/214K/[4]6S 2/"N/A"
-1096/214K/[4]6S S/"N/A"
-1097/214K/41236H/"N/A"
-1098/214K/214S/"N/A"
-1099/214K/214H/"N/A"
-1100/214K/j.214H/"N/A"
-1101/214K/j.236H/"N/A"
-1102/214K/214K/"N/A"
-1103/214K/214[K]/"N/A"
-1104/214K/236236H/"N/A"
-1105/214K/632146P/"N/A"
-1106/214K/632146P Attack/"N/A"
-1107/214K/j.632146P Attack/"N/A"
-1108/214K/236D/"N/A"
-1109/214K/236[D]/"N/A"
-1110/214[K]/5P/"N/A"
-1111/214[K]/5K/"N/A"
-1112/214[K]/c.S/"N/A"
-1113/214[K]/f.S/"N/A"
-1114/214[K]/5H/"N/A"
-1115/214[K]/2P/"N/A"
-1116/214[K]/2K/"N/A"
-1117/214[K]/2S/"N/A"
-1118/214[K]/2H/"N/A"
-1119/214[K]/j.P/"N/A"
-1120/214[K]/j.K/"N/A"
-1121/214[K]/j.S/"N/A"
-1122/214[K]/j.H/"N/A"
-1123/214[K]/j.D/"N/A"
-1124/214[K]/6P/"N/A"
-1125/214[K]/6K/"N/A"
-1126/214[K]/6H/"N/A"
-1127/214[K]/2D/"N/A"
-1128/214[K]/5D/"N/A"
-1129/214[K]/5[D]/"N/A"
-1130/214[K]/[4]6S/"N/A"
-1131/214[K]/[4]6S 8/"N/A"
-1132/214[K]/[4]6S 2/"N/A"
-1133/214[K]/[4]6S S/"N/A"
-1134/214[K]/41236H/"N/A"
-1135/214[K]/214S/"N/A"
-1136/214[K]/214H/"N/A"
-1137/214[K]/j.214H/"N/A"
-1138/214[K]/j.236H/"N/A"
-1139/214[K]/214K/"N/A"
-1140/214[K]/214[K]/"N/A"
-1141/214[K]/236236H/"N/A"
-1142/214[K]/632146P/"N/A"
-1143/214[K]/632146P Attack/"N/A"
-1144/214[K]/j.632146P Attack/"N/A"
-1145/214[K]/236D/"N/A"
-1146/214[K]/236[D]/"N/A"
-1147/236236H/5P/3f
-1148/236236H/5K/2f
-1149/236236H/c.S/4f
-1150/236236H/f.S/6f
-1151/236236H/5H/12f
-1152/236236H/2P/6f
-1153/236236H/2K/1f
-1154/236236H/2S/5f
-1155/236236H/2H/7f
-1156/236236H/j.P/10f
-1157/236236H/j.K/9f
-1158/236236H/j.S/15f
-1159/236236H/j.H/13f
-1160/236236H/j.D/11f
-1161/236236H/6P/8f
-1162/236236H/6K/7f
-1163/236236H/6H/23f
-1164/236236H/2D/6f
-1165/236236H/5D/16f
-1166/236236H/5[D]/24f
-1167/236236H/[4]6S/20f
-1168/236236H/[4]6S 8/4f
-1169/236236H/[4]6S 2/3f
-1170/236236H/[4]6S S/14f [18f]
-1171/236236H/41236H/24f
-1172/236236H/214S/20f
-1173/236236H/214H/10f
-1174/236236H/j.214H/15f
-1175/236236H/j.236H/10f
-1176/236236H/214K/13f
-1177/236236H/214[K]/37f
-1178/236236H/236236H/8f
-1179/236236H/632146P/1f
-1180/236236H/632146P Attack/5f
-1181/236236H/j.632146P Attack/10f
-1182/236236H/236D/16f
-1183/236236H/236[D]/28f
+962/214H/5P/31f
+963/214H/5K/30f
+964/214H/c.S/32f
+965/214H/f.S/34f
+966/214H/5H/40f
+967/214H/2P/34f
+968/214H/2K/29f
+969/214H/2S/33f
+970/214H/2H/35f
+971/214H/j.P/38f
+972/214H/j.K/37f
+973/214H/j.S/43f
+974/214H/j.H/41f
+975/214H/j.D/39f
+976/214H/6P/36f
+977/214H/6K/35f
+978/214H/6H/51f
+979/214H/2D/34f
+980/214H/5D/44f
+981/214H/5[D]/52f
+982/214H/[4]6S/48f
+983/214H/[4]6S 8/32f
+984/214H/[4]6S 2/31f
+985/214H/[4]6S S/42f [46f]
+986/214H/41236H/52f
+987/214H/214S/48f
+988/214H/214H/38f
+989/214H/j.214H/43f
+990/214H/j.236H/38f
+991/214H/214K/41f
+992/214H/214[K]/65f
+993/214H/236236H/36f
+994/214H/632146P/29f
+995/214H/632146P Attack/33f
+996/214H/j.632146P Attack/38f
+997/214H/236D/44f
+998/214H/236[D]/56f
+999/j.214H/5P/j.214Hhas1000000fofblockstun, while5Phas7fofstartupf
+1000/j.214H/5K/j.214Hhas1000000fofblockstun, while5Khas6fofstartupf
+1001/j.214H/c.S/j.214Hhas1000000fofblockstun, whilec.Shas8fofstartupf
+1002/j.214H/f.S/j.214Hhas1000000fofblockstun, whilef.Shas10fofstartupf
+1003/j.214H/5H/j.214Hhas1000000fofblockstun, while5Hhas16fofstartupf
+1004/j.214H/2P/j.214Hhas1000000fofblockstun, while2Phas10fofstartupf
+1005/j.214H/2K/j.214Hhas1000000fofblockstun, while2Khas5fofstartupf
+1006/j.214H/2S/j.214Hhas1000000fofblockstun, while2Shas9fofstartupf
+1007/j.214H/2H/j.214Hhas1000000fofblockstun, while2Hhas11fofstartupf
+1008/j.214H/j.P/j.214Hhas1000000fofblockstun, whilej.Phas9fofstartupf
+1009/j.214H/j.K/j.214Hhas1000000fofblockstun, whilej.Khas8fofstartupf
+1010/j.214H/j.S/j.214Hhas1000000fofblockstun, whilej.Shas14fofstartupf
+1011/j.214H/j.H/j.214Hhas1000000fofblockstun, whilej.Hhas12fofstartupf
+1012/j.214H/j.D/j.214Hhas1000000fofblockstun, whilej.Dhas10fofstartupf
+1013/j.214H/6P/j.214Hhas1000000fofblockstun, while6Phas12fofstartupf
+1014/j.214H/6K/j.214Hhas1000000fofblockstun, while6Khas11fofstartupf
+1015/j.214H/6H/j.214Hhas1000000fofblockstun, while6Hhas27fofstartupf
+1016/j.214H/2D/j.214Hhas1000000fofblockstun, while2Dhas10fofstartupf
+1017/j.214H/5D/j.214Hhas1000000fofblockstun, while5Dhas20fofstartupf
+1018/j.214H/5[D]/j.214Hhas1000000fofblockstun, while5 [D]has28fofstartupf
+1019/j.214H/[4]6S/j.214Hhas1000000fofblockstun, while [4]6Shas24fofstartupf
+1020/j.214H/[4]6S 8/j.214Hhas1000000fofblockstun, while [4]6S8has8fofstartupf
+1021/j.214H/[4]6S 2/j.214Hhas1000000fofblockstun, while [4]6S2has7fofstartupf
+1022/j.214H/[4]6S S/j.214Hhas1000000fofblockstun, while [4]6SShas18fofstartupf [j.214Hhas1000000fofblockstun, while [4]6SShas22fofstartupf]
+1023/j.214H/41236H/j.214Hhas1000000fofblockstun, while41236Hhas28fofstartupf
+1024/j.214H/214S/j.214Hhas1000000fofblockstun, while214Shas24fofstartupf
+1025/j.214H/214H/j.214Hhas1000000fofblockstun, while214Hhas14fofstartupf
+1026/j.214H/j.214H/j.214Hhas1000000fofblockstun, whilej.214Hhas14fofstartupf
+1027/j.214H/j.236H/j.214Hhas1000000fofblockstun, whilej.236Hhas9fofstartupf
+1028/j.214H/214K/j.214Hhas1000000fofblockstun, while214Khas17fofstartupf
+1029/j.214H/214[K]/j.214Hhas1000000fofblockstun, while214 [K]has41fofstartupf
+1030/j.214H/236236H/j.214Hhas1000000fofblockstun, while236236Hhas12fofstartupf
+1031/j.214H/632146P/j.214Hhas1000000fofblockstun, while632146Phas5fofstartupf
+1032/j.214H/632146P Attack/j.214Hhas1000000fofblockstun, while632146PAttackhas9fofstartupf
+1033/j.214H/j.632146P Attack/j.214Hhas1000000fofblockstun, whilej.632146PAttackhas9fofstartupf
+1034/j.214H/236D/j.214Hhas1000000fofblockstun, while236Dhas20fofstartupf
+1035/j.214H/236[D]/j.214Hhas1000000fofblockstun, while236 [D]has32fofstartupf
+1036/j.236H/5P/j.236Hhas1000000fofblockstun, while5Phas7fofstartupf
+1037/j.236H/5K/j.236Hhas1000000fofblockstun, while5Khas6fofstartupf
+1038/j.236H/c.S/j.236Hhas1000000fofblockstun, whilec.Shas8fofstartupf
+1039/j.236H/f.S/j.236Hhas1000000fofblockstun, whilef.Shas10fofstartupf
+1040/j.236H/5H/j.236Hhas1000000fofblockstun, while5Hhas16fofstartupf
+1041/j.236H/2P/j.236Hhas1000000fofblockstun, while2Phas10fofstartupf
+1042/j.236H/2K/j.236Hhas1000000fofblockstun, while2Khas5fofstartupf
+1043/j.236H/2S/j.236Hhas1000000fofblockstun, while2Shas9fofstartupf
+1044/j.236H/2H/j.236Hhas1000000fofblockstun, while2Hhas11fofstartupf
+1045/j.236H/j.P/j.236Hhas1000000fofblockstun, whilej.Phas9fofstartupf
+1046/j.236H/j.K/j.236Hhas1000000fofblockstun, whilej.Khas8fofstartupf
+1047/j.236H/j.S/j.236Hhas1000000fofblockstun, whilej.Shas14fofstartupf
+1048/j.236H/j.H/j.236Hhas1000000fofblockstun, whilej.Hhas12fofstartupf
+1049/j.236H/j.D/j.236Hhas1000000fofblockstun, whilej.Dhas10fofstartupf
+1050/j.236H/6P/j.236Hhas1000000fofblockstun, while6Phas12fofstartupf
+1051/j.236H/6K/j.236Hhas1000000fofblockstun, while6Khas11fofstartupf
+1052/j.236H/6H/j.236Hhas1000000fofblockstun, while6Hhas27fofstartupf
+1053/j.236H/2D/j.236Hhas1000000fofblockstun, while2Dhas10fofstartupf
+1054/j.236H/5D/j.236Hhas1000000fofblockstun, while5Dhas20fofstartupf
+1055/j.236H/5[D]/j.236Hhas1000000fofblockstun, while5 [D]has28fofstartupf
+1056/j.236H/[4]6S/j.236Hhas1000000fofblockstun, while [4]6Shas24fofstartupf
+1057/j.236H/[4]6S 8/j.236Hhas1000000fofblockstun, while [4]6S8has8fofstartupf
+1058/j.236H/[4]6S 2/j.236Hhas1000000fofblockstun, while [4]6S2has7fofstartupf
+1059/j.236H/[4]6S S/j.236Hhas1000000fofblockstun, while [4]6SShas18fofstartupf [j.236Hhas1000000fofblockstun, while [4]6SShas22fofstartupf]
+1060/j.236H/41236H/j.236Hhas1000000fofblockstun, while41236Hhas28fofstartupf
+1061/j.236H/214S/j.236Hhas1000000fofblockstun, while214Shas24fofstartupf
+1062/j.236H/214H/j.236Hhas1000000fofblockstun, while214Hhas14fofstartupf
+1063/j.236H/j.214H/j.236Hhas1000000fofblockstun, whilej.214Hhas14fofstartupf
+1064/j.236H/j.236H/j.236Hhas1000000fofblockstun, whilej.236Hhas9fofstartupf
+1065/j.236H/214K/j.236Hhas1000000fofblockstun, while214Khas17fofstartupf
+1066/j.236H/214[K]/j.236Hhas1000000fofblockstun, while214 [K]has41fofstartupf
+1067/j.236H/236236H/j.236Hhas1000000fofblockstun, while236236Hhas12fofstartupf
+1068/j.236H/632146P/j.236Hhas1000000fofblockstun, while632146Phas5fofstartupf
+1069/j.236H/632146P Attack/j.236Hhas1000000fofblockstun, while632146PAttackhas9fofstartupf
+1070/j.236H/j.632146P Attack/j.236Hhas1000000fofblockstun, whilej.632146PAttackhas9fofstartupf
+1071/j.236H/236D/j.236Hhas1000000fofblockstun, while236Dhas20fofstartupf
+1072/j.236H/236[D]/j.236Hhas1000000fofblockstun, while236 [D]has32fofstartupf
+1073/214K/5P/11f
+1074/214K/5K/10f
+1075/214K/c.S/12f
+1076/214K/f.S/14f
+1077/214K/5H/20f
+1078/214K/2P/14f
+1079/214K/2K/9f
+1080/214K/2S/13f
+1081/214K/2H/15f
+1082/214K/j.P/18f
+1083/214K/j.K/17f
+1084/214K/j.S/23f
+1085/214K/j.H/21f
+1086/214K/j.D/19f
+1087/214K/6P/16f
+1088/214K/6K/15f
+1089/214K/6H/31f
+1090/214K/2D/14f
+1091/214K/5D/24f
+1092/214K/5[D]/32f
+1093/214K/[4]6S/28f
+1094/214K/[4]6S 8/12f
+1095/214K/[4]6S 2/11f
+1096/214K/[4]6S S/22f [26f]
+1097/214K/41236H/32f
+1098/214K/214S/28f
+1099/214K/214H/18f
+1100/214K/j.214H/23f
+1101/214K/j.236H/18f
+1102/214K/214K/21f
+1103/214K/214[K]/45f
+1104/214K/236236H/16f
+1105/214K/632146P/9f
+1106/214K/632146P Attack/13f
+1107/214K/j.632146P Attack/18f
+1108/214K/236D/24f
+1109/214K/236[D]/36f
+1110/214[K]/5P/-7f
+1111/214[K]/5K/-8f
+1112/214[K]/c.S/-6f
+1113/214[K]/f.S/-4f
+1114/214[K]/5H/2f
+1115/214[K]/2P/-4f
+1116/214[K]/2K/-9f
+1117/214[K]/2S/-5f
+1118/214[K]/2H/-3f
+1119/214[K]/j.P/0f
+1120/214[K]/j.K/-1f
+1121/214[K]/j.S/5f
+1122/214[K]/j.H/3f
+1123/214[K]/j.D/1f
+1124/214[K]/6P/-2f
+1125/214[K]/6K/-3f
+1126/214[K]/6H/13f
+1127/214[K]/2D/-4f
+1128/214[K]/5D/6f
+1129/214[K]/5[D]/14f
+1130/214[K]/[4]6S/10f
+1131/214[K]/[4]6S 8/-6f
+1132/214[K]/[4]6S 2/-7f
+1133/214[K]/[4]6S S/4f [8f]
+1134/214[K]/41236H/14f
+1135/214[K]/214S/10f
+1136/214[K]/214H/0f
+1137/214[K]/j.214H/5f
+1138/214[K]/j.236H/0f
+1139/214[K]/214K/3f
+1140/214[K]/214[K]/27f
+1141/214[K]/236236H/-2f
+1142/214[K]/632146P/-9f
+1143/214[K]/632146P Attack/-5f
+1144/214[K]/j.632146P Attack/0f
+1145/214[K]/236D/6f
+1146/214[K]/236[D]/18f
+1147/236236H/5P/9f
+1148/236236H/5K/8f
+1149/236236H/c.S/10f
+1150/236236H/f.S/12f
+1151/236236H/5H/18f
+1152/236236H/2P/12f
+1153/236236H/2K/7f
+1154/236236H/2S/11f
+1155/236236H/2H/13f
+1156/236236H/j.P/16f
+1157/236236H/j.K/15f
+1158/236236H/j.S/21f
+1159/236236H/j.H/19f
+1160/236236H/j.D/17f
+1161/236236H/6P/14f
+1162/236236H/6K/13f
+1163/236236H/6H/29f
+1164/236236H/2D/12f
+1165/236236H/5D/22f
+1166/236236H/5[D]/30f
+1167/236236H/[4]6S/26f
+1168/236236H/[4]6S 8/10f
+1169/236236H/[4]6S 2/9f
+1170/236236H/[4]6S S/20f [24f]
+1171/236236H/41236H/30f
+1172/236236H/214S/26f
+1173/236236H/214H/16f
+1174/236236H/j.214H/21f
+1175/236236H/j.236H/16f
+1176/236236H/214K/19f
+1177/236236H/214[K]/43f
+1178/236236H/236236H/14f
+1179/236236H/632146P/7f
+1180/236236H/632146P Attack/11f
+1181/236236H/j.632146P Attack/16f
+1182/236236H/236D/22f
+1183/236236H/236[D]/34f
 1184/632146P/5P/
 1185/632146P/5K/
 1186/632146P/c.S/
@@ -1220,80 +1220,80 @@
 1218/632146P/j.632146P Attack/
 1219/632146P/236D/
 1220/632146P/236[D]/
-1221/632146P Attack/5P/6f
-1222/632146P Attack/5K/5f
-1223/632146P Attack/c.S/7f
-1224/632146P Attack/f.S/9f
-1225/632146P Attack/5H/15f
-1226/632146P Attack/2P/9f
-1227/632146P Attack/2K/4f
-1228/632146P Attack/2S/8f
-1229/632146P Attack/2H/10f
-1230/632146P Attack/j.P/13f
-1231/632146P Attack/j.K/12f
-1232/632146P Attack/j.S/18f
-1233/632146P Attack/j.H/16f
-1234/632146P Attack/j.D/14f
-1235/632146P Attack/6P/11f
-1236/632146P Attack/6K/10f
-1237/632146P Attack/6H/26f
-1238/632146P Attack/2D/9f
-1239/632146P Attack/5D/19f
-1240/632146P Attack/5[D]/27f
-1241/632146P Attack/[4]6S/23f
-1242/632146P Attack/[4]6S 8/7f
-1243/632146P Attack/[4]6S 2/6f
-1244/632146P Attack/[4]6S S/17f [21f]
-1245/632146P Attack/41236H/27f
-1246/632146P Attack/214S/23f
-1247/632146P Attack/214H/13f
-1248/632146P Attack/j.214H/18f
-1249/632146P Attack/j.236H/13f
-1250/632146P Attack/214K/16f
-1251/632146P Attack/214[K]/40f
-1252/632146P Attack/236236H/11f
-1253/632146P Attack/632146P/4f
-1254/632146P Attack/632146P Attack/8f
-1255/632146P Attack/j.632146P Attack/13f
-1256/632146P Attack/236D/19f
-1257/632146P Attack/236[D]/31f
-1258/j.632146P Attack/5P/j.632146PAttackhas11fofblockstun, while5Phas7fofstartupf
-1259/j.632146P Attack/5K/j.632146PAttackhas11fofblockstun, while5Khas6fofstartupf
-1260/j.632146P Attack/c.S/j.632146PAttackhas11fofblockstun, whilec.Shas8fofstartupf
-1261/j.632146P Attack/f.S/j.632146PAttackhas11fofblockstun, whilef.Shas10fofstartupf
-1262/j.632146P Attack/5H/j.632146PAttackhas11fofblockstun, while5Hhas16fofstartupf
-1263/j.632146P Attack/2P/j.632146PAttackhas11fofblockstun, while2Phas10fofstartupf
-1264/j.632146P Attack/2K/j.632146PAttackhas11fofblockstun, while2Khas5fofstartupf
-1265/j.632146P Attack/2S/j.632146PAttackhas11fofblockstun, while2Shas9fofstartupf
-1266/j.632146P Attack/2H/j.632146PAttackhas11fofblockstun, while2Hhas11fofstartupf
-1267/j.632146P Attack/j.P/j.632146PAttackhas11fofblockstun, whilej.Phas9fofstartupf
-1268/j.632146P Attack/j.K/j.632146PAttackhas11fofblockstun, whilej.Khas8fofstartupf
-1269/j.632146P Attack/j.S/j.632146PAttackhas11fofblockstun, whilej.Shas14fofstartupf
-1270/j.632146P Attack/j.H/j.632146PAttackhas11fofblockstun, whilej.Hhas12fofstartupf
-1271/j.632146P Attack/j.D/j.632146PAttackhas11fofblockstun, whilej.Dhas10fofstartupf
-1272/j.632146P Attack/6P/j.632146PAttackhas11fofblockstun, while6Phas12fofstartupf
-1273/j.632146P Attack/6K/j.632146PAttackhas11fofblockstun, while6Khas11fofstartupf
-1274/j.632146P Attack/6H/j.632146PAttackhas11fofblockstun, while6Hhas27fofstartupf
-1275/j.632146P Attack/2D/j.632146PAttackhas11fofblockstun, while2Dhas10fofstartupf
-1276/j.632146P Attack/5D/j.632146PAttackhas11fofblockstun, while5Dhas20fofstartupf
-1277/j.632146P Attack/5[D]/j.632146PAttackhas11fofblockstun, while5 [D]has28fofstartupf
-1278/j.632146P Attack/[4]6S/j.632146PAttackhas11fofblockstun, while [4]6Shas24fofstartupf
-1279/j.632146P Attack/[4]6S 8/j.632146PAttackhas11fofblockstun, while [4]6S8has8fofstartupf
-1280/j.632146P Attack/[4]6S 2/j.632146PAttackhas11fofblockstun, while [4]6S2has7fofstartupf
-1281/j.632146P Attack/[4]6S S/j.632146PAttackhas11fofblockstun, while [4]6SShas18fofstartupf [j.632146PAttackhas11fofblockstun, while [4]6SShas22fofstartupf]
-1282/j.632146P Attack/41236H/j.632146PAttackhas11fofblockstun, while41236Hhas28fofstartupf
-1283/j.632146P Attack/214S/j.632146PAttackhas11fofblockstun, while214Shas24fofstartupf
-1284/j.632146P Attack/214H/j.632146PAttackhas11fofblockstun, while214Hhas14fofstartupf
-1285/j.632146P Attack/j.214H/j.632146PAttackhas11fofblockstun, whilej.214Hhas14fofstartupf
-1286/j.632146P Attack/j.236H/j.632146PAttackhas11fofblockstun, whilej.236Hhas9fofstartupf
-1287/j.632146P Attack/214K/j.632146PAttackhas11fofblockstun, while214Khas17fofstartupf
-1288/j.632146P Attack/214[K]/j.632146PAttackhas11fofblockstun, while214 [K]has41fofstartupf
-1289/j.632146P Attack/236236H/j.632146PAttackhas11fofblockstun, while236236Hhas12fofstartupf
-1290/j.632146P Attack/632146P/j.632146PAttackhas11fofblockstun, while632146Phas5fofstartupf
-1291/j.632146P Attack/632146P Attack/j.632146PAttackhas11fofblockstun, while632146PAttackhas9fofstartupf
-1292/j.632146P Attack/j.632146P Attack/j.632146PAttackhas11fofblockstun, whilej.632146PAttackhas9fofstartupf
-1293/j.632146P Attack/236D/j.632146PAttackhas11fofblockstun, while236Dhas20fofstartupf
-1294/j.632146P Attack/236[D]/j.632146PAttackhas11fofblockstun, while236 [D]has32fofstartupf
+1221/632146P Attack/5P/7f
+1222/632146P Attack/5K/6f
+1223/632146P Attack/c.S/8f
+1224/632146P Attack/f.S/10f
+1225/632146P Attack/5H/16f
+1226/632146P Attack/2P/10f
+1227/632146P Attack/2K/5f
+1228/632146P Attack/2S/9f
+1229/632146P Attack/2H/11f
+1230/632146P Attack/j.P/14f
+1231/632146P Attack/j.K/13f
+1232/632146P Attack/j.S/19f
+1233/632146P Attack/j.H/17f
+1234/632146P Attack/j.D/15f
+1235/632146P Attack/6P/12f
+1236/632146P Attack/6K/11f
+1237/632146P Attack/6H/27f
+1238/632146P Attack/2D/10f
+1239/632146P Attack/5D/20f
+1240/632146P Attack/5[D]/28f
+1241/632146P Attack/[4]6S/24f
+1242/632146P Attack/[4]6S 8/8f
+1243/632146P Attack/[4]6S 2/7f
+1244/632146P Attack/[4]6S S/18f [22f]
+1245/632146P Attack/41236H/28f
+1246/632146P Attack/214S/24f
+1247/632146P Attack/214H/14f
+1248/632146P Attack/j.214H/19f
+1249/632146P Attack/j.236H/14f
+1250/632146P Attack/214K/17f
+1251/632146P Attack/214[K]/41f
+1252/632146P Attack/236236H/12f
+1253/632146P Attack/632146P/5f
+1254/632146P Attack/632146P Attack/9f
+1255/632146P Attack/j.632146P Attack/14f
+1256/632146P Attack/236D/20f
+1257/632146P Attack/236[D]/32f
+1258/j.632146P Attack/5P/j.632146PAttackhas9fofblockstun, while5Phas7fofstartupf
+1259/j.632146P Attack/5K/j.632146PAttackhas9fofblockstun, while5Khas6fofstartupf
+1260/j.632146P Attack/c.S/j.632146PAttackhas9fofblockstun, whilec.Shas8fofstartupf
+1261/j.632146P Attack/f.S/j.632146PAttackhas9fofblockstun, whilef.Shas10fofstartupf
+1262/j.632146P Attack/5H/j.632146PAttackhas9fofblockstun, while5Hhas16fofstartupf
+1263/j.632146P Attack/2P/j.632146PAttackhas9fofblockstun, while2Phas10fofstartupf
+1264/j.632146P Attack/2K/j.632146PAttackhas9fofblockstun, while2Khas5fofstartupf
+1265/j.632146P Attack/2S/j.632146PAttackhas9fofblockstun, while2Shas9fofstartupf
+1266/j.632146P Attack/2H/j.632146PAttackhas9fofblockstun, while2Hhas11fofstartupf
+1267/j.632146P Attack/j.P/j.632146PAttackhas9fofblockstun, whilej.Phas9fofstartupf
+1268/j.632146P Attack/j.K/j.632146PAttackhas9fofblockstun, whilej.Khas8fofstartupf
+1269/j.632146P Attack/j.S/j.632146PAttackhas9fofblockstun, whilej.Shas14fofstartupf
+1270/j.632146P Attack/j.H/j.632146PAttackhas9fofblockstun, whilej.Hhas12fofstartupf
+1271/j.632146P Attack/j.D/j.632146PAttackhas9fofblockstun, whilej.Dhas10fofstartupf
+1272/j.632146P Attack/6P/j.632146PAttackhas9fofblockstun, while6Phas12fofstartupf
+1273/j.632146P Attack/6K/j.632146PAttackhas9fofblockstun, while6Khas11fofstartupf
+1274/j.632146P Attack/6H/j.632146PAttackhas9fofblockstun, while6Hhas27fofstartupf
+1275/j.632146P Attack/2D/j.632146PAttackhas9fofblockstun, while2Dhas10fofstartupf
+1276/j.632146P Attack/5D/j.632146PAttackhas9fofblockstun, while5Dhas20fofstartupf
+1277/j.632146P Attack/5[D]/j.632146PAttackhas9fofblockstun, while5 [D]has28fofstartupf
+1278/j.632146P Attack/[4]6S/j.632146PAttackhas9fofblockstun, while [4]6Shas24fofstartupf
+1279/j.632146P Attack/[4]6S 8/j.632146PAttackhas9fofblockstun, while [4]6S8has8fofstartupf
+1280/j.632146P Attack/[4]6S 2/j.632146PAttackhas9fofblockstun, while [4]6S2has7fofstartupf
+1281/j.632146P Attack/[4]6S S/j.632146PAttackhas9fofblockstun, while [4]6SShas18fofstartupf [j.632146PAttackhas9fofblockstun, while [4]6SShas22fofstartupf]
+1282/j.632146P Attack/41236H/j.632146PAttackhas9fofblockstun, while41236Hhas28fofstartupf
+1283/j.632146P Attack/214S/j.632146PAttackhas9fofblockstun, while214Shas24fofstartupf
+1284/j.632146P Attack/214H/j.632146PAttackhas9fofblockstun, while214Hhas14fofstartupf
+1285/j.632146P Attack/j.214H/j.632146PAttackhas9fofblockstun, whilej.214Hhas14fofstartupf
+1286/j.632146P Attack/j.236H/j.632146PAttackhas9fofblockstun, whilej.236Hhas9fofstartupf
+1287/j.632146P Attack/214K/j.632146PAttackhas9fofblockstun, while214Khas17fofstartupf
+1288/j.632146P Attack/214[K]/j.632146PAttackhas9fofblockstun, while214 [K]has41fofstartupf
+1289/j.632146P Attack/236236H/j.632146PAttackhas9fofblockstun, while236236Hhas12fofstartupf
+1290/j.632146P Attack/632146P/j.632146PAttackhas9fofblockstun, while632146Phas5fofstartupf
+1291/j.632146P Attack/632146P Attack/j.632146PAttackhas9fofblockstun, while632146PAttackhas9fofstartupf
+1292/j.632146P Attack/j.632146P Attack/j.632146PAttackhas9fofblockstun, whilej.632146PAttackhas9fofstartupf
+1293/j.632146P Attack/236D/j.632146PAttackhas9fofblockstun, while236Dhas20fofstartupf
+1294/j.632146P Attack/236[D]/j.632146PAttackhas9fofblockstun, while236 [D]has32fofstartupf
 1295/236D/5P/-11f
 1296/236D/5K/-12f
 1297/236D/c.S/-10f

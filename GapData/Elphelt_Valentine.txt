@@ -1,28 +1,28 @@
 /move1/move2/gap
 0/5P/5P/-4f
-1/5P/5K/7f
-2/5P/c.S/7f
-3/5P/f.S/11f
-4/5P/5H/14f
-5/5P/5HH/15f
-6/5P/5D/20f
-7/5P/5[D]/28f
+1/5P/5K/9f
+2/5P/c.S/9f
+3/5P/f.S/13f
+4/5P/5H/16f
+5/5P/5HH/17f
+6/5P/5D/22f
+7/5P/5[D]/30f
 8/5P/2P/-4f
-9/5P/2K/6f
-10/5P/2S/13f
-11/5P/2H/18f
-12/5P/2D/12f
+9/5P/2K/8f
+10/5P/2S/15f
+11/5P/2H/20f
+12/5P/2D/14f
 13/5P/6P/0f
 14/5P/6H/16f
-15/5P/j.P/11f
-16/5P/j.K/12f
-17/5P/j.S/16f
-18/5P/j.H/18f
-19/5P/j.D/21f
+15/5P/j.P/13f
+16/5P/j.K/14f
+17/5P/j.S/18f
+18/5P/j.H/20f
+19/5P/j.D/23f
 20/5P/236S/7f [24f]
-21/5P/j.236S/19f [36f]
+21/5P/j.236S/21f [38f]
 22/5P/236H/7f [30f]
-23/5P/j.236H/19f [38f [38f
+23/5P/j.236H/21f [40f [40f
 24/5P/214K/5f
 25/5P/214H/20f
 26/5P/214S/11f
@@ -36,18 +36,18 @@
 34/5P/236236K Explosion/104f
 35/5P/236D/7f
 36/5P/236[D]/20f
-37/5K/5P/4f
-38/5K/5K/6f
-39/5K/c.S/6f
-40/5K/f.S/10f
-41/5K/5H/13f
-42/5K/5HH/14f
+37/5K/5P/9f
+38/5K/5K/11f
+39/5K/c.S/11f
+40/5K/f.S/15f
+41/5K/5H/18f
+42/5K/5HH/19f
 43/5K/5D/9f
-44/5K/5[D]/27f
-45/5K/2P/4f
-46/5K/2K/5f
-47/5K/2S/12f
-48/5K/2H/17f
+44/5K/5[D]/32f
+45/5K/2P/9f
+46/5K/2K/10f
+47/5K/2S/17f
+48/5K/2H/22f
 49/5K/2D/1f
 50/5K/6P/-2f
 51/5K/6H/14f
@@ -73,16 +73,16 @@
 71/5K/236236K Explosion/102f
 72/5K/236D/5f
 73/5K/236[D]/18f
-74/c.S/5P/2f
-75/c.S/5K/4f
-76/c.S/c.S/4f
+74/c.S/5P/4f
+75/c.S/5K/6f
+76/c.S/c.S/6f
 77/c.S/f.S/-5f
 78/c.S/5H/-2f
-79/c.S/5HH/12f
+79/c.S/5HH/14f
 80/c.S/5D/4f
-81/c.S/5[D]/25f
-82/c.S/2P/2f
-83/c.S/2K/3f
+81/c.S/5[D]/27f
+82/c.S/2P/4f
+83/c.S/2K/5f
 84/c.S/2S/-3f
 85/c.S/2H/2f
 86/c.S/2D/-4f
@@ -110,30 +110,30 @@
 108/c.S/236236K Explosion/97f
 109/c.S/236D/0f
 110/c.S/236[D]/13f
-111/f.S/5P/3f
-112/f.S/5K/5f
-113/f.S/c.S/5f
-114/f.S/f.S/9f
+111/f.S/5P/12f
+112/f.S/5K/14f
+113/f.S/c.S/14f
+114/f.S/f.S/18f
 115/f.S/5H/1f
-116/f.S/5HH/13f
-117/f.S/5D/18f
-118/f.S/5[D]/26f
-119/f.S/2P/3f
-120/f.S/2K/4f
-121/f.S/2S/11f
+116/f.S/5HH/22f
+117/f.S/5D/27f
+118/f.S/5[D]/35f
+119/f.S/2P/12f
+120/f.S/2K/13f
+121/f.S/2S/20f
 122/f.S/2H/5f
-123/f.S/2D/10f
-124/f.S/6P/7f
-125/f.S/6H/23f
-126/f.S/j.P/9f
-127/f.S/j.K/10f
-128/f.S/j.S/14f
-129/f.S/j.H/16f
-130/f.S/j.D/19f
+123/f.S/2D/19f
+124/f.S/6P/16f
+125/f.S/6H/32f
+126/f.S/j.P/18f
+127/f.S/j.K/19f
+128/f.S/j.S/23f
+129/f.S/j.H/25f
+130/f.S/j.D/28f
 131/f.S/236S/3f [20f]
-132/f.S/j.236S/17f [34f]
+132/f.S/j.236S/26f [43f]
 133/f.S/236H/3f [26f]
-134/f.S/j.236H/17f [36f [36f
+134/f.S/j.236H/26f [45f [45f
 135/f.S/214K/1f
 136/f.S/214H/16f
 137/f.S/214S/7f
@@ -147,30 +147,30 @@
 145/f.S/236236K Explosion/100f
 146/f.S/236D/3f
 147/f.S/236[D]/16f
-148/5H/5P/1f
-149/5H/5K/3f
-150/5H/c.S/3f
-151/5H/f.S/7f
-152/5H/5H/10f
+148/5H/5P/16f
+149/5H/5K/18f
+150/5H/c.S/18f
+151/5H/f.S/22f
+152/5H/5H/25f
 153/5H/5HH/-3f
-154/5H/5D/16f
-155/5H/5[D]/24f
-156/5H/2P/1f
-157/5H/2K/2f
-158/5H/2S/9f
-159/5H/2H/14f
-160/5H/2D/8f
-161/5H/6P/5f
-162/5H/6H/21f
-163/5H/j.P/7f
-164/5H/j.K/8f
-165/5H/j.S/12f
-166/5H/j.H/14f
-167/5H/j.D/17f
+154/5H/5D/31f
+155/5H/5[D]/39f
+156/5H/2P/16f
+157/5H/2K/17f
+158/5H/2S/24f
+159/5H/2H/29f
+160/5H/2D/23f
+161/5H/6P/20f
+162/5H/6H/36f
+163/5H/j.P/22f
+164/5H/j.K/23f
+165/5H/j.S/27f
+166/5H/j.H/29f
+167/5H/j.D/32f
 168/5H/236S/-2f [15f]
-169/5H/j.236S/15f [32f]
+169/5H/j.236S/30f [47f]
 170/5H/236H/-2f [21f]
-171/5H/j.236H/15f [34f [34f
+171/5H/j.236H/30f [49f [49f
 172/5H/214K/-4f
 173/5H/214H/11f
 174/5H/214S/2f
@@ -184,141 +184,141 @@
 182/5H/236236K Explosion/95f
 183/5H/236D/-2f
 184/5H/236[D]/11f
-185/5HH/5P/2f
-186/5HH/5K/4f
-187/5HH/c.S/4f
-188/5HH/f.S/8f
-189/5HH/5H/11f
-190/5HH/5HH/12f
-191/5HH/5D/17f
-192/5HH/5[D]/25f
-193/5HH/2P/2f
-194/5HH/2K/3f
-195/5HH/2S/10f
-196/5HH/2H/15f
-197/5HH/2D/9f
-198/5HH/6P/6f
-199/5HH/6H/22f
-200/5HH/j.P/8f
-201/5HH/j.K/9f
-202/5HH/j.S/13f
-203/5HH/j.H/15f
-204/5HH/j.D/18f
-205/5HH/236S/13f [30f]
-206/5HH/j.236S/16f [33f]
-207/5HH/236H/13f [36f]
-208/5HH/j.236H/16f [35f [35f
-209/5HH/214K/11f
-210/5HH/214H/26f
-211/5HH/214S/17f
+185/5HH/5P/20f
+186/5HH/5K/22f
+187/5HH/c.S/22f
+188/5HH/f.S/26f
+189/5HH/5H/29f
+190/5HH/5HH/30f
+191/5HH/5D/35f
+192/5HH/5[D]/43f
+193/5HH/2P/20f
+194/5HH/2K/21f
+195/5HH/2S/28f
+196/5HH/2H/33f
+197/5HH/2D/27f
+198/5HH/6P/24f
+199/5HH/6H/40f
+200/5HH/j.P/26f
+201/5HH/j.K/27f
+202/5HH/j.S/31f
+203/5HH/j.H/33f
+204/5HH/j.D/36f
+205/5HH/236S/31f [48f]
+206/5HH/j.236S/34f [51f]
+207/5HH/236H/31f [54f]
+208/5HH/j.236H/34f [53f [53f
+209/5HH/214K/29f
+210/5HH/214H/44f
+211/5HH/214S/35f
 212/5HH/214S~P/214S~P is a follow-up move and cannot be done after 5HH
 213/5HH/214S~K/214S~K is a follow-up move and cannot be done after 5HH
 214/5HH/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5HH"
 215/5HH/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5HH"
 216/5HH/214S~H/214S~H is a follow-up move and cannot be done after 5HH
-217/5HH/632146H/10f
-218/5HH/236236K/4f
-219/5HH/236236K Explosion/110f
-220/5HH/236D/13f
-221/5HH/236[D]/26f
-222/5D/5P/3f
-223/5D/5K/5f
-224/5D/c.S/5f
-225/5D/f.S/9f
-226/5D/5H/12f
-227/5D/5HH/13f
-228/5D/5D/18f
-229/5D/5[D]/26f
-230/5D/2P/3f
-231/5D/2K/4f
-232/5D/2S/11f
-233/5D/2H/16f
-234/5D/2D/10f
-235/5D/6P/7f
-236/5D/6H/23f
-237/5D/j.P/9f
-238/5D/j.K/10f
-239/5D/j.S/14f
-240/5D/j.H/16f
-241/5D/j.D/19f
-242/5D/236S/14f [31f]
-243/5D/j.236S/17f [34f]
-244/5D/236H/14f [37f]
-245/5D/j.236H/17f [36f [36f
-246/5D/214K/12f
-247/5D/214H/27f
-248/5D/214S/18f
+217/5HH/632146H/28f
+218/5HH/236236K/22f
+219/5HH/236236K Explosion/128f
+220/5HH/236D/31f
+221/5HH/236[D]/44f
+222/5D/5P/20f
+223/5D/5K/22f
+224/5D/c.S/22f
+225/5D/f.S/26f
+226/5D/5H/29f
+227/5D/5HH/30f
+228/5D/5D/35f
+229/5D/5[D]/43f
+230/5D/2P/20f
+231/5D/2K/21f
+232/5D/2S/28f
+233/5D/2H/33f
+234/5D/2D/27f
+235/5D/6P/24f
+236/5D/6H/40f
+237/5D/j.P/26f
+238/5D/j.K/27f
+239/5D/j.S/31f
+240/5D/j.H/33f
+241/5D/j.D/36f
+242/5D/236S/31f [48f]
+243/5D/j.236S/34f [51f]
+244/5D/236H/31f [54f]
+245/5D/j.236H/34f [53f [53f
+246/5D/214K/29f
+247/5D/214H/44f
+248/5D/214S/35f
 249/5D/214S~P/214S~P is a follow-up move and cannot be done after 5D
 250/5D/214S~K/214S~K is a follow-up move and cannot be done after 5D
 251/5D/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5D"
 252/5D/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5D"
 253/5D/214S~H/214S~H is a follow-up move and cannot be done after 5D
-254/5D/632146H/11f
-255/5D/236236K/5f
-256/5D/236236K Explosion/111f
-257/5D/236D/14f
-258/5D/236[D]/27f
-259/5[D]/5P/1f
-260/5[D]/5K/3f
-261/5[D]/c.S/3f
-262/5[D]/f.S/7f
-263/5[D]/5H/10f
-264/5[D]/5HH/11f
-265/5[D]/5D/16f
-266/5[D]/5[D]/24f
-267/5[D]/2P/1f
-268/5[D]/2K/2f
-269/5[D]/2S/9f
-270/5[D]/2H/14f
-271/5[D]/2D/8f
-272/5[D]/6P/5f
-273/5[D]/6H/21f
-274/5[D]/j.P/7f
-275/5[D]/j.K/8f
-276/5[D]/j.S/12f
-277/5[D]/j.H/14f
-278/5[D]/j.D/17f
-279/5[D]/236S/12f [29f]
-280/5[D]/j.236S/15f [32f]
-281/5[D]/236H/12f [35f]
-282/5[D]/j.236H/15f [34f [34f
-283/5[D]/214K/10f
-284/5[D]/214H/25f
-285/5[D]/214S/16f
+254/5D/632146H/28f
+255/5D/236236K/22f
+256/5D/236236K Explosion/128f
+257/5D/236D/31f
+258/5D/236[D]/44f
+259/5[D]/5P/15f
+260/5[D]/5K/17f
+261/5[D]/c.S/17f
+262/5[D]/f.S/21f
+263/5[D]/5H/24f
+264/5[D]/5HH/25f
+265/5[D]/5D/30f
+266/5[D]/5[D]/38f
+267/5[D]/2P/15f
+268/5[D]/2K/16f
+269/5[D]/2S/23f
+270/5[D]/2H/28f
+271/5[D]/2D/22f
+272/5[D]/6P/19f
+273/5[D]/6H/35f
+274/5[D]/j.P/21f
+275/5[D]/j.K/22f
+276/5[D]/j.S/26f
+277/5[D]/j.H/28f
+278/5[D]/j.D/31f
+279/5[D]/236S/26f [43f]
+280/5[D]/j.236S/29f [46f]
+281/5[D]/236H/26f [49f]
+282/5[D]/j.236H/29f [48f [48f
+283/5[D]/214K/24f
+284/5[D]/214H/39f
+285/5[D]/214S/30f
 286/5[D]/214S~P/214S~P is a follow-up move and cannot be done after 5[D]
 287/5[D]/214S~K/214S~K is a follow-up move and cannot be done after 5[D]
 288/5[D]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5[D]"
 289/5[D]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5[D]"
 290/5[D]/214S~H/214S~H is a follow-up move and cannot be done after 5[D]
-291/5[D]/632146H/9f
-292/5[D]/236236K/3f
-293/5[D]/236236K Explosion/109f
-294/5[D]/236D/12f
-295/5[D]/236[D]/25f
+291/5[D]/632146H/23f
+292/5[D]/236236K/17f
+293/5[D]/236236K Explosion/123f
+294/5[D]/236D/26f
+295/5[D]/236[D]/39f
 296/2P/5P/-4f
-297/2P/5K/7f
-298/2P/c.S/7f
-299/2P/f.S/11f
-300/2P/5H/14f
-301/2P/5HH/15f
-302/2P/5D/20f
-303/2P/5[D]/28f
+297/2P/5K/9f
+298/2P/c.S/9f
+299/2P/f.S/13f
+300/2P/5H/16f
+301/2P/5HH/17f
+302/2P/5D/22f
+303/2P/5[D]/30f
 304/2P/2P/-4f
-305/2P/2K/6f
-306/2P/2S/13f
-307/2P/2H/18f
-308/2P/2D/12f
+305/2P/2K/8f
+306/2P/2S/15f
+307/2P/2H/20f
+308/2P/2D/14f
 309/2P/6P/0f
 310/2P/6H/16f
-311/2P/j.P/11f
-312/2P/j.K/12f
-313/2P/j.S/16f
-314/2P/j.H/18f
-315/2P/j.D/21f
+311/2P/j.P/13f
+312/2P/j.K/14f
+313/2P/j.S/18f
+314/2P/j.H/20f
+315/2P/j.D/23f
 316/2P/236S/7f [24f]
-317/2P/j.236S/19f [36f]
+317/2P/j.236S/21f [38f]
 318/2P/236H/7f [30f]
-319/2P/j.236H/19f [38f [38f
+319/2P/j.236H/21f [40f [40f
 320/2P/214K/5f
 321/2P/214H/20f
 322/2P/214S/11f
@@ -332,30 +332,30 @@
 330/2P/236236K Explosion/104f
 331/2P/236D/7f
 332/2P/236[D]/20f
-333/2K/5P/4f
-334/2K/5K/6f
-335/2K/c.S/6f
-336/2K/f.S/10f
-337/2K/5H/13f
-338/2K/5HH/14f
+333/2K/5P/8f
+334/2K/5K/10f
+335/2K/c.S/10f
+336/2K/f.S/14f
+337/2K/5H/17f
+338/2K/5HH/18f
 339/2K/5D/9f
-340/2K/5[D]/27f
-341/2K/2P/4f
-342/2K/2K/5f
-343/2K/2S/12f
-344/2K/2H/17f
+340/2K/5[D]/31f
+341/2K/2P/8f
+342/2K/2K/9f
+343/2K/2S/16f
+344/2K/2H/21f
 345/2K/2D/1f
 346/2K/6P/-2f
 347/2K/6H/14f
-348/2K/j.P/10f
-349/2K/j.K/11f
-350/2K/j.S/15f
-351/2K/j.H/17f
-352/2K/j.D/20f
+348/2K/j.P/14f
+349/2K/j.K/15f
+350/2K/j.S/19f
+351/2K/j.H/21f
+352/2K/j.D/24f
 353/2K/236S/5f [22f]
-354/2K/j.236S/18f [35f]
+354/2K/j.236S/22f [39f]
 355/2K/236H/5f [28f]
-356/2K/j.236H/18f [37f [37f
+356/2K/j.236H/22f [41f [41f
 357/2K/214K/3f
 358/2K/214H/18f
 359/2K/214S/9f
@@ -369,30 +369,30 @@
 367/2K/236236K Explosion/102f
 368/2K/236D/5f
 369/2K/236[D]/18f
-370/2S/5P/3f
-371/2S/5K/5f
-372/2S/c.S/5f
-373/2S/f.S/9f
+370/2S/5P/12f
+371/2S/5K/14f
+372/2S/c.S/14f
+373/2S/f.S/18f
 374/2S/5H/1f
-375/2S/5HH/13f
-376/2S/5D/18f
-377/2S/5[D]/26f
-378/2S/2P/3f
-379/2S/2K/4f
-380/2S/2S/11f
+375/2S/5HH/22f
+376/2S/5D/27f
+377/2S/5[D]/35f
+378/2S/2P/12f
+379/2S/2K/13f
+380/2S/2S/20f
 381/2S/2H/5f
-382/2S/2D/10f
-383/2S/6P/7f
-384/2S/6H/23f
-385/2S/j.P/9f
-386/2S/j.K/10f
-387/2S/j.S/14f
-388/2S/j.H/16f
-389/2S/j.D/19f
+382/2S/2D/19f
+383/2S/6P/16f
+384/2S/6H/32f
+385/2S/j.P/18f
+386/2S/j.K/19f
+387/2S/j.S/23f
+388/2S/j.H/25f
+389/2S/j.D/28f
 390/2S/236S/3f [20f]
-391/2S/j.236S/17f [34f]
+391/2S/j.236S/26f [43f]
 392/2S/236H/3f [26f]
-393/2S/j.236H/17f [36f [36f
+393/2S/j.236H/26f [45f [45f
 394/2S/214K/1f
 395/2S/214H/16f
 396/2S/214S/7f
@@ -406,30 +406,30 @@
 404/2S/236236K Explosion/100f
 405/2S/236D/3f
 406/2S/236[D]/16f
-407/2H/5P/2f
-408/2H/5K/4f
-409/2H/c.S/4f
-410/2H/f.S/8f
-411/2H/5H/11f
-412/2H/5HH/12f
-413/2H/5D/17f
-414/2H/5[D]/25f
-415/2H/2P/2f
-416/2H/2K/3f
-417/2H/2S/10f
-418/2H/2H/15f
-419/2H/2D/9f
-420/2H/6P/6f
-421/2H/6H/22f
-422/2H/j.P/8f
-423/2H/j.K/9f
-424/2H/j.S/13f
-425/2H/j.H/15f
-426/2H/j.D/18f
+407/2H/5P/9f
+408/2H/5K/11f
+409/2H/c.S/11f
+410/2H/f.S/15f
+411/2H/5H/18f
+412/2H/5HH/19f
+413/2H/5D/24f
+414/2H/5[D]/32f
+415/2H/2P/9f
+416/2H/2K/10f
+417/2H/2S/17f
+418/2H/2H/22f
+419/2H/2D/16f
+420/2H/6P/13f
+421/2H/6H/29f
+422/2H/j.P/15f
+423/2H/j.K/16f
+424/2H/j.S/20f
+425/2H/j.H/22f
+426/2H/j.D/25f
 427/2H/236S/0f [17f]
-428/2H/j.236S/16f [33f]
+428/2H/j.236S/23f [40f]
 429/2H/236H/0f [23f]
-430/2H/j.236H/16f [35f [35f
+430/2H/j.236H/23f [42f [42f
 431/2H/214K/-2f
 432/2H/214H/13f
 433/2H/214S/4f
@@ -443,30 +443,30 @@
 441/2H/236236K Explosion/97f
 442/2H/236D/0f
 443/2H/236[D]/13f
-444/2D/5P/3f
-445/2D/5K/5f
-446/2D/c.S/5f
-447/2D/f.S/9f
-448/2D/5H/12f
-449/2D/5HH/13f
-450/2D/5D/18f
-451/2D/5[D]/26f
-452/2D/2P/3f
-453/2D/2K/4f
-454/2D/2S/11f
-455/2D/2H/16f
-456/2D/2D/10f
-457/2D/6P/7f
-458/2D/6H/23f
-459/2D/j.P/9f
-460/2D/j.K/10f
-461/2D/j.S/14f
-462/2D/j.H/16f
-463/2D/j.D/19f
+444/2D/5P/13f
+445/2D/5K/15f
+446/2D/c.S/15f
+447/2D/f.S/19f
+448/2D/5H/22f
+449/2D/5HH/23f
+450/2D/5D/28f
+451/2D/5[D]/36f
+452/2D/2P/13f
+453/2D/2K/14f
+454/2D/2S/21f
+455/2D/2H/26f
+456/2D/2D/20f
+457/2D/6P/17f
+458/2D/6H/33f
+459/2D/j.P/19f
+460/2D/j.K/20f
+461/2D/j.S/24f
+462/2D/j.H/26f
+463/2D/j.D/29f
 464/2D/236S/3f [20f]
-465/2D/j.236S/17f [34f]
+465/2D/j.236S/27f [44f]
 466/2D/236H/3f [26f]
-467/2D/j.236H/17f [36f [36f
+467/2D/j.236H/27f [46f [46f
 468/2D/214K/1f
 469/2D/214H/16f
 470/2D/214S/7f
@@ -480,30 +480,30 @@
 478/2D/236236K Explosion/100f
 479/2D/236D/3f
 480/2D/236[D]/16f
-481/6P/5P/3f
-482/6P/5K/5f
-483/6P/c.S/5f
-484/6P/f.S/9f
-485/6P/5H/12f
-486/6P/5HH/13f
-487/6P/5D/18f
-488/6P/5[D]/26f
-489/6P/2P/3f
-490/6P/2K/4f
-491/6P/2S/11f
-492/6P/2H/16f
-493/6P/2D/10f
-494/6P/6P/7f
-495/6P/6H/23f
-496/6P/j.P/9f
-497/6P/j.K/10f
-498/6P/j.S/14f
-499/6P/j.H/16f
-500/6P/j.D/19f
+481/6P/5P/15f
+482/6P/5K/17f
+483/6P/c.S/17f
+484/6P/f.S/21f
+485/6P/5H/24f
+486/6P/5HH/25f
+487/6P/5D/30f
+488/6P/5[D]/38f
+489/6P/2P/15f
+490/6P/2K/16f
+491/6P/2S/23f
+492/6P/2H/28f
+493/6P/2D/22f
+494/6P/6P/19f
+495/6P/6H/35f
+496/6P/j.P/21f
+497/6P/j.K/22f
+498/6P/j.S/26f
+499/6P/j.H/28f
+500/6P/j.D/31f
 501/6P/236S/3f [20f]
-502/6P/j.236S/17f [34f]
+502/6P/j.236S/29f [46f]
 503/6P/236H/3f [26f]
-504/6P/j.236H/17f [36f [36f
+504/6P/j.236H/29f [48f [48f
 505/6P/214K/1f
 506/6P/214H/16f
 507/6P/214S/7f
@@ -517,30 +517,30 @@
 515/6P/236236K Explosion/100f
 516/6P/236D/3f
 517/6P/236[D]/16f
-518/6H/5P/1f
-519/6H/5K/3f
-520/6H/c.S/3f
-521/6H/f.S/7f
-522/6H/5H/10f
-523/6H/5HH/11f
-524/6H/5D/16f
-525/6H/5[D]/24f
-526/6H/2P/1f
-527/6H/2K/2f
-528/6H/2S/9f
-529/6H/2H/14f
-530/6H/2D/8f
-531/6H/6P/5f
-532/6H/6H/21f
-533/6H/j.P/7f
-534/6H/j.K/8f
-535/6H/j.S/12f
-536/6H/j.H/14f
-537/6H/j.D/17f
+518/6H/5P/20f
+519/6H/5K/22f
+520/6H/c.S/22f
+521/6H/f.S/26f
+522/6H/5H/29f
+523/6H/5HH/30f
+524/6H/5D/35f
+525/6H/5[D]/43f
+526/6H/2P/20f
+527/6H/2K/21f
+528/6H/2S/28f
+529/6H/2H/33f
+530/6H/2D/27f
+531/6H/6P/24f
+532/6H/6H/40f
+533/6H/j.P/26f
+534/6H/j.K/27f
+535/6H/j.S/31f
+536/6H/j.H/33f
+537/6H/j.D/36f
 538/6H/236S/-2f [15f]
-539/6H/j.236S/15f [32f]
+539/6H/j.236S/34f [51f]
 540/6H/236H/-2f [21f]
-541/6H/j.236H/15f [34f [34f
+541/6H/j.236H/34f [53f [53f
 542/6H/214K/-4f
 543/6H/214H/11f
 544/6H/214S/2f
@@ -554,746 +554,746 @@
 552/6H/236236K Explosion/95f
 553/6H/236D/-2f
 554/6H/236[D]/11f
-555/j.P/5P/j.Phas9fofblockstun, while5Phas5fofstartupf
-556/j.P/5K/j.Phas9fofblockstun, while5Khas7fofstartupf
-557/j.P/c.S/j.Phas9fofblockstun, whilec.Shas7fofstartupf
-558/j.P/f.S/j.Phas9fofblockstun, whilef.Shas11fofstartupf
-559/j.P/5H/j.Phas9fofblockstun, while5Hhas14fofstartupf
-560/j.P/5HH/j.Phas9fofblockstun, while5HHhas15fofstartupf
-561/j.P/5D/j.Phas9fofblockstun, while5Dhas20fofstartupf
-562/j.P/5[D]/j.Phas9fofblockstun, while5 [D]has28fofstartupf
-563/j.P/2P/j.Phas9fofblockstun, while2Phas5fofstartupf
-564/j.P/2K/j.Phas9fofblockstun, while2Khas6fofstartupf
-565/j.P/2S/j.Phas9fofblockstun, while2Shas13fofstartupf
-566/j.P/2H/j.Phas9fofblockstun, while2Hhas18fofstartupf
-567/j.P/2D/j.Phas9fofblockstun, while2Dhas12fofstartupf
-568/j.P/6P/j.Phas9fofblockstun, while6Phas9fofstartupf
-569/j.P/6H/j.Phas9fofblockstun, while6Hhas25fofstartupf
+555/j.P/5P/
+556/j.P/5K/
+557/j.P/c.S/
+558/j.P/f.S/
+559/j.P/5H/
+560/j.P/5HH/
+561/j.P/5D/
+562/j.P/5[D]/
+563/j.P/2P/
+564/j.P/2K/
+565/j.P/2S/
+566/j.P/2H/
+567/j.P/2D/
+568/j.P/6P/
+569/j.P/6H/
 570/j.P/j.P/-3f
-571/j.P/j.K/j.Phas9fofblockstun, whilej.Khas7fofstartupf
-572/j.P/j.S/j.Phas9fofblockstun, whilej.Shas11fofstartupf
-573/j.P/j.H/j.Phas9fofblockstun, whilej.Hhas13fofstartupf
-574/j.P/j.D/j.Phas9fofblockstun, whilej.Dhas16fofstartupf
-575/j.P/236S/j.Phas9fofblockstun, while236Shas16fofstartupf [j.Phas9fofblockstun, while236Shas33fofstartupf]
-576/j.P/j.236S/j.Phas9fofblockstun, whilej.236Shas14fofstartupf [j.Phas9fofblockstun, whilej.236Shas31fofstartupf]
-577/j.P/236H/j.Phas9fofblockstun, while236Hhas16fofstartupf [j.Phas9fofblockstun, while236Hhas39fofstartupf]
-578/j.P/j.236H/j.Phas9fofblockstun, whilej.236Hhas14fofstartupf [j.Phas9fofblockstun, whilej.236Hhas33fofstartupf [j.Phas9fofblockstun, whilej.236Hhas33fofstartupf
-579/j.P/214K/j.Phas9fofblockstun, while214Khas14fofstartupf
-580/j.P/214H/j.Phas9fofblockstun, while214Hhas29fofstartupf
-581/j.P/214S/j.Phas9fofblockstun, while214Shas20fofstartupf
-582/j.P/214S~P/214S~P is a follow-up move and cannot be done after j.P
-583/j.P/214S~K/214S~K is a follow-up move and cannot be done after j.P
-584/j.P/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.P"
-585/j.P/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.P"
-586/j.P/214S~H/214S~H is a follow-up move and cannot be done after j.P
-587/j.P/632146H/j.Phas9fofblockstun, while632146Hhas13fofstartupf
-588/j.P/236236K/j.Phas9fofblockstun, while236236Khas7fofstartupf
-589/j.P/236236K Explosion/j.Phas9fofblockstun, while236236KExplosionhas113fofstartupf
-590/j.P/236D/j.Phas9fofblockstun, while236Dhas16fofstartupf
-591/j.P/236[D]/j.Phas9fofblockstun, while236 [D]has29fofstartupf
-592/j.K/5P/j.Khas11fofblockstun, while5Phas5fofstartupf
-593/j.K/5K/j.Khas11fofblockstun, while5Khas7fofstartupf
-594/j.K/c.S/j.Khas11fofblockstun, whilec.Shas7fofstartupf
-595/j.K/f.S/j.Khas11fofblockstun, whilef.Shas11fofstartupf
-596/j.K/5H/j.Khas11fofblockstun, while5Hhas14fofstartupf
-597/j.K/5HH/j.Khas11fofblockstun, while5HHhas15fofstartupf
-598/j.K/5D/j.Khas11fofblockstun, while5Dhas20fofstartupf
-599/j.K/5[D]/j.Khas11fofblockstun, while5 [D]has28fofstartupf
-600/j.K/2P/j.Khas11fofblockstun, while2Phas5fofstartupf
-601/j.K/2K/j.Khas11fofblockstun, while2Khas6fofstartupf
-602/j.K/2S/j.Khas11fofblockstun, while2Shas13fofstartupf
-603/j.K/2H/j.Khas11fofblockstun, while2Hhas18fofstartupf
-604/j.K/2D/j.Khas11fofblockstun, while2Dhas12fofstartupf
-605/j.K/6P/j.Khas11fofblockstun, while6Phas9fofstartupf
-606/j.K/6H/j.Khas11fofblockstun, while6Hhas25fofstartupf
-607/j.K/j.P/j.Khas11fofblockstun, whilej.Phas6fofstartupf
-608/j.K/j.K/j.Khas11fofblockstun, whilej.Khas7fofstartupf
-609/j.K/j.S/j.Khas11fofblockstun, whilej.Shas11fofstartupf
-610/j.K/j.H/j.Khas11fofblockstun, whilej.Hhas13fofstartupf
+571/j.P/j.K/
+572/j.P/j.S/
+573/j.P/j.H/
+574/j.P/j.D/
+575/j.P/236S/
+576/j.P/j.236S/
+577/j.P/236H/
+578/j.P/j.236H/
+579/j.P/214K/
+580/j.P/214H/
+581/j.P/214S/
+582/j.P/214S~P/
+583/j.P/214S~K/
+584/j.P/"214S~P/K~P"/
+585/j.P/"214S~P/K~K"/
+586/j.P/214S~H/
+587/j.P/632146H/
+588/j.P/236236K/
+589/j.P/236236K Explosion/
+590/j.P/236D/
+591/j.P/236[D]/
+592/j.K/5P/"N/A"
+593/j.K/5K/"N/A"
+594/j.K/c.S/"N/A"
+595/j.K/f.S/"N/A"
+596/j.K/5H/"N/A"
+597/j.K/5HH/"N/A"
+598/j.K/5D/"N/A"
+599/j.K/5[D]/"N/A"
+600/j.K/2P/"N/A"
+601/j.K/2K/"N/A"
+602/j.K/2S/"N/A"
+603/j.K/2H/"N/A"
+604/j.K/2D/"N/A"
+605/j.K/6P/"N/A"
+606/j.K/6H/"N/A"
+607/j.K/j.P/"N/A"
+608/j.K/j.K/"N/A"
+609/j.K/j.S/"N/A"
+610/j.K/j.H/"N/A"
 611/j.K/j.D/5f
-612/j.K/236S/j.Khas11fofblockstun, while236Shas16fofstartupf [j.Khas11fofblockstun, while236Shas33fofstartupf]
-613/j.K/j.236S/j.Khas11fofblockstun, whilej.236Shas14fofstartupf [j.Khas11fofblockstun, whilej.236Shas31fofstartupf]
-614/j.K/236H/j.Khas11fofblockstun, while236Hhas16fofstartupf [j.Khas11fofblockstun, while236Hhas39fofstartupf]
-615/j.K/j.236H/j.Khas11fofblockstun, whilej.236Hhas14fofstartupf [j.Khas11fofblockstun, whilej.236Hhas33fofstartupf [j.Khas11fofblockstun, whilej.236Hhas33fofstartupf
-616/j.K/214K/j.Khas11fofblockstun, while214Khas14fofstartupf
-617/j.K/214H/j.Khas11fofblockstun, while214Hhas29fofstartupf
-618/j.K/214S/j.Khas11fofblockstun, while214Shas20fofstartupf
+612/j.K/236S/"N/A"
+613/j.K/j.236S/"N/A"
+614/j.K/236H/"N/A"
+615/j.K/j.236H/"N/A"
+616/j.K/214K/"N/A"
+617/j.K/214H/"N/A"
+618/j.K/214S/"N/A"
 619/j.K/214S~P/214S~P is a follow-up move and cannot be done after j.K
 620/j.K/214S~K/214S~K is a follow-up move and cannot be done after j.K
 621/j.K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.K"
 622/j.K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.K"
 623/j.K/214S~H/214S~H is a follow-up move and cannot be done after j.K
-624/j.K/632146H/j.Khas11fofblockstun, while632146Hhas13fofstartupf
-625/j.K/236236K/j.Khas11fofblockstun, while236236Khas7fofstartupf
-626/j.K/236236K Explosion/j.Khas11fofblockstun, while236236KExplosionhas113fofstartupf
-627/j.K/236D/j.Khas11fofblockstun, while236Dhas16fofstartupf
-628/j.K/236[D]/j.Khas11fofblockstun, while236 [D]has29fofstartupf
-629/j.S/5P/j.Shas13fofblockstun, while5Phas5fofstartupf
-630/j.S/5K/j.Shas13fofblockstun, while5Khas7fofstartupf
-631/j.S/c.S/j.Shas13fofblockstun, whilec.Shas7fofstartupf
-632/j.S/f.S/j.Shas13fofblockstun, whilef.Shas11fofstartupf
-633/j.S/5H/j.Shas13fofblockstun, while5Hhas14fofstartupf
-634/j.S/5HH/j.Shas13fofblockstun, while5HHhas15fofstartupf
-635/j.S/5D/j.Shas13fofblockstun, while5Dhas20fofstartupf
-636/j.S/5[D]/j.Shas13fofblockstun, while5 [D]has28fofstartupf
-637/j.S/2P/j.Shas13fofblockstun, while2Phas5fofstartupf
-638/j.S/2K/j.Shas13fofblockstun, while2Khas6fofstartupf
-639/j.S/2S/j.Shas13fofblockstun, while2Shas13fofstartupf
-640/j.S/2H/j.Shas13fofblockstun, while2Hhas18fofstartupf
-641/j.S/2D/j.Shas13fofblockstun, while2Dhas12fofstartupf
-642/j.S/6P/j.Shas13fofblockstun, while6Phas9fofstartupf
-643/j.S/6H/j.Shas13fofblockstun, while6Hhas25fofstartupf
-644/j.S/j.P/j.Shas13fofblockstun, whilej.Phas6fofstartupf
-645/j.S/j.K/j.Shas13fofblockstun, whilej.Khas7fofstartupf
-646/j.S/j.S/j.Shas13fofblockstun, whilej.Shas11fofstartupf
+624/j.K/632146H/"N/A"
+625/j.K/236236K/"N/A"
+626/j.K/236236K Explosion/"N/A"
+627/j.K/236D/"N/A"
+628/j.K/236[D]/"N/A"
+629/j.S/5P/"N/A"
+630/j.S/5K/"N/A"
+631/j.S/c.S/"N/A"
+632/j.S/f.S/"N/A"
+633/j.S/5H/"N/A"
+634/j.S/5HH/"N/A"
+635/j.S/5D/"N/A"
+636/j.S/5[D]/"N/A"
+637/j.S/2P/"N/A"
+638/j.S/2K/"N/A"
+639/j.S/2S/"N/A"
+640/j.S/2H/"N/A"
+641/j.S/2D/"N/A"
+642/j.S/6P/"N/A"
+643/j.S/6H/"N/A"
+644/j.S/j.P/"N/A"
+645/j.S/j.K/"N/A"
+646/j.S/j.S/"N/A"
 647/j.S/j.H/0f
 648/j.S/j.D/3f
-649/j.S/236S/j.Shas13fofblockstun, while236Shas16fofstartupf [j.Shas13fofblockstun, while236Shas33fofstartupf]
-650/j.S/j.236S/j.Shas13fofblockstun, whilej.236Shas14fofstartupf [j.Shas13fofblockstun, whilej.236Shas31fofstartupf]
-651/j.S/236H/j.Shas13fofblockstun, while236Hhas16fofstartupf [j.Shas13fofblockstun, while236Hhas39fofstartupf]
-652/j.S/j.236H/j.Shas13fofblockstun, whilej.236Hhas14fofstartupf [j.Shas13fofblockstun, whilej.236Hhas33fofstartupf [j.Shas13fofblockstun, whilej.236Hhas33fofstartupf
-653/j.S/214K/j.Shas13fofblockstun, while214Khas14fofstartupf
-654/j.S/214H/j.Shas13fofblockstun, while214Hhas29fofstartupf
-655/j.S/214S/j.Shas13fofblockstun, while214Shas20fofstartupf
+649/j.S/236S/"N/A"
+650/j.S/j.236S/"N/A"
+651/j.S/236H/"N/A"
+652/j.S/j.236H/"N/A"
+653/j.S/214K/"N/A"
+654/j.S/214H/"N/A"
+655/j.S/214S/"N/A"
 656/j.S/214S~P/214S~P is a follow-up move and cannot be done after j.S
 657/j.S/214S~K/214S~K is a follow-up move and cannot be done after j.S
 658/j.S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.S"
 659/j.S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.S"
 660/j.S/214S~H/214S~H is a follow-up move and cannot be done after j.S
-661/j.S/632146H/j.Shas13fofblockstun, while632146Hhas13fofstartupf
-662/j.S/236236K/j.Shas13fofblockstun, while236236Khas7fofstartupf
-663/j.S/236236K Explosion/j.Shas13fofblockstun, while236236KExplosionhas113fofstartupf
-664/j.S/236D/j.Shas13fofblockstun, while236Dhas16fofstartupf
-665/j.S/236[D]/j.Shas13fofblockstun, while236 [D]has29fofstartupf
-666/j.H/5P/j.Hhas13fofblockstun, while5Phas5fofstartupf
-667/j.H/5K/j.Hhas13fofblockstun, while5Khas7fofstartupf
-668/j.H/c.S/j.Hhas13fofblockstun, whilec.Shas7fofstartupf
-669/j.H/f.S/j.Hhas13fofblockstun, whilef.Shas11fofstartupf
-670/j.H/5H/j.Hhas13fofblockstun, while5Hhas14fofstartupf
-671/j.H/5HH/j.Hhas13fofblockstun, while5HHhas15fofstartupf
-672/j.H/5D/j.Hhas13fofblockstun, while5Dhas20fofstartupf
-673/j.H/5[D]/j.Hhas13fofblockstun, while5 [D]has28fofstartupf
-674/j.H/2P/j.Hhas13fofblockstun, while2Phas5fofstartupf
-675/j.H/2K/j.Hhas13fofblockstun, while2Khas6fofstartupf
-676/j.H/2S/j.Hhas13fofblockstun, while2Shas13fofstartupf
-677/j.H/2H/j.Hhas13fofblockstun, while2Hhas18fofstartupf
-678/j.H/2D/j.Hhas13fofblockstun, while2Dhas12fofstartupf
-679/j.H/6P/j.Hhas13fofblockstun, while6Phas9fofstartupf
-680/j.H/6H/j.Hhas13fofblockstun, while6Hhas25fofstartupf
-681/j.H/j.P/j.Hhas13fofblockstun, whilej.Phas6fofstartupf
-682/j.H/j.K/j.Hhas13fofblockstun, whilej.Khas7fofstartupf
-683/j.H/j.S/j.Hhas13fofblockstun, whilej.Shas11fofstartupf
-684/j.H/j.H/j.Hhas13fofblockstun, whilej.Hhas13fofstartupf
+661/j.S/632146H/"N/A"
+662/j.S/236236K/"N/A"
+663/j.S/236236K Explosion/"N/A"
+664/j.S/236D/"N/A"
+665/j.S/236[D]/"N/A"
+666/j.H/5P/"N/A"
+667/j.H/5K/"N/A"
+668/j.H/c.S/"N/A"
+669/j.H/f.S/"N/A"
+670/j.H/5H/"N/A"
+671/j.H/5HH/"N/A"
+672/j.H/5D/"N/A"
+673/j.H/5[D]/"N/A"
+674/j.H/2P/"N/A"
+675/j.H/2K/"N/A"
+676/j.H/2S/"N/A"
+677/j.H/2H/"N/A"
+678/j.H/2D/"N/A"
+679/j.H/6P/"N/A"
+680/j.H/6H/"N/A"
+681/j.H/j.P/"N/A"
+682/j.H/j.K/"N/A"
+683/j.H/j.S/"N/A"
+684/j.H/j.H/"N/A"
 685/j.H/j.D/3f
-686/j.H/236S/j.Hhas13fofblockstun, while236Shas16fofstartupf [j.Hhas13fofblockstun, while236Shas33fofstartupf]
-687/j.H/j.236S/j.Hhas13fofblockstun, whilej.236Shas14fofstartupf [j.Hhas13fofblockstun, whilej.236Shas31fofstartupf]
-688/j.H/236H/j.Hhas13fofblockstun, while236Hhas16fofstartupf [j.Hhas13fofblockstun, while236Hhas39fofstartupf]
-689/j.H/j.236H/j.Hhas13fofblockstun, whilej.236Hhas14fofstartupf [j.Hhas13fofblockstun, whilej.236Hhas33fofstartupf [j.Hhas13fofblockstun, whilej.236Hhas33fofstartupf
-690/j.H/214K/j.Hhas13fofblockstun, while214Khas14fofstartupf
-691/j.H/214H/j.Hhas13fofblockstun, while214Hhas29fofstartupf
-692/j.H/214S/j.Hhas13fofblockstun, while214Shas20fofstartupf
+686/j.H/236S/"N/A"
+687/j.H/j.236S/"N/A"
+688/j.H/236H/"N/A"
+689/j.H/j.236H/"N/A"
+690/j.H/214K/"N/A"
+691/j.H/214H/"N/A"
+692/j.H/214S/"N/A"
 693/j.H/214S~P/214S~P is a follow-up move and cannot be done after j.H
 694/j.H/214S~K/214S~K is a follow-up move and cannot be done after j.H
 695/j.H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.H"
 696/j.H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.H"
 697/j.H/214S~H/214S~H is a follow-up move and cannot be done after j.H
-698/j.H/632146H/j.Hhas13fofblockstun, while632146Hhas13fofstartupf
-699/j.H/236236K/j.Hhas13fofblockstun, while236236Khas7fofstartupf
-700/j.H/236236K Explosion/j.Hhas13fofblockstun, while236236KExplosionhas113fofstartupf
-701/j.H/236D/j.Hhas13fofblockstun, while236Dhas16fofstartupf
-702/j.H/236[D]/j.Hhas13fofblockstun, while236 [D]has29fofstartupf
-703/j.D/5P/j.Dhas13fofblockstun, while5Phas5fofstartupf
-704/j.D/5K/j.Dhas13fofblockstun, while5Khas7fofstartupf
-705/j.D/c.S/j.Dhas13fofblockstun, whilec.Shas7fofstartupf
-706/j.D/f.S/j.Dhas13fofblockstun, whilef.Shas11fofstartupf
-707/j.D/5H/j.Dhas13fofblockstun, while5Hhas14fofstartupf
-708/j.D/5HH/j.Dhas13fofblockstun, while5HHhas15fofstartupf
-709/j.D/5D/j.Dhas13fofblockstun, while5Dhas20fofstartupf
-710/j.D/5[D]/j.Dhas13fofblockstun, while5 [D]has28fofstartupf
-711/j.D/2P/j.Dhas13fofblockstun, while2Phas5fofstartupf
-712/j.D/2K/j.Dhas13fofblockstun, while2Khas6fofstartupf
-713/j.D/2S/j.Dhas13fofblockstun, while2Shas13fofstartupf
-714/j.D/2H/j.Dhas13fofblockstun, while2Hhas18fofstartupf
-715/j.D/2D/j.Dhas13fofblockstun, while2Dhas12fofstartupf
-716/j.D/6P/j.Dhas13fofblockstun, while6Phas9fofstartupf
-717/j.D/6H/j.Dhas13fofblockstun, while6Hhas25fofstartupf
-718/j.D/j.P/j.Dhas13fofblockstun, whilej.Phas6fofstartupf
-719/j.D/j.K/j.Dhas13fofblockstun, whilej.Khas7fofstartupf
-720/j.D/j.S/j.Dhas13fofblockstun, whilej.Shas11fofstartupf
-721/j.D/j.H/j.Dhas13fofblockstun, whilej.Hhas13fofstartupf
-722/j.D/j.D/j.Dhas13fofblockstun, whilej.Dhas16fofstartupf
-723/j.D/236S/j.Dhas13fofblockstun, while236Shas16fofstartupf [j.Dhas13fofblockstun, while236Shas33fofstartupf]
-724/j.D/j.236S/j.Dhas13fofblockstun, whilej.236Shas14fofstartupf [j.Dhas13fofblockstun, whilej.236Shas31fofstartupf]
-725/j.D/236H/j.Dhas13fofblockstun, while236Hhas16fofstartupf [j.Dhas13fofblockstun, while236Hhas39fofstartupf]
-726/j.D/j.236H/j.Dhas13fofblockstun, whilej.236Hhas14fofstartupf [j.Dhas13fofblockstun, whilej.236Hhas33fofstartupf [j.Dhas13fofblockstun, whilej.236Hhas33fofstartupf
-727/j.D/214K/j.Dhas13fofblockstun, while214Khas14fofstartupf
-728/j.D/214H/j.Dhas13fofblockstun, while214Hhas29fofstartupf
-729/j.D/214S/j.Dhas13fofblockstun, while214Shas20fofstartupf
+698/j.H/632146H/"N/A"
+699/j.H/236236K/"N/A"
+700/j.H/236236K Explosion/"N/A"
+701/j.H/236D/"N/A"
+702/j.H/236[D]/"N/A"
+703/j.D/5P/"N/A"
+704/j.D/5K/"N/A"
+705/j.D/c.S/"N/A"
+706/j.D/f.S/"N/A"
+707/j.D/5H/"N/A"
+708/j.D/5HH/"N/A"
+709/j.D/5D/"N/A"
+710/j.D/5[D]/"N/A"
+711/j.D/2P/"N/A"
+712/j.D/2K/"N/A"
+713/j.D/2S/"N/A"
+714/j.D/2H/"N/A"
+715/j.D/2D/"N/A"
+716/j.D/6P/"N/A"
+717/j.D/6H/"N/A"
+718/j.D/j.P/"N/A"
+719/j.D/j.K/"N/A"
+720/j.D/j.S/"N/A"
+721/j.D/j.H/"N/A"
+722/j.D/j.D/"N/A"
+723/j.D/236S/"N/A"
+724/j.D/j.236S/"N/A"
+725/j.D/236H/"N/A"
+726/j.D/j.236H/"N/A"
+727/j.D/214K/"N/A"
+728/j.D/214H/"N/A"
+729/j.D/214S/"N/A"
 730/j.D/214S~P/214S~P is a follow-up move and cannot be done after j.D
 731/j.D/214S~K/214S~K is a follow-up move and cannot be done after j.D
 732/j.D/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.D"
 733/j.D/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.D"
 734/j.D/214S~H/214S~H is a follow-up move and cannot be done after j.D
-735/j.D/632146H/j.Dhas13fofblockstun, while632146Hhas13fofstartupf
-736/j.D/236236K/j.Dhas13fofblockstun, while236236Khas7fofstartupf
-737/j.D/236236K Explosion/j.Dhas13fofblockstun, while236236KExplosionhas113fofstartupf
-738/j.D/236D/j.Dhas13fofblockstun, while236Dhas16fofstartupf
-739/j.D/236[D]/j.Dhas13fofblockstun, while236 [D]has29fofstartupf
-740/236S/5P/3f
-741/236S/5K/5f
-742/236S/c.S/5f
-743/236S/f.S/9f
-744/236S/5H/12f
-745/236S/5HH/13f
-746/236S/5D/18f
-747/236S/5[D]/26f
-748/236S/2P/3f
-749/236S/2K/4f
-750/236S/2S/11f
-751/236S/2H/16f
-752/236S/2D/10f
-753/236S/6P/7f
-754/236S/6H/23f
-755/236S/j.P/9f
-756/236S/j.K/10f
-757/236S/j.S/14f
-758/236S/j.H/16f
-759/236S/j.D/19f
-760/236S/236S/14f [31f]
-761/236S/j.236S/17f [34f]
-762/236S/236H/14f [37f]
-763/236S/j.236H/17f [36f [36f
-764/236S/214K/12f
-765/236S/214H/27f
-766/236S/214S/18f
+735/j.D/632146H/"N/A"
+736/j.D/236236K/"N/A"
+737/j.D/236236K Explosion/"N/A"
+738/j.D/236D/"N/A"
+739/j.D/236[D]/"N/A"
+740/236S/5P/20f
+741/236S/5K/22f
+742/236S/c.S/22f
+743/236S/f.S/26f
+744/236S/5H/29f
+745/236S/5HH/30f
+746/236S/5D/35f
+747/236S/5[D]/43f
+748/236S/2P/20f
+749/236S/2K/21f
+750/236S/2S/28f
+751/236S/2H/33f
+752/236S/2D/27f
+753/236S/6P/24f
+754/236S/6H/40f
+755/236S/j.P/26f
+756/236S/j.K/27f
+757/236S/j.S/31f
+758/236S/j.H/33f
+759/236S/j.D/36f
+760/236S/236S/31f [48f]
+761/236S/j.236S/34f [51f]
+762/236S/236H/31f [54f]
+763/236S/j.236H/34f [53f [53f
+764/236S/214K/29f
+765/236S/214H/44f
+766/236S/214S/35f
 767/236S/214S~P/214S~P is a follow-up move and cannot be done after 236S
 768/236S/214S~K/214S~K is a follow-up move and cannot be done after 236S
 769/236S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236S"
 770/236S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236S"
 771/236S/214S~H/214S~H is a follow-up move and cannot be done after 236S
-772/236S/632146H/11f
-773/236S/236236K/5f
-774/236S/236236K Explosion/111f
-775/236S/236D/14f
-776/236S/236[D]/27f
-777/j.236S/5P/j.236Shas13fofblockstun, while5Phas5fofstartupf
-778/j.236S/5K/j.236Shas13fofblockstun, while5Khas7fofstartupf
-779/j.236S/c.S/j.236Shas13fofblockstun, whilec.Shas7fofstartupf
-780/j.236S/f.S/j.236Shas13fofblockstun, whilef.Shas11fofstartupf
-781/j.236S/5H/j.236Shas13fofblockstun, while5Hhas14fofstartupf
-782/j.236S/5HH/j.236Shas13fofblockstun, while5HHhas15fofstartupf
-783/j.236S/5D/j.236Shas13fofblockstun, while5Dhas20fofstartupf
-784/j.236S/5[D]/j.236Shas13fofblockstun, while5 [D]has28fofstartupf
-785/j.236S/2P/j.236Shas13fofblockstun, while2Phas5fofstartupf
-786/j.236S/2K/j.236Shas13fofblockstun, while2Khas6fofstartupf
-787/j.236S/2S/j.236Shas13fofblockstun, while2Shas13fofstartupf
-788/j.236S/2H/j.236Shas13fofblockstun, while2Hhas18fofstartupf
-789/j.236S/2D/j.236Shas13fofblockstun, while2Dhas12fofstartupf
-790/j.236S/6P/j.236Shas13fofblockstun, while6Phas9fofstartupf
-791/j.236S/6H/j.236Shas13fofblockstun, while6Hhas25fofstartupf
-792/j.236S/j.P/j.236Shas13fofblockstun, whilej.Phas6fofstartupf
-793/j.236S/j.K/j.236Shas13fofblockstun, whilej.Khas7fofstartupf
-794/j.236S/j.S/j.236Shas13fofblockstun, whilej.Shas11fofstartupf
-795/j.236S/j.H/j.236Shas13fofblockstun, whilej.Hhas13fofstartupf
-796/j.236S/j.D/j.236Shas13fofblockstun, whilej.Dhas16fofstartupf
-797/j.236S/236S/j.236Shas13fofblockstun, while236Shas16fofstartupf [j.236Shas13fofblockstun, while236Shas33fofstartupf]
-798/j.236S/j.236S/j.236Shas13fofblockstun, whilej.236Shas14fofstartupf [j.236Shas13fofblockstun, whilej.236Shas31fofstartupf]
-799/j.236S/236H/j.236Shas13fofblockstun, while236Hhas16fofstartupf [j.236Shas13fofblockstun, while236Hhas39fofstartupf]
-800/j.236S/j.236H/j.236Shas13fofblockstun, whilej.236Hhas14fofstartupf [j.236Shas13fofblockstun, whilej.236Hhas33fofstartupf [j.236Shas13fofblockstun, whilej.236Hhas33fofstartupf
-801/j.236S/214K/j.236Shas13fofblockstun, while214Khas14fofstartupf
-802/j.236S/214H/j.236Shas13fofblockstun, while214Hhas29fofstartupf
-803/j.236S/214S/j.236Shas13fofblockstun, while214Shas20fofstartupf
-804/j.236S/214S~P/214S~P is a follow-up move and cannot be done after j.236S
-805/j.236S/214S~K/214S~K is a follow-up move and cannot be done after j.236S
-806/j.236S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236S"
-807/j.236S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236S"
-808/j.236S/214S~H/214S~H is a follow-up move and cannot be done after j.236S
-809/j.236S/632146H/j.236Shas13fofblockstun, while632146Hhas13fofstartupf
-810/j.236S/236236K/j.236Shas13fofblockstun, while236236Khas7fofstartupf
-811/j.236S/236236K Explosion/j.236Shas13fofblockstun, while236236KExplosionhas113fofstartupf
-812/j.236S/236D/j.236Shas13fofblockstun, while236Dhas16fofstartupf
-813/j.236S/236[D]/j.236Shas13fofblockstun, while236 [D]has29fofstartupf
-814/236H/5P/3f
-815/236H/5K/5f
-816/236H/c.S/5f
-817/236H/f.S/9f
-818/236H/5H/12f
-819/236H/5HH/13f
-820/236H/5D/18f
-821/236H/5[D]/26f
-822/236H/2P/3f
-823/236H/2K/4f
-824/236H/2S/11f
-825/236H/2H/16f
-826/236H/2D/10f
-827/236H/6P/7f
-828/236H/6H/23f
-829/236H/j.P/9f
-830/236H/j.K/10f
-831/236H/j.S/14f
-832/236H/j.H/16f
-833/236H/j.D/19f
-834/236H/236S/14f [31f]
-835/236H/j.236S/17f [34f]
-836/236H/236H/14f [37f]
-837/236H/j.236H/17f [36f [36f
-838/236H/214K/12f
-839/236H/214H/27f
-840/236H/214S/18f
+772/236S/632146H/28f
+773/236S/236236K/22f
+774/236S/236236K Explosion/128f
+775/236S/236D/31f
+776/236S/236[D]/44f
+777/j.236S/5P/
+778/j.236S/5K/
+779/j.236S/c.S/
+780/j.236S/f.S/
+781/j.236S/5H/
+782/j.236S/5HH/
+783/j.236S/5D/
+784/j.236S/5[D]/
+785/j.236S/2P/
+786/j.236S/2K/
+787/j.236S/2S/
+788/j.236S/2H/
+789/j.236S/2D/
+790/j.236S/6P/
+791/j.236S/6H/
+792/j.236S/j.P/
+793/j.236S/j.K/
+794/j.236S/j.S/
+795/j.236S/j.H/
+796/j.236S/j.D/
+797/j.236S/236S/
+798/j.236S/j.236S/
+799/j.236S/236H/
+800/j.236S/j.236H/
+801/j.236S/214K/
+802/j.236S/214H/
+803/j.236S/214S/
+804/j.236S/214S~P/
+805/j.236S/214S~K/
+806/j.236S/"214S~P/K~P"/
+807/j.236S/"214S~P/K~K"/
+808/j.236S/214S~H/
+809/j.236S/632146H/
+810/j.236S/236236K/
+811/j.236S/236236K Explosion/
+812/j.236S/236D/
+813/j.236S/236[D]/
+814/236H/5P/20f
+815/236H/5K/22f
+816/236H/c.S/22f
+817/236H/f.S/26f
+818/236H/5H/29f
+819/236H/5HH/30f
+820/236H/5D/35f
+821/236H/5[D]/43f
+822/236H/2P/20f
+823/236H/2K/21f
+824/236H/2S/28f
+825/236H/2H/33f
+826/236H/2D/27f
+827/236H/6P/24f
+828/236H/6H/40f
+829/236H/j.P/26f
+830/236H/j.K/27f
+831/236H/j.S/31f
+832/236H/j.H/33f
+833/236H/j.D/36f
+834/236H/236S/31f [48f]
+835/236H/j.236S/34f [51f]
+836/236H/236H/31f [54f]
+837/236H/j.236H/34f [53f [53f
+838/236H/214K/29f
+839/236H/214H/44f
+840/236H/214S/35f
 841/236H/214S~P/214S~P is a follow-up move and cannot be done after 236H
 842/236H/214S~K/214S~K is a follow-up move and cannot be done after 236H
 843/236H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236H"
 844/236H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236H"
 845/236H/214S~H/214S~H is a follow-up move and cannot be done after 236H
-846/236H/632146H/11f
-847/236H/236236K/5f
-848/236H/236236K Explosion/111f
-849/236H/236D/14f
-850/236H/236[D]/27f
-851/j.236H/5P/j.236Hhas13fofblockstun, while5Phas5fofstartupf
-852/j.236H/5K/j.236Hhas13fofblockstun, while5Khas7fofstartupf
-853/j.236H/c.S/j.236Hhas13fofblockstun, whilec.Shas7fofstartupf
-854/j.236H/f.S/j.236Hhas13fofblockstun, whilef.Shas11fofstartupf
-855/j.236H/5H/j.236Hhas13fofblockstun, while5Hhas14fofstartupf
-856/j.236H/5HH/j.236Hhas13fofblockstun, while5HHhas15fofstartupf
-857/j.236H/5D/j.236Hhas13fofblockstun, while5Dhas20fofstartupf
-858/j.236H/5[D]/j.236Hhas13fofblockstun, while5 [D]has28fofstartupf
-859/j.236H/2P/j.236Hhas13fofblockstun, while2Phas5fofstartupf
-860/j.236H/2K/j.236Hhas13fofblockstun, while2Khas6fofstartupf
-861/j.236H/2S/j.236Hhas13fofblockstun, while2Shas13fofstartupf
-862/j.236H/2H/j.236Hhas13fofblockstun, while2Hhas18fofstartupf
-863/j.236H/2D/j.236Hhas13fofblockstun, while2Dhas12fofstartupf
-864/j.236H/6P/j.236Hhas13fofblockstun, while6Phas9fofstartupf
-865/j.236H/6H/j.236Hhas13fofblockstun, while6Hhas25fofstartupf
-866/j.236H/j.P/j.236Hhas13fofblockstun, whilej.Phas6fofstartupf
-867/j.236H/j.K/j.236Hhas13fofblockstun, whilej.Khas7fofstartupf
-868/j.236H/j.S/j.236Hhas13fofblockstun, whilej.Shas11fofstartupf
-869/j.236H/j.H/j.236Hhas13fofblockstun, whilej.Hhas13fofstartupf
-870/j.236H/j.D/j.236Hhas13fofblockstun, whilej.Dhas16fofstartupf
-871/j.236H/236S/j.236Hhas13fofblockstun, while236Shas16fofstartupf [j.236Hhas13fofblockstun, while236Shas33fofstartupf]
-872/j.236H/j.236S/j.236Hhas13fofblockstun, whilej.236Shas14fofstartupf [j.236Hhas13fofblockstun, whilej.236Shas31fofstartupf]
-873/j.236H/236H/j.236Hhas13fofblockstun, while236Hhas16fofstartupf [j.236Hhas13fofblockstun, while236Hhas39fofstartupf]
-874/j.236H/j.236H/j.236Hhas13fofblockstun, whilej.236Hhas14fofstartupf [j.236Hhas13fofblockstun, whilej.236Hhas33fofstartupf [j.236Hhas13fofblockstun, whilej.236Hhas33fofstartupf
-875/j.236H/214K/j.236Hhas13fofblockstun, while214Khas14fofstartupf
-876/j.236H/214H/j.236Hhas13fofblockstun, while214Hhas29fofstartupf
-877/j.236H/214S/j.236Hhas13fofblockstun, while214Shas20fofstartupf
-878/j.236H/214S~P/214S~P is a follow-up move and cannot be done after j.236H
-879/j.236H/214S~K/214S~K is a follow-up move and cannot be done after j.236H
-880/j.236H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236H"
-881/j.236H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236H"
-882/j.236H/214S~H/214S~H is a follow-up move and cannot be done after j.236H
-883/j.236H/632146H/j.236Hhas13fofblockstun, while632146Hhas13fofstartupf
-884/j.236H/236236K/j.236Hhas13fofblockstun, while236236Khas7fofstartupf
-885/j.236H/236236K Explosion/j.236Hhas13fofblockstun, while236236KExplosionhas113fofstartupf
-886/j.236H/236D/j.236Hhas13fofblockstun, while236Dhas16fofstartupf
-887/j.236H/236[D]/j.236Hhas13fofblockstun, while236 [D]has29fofstartupf
-888/214K/5P/3f
-889/214K/5K/5f
-890/214K/c.S/5f
-891/214K/f.S/9f
-892/214K/5H/12f
-893/214K/5HH/13f
-894/214K/5D/18f
-895/214K/5[D]/26f
-896/214K/2P/3f
-897/214K/2K/4f
-898/214K/2S/11f
-899/214K/2H/16f
-900/214K/2D/10f
-901/214K/6P/7f
-902/214K/6H/23f
-903/214K/j.P/9f
-904/214K/j.K/10f
-905/214K/j.S/14f
-906/214K/j.H/16f
-907/214K/j.D/19f
-908/214K/236S/14f [31f]
-909/214K/j.236S/17f [34f]
-910/214K/236H/14f [37f]
-911/214K/j.236H/17f [36f [36f
-912/214K/214K/12f
-913/214K/214H/27f
-914/214K/214S/18f
+846/236H/632146H/28f
+847/236H/236236K/22f
+848/236H/236236K Explosion/128f
+849/236H/236D/31f
+850/236H/236[D]/44f
+851/j.236H/5P/
+852/j.236H/5K/
+853/j.236H/c.S/
+854/j.236H/f.S/
+855/j.236H/5H/
+856/j.236H/5HH/
+857/j.236H/5D/
+858/j.236H/5[D]/
+859/j.236H/2P/
+860/j.236H/2K/
+861/j.236H/2S/
+862/j.236H/2H/
+863/j.236H/2D/
+864/j.236H/6P/
+865/j.236H/6H/
+866/j.236H/j.P/
+867/j.236H/j.K/
+868/j.236H/j.S/
+869/j.236H/j.H/
+870/j.236H/j.D/
+871/j.236H/236S/
+872/j.236H/j.236S/
+873/j.236H/236H/
+874/j.236H/j.236H/
+875/j.236H/214K/
+876/j.236H/214H/
+877/j.236H/214S/
+878/j.236H/214S~P/
+879/j.236H/214S~K/
+880/j.236H/"214S~P/K~P"/
+881/j.236H/"214S~P/K~K"/
+882/j.236H/214S~H/
+883/j.236H/632146H/
+884/j.236H/236236K/
+885/j.236H/236236K Explosion/
+886/j.236H/236D/
+887/j.236H/236[D]/
+888/214K/5P/13f
+889/214K/5K/15f
+890/214K/c.S/15f
+891/214K/f.S/19f
+892/214K/5H/22f
+893/214K/5HH/23f
+894/214K/5D/28f
+895/214K/5[D]/36f
+896/214K/2P/13f
+897/214K/2K/14f
+898/214K/2S/21f
+899/214K/2H/26f
+900/214K/2D/20f
+901/214K/6P/17f
+902/214K/6H/33f
+903/214K/j.P/19f
+904/214K/j.K/20f
+905/214K/j.S/24f
+906/214K/j.H/26f
+907/214K/j.D/29f
+908/214K/236S/24f [41f]
+909/214K/j.236S/27f [44f]
+910/214K/236H/24f [47f]
+911/214K/j.236H/27f [46f [46f
+912/214K/214K/22f
+913/214K/214H/37f
+914/214K/214S/28f
 915/214K/214S~P/214S~P is a follow-up move and cannot be done after 214K
 916/214K/214S~K/214S~K is a follow-up move and cannot be done after 214K
 917/214K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214K"
 918/214K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214K"
 919/214K/214S~H/214S~H is a follow-up move and cannot be done after 214K
-920/214K/632146H/11f
-921/214K/236236K/5f
-922/214K/236236K Explosion/111f
-923/214K/236D/14f
-924/214K/236[D]/27f
-925/214H/5P/2f
-926/214H/5K/4f
-927/214H/c.S/4f
-928/214H/f.S/8f
-929/214H/5H/11f
-930/214H/5HH/12f
-931/214H/5D/17f
-932/214H/5[D]/25f
-933/214H/2P/2f
-934/214H/2K/3f
-935/214H/2S/10f
-936/214H/2H/15f
-937/214H/2D/9f
-938/214H/6P/6f
-939/214H/6H/22f
-940/214H/j.P/8f
-941/214H/j.K/9f
-942/214H/j.S/13f
-943/214H/j.H/15f
-944/214H/j.D/18f
-945/214H/236S/13f [30f]
-946/214H/j.236S/16f [33f]
-947/214H/236H/13f [36f]
-948/214H/j.236H/16f [35f [35f
-949/214H/214K/11f
-950/214H/214H/26f
-951/214H/214S/17f
+920/214K/632146H/21f
+921/214K/236236K/15f
+922/214K/236236K Explosion/121f
+923/214K/236D/24f
+924/214K/236[D]/37f
+925/214H/5P/"N/A"
+926/214H/5K/"N/A"
+927/214H/c.S/"N/A"
+928/214H/f.S/"N/A"
+929/214H/5H/"N/A"
+930/214H/5HH/"N/A"
+931/214H/5D/"N/A"
+932/214H/5[D]/"N/A"
+933/214H/2P/"N/A"
+934/214H/2K/"N/A"
+935/214H/2S/"N/A"
+936/214H/2H/"N/A"
+937/214H/2D/"N/A"
+938/214H/6P/"N/A"
+939/214H/6H/"N/A"
+940/214H/j.P/"N/A"
+941/214H/j.K/"N/A"
+942/214H/j.S/"N/A"
+943/214H/j.H/"N/A"
+944/214H/j.D/"N/A"
+945/214H/236S/"N/A"
+946/214H/j.236S/"N/A"
+947/214H/236H/"N/A"
+948/214H/j.236H/"N/A"
+949/214H/214K/"N/A"
+950/214H/214H/"N/A"
+951/214H/214S/"N/A"
 952/214H/214S~P/214S~P is a follow-up move and cannot be done after 214H
 953/214H/214S~K/214S~K is a follow-up move and cannot be done after 214H
 954/214H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214H"
 955/214H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214H"
 956/214H/214S~H/214S~H is a follow-up move and cannot be done after 214H
-957/214H/632146H/10f
-958/214H/236236K/4f
-959/214H/236236K Explosion/110f
-960/214H/236D/13f
-961/214H/236[D]/26f
-962/214S/5P/2f
-963/214S/5K/4f
-964/214S/c.S/4f
-965/214S/f.S/8f
-966/214S/5H/11f
-967/214S/5HH/12f
-968/214S/5D/17f
-969/214S/5[D]/25f
-970/214S/2P/2f
-971/214S/2K/3f
-972/214S/2S/10f
-973/214S/2H/15f
-974/214S/2D/9f
-975/214S/6P/6f
-976/214S/6H/22f
-977/214S/j.P/8f
-978/214S/j.K/9f
-979/214S/j.S/13f
-980/214S/j.H/15f
-981/214S/j.D/18f
-982/214S/236S/13f [30f]
-983/214S/j.236S/16f [33f]
-984/214S/236H/13f [36f]
-985/214S/j.236H/16f [35f [35f
-986/214S/214K/11f
-987/214S/214H/26f
+957/214H/632146H/"N/A"
+958/214H/236236K/"N/A"
+959/214H/236236K Explosion/"N/A"
+960/214H/236D/"N/A"
+961/214H/236[D]/"N/A"
+962/214S/5P/7f
+963/214S/5K/9f
+964/214S/c.S/9f
+965/214S/f.S/13f
+966/214S/5H/16f
+967/214S/5HH/17f
+968/214S/5D/22f
+969/214S/5[D]/30f
+970/214S/2P/7f
+971/214S/2K/8f
+972/214S/2S/15f
+973/214S/2H/20f
+974/214S/2D/14f
+975/214S/6P/11f
+976/214S/6H/27f
+977/214S/j.P/13f
+978/214S/j.K/14f
+979/214S/j.S/18f
+980/214S/j.H/20f
+981/214S/j.D/23f
+982/214S/236S/18f [35f]
+983/214S/j.236S/21f [38f]
+984/214S/236H/18f [41f]
+985/214S/j.236H/21f [40f [40f
+986/214S/214K/16f
+987/214S/214H/31f
 988/214S/214S/6f
 989/214S/214S~P/0f
 990/214S/214S~K/0f
 991/214S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S"
 992/214S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S"
 993/214S/214S~H/-1f
-994/214S/632146H/10f
-995/214S/236236K/4f
-996/214S/236236K Explosion/110f
-997/214S/236D/13f
-998/214S/236[D]/26f
-999/214S~P/5P/2f
-1000/214S~P/5K/4f
-1001/214S~P/c.S/4f
-1002/214S~P/f.S/8f
-1003/214S~P/5H/11f
-1004/214S~P/5HH/12f
-1005/214S~P/5D/17f
-1006/214S~P/5[D]/25f
-1007/214S~P/2P/2f
-1008/214S~P/2K/3f
-1009/214S~P/2S/10f
-1010/214S~P/2H/15f
-1011/214S~P/2D/9f
-1012/214S~P/6P/6f
-1013/214S~P/6H/22f
-1014/214S~P/j.P/8f
-1015/214S~P/j.K/9f
-1016/214S~P/j.S/13f
-1017/214S~P/j.H/15f
-1018/214S~P/j.D/18f
-1019/214S~P/236S/13f [30f]
-1020/214S~P/j.236S/16f [33f]
-1021/214S~P/236H/13f [36f]
-1022/214S~P/j.236H/16f [35f [35f
-1023/214S~P/214K/11f
-1024/214S~P/214H/26f
+994/214S/632146H/15f
+995/214S/236236K/9f
+996/214S/236236K Explosion/115f
+997/214S/236D/18f
+998/214S/236[D]/31f
+999/214S~P/5P/15f
+1000/214S~P/5K/17f
+1001/214S~P/c.S/17f
+1002/214S~P/f.S/21f
+1003/214S~P/5H/24f
+1004/214S~P/5HH/25f
+1005/214S~P/5D/30f
+1006/214S~P/5[D]/38f
+1007/214S~P/2P/15f
+1008/214S~P/2K/16f
+1009/214S~P/2S/23f
+1010/214S~P/2H/28f
+1011/214S~P/2D/22f
+1012/214S~P/6P/19f
+1013/214S~P/6H/35f
+1014/214S~P/j.P/21f
+1015/214S~P/j.K/22f
+1016/214S~P/j.S/26f
+1017/214S~P/j.H/28f
+1018/214S~P/j.D/31f
+1019/214S~P/236S/26f [43f]
+1020/214S~P/j.236S/29f [46f]
+1021/214S~P/236H/26f [49f]
+1022/214S~P/j.236H/29f [48f [48f
+1023/214S~P/214K/24f
+1024/214S~P/214H/39f
 1025/214S~P/214S/6f
 1026/214S~P/214S~P/214S~P is a follow-up move and cannot be done after 214S~P
 1027/214S~P/214S~K/214S~K is a follow-up move and cannot be done after 214S~P
 1028/214S~P/"214S~P/K~P"/0f
 1029/214S~P/"214S~P/K~K"/0f
 1030/214S~P/214S~H/-1f
-1031/214S~P/632146H/10f
-1032/214S~P/236236K/4f
-1033/214S~P/236236K Explosion/110f
-1034/214S~P/236D/13f
-1035/214S~P/236[D]/26f
-1036/214S~K/5P/2f
-1037/214S~K/5K/4f
-1038/214S~K/c.S/4f
-1039/214S~K/f.S/8f
-1040/214S~K/5H/11f
-1041/214S~K/5HH/12f
-1042/214S~K/5D/17f
-1043/214S~K/5[D]/25f
-1044/214S~K/2P/2f
-1045/214S~K/2K/3f
-1046/214S~K/2S/10f
-1047/214S~K/2H/15f
-1048/214S~K/2D/9f
-1049/214S~K/6P/6f
-1050/214S~K/6H/22f
-1051/214S~K/j.P/8f
-1052/214S~K/j.K/9f
-1053/214S~K/j.S/13f
-1054/214S~K/j.H/15f
-1055/214S~K/j.D/18f
-1056/214S~K/236S/13f [30f]
-1057/214S~K/j.236S/16f [33f]
-1058/214S~K/236H/13f [36f]
-1059/214S~K/j.236H/16f [35f [35f
-1060/214S~K/214K/11f
-1061/214S~K/214H/26f
+1031/214S~P/632146H/23f
+1032/214S~P/236236K/17f
+1033/214S~P/236236K Explosion/123f
+1034/214S~P/236D/26f
+1035/214S~P/236[D]/39f
+1036/214S~K/5P/15f
+1037/214S~K/5K/17f
+1038/214S~K/c.S/17f
+1039/214S~K/f.S/21f
+1040/214S~K/5H/24f
+1041/214S~K/5HH/25f
+1042/214S~K/5D/30f
+1043/214S~K/5[D]/38f
+1044/214S~K/2P/15f
+1045/214S~K/2K/16f
+1046/214S~K/2S/23f
+1047/214S~K/2H/28f
+1048/214S~K/2D/22f
+1049/214S~K/6P/19f
+1050/214S~K/6H/35f
+1051/214S~K/j.P/21f
+1052/214S~K/j.K/22f
+1053/214S~K/j.S/26f
+1054/214S~K/j.H/28f
+1055/214S~K/j.D/31f
+1056/214S~K/236S/26f [43f]
+1057/214S~K/j.236S/29f [46f]
+1058/214S~K/236H/26f [49f]
+1059/214S~K/j.236H/29f [48f [48f
+1060/214S~K/214K/24f
+1061/214S~K/214H/39f
 1062/214S~K/214S/6f
 1063/214S~K/214S~P/214S~P is a follow-up move and cannot be done after 214S~K
 1064/214S~K/214S~K/214S~K is a follow-up move and cannot be done after 214S~K
 1065/214S~K/"214S~P/K~P"/0f
 1066/214S~K/"214S~P/K~K"/0f
 1067/214S~K/214S~H/-1f
-1068/214S~K/632146H/10f
-1069/214S~K/236236K/4f
-1070/214S~K/236236K Explosion/110f
-1071/214S~K/236D/13f
-1072/214S~K/236[D]/26f
-1073/"214S~P/K~P"/5P/2f
-1074/"214S~P/K~P"/5K/4f
-1075/"214S~P/K~P"/c.S/4f
-1076/"214S~P/K~P"/f.S/8f
-1077/"214S~P/K~P"/5H/11f
-1078/"214S~P/K~P"/5HH/12f
-1079/"214S~P/K~P"/5D/17f
-1080/"214S~P/K~P"/5[D]/25f
-1081/"214S~P/K~P"/2P/2f
-1082/"214S~P/K~P"/2K/3f
-1083/"214S~P/K~P"/2S/10f
-1084/"214S~P/K~P"/2H/15f
-1085/"214S~P/K~P"/2D/9f
-1086/"214S~P/K~P"/6P/6f
-1087/"214S~P/K~P"/6H/22f
-1088/"214S~P/K~P"/j.P/8f
-1089/"214S~P/K~P"/j.K/9f
-1090/"214S~P/K~P"/j.S/13f
-1091/"214S~P/K~P"/j.H/15f
-1092/"214S~P/K~P"/j.D/18f
-1093/"214S~P/K~P"/236S/13f [30f]
-1094/"214S~P/K~P"/j.236S/16f [33f]
-1095/"214S~P/K~P"/236H/13f [36f]
-1096/"214S~P/K~P"/j.236H/16f [35f [35f
-1097/"214S~P/K~P"/214K/11f
-1098/"214S~P/K~P"/214H/26f
-1099/"214S~P/K~P"/214S/17f
+1068/214S~K/632146H/23f
+1069/214S~K/236236K/17f
+1070/214S~K/236236K Explosion/123f
+1071/214S~K/236D/26f
+1072/214S~K/236[D]/39f
+1073/"214S~P/K~P"/5P/23f
+1074/"214S~P/K~P"/5K/25f
+1075/"214S~P/K~P"/c.S/25f
+1076/"214S~P/K~P"/f.S/29f
+1077/"214S~P/K~P"/5H/32f
+1078/"214S~P/K~P"/5HH/33f
+1079/"214S~P/K~P"/5D/38f
+1080/"214S~P/K~P"/5[D]/46f
+1081/"214S~P/K~P"/2P/23f
+1082/"214S~P/K~P"/2K/24f
+1083/"214S~P/K~P"/2S/31f
+1084/"214S~P/K~P"/2H/36f
+1085/"214S~P/K~P"/2D/30f
+1086/"214S~P/K~P"/6P/27f
+1087/"214S~P/K~P"/6H/43f
+1088/"214S~P/K~P"/j.P/29f
+1089/"214S~P/K~P"/j.K/30f
+1090/"214S~P/K~P"/j.S/34f
+1091/"214S~P/K~P"/j.H/36f
+1092/"214S~P/K~P"/j.D/39f
+1093/"214S~P/K~P"/236S/34f [51f]
+1094/"214S~P/K~P"/j.236S/37f [54f]
+1095/"214S~P/K~P"/236H/34f [57f]
+1096/"214S~P/K~P"/j.236H/37f [56f [56f
+1097/"214S~P/K~P"/214K/32f
+1098/"214S~P/K~P"/214H/47f
+1099/"214S~P/K~P"/214S/38f
 1100/"214S~P/K~P"/214S~P/"214S~P is a follow-up move and cannot be done after 214S~P/K~P"
 1101/"214S~P/K~P"/214S~K/"214S~K is a follow-up move and cannot be done after 214S~P/K~P"
 1102/"214S~P/K~P"/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~P/K~P"
 1103/"214S~P/K~P"/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~P/K~P"
 1104/"214S~P/K~P"/214S~H/"214S~H is a follow-up move and cannot be done after 214S~P/K~P"
-1105/"214S~P/K~P"/632146H/10f
-1106/"214S~P/K~P"/236236K/4f
-1107/"214S~P/K~P"/236236K Explosion/110f
-1108/"214S~P/K~P"/236D/13f
-1109/"214S~P/K~P"/236[D]/26f
-1110/"214S~P/K~K"/5P/2f
-1111/"214S~P/K~K"/5K/4f
-1112/"214S~P/K~K"/c.S/4f
-1113/"214S~P/K~K"/f.S/8f
-1114/"214S~P/K~K"/5H/11f
-1115/"214S~P/K~K"/5HH/12f
-1116/"214S~P/K~K"/5D/17f
-1117/"214S~P/K~K"/5[D]/25f
-1118/"214S~P/K~K"/2P/2f
-1119/"214S~P/K~K"/2K/3f
-1120/"214S~P/K~K"/2S/10f
-1121/"214S~P/K~K"/2H/15f
-1122/"214S~P/K~K"/2D/9f
-1123/"214S~P/K~K"/6P/6f
-1124/"214S~P/K~K"/6H/22f
-1125/"214S~P/K~K"/j.P/8f
-1126/"214S~P/K~K"/j.K/9f
-1127/"214S~P/K~K"/j.S/13f
-1128/"214S~P/K~K"/j.H/15f
-1129/"214S~P/K~K"/j.D/18f
-1130/"214S~P/K~K"/236S/13f [30f]
-1131/"214S~P/K~K"/j.236S/16f [33f]
-1132/"214S~P/K~K"/236H/13f [36f]
-1133/"214S~P/K~K"/j.236H/16f [35f [35f
-1134/"214S~P/K~K"/214K/11f
-1135/"214S~P/K~K"/214H/26f
-1136/"214S~P/K~K"/214S/17f
+1105/"214S~P/K~P"/632146H/31f
+1106/"214S~P/K~P"/236236K/25f
+1107/"214S~P/K~P"/236236K Explosion/131f
+1108/"214S~P/K~P"/236D/34f
+1109/"214S~P/K~P"/236[D]/47f
+1110/"214S~P/K~K"/5P/21f
+1111/"214S~P/K~K"/5K/23f
+1112/"214S~P/K~K"/c.S/23f
+1113/"214S~P/K~K"/f.S/27f
+1114/"214S~P/K~K"/5H/30f
+1115/"214S~P/K~K"/5HH/31f
+1116/"214S~P/K~K"/5D/36f
+1117/"214S~P/K~K"/5[D]/44f
+1118/"214S~P/K~K"/2P/21f
+1119/"214S~P/K~K"/2K/22f
+1120/"214S~P/K~K"/2S/29f
+1121/"214S~P/K~K"/2H/34f
+1122/"214S~P/K~K"/2D/28f
+1123/"214S~P/K~K"/6P/25f
+1124/"214S~P/K~K"/6H/41f
+1125/"214S~P/K~K"/j.P/27f
+1126/"214S~P/K~K"/j.K/28f
+1127/"214S~P/K~K"/j.S/32f
+1128/"214S~P/K~K"/j.H/34f
+1129/"214S~P/K~K"/j.D/37f
+1130/"214S~P/K~K"/236S/32f [49f]
+1131/"214S~P/K~K"/j.236S/35f [52f]
+1132/"214S~P/K~K"/236H/32f [55f]
+1133/"214S~P/K~K"/j.236H/35f [54f [54f
+1134/"214S~P/K~K"/214K/30f
+1135/"214S~P/K~K"/214H/45f
+1136/"214S~P/K~K"/214S/36f
 1137/"214S~P/K~K"/214S~P/"214S~P is a follow-up move and cannot be done after 214S~P/K~K"
 1138/"214S~P/K~K"/214S~K/"214S~K is a follow-up move and cannot be done after 214S~P/K~K"
 1139/"214S~P/K~K"/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~P/K~K"
 1140/"214S~P/K~K"/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~P/K~K"
 1141/"214S~P/K~K"/214S~H/"214S~H is a follow-up move and cannot be done after 214S~P/K~K"
-1142/"214S~P/K~K"/632146H/10f
-1143/"214S~P/K~K"/236236K/4f
-1144/"214S~P/K~K"/236236K Explosion/110f
-1145/"214S~P/K~K"/236D/13f
-1146/"214S~P/K~K"/236[D]/26f
-1147/214S~H/5P/1f
-1148/214S~H/5K/3f
-1149/214S~H/c.S/3f
-1150/214S~H/f.S/7f
-1151/214S~H/5H/10f
-1152/214S~H/5HH/11f
-1153/214S~H/5D/16f
-1154/214S~H/5[D]/24f
-1155/214S~H/2P/1f
-1156/214S~H/2K/2f
-1157/214S~H/2S/9f
-1158/214S~H/2H/14f
-1159/214S~H/2D/8f
-1160/214S~H/6P/5f
-1161/214S~H/6H/21f
-1162/214S~H/j.P/7f
-1163/214S~H/j.K/8f
-1164/214S~H/j.S/12f
-1165/214S~H/j.H/14f
-1166/214S~H/j.D/17f
-1167/214S~H/236S/12f [29f]
-1168/214S~H/j.236S/15f [32f]
-1169/214S~H/236H/12f [35f]
-1170/214S~H/j.236H/15f [34f [34f
-1171/214S~H/214K/10f
-1172/214S~H/214H/25f
-1173/214S~H/214S/16f
+1142/"214S~P/K~K"/632146H/29f
+1143/"214S~P/K~K"/236236K/23f
+1144/"214S~P/K~K"/236236K Explosion/129f
+1145/"214S~P/K~K"/236D/32f
+1146/"214S~P/K~K"/236[D]/45f
+1147/214S~H/5P/10f
+1148/214S~H/5K/12f
+1149/214S~H/c.S/12f
+1150/214S~H/f.S/16f
+1151/214S~H/5H/19f
+1152/214S~H/5HH/20f
+1153/214S~H/5D/25f
+1154/214S~H/5[D]/33f
+1155/214S~H/2P/10f
+1156/214S~H/2K/11f
+1157/214S~H/2S/18f
+1158/214S~H/2H/23f
+1159/214S~H/2D/17f
+1160/214S~H/6P/14f
+1161/214S~H/6H/30f
+1162/214S~H/j.P/16f
+1163/214S~H/j.K/17f
+1164/214S~H/j.S/21f
+1165/214S~H/j.H/23f
+1166/214S~H/j.D/26f
+1167/214S~H/236S/21f [38f]
+1168/214S~H/j.236S/24f [41f]
+1169/214S~H/236H/21f [44f]
+1170/214S~H/j.236H/24f [43f [43f
+1171/214S~H/214K/19f
+1172/214S~H/214H/34f
+1173/214S~H/214S/25f
 1174/214S~H/214S~P/214S~P is a follow-up move and cannot be done after 214S~H
 1175/214S~H/214S~K/214S~K is a follow-up move and cannot be done after 214S~H
 1176/214S~H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~H"
 1177/214S~H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~H"
 1178/214S~H/214S~H/214S~H is a follow-up move and cannot be done after 214S~H
-1179/214S~H/632146H/9f
-1180/214S~H/236236K/3f
-1181/214S~H/236236K Explosion/109f
-1182/214S~H/236D/12f
-1183/214S~H/236[D]/25f
-1184/632146H/5P/2f
-1185/632146H/5K/4f
-1186/632146H/c.S/4f
-1187/632146H/f.S/8f
-1188/632146H/5H/11f
-1189/632146H/5HH/12f
-1190/632146H/5D/17f
-1191/632146H/5[D]/25f
-1192/632146H/2P/2f
-1193/632146H/2K/3f
-1194/632146H/2S/10f
-1195/632146H/2H/15f
-1196/632146H/2D/9f
-1197/632146H/6P/6f
-1198/632146H/6H/22f
-1199/632146H/j.P/8f
-1200/632146H/j.K/9f
-1201/632146H/j.S/13f
-1202/632146H/j.H/15f
-1203/632146H/j.D/18f
-1204/632146H/236S/13f [30f]
-1205/632146H/j.236S/16f [33f]
-1206/632146H/236H/13f [36f]
-1207/632146H/j.236H/16f [35f [35f
-1208/632146H/214K/11f
-1209/632146H/214H/26f
-1210/632146H/214S/17f
+1179/214S~H/632146H/18f
+1180/214S~H/236236K/12f
+1181/214S~H/236236K Explosion/118f
+1182/214S~H/236D/21f
+1183/214S~H/236[D]/34f
+1184/632146H/5P/44f
+1185/632146H/5K/46f
+1186/632146H/c.S/46f
+1187/632146H/f.S/50f
+1188/632146H/5H/53f
+1189/632146H/5HH/54f
+1190/632146H/5D/59f
+1191/632146H/5[D]/67f
+1192/632146H/2P/44f
+1193/632146H/2K/45f
+1194/632146H/2S/52f
+1195/632146H/2H/57f
+1196/632146H/2D/51f
+1197/632146H/6P/48f
+1198/632146H/6H/64f
+1199/632146H/j.P/50f
+1200/632146H/j.K/51f
+1201/632146H/j.S/55f
+1202/632146H/j.H/57f
+1203/632146H/j.D/60f
+1204/632146H/236S/55f [72f]
+1205/632146H/j.236S/58f [75f]
+1206/632146H/236H/55f [78f]
+1207/632146H/j.236H/58f [77f [77f
+1208/632146H/214K/53f
+1209/632146H/214H/68f
+1210/632146H/214S/59f
 1211/632146H/214S~P/214S~P is a follow-up move and cannot be done after 632146H
 1212/632146H/214S~K/214S~K is a follow-up move and cannot be done after 632146H
 1213/632146H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 632146H"
 1214/632146H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 632146H"
 1215/632146H/214S~H/214S~H is a follow-up move and cannot be done after 632146H
-1216/632146H/632146H/10f
-1217/632146H/236236K/4f
-1218/632146H/236236K Explosion/110f
-1219/632146H/236D/13f
-1220/632146H/236[D]/26f
-1221/236236K/5P/1f
-1222/236236K/5K/3f
-1223/236236K/c.S/3f
-1224/236236K/f.S/7f
-1225/236236K/5H/10f
-1226/236236K/5HH/11f
-1227/236236K/5D/16f
-1228/236236K/5[D]/24f
-1229/236236K/2P/1f
-1230/236236K/2K/2f
-1231/236236K/2S/9f
-1232/236236K/2H/14f
-1233/236236K/2D/8f
-1234/236236K/6P/5f
-1235/236236K/6H/21f
-1236/236236K/j.P/7f
-1237/236236K/j.K/8f
-1238/236236K/j.S/12f
-1239/236236K/j.H/14f
-1240/236236K/j.D/17f
-1241/236236K/236S/12f [29f]
-1242/236236K/j.236S/15f [32f]
-1243/236236K/236H/12f [35f]
-1244/236236K/j.236H/15f [34f [34f
-1245/236236K/214K/10f
-1246/236236K/214H/25f
-1247/236236K/214S/16f
-1248/236236K/214S~P/214S~P is a follow-up move and cannot be done after 236236K
-1249/236236K/214S~K/214S~K is a follow-up move and cannot be done after 236236K
-1250/236236K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236236K"
-1251/236236K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236236K"
-1252/236236K/214S~H/214S~H is a follow-up move and cannot be done after 236236K
-1253/236236K/632146H/9f
-1254/236236K/236236K/3f
-1255/236236K/236236K Explosion/109f
-1256/236236K/236D/12f
-1257/236236K/236[D]/25f
-1258/236236K Explosion/5P/1f
-1259/236236K Explosion/5K/3f
-1260/236236K Explosion/c.S/3f
-1261/236236K Explosion/f.S/7f
-1262/236236K Explosion/5H/10f
-1263/236236K Explosion/5HH/11f
-1264/236236K Explosion/5D/16f
-1265/236236K Explosion/5[D]/24f
-1266/236236K Explosion/2P/1f
-1267/236236K Explosion/2K/2f
-1268/236236K Explosion/2S/9f
-1269/236236K Explosion/2H/14f
-1270/236236K Explosion/2D/8f
-1271/236236K Explosion/6P/5f
-1272/236236K Explosion/6H/21f
-1273/236236K Explosion/j.P/7f
-1274/236236K Explosion/j.K/8f
-1275/236236K Explosion/j.S/12f
-1276/236236K Explosion/j.H/14f
-1277/236236K Explosion/j.D/17f
-1278/236236K Explosion/236S/12f [29f]
-1279/236236K Explosion/j.236S/15f [32f]
-1280/236236K Explosion/236H/12f [35f]
-1281/236236K Explosion/j.236H/15f [34f [34f
-1282/236236K Explosion/214K/10f
-1283/236236K Explosion/214H/25f
-1284/236236K Explosion/214S/16f
-1285/236236K Explosion/214S~P/214S~P is a follow-up move and cannot be done after 236236K Explosion
-1286/236236K Explosion/214S~K/214S~K is a follow-up move and cannot be done after 236236K Explosion
-1287/236236K Explosion/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236236K Explosion"
-1288/236236K Explosion/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236236K Explosion"
-1289/236236K Explosion/214S~H/214S~H is a follow-up move and cannot be done after 236236K Explosion
-1290/236236K Explosion/632146H/9f
-1291/236236K Explosion/236236K/3f
-1292/236236K Explosion/236236K Explosion/109f
-1293/236236K Explosion/236D/12f
-1294/236236K Explosion/236[D]/25f
+1216/632146H/632146H/52f
+1217/632146H/236236K/46f
+1218/632146H/236236K Explosion/152f
+1219/632146H/236D/55f
+1220/632146H/236[D]/68f
+1221/236236K/5P/
+1222/236236K/5K/
+1223/236236K/c.S/
+1224/236236K/f.S/
+1225/236236K/5H/
+1226/236236K/5HH/
+1227/236236K/5D/
+1228/236236K/5[D]/
+1229/236236K/2P/
+1230/236236K/2K/
+1231/236236K/2S/
+1232/236236K/2H/
+1233/236236K/2D/
+1234/236236K/6P/
+1235/236236K/6H/
+1236/236236K/j.P/
+1237/236236K/j.K/
+1238/236236K/j.S/
+1239/236236K/j.H/
+1240/236236K/j.D/
+1241/236236K/236S/
+1242/236236K/j.236S/
+1243/236236K/236H/
+1244/236236K/j.236H/
+1245/236236K/214K/
+1246/236236K/214H/
+1247/236236K/214S/
+1248/236236K/214S~P/
+1249/236236K/214S~K/
+1250/236236K/"214S~P/K~P"/
+1251/236236K/"214S~P/K~K"/
+1252/236236K/214S~H/
+1253/236236K/632146H/
+1254/236236K/236236K/
+1255/236236K/236236K Explosion/
+1256/236236K/236D/
+1257/236236K/236[D]/
+1258/236236K Explosion/5P/
+1259/236236K Explosion/5K/
+1260/236236K Explosion/c.S/
+1261/236236K Explosion/f.S/
+1262/236236K Explosion/5H/
+1263/236236K Explosion/5HH/
+1264/236236K Explosion/5D/
+1265/236236K Explosion/5[D]/
+1266/236236K Explosion/2P/
+1267/236236K Explosion/2K/
+1268/236236K Explosion/2S/
+1269/236236K Explosion/2H/
+1270/236236K Explosion/2D/
+1271/236236K Explosion/6P/
+1272/236236K Explosion/6H/
+1273/236236K Explosion/j.P/
+1274/236236K Explosion/j.K/
+1275/236236K Explosion/j.S/
+1276/236236K Explosion/j.H/
+1277/236236K Explosion/j.D/
+1278/236236K Explosion/236S/
+1279/236236K Explosion/j.236S/
+1280/236236K Explosion/236H/
+1281/236236K Explosion/j.236H/
+1282/236236K Explosion/214K/
+1283/236236K Explosion/214H/
+1284/236236K Explosion/214S/
+1285/236236K Explosion/214S~P/
+1286/236236K Explosion/214S~K/
+1287/236236K Explosion/"214S~P/K~P"/
+1288/236236K Explosion/"214S~P/K~K"/
+1289/236236K Explosion/214S~H/
+1290/236236K Explosion/632146H/
+1291/236236K Explosion/236236K/
+1292/236236K Explosion/236236K Explosion/
+1293/236236K Explosion/236D/
+1294/236236K Explosion/236[D]/
 1295/236D/5P/-13f
 1296/236D/5K/-11f
 1297/236D/c.S/-11f
